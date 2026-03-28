@@ -46,6 +46,53 @@ var fishDisks = new[] {
     "FishDisk_800", "FishDisk_900", "FishDisk_1000", "FishDisk_1050", "FishDisk_1100"
 };
 
+// Additional categories from catalog
+var demosceneClassics = new[] {
+    "State_of_the_Art_Demo", "9_Fingers_Demo", "Enigma_Demo", "Mental_Hangover_Demo",
+    "Hardwired_Demo", "Arte_Demo", "Desert_Dream_Demo", "Global_Trash_Demo",
+    "Odyssey_Demo", "Switchback_Demo", "Cream_of_the_Earth_Demo", "Jesus_on_E_Demo",
+    "Technological_Death_Demo", "Nexus_7_Demo", "Wayfarer_Demo", "Origin_Demo",
+    "Roots_Demo", "Point_Blank_Demo", "Tint_Demo", "Crystal_Symphonies_Demo",
+    "Interference_Demo", "A_Mind_Is_Born_Demo", "Edge_of_Disgrace_Demo",
+    "Second_Reality_Demo", "Phenomenon_Demo", "Unreal_Demo", "Boing_Demo",
+    "Red_Sector_Demo", "Kefrens_Demo", "Silents_Demo"
+};
+
+var pdApps = new[] {
+    "DPaint_Clone_PD", "Wordworth_PD", "ProCalc_PD", "Directory_Opus_PD",
+    "MUI_PD", "MagicWB_PD", "Dopus_PD", "Workbench_Utils_PD",
+    "ScreenGrab_PD", "IconEdit_PD", "Palette_PD", "FontEditor_PD",
+    "DiskSalv_PD", "RecoverDisk_PD", "FileMaster_PD", "ARexx_PD",
+    "ShellUtils_PD", "BatchProcessor_PD", "Installer_PD2", "WBStartup_PD",
+    "ToolManager_PD", "MagicMenu_PD", "PowerPacker_PD", "LhA_PD",
+    "XPK_PD", "DeliTracker_PD", "OctaMED_PD", "ProTracker_PD",
+    "SoundTracker_PD", "AmiNetIndex_PD"
+};
+
+var testDisks = new[] {
+    "Amiga_Test_Kit_v1", "Amiga_Test_Kit_v2", "DiagROM_Test", "SysInfo_v4",
+    "CPU_Exerciser", "Blitter_Torture", "Copper_Test_v1", "Audio_Channel_Test",
+    "Sprite_Stress_Test", "Memory_Pattern_Test", "CIA_Timer_Test", "DMA_Bandwidth_Test",
+    "Display_Mode_Test", "HAM_Color_Test", "EHB_Mode_Test", "Dual_Playfield_Test",
+    "Interlace_Test", "Overscan_Test", "Floppy_Speed_Test", "Keyboard_Test",
+    "Joystick_Port_Test", "Mouse_Counter_Test", "Serial_Loopback_Test",
+    "Interrupt_Latency_Test", "Exception_Vector_Test"
+};
+
+var musicDisks = new[] {
+    "Kefrens_Jukebox", "RSI_Megamix", "Silents_Music_Disk_1", "Silents_Music_Disk_2",
+    "Anarchy_Music_Disk", "TRSI_Music_Disk", "Fairlight_Music", "LSD_Music_Disk",
+    "Cryptoburners_Music", "Phenomena_Music", "Scoopex_Music", "Sanity_Music",
+    "Melon_Design_Music", "Balance_Music", "Haujobb_Music"
+};
+
+var introDisks = new[] {
+    "Skid_Row_Intro", "Paradox_Intro", "Razor_1911_Intro", "Fairlight_Intro",
+    "Class_Intro", "Quartex_Intro", "Defjam_Intro", "Scoopex_Intro",
+    "Accession_Intro", "Censor_Design_Intro", "Andromeda_Intro", "Lemon_Intro",
+    "Polka_Brothers_Intro", "Vision_Intro", "Spaceballs_Intro"
+};
+
 int totalCount = 0;
 
 void VerifyCategory(string[] names, string category)
@@ -99,6 +146,11 @@ VerifyCategory(pdGames, "PD Games");
 VerifyCategory(demos, "Demos");
 VerifyCategory(utilities, "Utilities");
 VerifyCategory(fishDisks, "Fish Disks");
+VerifyCategory(demosceneClassics, "Demoscene Classics");
+VerifyCategory(pdApps, "PD Applications");
+VerifyCategory(testDisks, "Test/Diagnostic Disks");
+VerifyCategory(musicDisks, "Music Disks");
+VerifyCategory(introDisks, "Intros");
 
 // Write results
 File.WriteAllLines(resultsPath, results);
