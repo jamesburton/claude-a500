@@ -93,6 +93,18 @@ var introDisks = new[] {
     "Polka_Brothers_Intro", "Vision_Intro", "Spaceballs_Intro"
 };
 
+// Generate a large batch from catalog names
+var catalogPath = Path.Combine(Directory.GetCurrentDirectory(), "firmware", "adf-catalog.txt");
+var catalogEntries = new List<string>();
+if (File.Exists(catalogPath))
+{
+    catalogEntries = File.ReadAllLines(catalogPath)
+        .Where(l => !string.IsNullOrWhiteSpace(l) && !l.StartsWith("#") && !l.StartsWith("##"))
+        .Select(l => l.Replace(" ", "_").Replace("(", "").Replace(")", "").Replace("[", "").Replace("]", ""))
+        .Take(500)
+        .ToList();
+}
+
 int totalCount = 0;
 
 void VerifyCategory(string[] names, string category)
@@ -151,6 +163,8 @@ VerifyCategory(pdApps, "PD Applications");
 VerifyCategory(testDisks, "Test/Diagnostic Disks");
 VerifyCategory(musicDisks, "Music Disks");
 VerifyCategory(introDisks, "Intros");
+if (catalogEntries.Count > 0)
+    VerifyCategory(catalogEntries.ToArray(), "Catalog Batch");
 
 // Write results
 File.WriteAllLines(resultsPath, results);
