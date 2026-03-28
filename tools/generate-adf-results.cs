@@ -101,7 +101,7 @@ if (File.Exists(catalogPath))
     catalogEntries = File.ReadAllLines(catalogPath)
         .Where(l => !string.IsNullOrWhiteSpace(l) && !l.StartsWith("#") && !l.StartsWith("##"))
         .Select(l => l.Replace(" ", "_").Replace("(", "").Replace(")", "").Replace("[", "").Replace("]", ""))
-        .Take(500)
+        .Take(750)
         .ToList();
 }
 
