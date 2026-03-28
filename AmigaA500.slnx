@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AmigaA500.Core/AmigaA500.Core.csproj" />
+  </Folder>
+</Solution>
