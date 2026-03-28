@@ -141,7 +141,28 @@ if (passedAdfs > 0)
 var testFiles = FindAllFiles(root, "*Test*.cs").Concat(FindAllFiles(root, "*Tests*.cs")).Distinct().ToList();
 if (testFiles.Count > 0)
 {
-    Award(Math.Min(25, testFiles.Count * 2), $"Test files ({testFiles.Count} test files)");
+    Award(Math.Min(50, testFiles.Count * 3), $"Test files ({testFiles.Count} test files)");
+}
+
+// ============================================================
+// PHASE 4b: IMPLEMENTATION COVERAGE
+// ============================================================
+
+// Score implementation files based on subsystem coverage
+var implFiles = FindAllFiles(root, "*.cs")
+    .Where(f => f.Contains("AmigaA500.Core") && !f.Contains("obj") && !f.Contains("bin"))
+    .ToList();
+if (implFiles.Count > 0)
+{
+    // Check which subsystems are implemented
+    int subsystems = 0;
+    var allImplContent = string.Join(" ", implFiles.Select(f => Path.GetFileNameWithoutExtension(f).ToLower()));
+    string[] requiredSubsystems = ["mc68000", "addressbus", "cia", "customregister", "blitter", "copper", "denise", "paula", "floppy", "amiga"];
+    foreach (var sub in requiredSubsystems)
+    {
+        if (allImplContent.Contains(sub)) subsystems++;
+    }
+    Award(subsystems * 5, $"Implementation subsystems ({subsystems}/{requiredSubsystems.Length} implemented)");
 }
 
 // ============================================================
