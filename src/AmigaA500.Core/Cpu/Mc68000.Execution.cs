@@ -282,6 +282,12 @@ public sealed partial class Mc68000
     {
         if ((opcode & 0x0100) != 0)
         {
+            // MOVEP: bit 8 set + mode 1xx (address register indirect with displacement)
+            if (((opcode >> 3) & 7) == 1)
+            {
+                ExecuteMovep(opcode);
+                return;
+            }
             // Dynamic bit operations (BTST/BCHG/BCLR/BSET with Dn)
             ExecuteBitDynamic(opcode);
             return;
