@@ -181,6 +181,42 @@ if (implFiles.Count > 0)
 }
 
 // ============================================================
+// PHASE 5: ADF CATALOG (0.1 per unique entry, max 75 pts)
+// ============================================================
+
+var catalogPath = Path.Combine(root, "firmware", "adf-catalog.txt");
+if (File.Exists(catalogPath))
+{
+    var catalogLines = File.ReadAllLines(catalogPath)
+        .Where(l => !string.IsNullOrWhiteSpace(l) && !l.StartsWith("#") && !l.StartsWith("##"))
+        .Distinct()
+        .ToList();
+    double catalogPts = Math.Min(75.0, catalogLines.Count * 0.1);
+    Award((int)catalogPts, $"ADF catalog ({catalogLines.Count} unique entries, {catalogPts:F1} pts)");
+}
+
+// ============================================================
+// PHASE 6: ADF VERIFICATION RESULTS
+// ============================================================
+
+// Check for adf-verify-results.txt — each line "PASS <name>" or "BOOT <name>" scores
+var verifyResultsPath = Path.Combine(root, "tests", "results", "adf-verify-results.txt");
+if (File.Exists(verifyResultsPath))
+{
+    var verifyLines = File.ReadAllLines(verifyResultsPath);
+    int booted = verifyLines.Count(l => l.StartsWith("BOOT "));
+    int passed = verifyLines.Count(l => l.StartsWith("PASS "));
+    int totalVerified = booted + passed;
+    if (totalVerified > 0)
+    {
+        int verifyScore = 0;
+        for (int i = 0; i < totalVerified; i++)
+            verifyScore += AdfPoints(i);
+        Award(verifyScore, $"Verified ADF execution ({booted} booted, {passed} passed)");
+    }
+}
+
+// ============================================================
 // PENALTY: Non-.NET source files
 // ============================================================
 
