@@ -421,7 +421,7 @@ public sealed partial class Mc68000
         int subOp = (opcode >> 8) & 0xF;
 
         // LEA
-        if ((opcode & 0x01C0) == 0x01C0 && (opcode & 0x0E00) != 0)
+        if ((opcode & 0x01C0) == 0x01C0 && (opcode & 0xF000) == 0x4000 && ((opcode >> 6) & 7) == 7)
         {
             int reg = (opcode >> 9) & 7;
             int mode = (opcode >> 3) & 7;
