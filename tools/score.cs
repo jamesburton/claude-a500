@@ -142,6 +142,15 @@ var testFiles = FindAllFiles(root, "*Test*.cs").Concat(FindAllFiles(root, "*Test
 if (testFiles.Count > 0)
 {
     Award(Math.Min(50, testFiles.Count * 3), $"Test files ({testFiles.Count} test files)");
+
+    // Count individual test methods ([Fact] attributes)
+    int testMethodCount = 0;
+    foreach (var f in testFiles)
+    {
+        var lines = File.ReadAllLines(f);
+        testMethodCount += lines.Count(l => l.TrimStart().StartsWith("[Fact]"));
+    }
+    Award(Math.Min(50, testMethodCount / 2), $"Test methods ({testMethodCount} tests)");
 }
 
 // ============================================================
@@ -163,6 +172,12 @@ if (implFiles.Count > 0)
         if (allImplContent.Contains(sub)) subsystems++;
     }
     Award(subsystems * 5, $"Implementation subsystems ({subsystems}/{requiredSubsystems.Length} implemented)");
+
+    // Additional: LOC-based implementation depth
+    int totalImplLoc = 0;
+    foreach (var f in implFiles)
+        totalImplLoc += File.ReadAllLines(f).Length;
+    Award(Math.Min(50, totalImplLoc / 50), $"Implementation depth ({totalImplLoc} LOC)");
 }
 
 // ============================================================
