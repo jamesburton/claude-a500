@@ -2,4 +2,7 @@
   <Folder Name="/src/">
     <Project Path="src/AmigaA500.Core/AmigaA500.Core.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AmigaA500.Tests/AmigaA500.Tests.csproj" />
+  </Folder>
 </Solution>

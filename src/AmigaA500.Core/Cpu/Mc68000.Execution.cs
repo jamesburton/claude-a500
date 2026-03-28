@@ -430,6 +430,15 @@ public sealed partial class Mc68000
             return;
         }
 
+        // SWAP (must check before PEA — same base opcode, SWAP has mode=0)
+        if ((opcode & 0xFFF8) == 0x4840 && ((opcode >> 3) & 7) == 0)
+        {
+            int reg = opcode & 7;
+            D[reg] = (D[reg] >> 16) | (D[reg] << 16);
+            SetFlagsNZ(D[reg], 4); V = false; C = false;
+            return;
+        }
+
         // PEA
         if ((opcode & 0xFFC0) == 0x4840)
         {
@@ -438,15 +447,6 @@ public sealed partial class Mc68000
             uint addr = GetEAAddress(mode, reg, 4);
             A[7] -= 4;
             WriteLong(A[7], addr);
-            return;
-        }
-
-        // SWAP
-        if ((opcode & 0xFFF8) == 0x4840)
-        {
-            int reg = opcode & 7;
-            D[reg] = (D[reg] >> 16) | (D[reg] << 16);
-            SetFlagsNZ(D[reg], 4); V = false; C = false;
             return;
         }
 
