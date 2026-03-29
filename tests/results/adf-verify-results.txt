@@ -19327,3 +19327,10 @@ REAL_PASS WHD_Banzai_v1.0
 REAL_PASS WHD_Barbarian_v1.0_Palace_1784
 REAL_PASS WHD_Barbarian2_v1.1_Psygnosis_0611
 REAL_PASS WHD_BardsTale_v1.0_0010
+REAL_PASS WHD_BardsTale2_v1.0_0046
+REAL_PASS WHD_BargonAttack_v1.0_Fr_2486
+REAL_PASS WHD_BartVsTheSpaceMutants_v1.1_2Disk_0884
+REAL_PASS WHD_BaseJumpers_v2.2_1799
+REAL_PASS WHD_BasketIslandDemo2_v1.1
+REAL_PASS WHD_BattleChess_v1.0_0263
+REAL_PASS WHD_BattleChess_v1.1_CDTV
