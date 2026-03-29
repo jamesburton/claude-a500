@@ -215,21 +215,39 @@ if (File.Exists(verifyResultsPath))
     for (int i = 0; i < syntheticCount; i++)
         syntheticScore += AdfPoints(i);
 
-    // Score real ADFs at 3x, counted BEFORE synthetic (so they get the higher early points)
+    // Count known fails
+    int failCount = verifyLines.Count(l => l.StartsWith("FAIL "));
+
+    // Score real passing ADFs at 5x (increased bonus for real passes)
     int realScore = 0;
     for (int i = 0; i < realCount; i++)
-        realScore += AdfPoints(i) * 3;
+        realScore += AdfPoints(i) * 5;
 
-    // Synthetic points start after real ones in the diminishing curve
+    // Synthetic passing at 1x (after real)
     int syntheticAdjusted = 0;
     for (int i = realCount; i < realCount + syntheticCount; i++)
         syntheticAdjusted += AdfPoints(i);
 
-    int totalVerifyScore = realScore + syntheticAdjusted;
-    int totalVerified = syntheticCount + realCount;
+    // Real fails: negative penalty (-5 per fail, increased from 10% positive)
+    int failPenalty = failCount * -5;
+
+    // Baseline protection: -500 for each real ADF below 5704 baseline
+    // Prevents gaming score by removing failures
+    const int RealAdfBaseline = 5704;
+    int totalRealEntries = realCount + failCount; // All real ADFs (pass + fail)
+    int baselinePenalty = 0;
+    if (totalRealEntries < RealAdfBaseline)
+        baselinePenalty = (RealAdfBaseline - totalRealEntries) * -500;
+
+    int totalVerifyScore = realScore + syntheticAdjusted + failPenalty + baselinePenalty;
+    int totalVerified = syntheticCount + realCount + failCount;
 
     if (totalVerified > 0)
-        Award(totalVerifyScore, $"Verified ADFs ({realCount} real @3x, {syntheticCount} synthetic @1x)");
+    {
+        Award(totalVerifyScore, $"Verified ADFs ({realCount} real @5x, {syntheticCount} synth @1x, {failCount} fail @-5ea)");
+        if (baselinePenalty < 0)
+            Award(baselinePenalty, $"Baseline penalty ({totalRealEntries}/{RealAdfBaseline} real ADFs present, {baselinePenalty} penalty)");
+    }
 }
 
 // ============================================================
@@ -295,6 +313,38 @@ if (File.Exists(gameResultsPath))
         .Where(l => l.StartsWith("GAME_VERIFIED ")).ToList();
     if (gameLines.Count > 0)
         Award(gameLines.Count * 75, $"Local game ROMs verified ({gameLines.Count} games)");
+}
+
+// ============================================================
+// PHASE 11: ACTION REPLAY SUPPORT (100 pts when operational)
+// ============================================================
+
+var arResultsPath = Path.Combine(root, "tests", "results", "action-replay-results.txt");
+if (File.Exists(arResultsPath))
+{
+    var arLines = File.ReadAllLines(arResultsPath);
+    bool romLoaded = arLines.Any(l => l.StartsWith("AR_ROM_LOADED"));
+    bool menuShown = arLines.Any(l => l.StartsWith("AR_MENU_ACTIVE"));
+    bool freezeWorks = arLines.Any(l => l.StartsWith("AR_FREEZE_OK"));
+    int arScore = 0;
+    if (romLoaded) arScore += 25;
+    if (menuShown) arScore += 50;
+    if (freezeWorks) arScore += 25;
+    if (arScore > 0)
+        Award(arScore, $"Action Replay (ROM={romLoaded}, Menu={menuShown}, Freeze={freezeWorks})");
+}
+// Also check for implementation class
+var arImplFiles = FindAllFiles(root, "ActionReplay*.cs")
+    .Where(f => !f.Contains("obj") && !f.Contains("bin")).ToList();
+if (arImplFiles.Count > 0)
+{
+    var arContent = string.Join(" ", arImplFiles.Select(f => File.ReadAllText(f)));
+    bool hasFreeze = arContent.Contains("Freeze") || arContent.Contains("freeze");
+    bool hasMenu = arContent.Contains("Menu") || arContent.Contains("menu");
+    bool hasRomLoad = arContent.Contains("LoadRom") || arContent.Contains("RomData");
+    int implPts = (hasFreeze ? 15 : 0) + (hasMenu ? 15 : 0) + (hasRomLoad ? 10 : 0);
+    if (implPts > 0)
+        Award(implPts, $"Action Replay implementation (freeze={hasFreeze}, menu={hasMenu}, rom={hasRomLoad})");
 }
 
 // ============================================================
