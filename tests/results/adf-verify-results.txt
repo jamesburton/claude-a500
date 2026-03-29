@@ -16960,3 +16960,92 @@ REAL_BOOT Zyrad II (1994)(Scougall, Steven)(PD)
 REAL_BOOT Zzzep (1990)(Jumpshoe, H.)[b]
 REAL_BOOT Zzzep (1990)(Jumpshoe, H.)[cr PRD][t +3 ATZ]
 REAL_BOOT Zzzep (1990)(Jumpshoe, H.)[cr PRD][t +4 MAD]
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
+FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+FAIL Hit Fido (1991-04-28)(KGB)(Disk 1 of 2)[u][SUM#4] (bad size: 529408)
+REAL_BOOT Limited Edition Series (1992-10)(Laser Dance)[h Warlock][m bamcopy]
+REAL_BOOT Link Megademo (1989)(Link)
+REAL_BOOT Link Megademo (1989)(Link)[o]
+REAL_BOOT Linus Pa Linien (1992-06-28)(Palace)
+REAL_BOOT Lipton BBS Intro (1993)(Dreamdealers)
+REAL_BOOT Lipton BBS Intro (1993)(Dreamdealers)[a]
+REAL_BOOT Liquid-Glenz (1994-07-24)(Maniacs)
+REAL_BOOT Little Cubi (1995-10-26)(Drifters)(AGA)
+REAL_BOOT Little Cubi (1995-10-26)(Drifters)(AGA)[a file deleted]
+REAL_BOOT Little Floove (1996)(Abyss)(AGA)[h BTTR]
+REAL_BOOT Little Intro (1992-12-11)(Chrome)
+REAL_BOOT Little Intro (1992-12-11)(Chrome)[h TEK]
+REAL_BOOT Little Mega-Demo (19xx)(Storm)
+REAL_BOOT Little Megademo, The (19xx)(Mad Monks)
+REAL_BOOT Little Megademo, The (19xx)(Mad Monks)[a]
+REAL_BOOT Little Megademo, The (19xx)(Mad Monks)[a2]
+REAL_BOOT Little Megademo, The (19xx)(Mad Monks)[o]
+REAL_BOOT Little Preview (1991)(Flashers)[b corrupt file]
+REAL_BOOT Little Toons Story I (1991-08)(Iris)
+REAL_BOOT Living Legend (1991)(Men of Science)(Disk 1 of 2)
+REAL_BOOT Living Legend (1991)(Men of Science)(Disk 1 of 2)[a]
+REAL_PASS Living Legend (1991)(Men of Science)(Disk 2 of 2)
+REAL_BOOT Lobotom (1993-04-10)(Nation-X)[b dump][G93#6]
+REAL_BOOT Lobotom (1993-04-10)(Nation-X)[G93#6]
+REAL_BOOT Lobotomia 2002 (2001)(Dual Crew - Overscan - Rave Network - Shining)(AGA)[h BTTR]
+REAL_PASS Logic (1995)(Pygmy Projects)(AGA)(Disk 1 of 3)[HD][A95#2]
+REAL_PASS Logic (1995)(Pygmy Projects)(AGA)(Disk 2 of 3)[HD][A95#2]
+REAL_PASS Logic (1995)(Pygmy Projects)(AGA)(Disk 3 of 3)[HD][A95#2]
+REAL_BOOT Lola (1994-12-27)(Fresh Prince)(AGA)[h BTTR][aka McIntro]
+REAL_BOOT Long Sinus Scroller (1991-03-29)(Sonic)[h Warlock]
+REAL_BOOT Long Sinus Scroller (1991-03-29)(Sonic)[h Warlock][m bamcopy]
+REAL_BOOT Lords of Doom (1990-10-28)(Angels - Defjam - Genesis)[h Warlock]
+REAL_BOOT Lords of Doom (1990-10-28)(Angels - Defjam - Genesis)[h Warlock][m bamcopy]
+REAL_BOOT Lost Carrier BBS (1993)(Lego - Essence)[h BTTR]
+REAL_BOOT Lost in Denmark (1992-12-27)(Aurora)
+REAL_BOOT Lost in Denmark (1992-12-27)(Aurora)[h Warlock]
+REAL_BOOT Lost in Legoland (1993-04-10)(Andromeda)[h BTTR - Warlock]
+REAL_BOOT Lost in Legoland (1993-04-10)(Andromeda)[h BTTR]
+REAL_BOOT Lost World (1992-12-29)(Balance)
+REAL_BOOT Lost World (1992-12-29)(Balance)[a]
+REAL_BOOT Lost World (1992-12-29)(Balance)[a2]
+REAL_BOOT Love (1994-06-24)(Fairlight - Virtual Dreams)(AGA)(Disk 1 of 2)[a][SS94#1]
+REAL_BOOT Love (1994-06-24)(Fairlight - Virtual Dreams)(AGA)(Disk 1 of 2)[h BTTR][SS94#1]
+REAL_BOOT Love (1994-06-24)(Fairlight - Virtual Dreams)(AGA)(Disk 1 of 2)[h PD Soft][SS94#1]
+REAL_BOOT Love (1994-06-24)(Fairlight - Virtual Dreams)(AGA)(Disk 1 of 2)[h Ram Byter][SS94#1]
+REAL_BOOT Love (1994-06-24)(Fairlight - Virtual Dreams)(AGA)(Disk 1 of 2)[SS94#1]
+REAL_PASS Love (1994-06-24)(Fairlight - Virtual Dreams)(AGA)(Disk 2 of 2)
+REAL_PASS Love (1994-06-24)(Fairlight - Virtual Dreams)(AGA)(Disk 2 of 2)[a]
+REAL_PASS Love (1994-06-24)(Fairlight - Virtual Dreams)(AGA)(Disk 2 of 2)[a2]
+REAL_PASS Love (1994-06-24)(Fairlight - Virtual Dreams)(AGA)(Disk 2 of 2)[h PD Soft]
+REAL_BOOT Love and Anarchy (1992-12-19)(Carillon)
+REAL_BOOT Love and Anarchy (1992-12-19)(Carillon)[m doscopy - baddump]
+REAL_BOOT Love Peace Teddies (1994)(Haujobb)[h BTTR - Warlock]
+REAL_BOOT Love Peace Teddies (1994)(Haujobb)[h BTTR]
+REAL_BOOT Lovecraft (1991)(Iris)
+REAL_BOOT Lovers Day (1995)(Arkham)(AGA)
+REAL_BOOT Low-Budget Intro (1991)(Scup)[h Warlock]
+REAL_BOOT Low-Budget Intro (1991)(Scup)[h Warlock][m bamcopy]
+REAL_BOOT Low-Res Power (19xx)(HotShots)[m Subsoftware]
+REAL_BOOT Lurking Shadows (1994-12-05)(Suburban Base)(Disk 1 of 2)[a][KS2.0]
+REAL_BOOT Lurking Shadows (1994-12-05)(Suburban Base)(Disk 1 of 2)[h 17-Bit Software][KS2.0]
+REAL_BOOT Lurking Shadows (1994-12-05)(Suburban Base)(Disk 1 of 2)[KS2.0]
+REAL_PASS Lurking Shadows (1994-12-05)(Suburban Base)(Disk 2 of 2)[a][KS2.0]
+REAL_PASS Lurking Shadows (1994-12-05)(Suburban Base)(Disk 2 of 2)[h 17-Bit Software][KS2.0]
+REAL_PASS Lurking Shadows (1994-12-05)(Suburban Base)(Disk 2 of 2)[KS2.0]
+REAL_BOOT Luvley Bubbly (1994-08-28)(Maniacs)
+REAL_BOOT Lynx (19xx)(17-Bit Software)
+REAL_BOOT Machiavel (1993-11-12)(Chryseis)[b doscopy]
+REAL_BOOT Machiavel (1993-11-30)(Chryseis)[b doscopy]
+REAL_BOOT Machinery (1998)(Factor)(AGA)[h BTTR]
+REAL_BOOT Mad but True (1992-07-05)(Beyond)
+REAL_BOOT Mad Decision (1991-12-28)(Majic 12)[KS1.3, 0.5Mb Slow RAM]
+REAL_BOOT Made in Croatia (1992)(Binary)
+REAL_BOOT Made in Croatia (1992)(Binary)[updated]
+REAL_BOOT Made in the Name of the Schwartz (1993-07-20)(Spaceballs)
+REAL_BOOT Made in the Name of the Schwartz (1993-07-20)(Spaceballs)[a]
+REAL_BOOT Madness (1990-10-28)(Anarchy)[h Warlock]
+REAL_BOOT Madness (1990-10-28)(Anarchy)[h Warlock][m bamcopy]
+REAL_BOOT Madness 2 - The Search for Sanity (1991-02-23)(Anarchy)
+REAL_BOOT Madness 2 - The Search for Sanity (1991-02-23)(Anarchy)[h BTTR - Warlock]
+REAL_BOOT Madness 2 - The Search for Sanity (1991-02-23)(Anarchy)[h BTTR]
+REAL_BOOT Madness Week (1989-11)(Syntex)(Disk 1 of 2)
