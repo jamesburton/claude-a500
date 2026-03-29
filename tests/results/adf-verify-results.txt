@@ -9660,3 +9660,57 @@ FAIL A-Type (1998-04)(Abyss)(AGA)(PD)[h BTTR] (DOS=True Checksum=True Content=Fa
 REAL_BOOT AF1 - Amiga Formula One (19xx)(Cattani, Paulo)(AGA)(PD)[h SB-Soft][4Mb]
 REAL_BOOT ALFA Poker (19xx)(ALFA)(PD)
 FAIL ALFA Yamb (19xx)(ALFA)(PD) (DOS=True Checksum=True Content=False)
+FAIL $623 (19xx)(Clique)[WB] (DOS=True Checksum=True Content=False)
+FAIL 0X0 (1998)(Shad-Art)(PD)[h SB-Soft] (DOS=True Checksum=True Content=False)
+FAIL 1 Week (2001)(Contraz)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+REAL_BOOT 1000 Wasted Dreams (1991-10-19)(Panic)
+REAL_BOOT 1000 Wasted Dreams (1991-10-19)(Panic)[b doscopy]
+REAL_BOOT 1000 Wasted Dreams (1991-10-19)(Panic)[b dump]
+FAIL 1000% (1998-12-27)(Scoopex)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+REAL_BOOT 1024 bytes Bootblock (1992-12-29)(Oxygen)[TP2#24][boot intro]
+FAIL 15 Years of Fame (2013-02-10)(Up Rough) (DOS=True Checksum=True Content=False)
+REAL_BOOT 1824 Overture (1992-06-05)(Alarm)[h Warlock]
+FAIL 1824 Overture (1992-06-05)(Alarm)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL 1k Boing (2013-12-07)(Piru)[boot intro] (DOS=True Checksum=True Content=False)
+FAIL 1Klang (2013-02-10)(Scoopex)[boot intro] (DOS=True Checksum=True Content=False)
+REAL_BOOT 1st Attempt (1992)(Wave)
+FAIL 1st Intro (1991-12)(Ability)[h BTTR - Warlock] (DOS=True Checksum=True Content=False)
+FAIL 1st Intro (1991-12)(Ability)[h BTTR] (DOS=True Checksum=True Content=False)
+REAL_BOOT 1st Year Anniversary Intro (1996-06-04)(Oops)(AGA)[WB]
+FAIL 2 Bit or Not 2 Bit (2001-07-22)(Hack'n'Trade)[h BTTR][KS2.0] (DOS=True Checksum=True Content=False)
+REAL_BOOT 2 Blokes and an Armchair (1998-08)(Tesko)(AGA)
+REAL_BOOT 2 Blokes and an Armchair (1998-08)(Tesko)(AGA)[m bamcopy]
+REAL_BOOT 242 (1993-08-01)(Virtual Dreams)[A93#2]
+REAL_BOOT 242 (1993-08-01)(Virtual Dreams)[b doscopy][A93#2]
+FAIL 2998z (1999)(Darkage)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL 2D (1993-02-27)(Remedy) (DOS=True Checksum=True Content=False)
+FAIL 2D (1993-02-27)(Remedy)[b dump] (DOS=True Checksum=True Content=False)
+REAL_BOOT 2nd Demo (1987)(Risky Business Boys)
+REAL_BOOT 2nd Demo (1987)(Risky Business Boys)[a]
+REAL_BOOT 3 Hours (1992-10-01)(Profecy)
+REAL_BOOT 3D Demo (1991-12-28)(Anarchy)(Disk 1 of 2)[a][TP1#4]
+REAL_BOOT 3D Demo (1991-12-28)(Anarchy)(Disk 1 of 2)[a2][TP1#4]
+REAL_BOOT 3D Demo (1991-12-28)(Anarchy)(Disk 1 of 2)[TP1#4]
+FAIL 3D Demo (1991-12-28)(Anarchy)(Disk 2 of 2)[a][TP1#4] (DOS=False Checksum=False Content=True)
+FAIL 3D Demo (1991-12-28)(Anarchy)(Disk 2 of 2)[TP1#4] (DOS=False Checksum=False Content=True)
+REAL_BOOT 3D Demo 2 Intro (1992-12-27)(Anarchy)
+REAL_BOOT 3D Demo 2 v2.00 (1992-12-29)(Anarchy)[TP2#2]
+REAL_BOOT 3D Demo II v2.01 (1993-01-09)(Anarchy)[h Warlock][m bamcopy][TP2#2]
+REAL_BOOT 3D Demo II v2.01 (1993-01-09)(Anarchy)[h Warlock][TP2#2]
+REAL_BOOT 3D Demo II v2.01 (1993-01-09)(Anarchy)[m doscopy][TP2#2]
+REAL_BOOT 3D Demo II v2.01 (1993-01-09)(Anarchy)[m2 doscopy][TP2#2]
+FAIL 3D-Boing (19xx)(B.H.L.)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL 3D-Demo Endversion (1990-03-31)(The Special Brothers) (DOS=True Checksum=True Content=False)
+FAIL 3D-Demo Endversion (1990-03-31)(The Special Brothers)[h demondownload.dk] (DOS=True Checksum=True Content=False)
+REAL_BOOT 3Dshit (1990-08-07)(Reflex)
+FAIL 3Dshit (1990-08-07)(Reflex)[h Warlock] (DOS=True Checksum=True Content=False)
+FAIL 4-bromo-2,5-dimethoxyphenethylamine (1998-06-11)(Dual Crew Shining)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL 40 and a Blunt (2012-12-29)(Y-Crew) (DOS=True Checksum=True Content=False)
+FAIL 40k Trackmo (1994-07)(Infect) (DOS=True Checksum=True Content=False)
+FAIL 40k Trackmo (1994-07)(Infect)[fixed version] (DOS=True Checksum=True Content=False)
+REAL_BOOT 40kb Intro (1993-11-19)(Suspect)[final release]
+REAL_BOOT 40kb Tracktro (1993-07-27)(Arise - Drinks)
+REAL_BOOT 40kb Tracktro (1993-07-27)(Arise - Drinks)[a]
+FAIL 6Tris ++ (1996)(Daniels, James)(FW)[h BTTR][AMOS] (DOS=True Checksum=True Content=False)
+FAIL A-Type (1998-04)(Abyss)(AGA)(PD)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL ALFA Yamb (19xx)(ALFA)(PD) (DOS=True Checksum=True Content=False)
