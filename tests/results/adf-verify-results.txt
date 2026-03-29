@@ -17782,3 +17782,66 @@ REAL_PASS Prey, The (1994-12-27)(Polka Brothers)(AGA)(Disk 2 of 2)
 REAL_PASS Prey, The (1994-12-27)(Polka Brothers)(AGA)(Disk 2 of 2)[m]
 REAL_BOOT Prezydemo 2 (1991-03-08)(Hell Order Team)
 REAL_BOOT Primal Scream (1994-11-06)(Gigatron)
+REAL_BOOT Primal Scream (1994-11-06)(Gigatron)[a]
+REAL_BOOT Primal Scream (1994-11-06)(Gigatron)[b doscopy]
+REAL_BOOT Prime 90 Demo (1990)(Celtic)[h BTTR]
+REAL_BOOT Primitive Cool (19xx)(Argus)[0.5Mb Fast, KS1.2][AR frozen file]
+REAL_BOOT Primus Trackmo (1991-12-27)(Brainstorm)
+REAL_BOOT Primus Trackmo (1991-12-27)(Brainstorm)[b dump]
+REAL_BOOT Prism Demo II (1991)(Prism)
+REAL_BOOT Prism Vectors (1991-12-07)(Surprise! Productions - TRSI)[h BTTR]
+REAL_BOOT Prism Vectors (1991-12-07)(Surprise! Productions - TRSI)[h Warlock]
+REAL_BOOT Prism Vectors (1991-12-07)(Surprise! Productions - TRSI)[h Warlock][m bamcopy]
+REAL_BOOT Prison BBS Intro (1993-02)(Infect)
+REAL_BOOT Pro S.I.A.K. (1993-10-23)(Flying Cows Inc)
+REAL_BOOT Pro S.I.A.K. (1993-10-23)(Flying Cows Inc)[f Mexx]
+REAL_BOOT Pro S.I.A.K. (1993-10-23)(Flying Cows Inc)[m empty sectors]
+REAL_BOOT Programerade Buggar (1993-08-08)(Vomit)
+REAL_BOOT Prohibition (1996)(WhelPz)[WB][Summer Party Pozman 96]
+REAL_BOOT Project 42 (1999)(Corrosion)(AGA)[h BTTR]
+REAL_BOOT Project Alpha (1994)(D. Hough - K. Moore)(AGA)(Disk 1 of 6)
+REAL_PASS Project Alpha (1994)(D. Hough - K. Moore)(AGA)(Disk 2 of 6)
+REAL_PASS Project Alpha (1994)(D. Hough - K. Moore)(AGA)(Disk 3 of 6)
+REAL_PASS Project Alpha (1994)(D. Hough - K. Moore)(AGA)(Disk 4 of 6)
+REAL_PASS Project Alpha (1994)(D. Hough - K. Moore)(AGA)(Disk 5 of 6)
+REAL_PASS Project Alpha (1994)(D. Hough - K. Moore)(AGA)(Disk 6 of 6)
+REAL_BOOT Projectile (1995-08-21)(Plasma Pictures)[FFS]
+REAL_BOOT Projectile (1995-08-21)(Plasma Pictures)[WB, FFS]
+REAL_BOOT Proklive (1998)(Ozone - Network)(AGA)[h BTTR]
+REAL_BOOT Promotion - Joined Ihr Schweine (1993-12)(Infect)
+REAL_BOOT Promotion - Joined Ihr Schweine (1993-12)(Infect)[a bootblock]
+REAL_PASS Promotion - Joined Ihr Schweine (1993-12)(Infect)[b bootblock][FFS]
+REAL_BOOT Promotion - Joined Ihr Schweine (1993-12)(Infect)[h BTTR]
+REAL_BOOT Propaganda (1992)(Desire)[h BTTR]
+REAL_BOOT Proton (2001)(Reason)(AGA)[h BTTR]
+REAL_BOOT Prurient (1994-07-26)(Rebels)
+REAL_BOOT Prurient (1994-07-26)(Rebels)[a]
+REAL_BOOT Pseudo-Ops Demo-Disk 1 (19xx)(Pseudo-Ops)
+REAL_BOOT PseudoPlast Mega-Demo (19xx)(PseudoPlast)
+REAL_BOOT PseudoPlast Mega-Demo (19xx)(PseudoPlast)[KS2.0]
+REAL_BOOT Psychadelic Absence (1990-12-29)(Shade)[h Subway PD]
+REAL_BOOT Psychedelic (1991-12-02)(Adroit)
+REAL_BOOT Psychedelic (1991-12-02)(Adroit)[m]
+REAL_BOOT Psychedelic (1994-12-28)(Virtual Dreams)(AGA)(Disk 1 of 3)[h Active Software][HD][TP4#2]
+REAL_PASS Psychedelic (1994-12-28)(Virtual Dreams)(AGA)(Disk 2 of 3)[h Active Software][b corrupt file][HD]
+REAL_PASS Psychedelic (1994-12-28)(Virtual Dreams)(AGA)(Disk 3 of 3)[h Active Software][m doscopy][HD]
+REAL_BOOT Psychedelic Invation (1990-08-09)(Pure Metal Coders)[h The Scene Archives]
+REAL_BOOT Psycho (2015-06-20)(Amiga Birthday Committee)
+REAL_BOOT Psycho Killer (2000)(Spaceballs)[h BTTR]
+REAL_BOOT Psycho Medium II (1993-05-03)(Turnips)
+REAL_BOOT Psychodemo I - Hanger Mentowal (1994)(Flying Cows Inc)[1Mb Chip][aka Hental Mangover]
+REAL_BOOT Psychodemo I - Hanger Mentowal (1994)(Flying Cows Inc)[a][1Mb Chip][aka Hental Mangover]
+REAL_BOOT Psycode (1991-08)(Cinefex Design)
+REAL_BOOT Psycode (1991-08)(Cinefex Design)[a]
+REAL_BOOT Public Attack (1991)(Cult)
+REAL_BOOT Public Enemy 1993 (1993)(Public Enemy)[KS 2.0]
+REAL_BOOT Pulling the Trigger (1991-04-28)(Palace)
+REAL_BOOT Pulling the Trigger (1991-04-28)(Palace)[m baddump][updated]
+REAL_BOOT Pulling the Trigger (1991-04-28)(Palace)[updated]
+REAL_BOOT Pulp Fiction (1995-08-30)(Damage)(AGA)[h BTTR][IO95#3]
+REAL_BOOT Pulp Fiction (1995-08-30)(Damage)(AGA)[IO95#3]
+REAL_BOOT Pung Brack (199x)(Kalle&Tompa)[AMOS]
+REAL_BOOT Punisher, The (1992-01-11)(Digital)
+REAL_BOOT Punisher, The (1992-01-11)(Digital)[b dump]
+REAL_BOOT Punisher, The (1992-01-11)(Digital)[o][b dump]
+REAL_BOOT Punishment, The (1991-12-27)(Syntex)
