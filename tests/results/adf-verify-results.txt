@@ -9714,3 +9714,170 @@ REAL_BOOT 40kb Tracktro (1993-07-27)(Arise - Drinks)[a]
 FAIL 6Tris ++ (1996)(Daniels, James)(FW)[h BTTR][AMOS] (DOS=True Checksum=True Content=False)
 FAIL A-Type (1998-04)(Abyss)(AGA)(PD)[h BTTR] (DOS=True Checksum=True Content=False)
 FAIL ALFA Yamb (19xx)(ALFA)(PD) (DOS=True Checksum=True Content=False)
+FAIL $623 (19xx)(Clique)[WB] (DOS=True Checksum=True Content=False)
+FAIL 0X0 (1998)(Shad-Art)(PD)[h SB-Soft] (DOS=True Checksum=True Content=False)
+FAIL 1 Week (2001)(Contraz)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+REAL_BOOT 100 Printer Drivers (19xx)(Anglia PD)(PD)
+FAIL 1000% (1998-12-27)(Scoopex)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+REAL_BOOT 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 1 of 8)
+REAL_BOOT 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 2 of 8)
+REAL_BOOT 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 3 of 8)
+REAL_BOOT 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 5 of 8)
+REAL_BOOT 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 6 of 8)
+REAL_BOOT 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 7 of 8)
+REAL_BOOT 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 8 of 8)
+FAIL 15 Years of Fame (2013-02-10)(Up Rough) (DOS=True Checksum=True Content=False)
+FAIL 1824 Overture (1992-06-05)(Alarm)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL 1k Boing (2013-12-07)(Piru)[boot intro] (DOS=True Checksum=True Content=False)
+FAIL 1Klang (2013-02-10)(Scoopex)[boot intro] (DOS=True Checksum=True Content=False)
+FAIL 1st Intro (1991-12)(Ability)[h BTTR - Warlock] (DOS=True Checksum=True Content=False)
+FAIL 1st Intro (1991-12)(Ability)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL 2 Bit or Not 2 Bit (2001-07-22)(Hack'n'Trade)[h BTTR][KS2.0] (DOS=True Checksum=True Content=False)
+FAIL 2998z (1999)(Darkage)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL 2D (1993-02-27)(Remedy) (DOS=True Checksum=True Content=False)
+FAIL 2D (1993-02-27)(Remedy)[b dump] (DOS=True Checksum=True Content=False)
+FAIL 3D Demo (1991-12-28)(Anarchy)(Disk 2 of 2)[a][TP1#4] (DOS=False Checksum=False Content=True)
+FAIL 3D Demo (1991-12-28)(Anarchy)(Disk 2 of 2)[TP1#4] (DOS=False Checksum=False Content=True)
+FAIL 3D-Boing (19xx)(B.H.L.)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL 3D-Demo Endversion (1990-03-31)(The Special Brothers) (DOS=True Checksum=True Content=False)
+FAIL 3D-Demo Endversion (1990-03-31)(The Special Brothers)[h demondownload.dk] (DOS=True Checksum=True Content=False)
+FAIL 3Dshit (1990-08-07)(Reflex)[h Warlock] (DOS=True Checksum=True Content=False)
+FAIL 3rd Day - The Ripper (19xx)(Action Force) (DOS=True Checksum=True Content=False)
+FAIL 4-bromo-2,5-dimethoxyphenethylamine (1998-06-11)(Dual Crew Shining)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL 40 and a Blunt (2012-12-29)(Y-Crew) (DOS=True Checksum=True Content=False)
+FAIL 40k Trackmo (1994-07)(Infect) (DOS=True Checksum=True Content=False)
+FAIL 40k Trackmo (1994-07)(Infect)[fixed version] (DOS=True Checksum=True Content=False)
+FAIL 6Tris ++ (1996)(Daniels, James)(FW)[h BTTR][AMOS] (DOS=True Checksum=True Content=False)
+REAL_BOOT A-Gene - Anglican v1.3 (19xx)(Simpson, Mike - 17-Bit Software)(SW)
+FAIL A-Type (1998-04)(Abyss)(AGA)(PD)[h BTTR] (DOS=True Checksum=True Content=False)
+REAL_PASS A-Z of Lightwave Objects (1994)(-)(Disk 1 of 5)[h 17-Bit Software][req. Lightwave]
+REAL_PASS A-Z of Lightwave Objects (1994)(-)(Disk 1 of 5)[req. Lightwave]
+REAL_PASS A-Z of Lightwave Objects (1994)(-)(Disk 2 of 5)[h 17-Bit Software][req. Lightwave]
+REAL_PASS A-Z of Lightwave Objects (1994)(-)(Disk 2 of 5)[req. Lightwave]
+REAL_PASS A-Z of Lightwave Objects (1994)(-)(Disk 3 of 5)[h 17-Bit Software][req. Lightwave]
+REAL_PASS A-Z of Lightwave Objects (1994)(-)(Disk 3 of 5)[req. Lightwave]
+REAL_PASS A-Z of Lightwave Objects (1994)(-)(Disk 4 of 5)[h 17-Bit Software][req. Lightwave]
+REAL_PASS A-Z of Lightwave Objects (1994)(-)(Disk 4 of 5)[req. Lightwave]
+REAL_PASS A-Z of Lightwave Objects (1994)(-)(Disk 5 of 5)[h 17-Bit Software][req. Lightwave]
+REAL_PASS A-Z of Lightwave Objects (1994)(-)(Disk 5 of 5)[req. Lightwave]
+REAL_PASS A1200 Hacks 2 (1995)(-)(PD)
+REAL_BOOT A1200 Tools (1993)(Zarf)(A1200)(PD)[degraders][WB]
+REAL_BOOT A1200 Tools (1993)(Zarf)(A1200)(PD)[m bamcopy][degraders][WB]
+FAIL A600 Boot (2011)(Rapp, Thomas) (DOS=True Checksum=True Content=False)
+REAL_BOOT Aardvarks (1994)(Galaxya Software)(PD)[h SB-Soft][AMOS]
+REAL_BOOT ABASIC Programs Disk #2 (1988)(17-Bit Software)(PD)
+REAL_BOOT ABASIC Programs Disk #3 (1988)(17-Bit Software)(PD)
+REAL_BOOT ABASIC Programs Disk #4 (1988)(17-Bit Software)(PD)
+REAL_BOOT Above Top Secret (1996)(Nordovics, Paul - F1 Licenceware)(LW)[1998 edition][KS2.0]
+REAL_BOOT Above Top Secret (1996)(Nordovics, Paul - F1 Licenceware)(LW)[KS2.0]
+REAL_BOOT Abusimbel Profanation v1.0 (2001-10)(M.A Software)(es)[h EmuZone][v Blizzard v1.0][AMOS]
+REAL_BOOT Abusimbel Profanation v1.0 (2001-10)(M.A Software)(es)[v Blizzard v1.0][AMOS]
+REAL_BOOT Ace the Space-Case (1994)(Grand Master Design)(SW)[a][Amiga Action issue #64]
+REAL_BOOT Ace the Space-Case (1994)(Grand Master Design)(SW)[Amiga Action issue #64 - Quartz PD]
+REAL_BOOT Ace the Space-Case (1994)(Grand Master Design)(SW)[Amiga Action issue #64]
+REAL_BOOT Ace the Space-Case (1995-04-12)(Grand Master Design)(PD)[h ASO - BTTR][WB]
+REAL_BOOT Ace the Space-Case (1995-04-12)(Grand Master Design)(PD)[h ASO][WB]
+REAL_BOOT Ack-Ack (1993)(Spire Soft)(PD)[AMOS]
+REAL_BOOT Ack-Ack (1993)(Spire Soft)(PD)[h ASO][v Liberator v5.01][AMOS]
+REAL_BOOT Acorn Court, The r3 (1997)(Murchison, Todd S.)(PD)[KS2.0][Frotz interpreter]
+REAL_BOOT Act of War (1992-09-01)(Smith, David)(SW)[AMOS]
+REAL_BOOT Act of War (1992-09-01)(Smith, David)(SW)[h 17-Bit Software][AMOS]
+REAL_BOOT Act of War (1992-09-01)(Smith, David)(SW)[m bamcopy][AMOS]
+REAL_BOOT Adams Data Spel (1993)(A-Maze Design)
+REAL_BOOT ADFDump (2002-07-26)(Scaf)
+REAL_BOOT ADFDump (2002-08-31)(Scaf)
+REAL_BOOT ADFDump (2004-09-18)(Scaf)
+FAIL Adults Puzzle II (1990)(Mak)(PD)[h TWI][IFF2PCS] (DOS=True Checksum=True Content=False)
+FAIL Adults Puzzle II (1990)(Mak)(PD)[IFF2PCS] (DOS=True Checksum=True Content=False)
+FAIL Adults Puzzle III (199x)(Mak)(PD)[IFF2PCS] (DOS=True Checksum=True Content=False)
+REAL_BOOT Adventure 01 - Adventureland r1 (1999)(Adams, Scott)[KS2.0][Frotz interpreter]
+REAL_BOOT Adventure 07 - Mystery Fun House (1998)(Adams, Scott)[KS2.0][Frotz interpreter]
+REAL_BOOT Adventure 14 - The Adventures of Buckaroo Banzai (1998)(Adams, Scott - Case, Phillip)[KS2.0][Frotz interpreter]
+REAL_BOOT Adventure of Norris, The (1991)(Cleary, Glenn - Virus Free PD)(LW)
+REAL_BOOT Adventure of Norris, The (1991)(Cleary, Glenn - Virus Free PD)(LW)[h Badboyz]
+REAL_BOOT Adventure of Norris, The (1991)(Cleary, Glenn - Virus Free PD)(LW)[h Cobra][t +5 LGD]
+REAL_BOOT Adventure of Norris, The (1991)(Cleary, Glenn - Virus Free PD)(LW)[t +5 LGD]
+REAL_BOOT Adventure of Norris, The (1991)(Cleary, Glenn - Virus Free PD)(LW)[t +5 LGD][a]
+REAL_BOOT Adventure r5 (1994)(Nelson, Graham)(PD)[KS2.0][Frotz interpreter]
+FAIL Adventure v1.00 (1992-04-27)(Belding, Tony)(FW) (DOS=True Checksum=True Content=False)
+FAIL Adventure v1.00 (1992-04-27)(Belding, Tony)(FW)[h PD-Soft] (DOS=True Checksum=True Content=False)
+REAL_BOOT Adventures of Big Will and Sticky Troll, The - Part 1 - The Pub Quiz (1993-12-27)(BSY)(SW)[1Mb Chip][AMOS]
+REAL_BOOT Adventures of Big Will and Sticky Troll, The - Part 1 - The Pub Quiz (1993-12-27)(BSY)(SW)[a][1Mb Chip][AMOS]
+REAL_BOOT Adventures of Big Will and Sticky Troll, The - Part 1 - The Pub Quiz (1993-12-27)(BSY)(SW)[h Assassins - ALE][1Mb Chip][AMOS]
+REAL_PASS AEReg v1.00 (1995-02)(Decision)[WB]
+REAL_BOOT Aerial Racers v0.90 (1996)(Insane Software)(PD)[h SB-Soft][aminet][Blitz BASIC]
+REAL_BOOT Aerial Racers v1.03 (1997-06-22)(Insane Software)(FW)(Disk 1 of 3)[Blitz BASIC]
+REAL_BOOT Aerial Racers v1.03 (1997-06-22)(Insane Software)(FW)(Disk 1 of 3)[h HCC][new tracks][Blitz BASIC]
+REAL_PASS Aerial Racers v1.03 (1997-06-22)(Insane Software)(FW)(Disk 2 of 3)
+REAL_PASS Aerial Racers v1.03 (1997-06-22)(Insane Software)(FW)(Disk 2 of 3)[h HCC][new tracks]
+REAL_PASS Aerial Racers v1.03 (1997-06-22)(Insane Software)(FW)(Disk 3 of 3)
+REAL_PASS Aerial Racers v1.03 (1997-06-22)(Insane Software)(FW)(Disk 3 of 3)[h HCC][new tracks]
+REAL_BOOT Aerial Racers v1.10 (1997-08-10)(Insane Software)(FW)(Disk 1 of 3)[h ASO][a startup-sequence][Blitz BASIC]
+REAL_BOOT Aerial Racers v1.10 (1997-08-10)(Insane Software)(FW)(Disk 1 of 3)[h ASO][a][Blitz BASIC]
+REAL_BOOT Aerial Racers v1.10 (1997-08-10)(Insane Software)(FW)(Disk 1 of 3)[h ASO][a2][Blitz BASIC]
+REAL_BOOT Aerial Racers v1.10 (1997-08-10)(Insane Software)(FW)(Disk 1 of 3)[h ASO][Blitz BASIC]
+REAL_BOOT Aerial Racers v1.10 (1997-08-10)(Insane Software)(FW)(Disk 2 of 3)[h ASO]
+REAL_BOOT Aerial Racers v1.10 (1997-08-10)(Insane Software)(FW)(Disk 3 of 3)
+REAL_BOOT Aero-Die-Namik (1994)(Jester's Tear - F1 Licenceware)(LW)(Disk 1 of 2)[AMOS]
+REAL_BOOT Aero-Die-Namik (1994)(Jester's Tear - F1 Licenceware)(LW)(Disk 2 of 2)[bootable][docs]
+FAIL Age of Rock, The v1.2 (demo-playable) (1991)(Spreen, Andreas)(PD)[h CPY] (DOS=True Checksum=True Content=False)
+FAIL Age of Rock, The v1.2 (demo-playable) (1991)(Spreen, Andreas)(PD)[h CPY][a cracktxt removed] (DOS=True Checksum=True Content=False)
+FAIL Age of Rock, The v1.2 (demo-playable) (1991)(Spreen, Andreas)(PD)[h CPY][a highscores] (DOS=True Checksum=True Content=False)
+FAIL Age of Rock, The v1.2 (demo-playable) (1991)(Spreen, Andreas)(PD)[h CPY][a] (DOS=True Checksum=True Content=False)
+FAIL Age of Rock, The v1.2 (demo-playable) (1991)(Spreen, Andreas)(PD)[h CPY][a2 highscores] (DOS=True Checksum=True Content=False)
+FAIL Age of Rock, The v1.2 (demo-playable) (1991)(Spreen, Andreas)(PD)[h CPY][WB] (DOS=True Checksum=False Content=False)
+FAIL Age of Rock, The v1.3b (1997-11-22)(Spreen, Andreas)(PD)[h BTTR][KS2.0] (DOS=True Checksum=True Content=False)
+REAL_BOOT Agression (1995)(Reed, David)(AGA)[h SB-Soft][Blitz BASIC]
+FAIL ALFA Yamb (19xx)(ALFA)(PD) (DOS=True Checksum=True Content=False)
+FAIL ALIEN Network Vs Olympus (199x)(G-Spot BBS)(PD) (DOS=True Checksum=True Content=False)
+FAIL ALIEN Network Vs Olympus (199x)(G-Spot BBS)(PD)[m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL ALIEN Network Vs Olympus rev1 (199x)(G-Spot BBS)(PD) (DOS=True Checksum=True Content=False)
+FAIL ALIEN Network Vs Olympus rev1 (199x)(G-Spot BBS)(PD)[h Software 2000] (DOS=True Checksum=True Content=False)
+REAL_PASS AM-FM Sample Disk #01 - Drums & Percussion (1991)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #02 - Orchestral Winds (1991)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #03 - Death & Horror Sound Effects Part 1 (1991)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #04 - Korg 707 (1991)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #05 - Grand Piano (1991)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #06 - Korg Wavestation Part 1 (1992)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #07 - Korg Wavestation Part 2 (1992)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #08 - Korg Wavestation Part 3 (1992)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #09 - Korg M1 Drums & Percussion (1992)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #10 - Vector Worlds Part 1 (1992)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #11 - Vector Worlds Part 2 (1992)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #12 - Death & Horror Sound Effects Part 2 (1992)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #13 - Ensoniq SQ-R Part 1 (1992)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #14 - Ensoniq SQ-R Part 2 (1992)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #15 - Guitar Workshop Part 1 (1992)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #16 - Guitar Workshop Part 2 (1993)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #17 - Guitar Workshop Part 3 (1994)(Amiga Musicians Freeware Magazine)
+REAL_BOOT AM-FM Sample Disk #18 - Fantasy Sounds Part 1 (1994)(Amiga Musicians Freeware Magazine)
+FAIL AMI-gotchi v1.23 (1997-09)(Brookes, Samuel)(FW)[WB][Blitz BASIC] (DOS=True Checksum=False Content=False)
+REAL_BOOT AMI-gotchi v3.45 (1997-12)(Brookes, Samuel)(FW)[h SB-Soft][Blitz BASIC]
+REAL_BOOT AMIGA Pets (19xx)(Kelly, Antony)(PD)[h SB-Soft]
+FAIL AMIGA-Pakratt v1.10 (1991)(van Stipriaan, Rene)(PD) (DOS=True Checksum=True Content=False)
+REAL_BOOT AMOS Coin Drop Fruit Machine Professional (1991)(Ingham, John)(PD)[AMOS]
+REAL_BOOT AMOS Coin Drop Fruit Machine Professional (1991)(Ingham, John)(PD)[h LGD][AMOS]
+REAL_BOOT AMOS Cricket (1992)(Robson, Paul)(SW)[AMOS]
+REAL_BOOT AMOS Cricket (1992)(Robson, Paul)(SW)[h 17-Bit Software][AMOS]
+REAL_BOOT AMOS Fruit Machine (1991-09-18)(Mandarin - Jawx)[h AMOS PD - Deja Vu]
+REAL_BOOT AMOS Fruit Machine (1991-09-18)(Mandarin - Jawx)[h AMOS PD]
+REAL_PASS ARTM - Amiga Realtime Monitor v1.71 (1993)(Mertens, Franz Josef - Jansen, Dietmar)(de-en)(SW)
+REAL_BOOT ASM-One v1.05 (1991-11-10)(The Flame Arrows)
+REAL_BOOT ASM-One v1.06 (1991-12-07)(The Flame Arrows)[h Cobra]
+REAL_BOOT ASM-One v1.07 (1992-03-21)(The Flame Arrows)
+FAIL ASM-One v1.08b (1992-08-04)(The Flame Arrows) (DOS=True Checksum=True Content=False)
+REAL_BOOT ASM-One v1.09 (1992-11-11)(The Flame Arrows)[h Toxic]
+REAL_BOOT ASM-One v1.15 (1993-03-11)(The Flame Arrows)(Disk 1 of 4)(Install)[HD]
+REAL_BOOT ASM-One v1.15 (1993-03-11)(The Flame Arrows)(Disk 1 of 4)(Install)[m doscopy][HD]
+REAL_PASS ASM-One v1.15 (1993-03-11)(The Flame Arrows)(Disk 2 of 4)(Include1)[HD]
+REAL_PASS ASM-One v1.15 (1993-03-11)(The Flame Arrows)(Disk 2 of 4)(Include1)[m doscopy][HD]
+REAL_PASS ASM-One v1.15 (1993-03-11)(The Flame Arrows)(Disk 3 of 4)(Include2)[HD]
+REAL_PASS ASM-One v1.15 (1993-03-11)(The Flame Arrows)(Disk 3 of 4)(Include2)[m doscopy][HD]
+REAL_PASS ASM-One v1.15 (1993-03-11)(The Flame Arrows)(Disk 4 of 4)(AddOns)[HD]
+REAL_PASS ASM-One v1.15 (1993-03-11)(The Flame Arrows)(Disk 4 of 4)(AddOns)[m doscopy][HD]
+REAL_BOOT ASM-One v1.15 (1993-03-13)(The Flame Arrows)(Disk 1 of 4)(Install)[HD]
+REAL_BOOT ASM-One v1.20 (1993-09-19)(The Flame Arrows)(Disk 1 of 4)(Install)[HD, KS2]
+REAL_PASS ASM-One v1.20 (1993-09-19)(The Flame Arrows)(Disk 2 of 4)(Include1)[HD, KS2]
+REAL_PASS ASM-One v1.20 (1993-09-19)(The Flame Arrows)(Disk 3 of 4)(Include2)[HD, KS2]
+REAL_PASS ASM-One v1.20 (1993-09-19)(The Flame Arrows)(Disk 4 of 4)(AddOns)[HD, KS2]
+REAL_BOOT ASM-One v1.25 (1994-04-07)(The Flame Arrows)(Disk 1 of 4)(Install)[HD, KS2]
