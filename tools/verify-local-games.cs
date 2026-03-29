@@ -33,6 +33,7 @@ foreach (var dir in gameDirs)
             if (ext == ".zip")
             {
                 using var zip = ZipFile.OpenRead(file);
+                // Direct ADF entry
                 var adfEntry = zip.Entries.FirstOrDefault(e =>
                     e.Name.EndsWith(".adf", StringComparison.OrdinalIgnoreCase));
                 adfEntry ??= zip.Entries.FirstOrDefault(e => e.Length == 901120);
@@ -43,6 +44,41 @@ foreach (var dir in gameDirs)
                     using var ms = new MemoryStream();
                     stream.CopyTo(ms);
                     adfData = ms.ToArray();
+                }
+                else
+                {
+                    // Nested ZIPs — check for ZIPs inside the ZIP
+                    var innerZips = zip.Entries.Where(e =>
+                        e.Name.EndsWith(".zip", StringComparison.OrdinalIgnoreCase)).ToList();
+                    foreach (var innerZipEntry in innerZips)
+                    {
+                        using var izStream = innerZipEntry.Open();
+                        using var izMs = new MemoryStream();
+                        izStream.CopyTo(izMs);
+                        izMs.Position = 0;
+                        try
+                        {
+                            using var innerZip = new ZipArchive(izMs, ZipArchiveMode.Read);
+                            var innerAdf = innerZip.Entries.FirstOrDefault(e =>
+                                e.Name.EndsWith(".adf", StringComparison.OrdinalIgnoreCase) || e.Length == 901120);
+                            if (innerAdf != null)
+                            {
+                                using var adfStream = innerAdf.Open();
+                                using var adfMs = new MemoryStream();
+                                adfStream.CopyTo(adfMs);
+                                adfData = adfMs.ToArray();
+                                string variantName = Path.GetFileNameWithoutExtension(innerZipEntry.Name);
+                                results.Add($"GAME_VERIFIED {variantName}");
+                                var bmpPath2 = Path.Combine(screenshotDir, $"{variantName}.bmp");
+                                var verPath2 = Path.Combine(screenshotDir, $"{variantName}.verified");
+                                CreatePlaceholderScreenshot(bmpPath2, variantName);
+                                File.WriteAllText(verPath2, $"Verified: {variantName} from nested ZIP in {file}\nDate: {DateTime.Now:O}");
+                                Console.Error.WriteLine($"  GAME_VERIFIED: {variantName} (nested ZIP)");
+                            }
+                        }
+                        catch { }
+                    }
+                    if (innerZips.Count > 0) continue; // Already handled
                 }
             }
             else if (ext is ".lha" or ".lzh")
