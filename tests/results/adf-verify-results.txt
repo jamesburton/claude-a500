@@ -17940,3 +17940,68 @@ REAL_BOOT Razorback (2000)(Reason)(AGA)
 REAL_BOOT Reach for the Skies Crack Intro (1992)(Melon Dezign)[h zebra3.org]
 REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 2 of 2)[b dump]
 REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 2 of 2)[m baddump]
+REAL_BOOT Real (1994-04-24)(Complex)(AGA)[m doscopy][S94#1]
+REAL_BOOT Real (1994-04-24)(Complex)(AGA)[S94#1]
+REAL_BOOT Real 40K (1993-12-27)(Lego)[h ALE][KS2.0]
+REAL_BOOT Real American Roadmovie, The (1995)(Banal Projects)[fixed version]
+REAL_BOOT Real Empathy (1991-12-26)(Virtual)(Disk 1 of 2)[b doscopy]
+REAL_BOOT Real Empathy (1991-12-26)(Virtual)(Disk 2 of 2)
+REAL_BOOT Real Russian Roadmovie, The (1995)(Banal Projects)
+REAL_BOOT Realtime Margherita (1993-03-27)(Arise)[h Warlock]
+REAL_BOOT Realtime Margherita (1993-03-27)(Arise)[h Warlock][m bamcopy]
+REAL_BOOT Rebel Without a Cause (1991-06-15)(Rebels)[h BTTR - Warlock]
+REAL_BOOT Rebel Without a Cause (1991-06-15)(Rebels)[h BTTR]
+REAL_BOOT Rebels 'n' No Limits (19xx)(Rebels - No Limits)[h][b]
+REAL_BOOT Rebels Intro (19xx)(Rebels)[h Warlock]
+REAL_BOOT Rebels Intro (19xx)(Rebels)[h Warlock][m bamcopy]
+REAL_BOOT Recruitment (1994-12-11)(Maniacs)
+REAL_BOOT Red and Blue BBS Intro (1993-07-22)(Equinox)
+REAL_BOOT Red Planet (1994-07-22)(Cydonia)[h BTTR]
+REAL_BOOT Reductio Ad Absurdum (1992)(Noice)[TP2#18]
+REAL_BOOT Reductio Ad Absurdum (1992)(Noice)[TP2#18][fixed release]
+REAL_BOOT Reflex (1992-09-14)(Liquid)
+REAL_BOOT Regeneration (1992)(Digital Artists Inc.)
+REAL_BOOT Remedy (19xx)(Etilik)[KS2.0]
+REAL_BOOT Requiem (1993-02)(Advanced Artists - Arkham)
+REAL_BOOT Requiem (1993-02)(Advanced Artists - Arkham)[m baddump]
+REAL_BOOT Rerun (1995)(Cydonia)[h BTTR]
+REAL_BOOT Reservoir Dogs (1994)(Faculty X)(AGA)(Disk 1 of 4)[6 Meg]
+REAL_PASS Reservoir Dogs (1994)(Faculty X)(AGA)(Disk 2 of 4)[6 Meg]
+REAL_PASS Reservoir Dogs (1994)(Faculty X)(AGA)(Disk 3 of 4)[6 Meg]
+REAL_PASS Reservoir Dogs (1994)(Faculty X)(AGA)(Disk 4 of 4)[6 Meg]
+REAL_BOOT Response (1995-04-15)(Avalon)(AGA)[G95#2]
+REAL_BOOT Response (1995-04-15)(Avalon)(AGA)[h 17-Bit Software][G95#2]
+REAL_BOOT Restricted (1994-03-15)(Cadaver)
+REAL_BOOT Resurrection 1 (1997-02-15)(Slope)(AGA)
+REAL_BOOT Retina Burn One (1993-04-03)(Dimension X)[A1200 release]
+REAL_BOOT Retina Burn One (1993-04-03)(Dimension X)[A500 release]
+REAL_BOOT Retina Burn One (1993-04-03)(Dimension X)[h ALE][A1200 release]
+REAL_BOOT RetroDemo (2011-01-29)(Mistic JOE)(AGA)
+REAL_BOOT Return of the Evil Trash, The (19xx)(Trash'n'Cash)[KS2.0]
+REAL_BOOT Return of the Living Dead (1990)(Accession)[h Warlock]
+REAL_BOOT Return of the Living Dead (1990)(Accession)[h Warlock][m bamcopy]
+REAL_BOOT Return of the Son of the Monster Magnet, The (1992-12-28)(Carillon)[h Warlock]
+REAL_BOOT Return of the Son of the Monster Magnet, The (1992-12-28)(Carillon)[h Warlock][m bamcopy]
+REAL_BOOT Return, The (1991-11-17)(Joker)(Disk 1 of 2)
+REAL_BOOT Return, The (1991-11-17)(Joker)(Disk 2 of 2)[a][bootable]
+REAL_BOOT Return, The (1991-11-17)(Joker)(Disk 2 of 2)[bootable]
+REAL_BOOT Revenge (1990-04-07)(Fraxion)
+REAL_BOOT RevenGe Demonstration (1994)(Etilik)(Disk 1 of 2)
+REAL_PASS RevenGe Demonstration (1994)(Etilik)(Disk 2 of 2)
+REAL_BOOT Revenge to the Suckers (1990-07-30)(Extensors)
+REAL_BOOT Revenge to the Suckers (1990-07-30)(Extensors)[h Warlock]
+REAL_BOOT Reverse Time (1992)(Plague)[h BTTR]
+REAL_BOOT Revision (1999)(Exploder - Extreme)(AGA)[h BTTR]
+REAL_BOOT Revival (1992-07-25)(Groo - Heathen God - Razer)
+REAL_BOOT Revival (1992-07-25)(Groo - Heathen God - Razer)[m bamcopy]
+REAL_BOOT Revolution (1996)(Anathema)(AGA)[h BTTR]
+REAL_BOOT Revolution Harlequin (1991)(Tecsoft Images)
+REAL_BOOT Revolution Harlequin (1991)(Tecsoft Images)[h 17-Bit Software]
+REAL_BOOT Revolution Harlequin (1991)(Tecsoft Images)[h 17-Bit Software][m]
+REAL_BOOT Revolution Harlequin (1991)(Tecsoft Images)[h 17-Bit Software][m2]
+REAL_BOOT Revolution v1.0 (1993-01-03)(Chemotox)
+REAL_BOOT Ricktro v1.0 (2013-11-16)(Mellow)
+REAL_BOOT Ride (1994-08-06)(Oxygene)(AGA)[h BTTR]
+REAL_BOOT Ringing a Doorbell (1993-10-27)(Movement)[h Warlock]
+REAL_BOOT Ringing a Doorbell (1993-10-27)(Movement)[h Warlock][m bamcopy]
+REAL_BOOT Rink a Dink - Redux (2013-03-31)(Lemon)
