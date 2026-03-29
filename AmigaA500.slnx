@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/AmigaA500.Core/AmigaA500.Core.csproj" />
+    <Project Path="src/AmigaA500.Runner/AmigaA500.Runner.csproj" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="tests/AmigaA500.Tests/AmigaA500.Tests.csproj" />

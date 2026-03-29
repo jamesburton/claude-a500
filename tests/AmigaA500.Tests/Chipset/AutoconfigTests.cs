@@ -16,9 +16,9 @@ public class AutoconfigTests
     public void ReadByte_ReturnsTypeAndSize()
     {
         var ac = new Autoconfig();
-        ac.AddBoard(new ExpansionBoard { Type = 0xC0, SizeCode = 4 });
+        ac.AddBoard(new ExpansionBoard { Type = 0x0C, SizeCode = 4 }); // Type nybble = $C
         byte val = ac.ReadByte(0xE80000);
-        Assert.Equal(0xC4, val); // Type $C0 | Size 4
+        Assert.Equal(0xC4, val); // Type $C << 4 | Size 4
     }
 
     [Fact]
