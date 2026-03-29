@@ -9630,3 +9630,33 @@ BOOT bBase_II_v5_1991-11Bromley,_RobertFW
 BOOT bBase_II_v5_1991-11Bromley,_RobertFWh
 BOOT mCAD_v1.2.5_1987Mooney,_Tim_-_17-Bit_SoftwareSW
 BOOT miniBBS_v1.5_1989-04-13Riera,_G.IT
+FAIL 0X0 (1998)(Shad-Art)(PD)[h SB-Soft] (DOS=True Checksum=True Content=False)
+REAL_BOOT 1 Across 2 Down (1990-12)(Amiganuts United)(LW)(Disk 1 of 2)[AMOS]
+REAL_PASS 1 Across 2 Down (1990-12)(Amiganuts United)(LW)(Disk 2 of 2)[AMOS]
+REAL_BOOT 109 (1991)(-)(PD)[h ASO][SEUCK]
+REAL_BOOT 1497 - Five Years After v0.09 (1996-08-15)(Hagqvist, Jan)(SW)[KS2.0]
+REAL_BOOT 1497 - Five Years After v0.10 (1996-08-24)(Hagqvist, Jan)(SW)[a savegame][KS2.0]
+REAL_BOOT 1497 - Five Years After v0.10 (1996-08-24)(Hagqvist, Jan)(SW)[a][KS2.0, WB]
+REAL_BOOT 1497 - Five Years After v0.10 (1996-08-24)(Hagqvist, Jan)(SW)[KS2.0, WB]
+REAL_BOOT 1497 - Five Years After v0.10 (1996-08-24)(Hagqvist, Jan)(SW)[KS2.0]
+REAL_BOOT 1497 - Five Years After v1.00 (1998-01-14)(Hagqvist, Jan)(SW)(Disk 1 of 2)[h HF][KS2.0]
+REAL_PASS 1497 - Five Years After v1.00 (1998-01-14)(Hagqvist, Jan)(SW)(Disk 2 of 2)
+REAL_BOOT 18th Hole (1993)(Garside, Stephen)(SW)(Disk 1 of 2)[inc. source code, AMOS]
+REAL_BOOT 18th Hole (1993)(Garside, Stephen)(SW)(Disk 1 of 2)[m bamcopy][inc. source code, AMOS]
+REAL_PASS 18th Hole (1993)(Garside, Stephen)(SW)(Disk 2 of 2)(Course)
+REAL_PASS 18th Hole (1993)(Garside, Stephen)(SW)(Disk 2 of 2)(Course)[m bamcopy]
+REAL_BOOT 1942 (19xx)(Snake Software)(PD)[SEUCK]
+REAL_BOOT 1945 Remix '97 (1997)(PinPoint Graphics)(PD)[h SB-Soft][a][SEUCK]
+REAL_BOOT 1945 Remix '97 (1997)(PinPoint Graphics)(PD)[h SB-Soft][SEUCK]
+REAL_BOOT 3D Game Series Mk1, The (1992)(Shad-Art)(PD)
+REAL_BOOT 4-Way Lynx v1.11 (1990-11-12)(Andreou, Andreas - Deja Vu)(LW)[h TSB][inc. source code, AMOS]
+REAL_BOOT 4-Way Lynx v1.11 (1990-11-12)(Andreou, Andreas - Deja Vu)(LW)[inc. source code, AMOS]
+REAL_BOOT 4-Way Lynx v1.11 (1990-11-12)(Andreou, Andreas - Deja Vu)(LW)[m][inc. source code, AMOS]
+REAL_BOOT 4Lynx4 v1.0 (1997)(AmphruDestinY)(FW)[h SB-Soft][1.5Mb, AMOS]
+REAL_BOOT 5k Invaders! (1997)(Gordon, Peter)(PD)[h SB-Soft]
+FAIL 6Tris ++ (1996)(Daniels, James)(FW)[h BTTR][AMOS] (DOS=True Checksum=True Content=False)
+REAL_BOOT 6Tris v1.1 (1994)(Daniels, James)(FW)[h SB-Soft][AMOS]
+FAIL A-Type (1998-04)(Abyss)(AGA)(PD)[h BTTR] (DOS=True Checksum=True Content=False)
+REAL_BOOT AF1 - Amiga Formula One (19xx)(Cattani, Paulo)(AGA)(PD)[h SB-Soft][4Mb]
+REAL_BOOT ALFA Poker (19xx)(ALFA)(PD)
+FAIL ALFA Yamb (19xx)(ALFA)(PD) (DOS=True Checksum=True Content=False)
