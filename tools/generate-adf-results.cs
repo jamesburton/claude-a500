@@ -165,8 +165,15 @@ VerifyCategory(introDisks, "Intros");
 if (catalogEntries.Count > 0)
     VerifyCategory(catalogEntries.ToArray(), "Catalog Batch");
 
-// Write results
-File.WriteAllLines(resultsPath, results);
-Console.Error.WriteLine($"Total: {totalCount} BOOT, {results.Count - totalCount} FAIL");
+// Write results — preserve existing REAL_ entries, replace only synthetic (BOOT/PASS/FAIL without REAL_ prefix)
+var existingReal = new List<string>();
+if (File.Exists(resultsPath))
+{
+    existingReal = File.ReadAllLines(resultsPath)
+        .Where(l => l.StartsWith("REAL_")).ToList();
+}
+var combined = existingReal.Concat(results).ToList();
+File.WriteAllLines(resultsPath, combined);
+Console.Error.WriteLine($"Total: {totalCount} synthetic BOOT, {existingReal.Count} preserved real entries");
 Console.Error.WriteLine($"Written to: {resultsPath}");
 Console.WriteLine(totalCount);
