@@ -19378,3 +19378,16 @@ REAL_PASS WHD_Beavers_v1.1_2575
 REAL_PASS WHD_BehindTheIronGate_v1.0_De_2156
 REAL_PASS WHD_BehindTheIronGate_v1.0
 REAL_PASS WHD_Belial_v1.0
+REAL_PASS WHD_BatmanTheMovie_v1.4_0019
+REAL_PASS WHD_BattleBound_v1.0
+REAL_PASS WHD_BattleChess_v1.0_CD32
+REAL_PASS WHD_BattleChess_v1.0_CDTV
+REAL_PASS WHD_BattleChess_v1.1_0263
+REAL_PASS WHD_BattleChess_v1.1_CD32
+REAL_PASS WHD_BattleChess2_v1.0_0264
+REAL_PASS WHD_BattleCommand_v1.2_0858
+REAL_PASS WHD_BattleForTheAshes_v1.0_2526
+REAL_PASS WHD_BattleForTheAshes_v1.0_AmigaPower
+REAL_PASS WHD_BattleIsle_v1.7_1991
+REAL_PASS WHD_BeneathASteelSky_v2.0_0207
+REAL_PASS WHD_BeneathASteelSky_v2.0_CD32_NoVoice
