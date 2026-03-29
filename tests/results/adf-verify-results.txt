@@ -14630,3 +14630,142 @@ REAL_PASS Pioneers (1996)(Schroedter, Lars)(Disk 3 of 3)[cr Backlash]
 REAL_PASS Pioneers (1996)(Schroedter, Lars)(Disk 3 of 3)[cr Backlash][m doscopy]
 REAL_PASS Pioneers (1996)(Schroedter, Lars)(Disk 3 of 3)[cr Backlash][tr pl Opus SP]
 REAL_BOOT Pipeline (1989)(Brown, Richard)
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
+FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
+REAL_BOOT Flower Power (1992)(Anarchy)
+REAL_BOOT Flowers (1997-07)(Drifters)(Disk 1 of 3)[KS2.0, HD]
+REAL_BOOT Flowers (1997-07)(Drifters)(Disk 2 of 3)[KS2.0, HD]
+REAL_BOOT Flowers (1997-07)(Drifters)(Disk 3 of 3)[KS2.0, HD]
+REAL_BOOT Flying Saucer BBS (1993)(Dreamdealers)[h BTTR]
+REAL_BOOT Flying Saucer BBS (1993)(Dreamdealers)[h Warlock]
+REAL_BOOT Flying Saucer BBS (1993)(Dreamdealers)[h Warlock][m bamcopy]
+REAL_BOOT Fogroom (2001)(Spaceballs)(AGA)[h BTTR]
+REAL_BOOT Follow Me (1989-12)(Red Sector Inc - TCC Design)[h BTTR]
+REAL_BOOT Follow Me (1989-12)(Red Sector Inc - TCC Design)[h Warlock]
+REAL_BOOT Follow Me (1989-12)(Red Sector Inc - TCC Design)[h Warlock][m bamcopy]
+REAL_BOOT FootSteps (1994-11-08)(Suburban Base)
+REAL_BOOT FootSteps (1994-11-08)(Suburban Base)[h ALE]
+REAL_BOOT For Rent - Crystal Is Dead (1994-02)(Melon Dezign)[h zebra3.org]
+REAL_BOOT Forces of the Pyramid (1989-02-11)(Kefrens)[a][KS1.3]
+REAL_BOOT Forces of the Pyramid (1989-02-11)(Kefrens)[KS1.3]
+REAL_PASS Forever (1996)(Cirion)(AGA)(Disk 1 of 2)[HD][D96#3]
+REAL_PASS Forever (1996)(Cirion)(AGA)(Disk 2 of 2)[HD][D96#3]
+REAL_BOOT Foundation (1995)(Anadune)(AGA)(Disk 1 of 2)
+REAL_BOOT Foundation (1995)(Anadune)(AGA)(Disk 2 of 2)
+REAL_BOOT Fractal Attraction (1994)(Aesthetica)[h BTTR]
+REAL_BOOT Fractal Frenzy (1990-08-10)(Accession)[h Warlock]
+REAL_BOOT Fractal Frenzy (1990-08-10)(Accession)[h Warlock][m bamcopy]
+REAL_BOOT Fractal-Experience, The (1994)(Extince)
+REAL_BOOT Fractale (1991)(Addonic)
+REAL_BOOT Fractale (1991)(Addonic)[KS2.0]
+REAL_BOOT Fragile Intensity - Intruder Megademo (1991-06)(Aurora)
+REAL_BOOT Fraqtal (1993-06)(Magic)
+REAL_BOOT Freddy Is Back (1990-06-02)(Paradox)[FFS]
+REAL_BOOT Freddy the Demo (1990-07-18)(Dexion)
+REAL_BOOT Free Spirit (1995-10-21)(Maniacs)
+REAL_BOOT Free Your Mind (1993-03)(Nuance)
+REAL_BOOT Free Your Mind (1995-12-27)(Scoopex)(AGA)[h BTTR]
+REAL_BOOT Freedom (1992-09-05)(Nova)(Disk 1 of 2)
+REAL_BOOT Freedom (1992-09-05)(Nova)(Disk 1 of 2)[a]
+REAL_BOOT Freedom (1992-09-05)(Nova)(Disk 1 of 2)[b doscopy]
+REAL_PASS Freedom (1992-09-05)(Nova)(Disk 2 of 2)
+REAL_PASS Freedom (1992-09-05)(Nova)(Disk 2 of 2)[a]
+REAL_PASS Freedom (1992-09-05)(Nova)(Disk 2 of 2)[b errdms]
+REAL_BOOT Freedom (1992-09-15)(Nova)(Disk 1 of 2)
+REAL_PASS Freedom (1992-09-15)(Nova)(Disk 2 of 2)
+REAL_PASS Freedom (1992-09-15)(Nova)(Disk 2 of 2)[a]
+REAL_BOOT Freedom Force Megademo (1989)(Freedom Force)
+REAL_BOOT Freedom Force Megademo (1989)(Freedom Force)[a]
+REAL_BOOT Freekd Out (1989)(Crusaders)
+REAL_BOOT Freekd Out (1989)(Crusaders)[m]
+REAL_BOOT Fresh Flavour - Is That da Fresh Flava (1994-05-19)(Eskimos)
+REAL_BOOT Fresh Flavour - Is That da Fresh Flava (1994-05-19)(Eskimos)[a]
+REAL_BOOT Friday at Eight - The Aftertouche (1994-04-05)(Polka Brothers)(AGA)[G94#3]
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Pipeline (1989)(Brown, Richard)[b dump]
+REAL_BOOT Pipeline (1990)(Cluster Developments)(PD)[h Software 2000]
+REAL_BOOT Pipeline (19xx)(Amonia)(PD)
+REAL_BOOT Pipeline 3 (1993)(Exterminators)
+REAL_BOOT Pipeliner (19xx)(Only Games)
+REAL_BOOT Pitch'n'Putt (1996)(Phelps, Paul - F1 Licenceware)(LW)(Disk 1 of 5)[1997 edition][AMOS]
+REAL_BOOT Pitch'n'Putt (1996)(Phelps, Paul - F1 Licenceware)(LW)(Disk 1 of 5)[AMOS]
+REAL_BOOT Pitch'n'Putt (1996)(Phelps, Paul - F1 Licenceware)(LW)(Disk 2 of 5)[1997 edition][bootable]
+REAL_BOOT Pitch'n'Putt (1996)(Phelps, Paul - F1 Licenceware)(LW)(Disk 2 of 5)[bootable]
+REAL_PASS Pitch'n'Putt (1996)(Phelps, Paul - F1 Licenceware)(LW)(Disk 3 of 5)
+REAL_PASS Pitch'n'Putt (1996)(Phelps, Paul - F1 Licenceware)(LW)(Disk 3 of 5)[1997 edition]
+REAL_PASS Pitch'n'Putt (1996)(Phelps, Paul - F1 Licenceware)(LW)(Disk 4 of 5)
+REAL_PASS Pitch'n'Putt (1996)(Phelps, Paul - F1 Licenceware)(LW)(Disk 4 of 5)[1997 edition]
+REAL_PASS Pitch'n'Putt (1996)(Phelps, Paul - F1 Licenceware)(LW)(Disk 5 of 5)
+REAL_PASS Pitch'n'Putt (1996)(Phelps, Paul - F1 Licenceware)(LW)(Disk 5 of 5)[1997 edition]
+REAL_BOOT Pitfall 2 - The Lost Caverns (2021-02-07)(Earok)
+REAL_BOOT Pixie Kingdom (1991)(Miller, Luke)(PD)(Disk 1 of 2)[AMOS]
+REAL_BOOT Pixie Kingdom (1991)(Miller, Luke)(PD)(Disk 2 of 2)[AMOS]
+REAL_BOOT Planet Fall (demo-playable) (1994)(Black Sun)(SW)[68000 version][AMOS]
+REAL_PASS Planet Fall (demo-playable) (1994)(Black Sun)(SW)[68000 version][WB][AMOS]
+REAL_PASS Planet Fall (demo-playable) (1994)(Black Sun)(SW)[68030 version][WB][AMOS]
+REAL_BOOT Plasma Bubble (1992)(Irving, F.)
+REAL_BOOT Plat-Man (1995)(Frentic)[AMOS][The One #80]
+REAL_BOOT Platon (1993)(Le Guirec, Alain)
+REAL_BOOT Playball (1996)(Brook, G.)[h Online]
+REAL_BOOT Plix v1.0 (1994)(Kern, Achim)(de)[h Brillance]
+REAL_PASS Plix v1.0 (1994)(Kern, Achim)(de)[WB]
+REAL_BOOT Plouf v1.1 (2013-01-22)(Gateau, Aurelien)(FW)
+REAL_BOOT Plubz (1997)(NC Gamez)(AGA)[h BTTR]
+REAL_BOOT Plumpy (1996)(LT Design - F1 Licenceware)(AGA)(LW)
+REAL_BOOT Pod (1992)(Southern, S.)[o]
+REAL_PASS Pog-ahontas (1996)(Jean-Pierre Software)(fr)[v Ebola][WB]
+REAL_BOOT Poing '91 (1991)(Simplex)[h SR - Cobra]
+REAL_BOOT Poing '91 (1991)(Simplex)[h SR]
+REAL_PASS Poing (1992)(van der Valk, Paul)(PD)[WB]
+REAL_PASS Poing 3 (1995)(van der Valk, Paul)(PD)[WB]
+REAL_BOOT Poing 5 (1997)(van der Valk, Paul)(PD)[h BTTR]
+REAL_BOOT Poing 6 (1998)(van der Valk, Paul)(PD)[h BTTR]
+REAL_PASS Poing 6 (1998)(van der Valk, Paul)(PD)[WB]
+REAL_BOOT Poker Mania (1994)(Green Lizard)
+REAL_BOOT Poker Mania (1994)(Green Lizard)[a]
+REAL_BOOT Poker Mania (1994)(Green Lizard)[a2]
+REAL_BOOT Poker Mania (1994)(Green Lizard)[cr Hot Tuna]
+REAL_BOOT Polataa IV (19xx)(Mopz)(AGA)
+REAL_BOOT Pollymorf (1993)(Campbell, Andrew)(PD)[cr Pulse]
+REAL_BOOT Pollymorf (1993)(Campbell, Andrew)[cr LGD]
+REAL_BOOT Pom Pom Gunner (1991)(Reeve, Donovan)(SW)
+REAL_BOOT Pong '91 (1991)(Simplex)
+REAL_BOOT Pong (1992)(Buraglio, Claudio)(PD)
+REAL_BOOT Poo-Poo Dreams (1993-02-15)(The Silents)[trackdisk version]
+REAL_BOOT Pool (1987)(T., M. - Vahle, P.)
+REAL_BOOT Pool 2099 (demo-playable) (19xx)(Mickie, D.)
+REAL_BOOT Pooyan (1996)(Lunn, Andreas)
+REAL_BOOT Popcorn! (1995)(Rebas, M.)
+REAL_PASS PoPup (1998)(Sly)(AGA)[HD]
+REAL_BOOT Pork-a-Pork (1991)(For You)[h Pirates]
+REAL_BOOT Pot Fun (1991)(Living Colors)[cr Genesis Project]
+REAL_BOOT Pot Fun (1991)(Living Colors)[cr TLF]
+REAL_BOOT Power Battle (1994)(Animators)(Disk 1 of 2)(SW-R)
+REAL_BOOT Power Battle (1994)(Animators)(Disk 1 of 2)(SW)[h Dracs]
+REAL_BOOT Power Battle (1994)(Animators)(Disk 2 of 2)(SW-R)
+REAL_BOOT Power Battle (1994)(Animators)(Disk 2 of 2)(SW)[h Dracs]
+REAL_BOOT Power Battle (1994)(Animators)(SW)
+REAL_BOOT Power Tetris v1.12 (1994)(Visual Concept)(SW)[h Nemesis - Pazza][AMOS]
+REAL_BOOT Power Tetris v1.12 (1994)(Visual Concept)(SW)[h Nemesis - Pazza][m bamcopy][AMOS]
+REAL_BOOT Powerball v2.5 (demo-playable) (1997)(Skywards)(SW)
+REAL_BOOT Poweroids v0.4 (1995)(Bock, Matthias)[WB]
+REAL_BOOT Poweroids v1.2 (1995)(Bock, Matthias)[h Digital Harem]
+REAL_BOOT Poweroids v1.3 (1995-11-30)(Bock, Matthias)(FW)[68020, 1Mb Chip]
+REAL_BOOT Premier League (1993)(King, Dave - F1 Licenceware)(LW)[1998 edition][AMOS]
+REAL_BOOT Premier League (1993)(King, Dave - F1 Licenceware)(LW)[AMOS]
+REAL_BOOT Premier Picks (1993)(Blacklock, T.)
+REAL_BOOT Premier Sixes (1997)(McCloud)[h TDD]
+REAL_BOOT Princ Jason (2009-12-10)(Orlicky, Martin)(cs)[v Ebola]
+REAL_BOOT Prize Fighter (1992)(PowerHouse)
+REAL_BOOT Pro Poker (1992)(Microsys)(PD)
+REAL_PASS Pro Punter (1992)(DGA)[WB]
+REAL_BOOT Prodigal Son Adventure (1991)(Filsak, J.)[cr Zaracon]
+REAL_BOOT Professional Bingo (1993)(Brown, Dave)(PD)[AMOS]
+REAL_BOOT Project Buzzbar (19xx)(Armstrong, S.)[h Graph FX - STR]
+REAL_BOOT Project Buzzbar (19xx)(Armstrong, S.)[h Graph FX - STR][a]
+REAL_BOOT Project Horizon (demo-playable) (2021-02-24)(Electric Black Sheep)[AMOS]
+REAL_BOOT Prototype (1997)(Caleb, Christopher - F1 Licenceware)(LW)(Disk 1 of 5)[2Mb RAM, KS2.0][AMOS]
+REAL_BOOT ProTris v1.0 (1993-11-03)(Mirage)(SW)[h Pazza]
