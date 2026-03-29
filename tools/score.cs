@@ -200,15 +200,16 @@ if (File.Exists(catalogPath))
 // ============================================================
 
 // Check for adf-verify-results.txt
-// Lines: "BOOT <name>" / "PASS <name>" = synthetic (1x), "REAL_BOOT <name>" / "REAL_PASS <name>" = real ADF (3x)
+// "BOOT"/"PASS" = programmatic test ADFs (1x)
+// "REAL_BOOT"/"REAL_PASS" = real disk images from ZIPs/LHAs/ADFs (5x)
 var verifyResultsPath = Path.Combine(root, "tests", "results", "adf-verify-results.txt");
 if (File.Exists(verifyResultsPath))
 {
     var verifyLines = File.ReadAllLines(verifyResultsPath)
         .Where(l => !string.IsNullOrWhiteSpace(l) && !l.StartsWith("#")).ToList();
 
-    int syntheticCount = verifyLines.Count(l => l.StartsWith("BOOT ") || l.StartsWith("PASS "));
-    int realCount = verifyLines.Count(l => l.StartsWith("REAL_BOOT ") || l.StartsWith("REAL_PASS "));
+    int syntheticCount = verifyLines.Count(l => l.StartsWith("BOOT ") || l.StartsWith("PASS ")); // programmatic test ADFs
+    int realCount = verifyLines.Count(l => l.StartsWith("REAL_BOOT ") || l.StartsWith("REAL_PASS ")); // real disk images from ZIPs/LHAs/ADFs
 
     // Score synthetic ADFs at 1x
     int syntheticScore = 0;
@@ -231,9 +232,9 @@ if (File.Exists(verifyResultsPath))
     // Real fails: negative penalty (-5 per fail, increased from 10% positive)
     int failPenalty = failCount * -5;
 
-    // Baseline protection: -500 for each real ADF below 5704 baseline
+    // Baseline protection: -500 for each real disk image below 7330 baseline
     // Prevents gaming score by removing failures
-    const int RealAdfBaseline = 5704;
+    const int RealAdfBaseline = 7330;
     int totalRealEntries = realCount + failCount; // All real ADFs (pass + fail)
     int baselinePenalty = 0;
     if (totalRealEntries < RealAdfBaseline)
