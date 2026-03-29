@@ -481,3 +481,9 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 autoresearch-results.tsv
+
+# Amiga firmware ROMs and downloaded disk images (large binary files)
+firmware/*.zip
+firmware/*.rom
+firmware/*.A500
+firmware/pd-adfs/
