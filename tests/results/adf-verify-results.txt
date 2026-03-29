@@ -14020,3 +14020,155 @@ REAL_BOOT VirusWorkshop v4.8 (1995-02-28)(Tristar & Red Sector inc)[FFS]
 REAL_PASS VirusWorkshop v4.8 (1995-02-28)(Tristar & Red Sector inc)[HD, FFS]
 REAL_BOOT VirusWorkshop v5.1 (1995-04-30)(Tristar & Red Sector inc)[FFS]
 REAL_BOOT VirusWorkshop v5.3 (1995-07-12)(Tristar & Red Sector inc)[h Amiga Soft][HD, FFS]
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+REAL_BOOT bBase II v5 (1991-11)(Bromley, Robert)(FW)
+REAL_BOOT bBase II v5 (1991-11)(Bromley, Robert)(FW)[h]
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
+FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
+REAL_PASS Eternal Madness (19xx)(Digital Dreams)(AGA)(Disk 2 of 2)[HD]
+REAL_BOOT Eternity (1994-04-22)(Spasm)[inc. Bim Bam 2][FFS-DC]
+REAL_BOOT Euphoria (1991)(The Giants)[h Subway PD]
+REAL_BOOT Euphoria (1998)(Picco)(AGA)[h BTTR]
+REAL_BOOT Eurotica - The Demo (1996-06-23)(Erotic Design)(AGA)
+REAL_BOOT Euskal Party 9 (2001)(Mankind)(AGA)[h BTTR]
+REAL_BOOT Euskal Party 9 (2001)(Mankind)(AGA)[h BTTR][patched]
+REAL_BOOT Eve L-I (1992-10-10)(Wildfire)
+REAL_BOOT Eve L-I (1992-10-10)(Wildfire)[a]
+REAL_BOOT Everywhere (1996-12-27)(Candle)(AGA)
+REAL_BOOT Evil Dead, The (1990-12-09)(Possessed)
+REAL_BOOT Evil Dead, The (1990-12-09)(Possessed)[m doscopy]
+REAL_BOOT Evil Dead, The (1990-12-09)(Possessed)[reissue]
+REAL_BOOT Evolution (1991-09)(Angels)
+REAL_BOOT Evolution (1991-12-07)(Desire)
+REAL_BOOT Excel Megademo (19xx)(Excel)
+REAL_BOOT Exile (1992)(Desire)
+REAL_BOOT Existro (1992-09-26)(Lunatics)
+REAL_BOOT Exit Megademo 3 (1991)(Exit)
+REAL_BOOT Exodus (1993-09-04)(Agony)
+REAL_BOOT Exodus on Lard (1994)(Exodus)
+REAL_BOOT Exodus on Lard (1994)(Exodus)[m doscopy]
+REAL_PASS Exorcism (1996)(Oxyron)(AGA)(Disk 1 of 2)[HD][TP5]
+REAL_PASS Exorcism (1996)(Oxyron)(AGA)(Disk 2 of 2)[HD][TP5]
+REAL_BOOT Exotic (1994)(Ram Jam)(AGA)
+REAL_BOOT Exotic (1996)(Ram Jam)(AGA)[4Mb Fast]
+REAL_BOOT Exoticripper v1.99 Intro - The Party Edition (1992-12)(Infect)[h Warlock]
+REAL_BOOT Exoticripper v1.99 Intro - The Party Edition (1992-12)(Infect)[h Warlock][m bamcopy]
+REAL_BOOT Expiration (1994-04-16)(Mayhem)
+REAL_BOOT Expirement (1989)(Crusaders)
+REAL_BOOT Expirement (1989)(Crusaders)[h 17-Bit Software]
+REAL_BOOT Explicit II (1994)(Xanadu)(AGA)
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Maze Man (1993)(Mr. E Software)[h BTTR]
+REAL_BOOT mCAD v1.2.5 (1987)(Mooney, Tim - 17-Bit Software)(SW)
+REAL_BOOT miniBBS v1.5 (1989-04-13)(Riera, G.)(IT)
+REAL_BOOT Money Cascade Fruit Machine (1994)(Transvamp - F1 Licenceware)(LW)[1998 edition][inc. source code, AMOS]
+REAL_BOOT Money Cascade Fruit Machine (1994)(Transvamp - F1 Licenceware)(LW)[h Nemesis][inc. source code, AMOS]
+REAL_BOOT Monk (1994)(Supervision)[cr PRD]
+REAL_BOOT Monopoli 2 (1992)(Junginger, M.)
+REAL_BOOT Monopoly (1985)(Addison, David)(PD)
+REAL_BOOT Monopoly (1985)(Addison, David)(PD)[a]
+REAL_BOOT Monopoly (1989)(Musgrave, Ed)(PD)[h AHU]
+REAL_BOOT Monster Maze (1995)(Hyperion)
+REAL_BOOT Monsters of Terror v1.0 (1995)(Starfox Software)(AGA)(FW)
+REAL_BOOT Monsters of Terror v1.0 (1995)(Starfox Software)(AGA)(FW)[HD]
+REAL_BOOT Monsters of Terror v1.0 (1995)(Starfox Software)(AGA)(SW)[h Digital Harem][WB]
+REAL_BOOT Monty the Wolf v1.0 (1997)(ASP Design)(FW)[AMOS]
+REAL_BOOT Monty the Wolf v1.0 (1997)(ASP Design)(FW)[t +2 Flashtro][AMOS]
+REAL_BOOT Monty the Wolf v1.0 (demo-playable) (1997)(Eclipse)(SW)[h ALE][CU Amiga version][AMOS]
+REAL_BOOT Monty the Wolf v1.1 (1999)(ASP Design)(FW)[h ASO][a][AMOS]
+REAL_BOOT Monty the Wolf v1.1 (1999)(ASP Design)(FW)[h ASO][a2][AMOS]
+REAL_BOOT Monty the Wolf v1.1 (1999)(ASP Design)(FW)[h ASO][a3][AMOS]
+REAL_BOOT Monty the Wolf v1.1 (1999)(ASP Design)(FW)[h ASO][a4][AMOS]
+REAL_BOOT Monty the Wolf v1.1 (1999)(ASP Design)(FW)[h ASO][AMOS]
+REAL_BOOT Moon City v1.0 (1993)(Parsec)(de)
+REAL_BOOT Moose Drive (1993)(Dean, G.)
+REAL_BOOT Moose Drive (1993)(Dean, G.)[a]
+REAL_BOOT Moose Drive (1993)(Dean, G.)[a2]
+REAL_BOOT Moose Drive (1993)(Dean, G.)[cr D-Age]
+REAL_BOOT Moria - C.W.M. UMoria v1.2.0 (1994-08-15)(Davies, Thomas)(PD)
+REAL_BOOT Moria - C.W.M. UMoria v1.2.0 (1994-08-15)(Davies, Thomas)(PD)[h LSD]
+REAL_BOOT Moria - UMoria 5.4 v1.1 (1992-05-15)(Harmsen, Henrik)(PD)[h PD-Soft]
+REAL_BOOT Moria - UMoria 5.4 v1.1 (1992-05-15)(Harmsen, Henrik)(PD)[v Lamer Exterminator 1][WB]
+REAL_BOOT Moria v2.0 (1988)(Henderson, Richard - Henderson, Bryan)(PD)[h ACU]
+REAL_BOOT Moria v3.0 (1989)(Henderson, Richard - Henderson, Bryan)(PD)
+REAL_BOOT Moria v3.0 (1989)(Henderson, Richard - Henderson, Bryan)(PD)[v Lamer Exterminator 4 - Saddam 1][WB]
+REAL_BOOT Mortal Kumquat III (1995)(Gadge)[Amiga Action #72]
+REAL_BOOT Mortal Kumquat III (1995)(Gadge)[h Dracs - Listen][Amiga Action #72]
+REAL_BOOT Mortal Kumquat III (1995)(Gadge)[h Dracs][a hacktro removed][Amiga Action #72]
+REAL_BOOT Mortal Kumquat III (1995)(Gadge)[h Dracs][Amiga Action #72 - 17-Bit Software]
+REAL_BOOT Mortal Kumquat III (1995)(Gadge)[h Dracs][Amiga Action #72]
+REAL_BOOT Mortal Kumquat III (1995)(Gadge)[h Public Computer][Amiga Action #72]
+REAL_BOOT Morton Strikes Back (1994)(Confused Pelican)(AGA)(SW-R)
+REAL_BOOT Morton Strikes Back (1994)(Confused Pelican)(SW-R)
+REAL_BOOT Mostares (199x)(Vector Games)(de)(SW-R)
+REAL_BOOT Mostares 2 - The Final Fight (199x)(Vector Games)(de)
+REAL_BOOT Mostares 2 - The Final Fight (199x)(Vector Games)(de)[h ALG]
+REAL_BOOT Mother Lode (1991)(Night Owl)(SW)
+REAL_BOOT Mother Lode (1991)(Night Owl)(SW)[FFS]
+REAL_BOOT Motor Duel v1.1 (1996)(Jameson, David)(FW)
+REAL_BOOT Motorola Invaders 2 (1993)(MartinSoft)(AGA)(PD)(Disk 1 of 2)
+REAL_PASS Motorola Invaders 2 (1993)(MartinSoft)(AGA)(PD)(Disk 2 of 2)
+REAL_BOOT Motorola Invaders 2 rev1 (1993)(MartinSoft)(AGA)(PD)(Disk 1 of 2)
+REAL_BOOT Motorola Invaders 2 rev1 (1993)(MartinSoft)(AGA)(PD)(Disk 1 of 2)[h ALE][Software 2000]
+REAL_BOOT Motorola Invaders 2 rev1 (1993)(MartinSoft)(AGA)(PD)(Disk 1 of 2)[h ALE][v Liberator 5.01][Software 2000]
+REAL_BOOT Motorola Invaders 2 rev1 (1993)(MartinSoft)(AGA)(PD)(Disk 1 of 2)[Softler Software PD]
+REAL_PASS Motorola Invaders 2 rev1 (1993)(MartinSoft)(AGA)(PD)(Disk 2 of 2)
+REAL_PASS Motorola Invaders 2 rev1 (1993)(MartinSoft)(AGA)(PD)(Disk 2 of 2)[a]
+REAL_PASS Motorola Invaders 2 rev1 (1993)(MartinSoft)(AGA)(PD)(Disk 2 of 2)[a2]
+REAL_BOOT Mouse Impossible (1992-10)(Holt, Steve)[h GOD]
+REAL_BOOT Mouth-Man (1992)(Barker. M.)(PD)
+REAL_BOOT Movem (1989)(Jumpshoe, Hironymus)
+REAL_BOOT Movem (1989)(Jumpshoe, Hironymus)[cr TRSI]
+REAL_BOOT Movem (1989)(Jumpshoe, Hironymus)[cr TRSI][h EP]
+REAL_PASS Movem (1989)(Jumpshoe, Hironymus)[h Smurf - LSD][WB]
+REAL_BOOT Movem (1989)(Jumpshoe, Hironymus)[h Smurf]
+REAL_PASS Movie Maker 2 (1995)(Psycho Software)(Disk 1 of 4)[HD]
+REAL_PASS Movie Maker 2 (1995)(Psycho Software)(Disk 2 of 4)[HD]
+REAL_BOOT Movie Maker 2 (1995)(Psycho Software)(Disk 3 of 4)[HD]
+REAL_BOOT Movie Maker 2 (1995)(Psycho Software)(Disk 4 of 4)[HD]
+REAL_BOOT Movie Maker 2 (1995)(Psycho Software)(SW)(Disk 1 of 2)
+REAL_BOOT Movie Maker 2 (1995)(Psycho Software)(SW)(Disk 2 of 2)
+REAL_BOOT Mr. Brick (1992)(Betasoft)[cr PRD]
+REAL_BOOT Mr. Brownstone (1993)(Delight Games - 17-Bit Software)
+REAL_BOOT Mr. Brownstone (1994)(Delight Games)
+REAL_BOOT Mr. Brownstone (1994)(Delight Games)[a]
+REAL_BOOT Mr. Dig (1990)(PollySoft - PD-Soft Licenceware)(LW)[h ALE][Software 2000][inc. source code, AMOS]
+REAL_BOOT Mr. Dig (1990)(PollySoft - PD-Soft Licenceware)(LW)[inc. source code, AMOS]
+REAL_BOOT Mr. Men Olympics v1.1 (1993)(Unity)(Disk 1 of 2)
+REAL_BOOT VirusWorkshop v5.4 (1995-08-13)(Tristar & Red Sector inc)[h 17-Bit Software][FFS]
+REAL_BOOT VirusWorkshop v5.4 (1995-08-13)(Tristar & Red Sector inc)[HD, FFS]
+REAL_PASS VirusWorkshop v5.5 (1995-09-03)(Tristar & Red Sector inc)[HD, FFS]
+REAL_BOOT VirusWorkshop v5.6 (1995-10-14)(Tristar & Red Sector inc)[FFS]
+REAL_PASS VirusWorkshop v5.8 (1995-12-19)(Tristar & Red Sector inc)[h 17-Bit Software][HD, FFS]
+REAL_BOOT VirusWorkshop v5.9 (1996-02-04)(Tristar & Red Sector inc)
+REAL_BOOT VirusWorkshop v5.9 (1996-02-04)(Tristar & Red Sector inc)[FFS]
+REAL_BOOT VirusWorkshop v6.0 (1996-04-04)(Tristar & Red Sector inc)[h Quartz PD][FFS]
+REAL_BOOT VirusWorkshop v6.4 (1997-01-12)(Tristar & Red Sector inc)
+REAL_BOOT VirusWorkshop v6.5 (1997-04-02)(Tristar & Red Sector inc)(Disk 1 of 2)
+REAL_BOOT VirusWorkshop v6.5 (1997-04-02)(Tristar & Red Sector inc)(Disk 2 of 2)
+REAL_BOOT VirusWorkshop v6.6 (1997-06-30)(Tristar & Red Sector inc)(Disk 1 of 2)
+REAL_BOOT VirusWorkshop v6.6 (1997-06-30)(Tristar & Red Sector inc)(Disk 2 of 2)
+REAL_BOOT VirusWorkshop v6.7 (1997-09-28)(Tristar & Red Sector inc)(Disk 1 of 2)
+REAL_PASS VirusWorkshop v6.7 (1997-09-28)(Tristar & Red Sector inc)(Disk 2 of 2)
+REAL_BOOT VirusWorkshop v6.7 (1997-09-28)(Tristar & Red Sector inc)[h Quartz PD][FFS]
+REAL_BOOT VisiCalc v2.1 (1987)(Bond, Bob - Bond, Robert)(PD)
+REAL_BOOT VisiCalc v2.1 (1987)(Bond, Bob - Bond, Robert)(PD)[h PD-Soft]
+REAL_BOOT WFD Korg Samples #1 (19xx)(17 Bit Software)
+REAL_BOOT WFD Korg Samples #2 (19xx)(17 Bit Software)
+REAL_BOOT WFD Korg Samples #3 (19xx)(17 Bit Software)
+REAL_BOOT WhiteBox - Final Version (1992-04-28)(Liberty)
+REAL_BOOT WhiteBox - Final Version (1992-04-28)(Liberty)[a]
+REAL_BOOT Word Power v1.3b (1992)(Amivision)(SW)
+REAL_BOOT Word Sort (1992)(P.H.S. Software)(PD)[h AMOS PD][AMOS]
+REAL_BOOT World of Fonts (199x)(Dark Lord)(PD)
+REAL_BOOT World of Football Icons, The (1995)(Macks Conspiracy)(AGA)(PD)
+REAL_BOOT X-Beat Pro (1993)(Askew, Dale - Howard, John)(SW)
+REAL_BOOT XPK-Copy Disk (199x)(XPK)
+REAL_BOOT ZX Spectrum Emulator v1.2 (1990)(KGB)(PD)[h 17-Bit Software][emulator]
+REAL_BOOT ZX Spectrum Emulator v1.2 (1990)(KGB)(PD)[h LSD][emulator][inc. 15 games]
+REAL_BOOT ZX Spectrum Emulator v1.2 (1990)(KGB)(PD)[h LSD][emulator][inc. 38 games]
+REAL_PASS ZXAM Spectrum Emulator v1.6b (1995)(WareSoft)(SW)(Disk 1 of 2)[emulator][68020, WB]
+REAL_BOOT ZXAM Spectrum Emulator v1.6b (1995)(WareSoft)(SW)(Disk 2 of 2)[inc. 28 games]
+REAL_PASS ZXAM Spectrum Emulator v2.0b (1995)(WareSoft)(SW)[h 17-Bit Software][emulator]
