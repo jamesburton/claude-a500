@@ -13915,3 +13915,108 @@ REAL_PASS Ultimate ZX Spectrum Software Collection (1994)(Shining 8)(AGA)(Disk 0
 REAL_PASS Ultimate ZX Spectrum Software Collection (1994)(Shining 8)(AGA)(Disk 07 of 10)[emulator]
 REAL_PASS Ultimate ZX Spectrum Software Collection (1994)(Shining 8)(AGA)(Disk 08 of 10)[emulator]
 REAL_PASS Ultimate ZX Spectrum Software Collection (1994)(Shining 8)(AGA)(Disk 09 of 10)[emulator]
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Enigma (1991-03-29)(Phenomena)[h]
+REAL_BOOT Enigma (1991-03-29)(Phenomena)[m baddump]
+REAL_BOOT Enigma (1991-03-29)(Phenomena)[m2 baddump]
+FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
+REAL_BOOT Enigma 2 (19xx)(Phenomena)
+REAL_BOOT Enjoy the Silents (1992-10-24)(The Silents)
+REAL_BOOT Enjoystick (1991)(2000 A.D.)[h Warlock][aka Enjoy Stick]
+REAL_BOOT Enjoystick (1991)(2000 A.D.)[h Warlock][m bamcopy][aka Enjoy Stick]
+REAL_BOOT Entering Hypnosis (1997)(Haujobb)(AGA)[h BTTR]
+REAL_BOOT Epic Megademo (19xx)(Epic)
+REAL_BOOT Equamania II and Drunken Skulls (19xx)(Delerious Designs)
+REAL_BOOT Equipose (1993-04-10)(Complex)
+REAL_BOOT Equipose (1993-04-10)(Complex)[h BTTR - Warlock]
+REAL_BOOT Equipose (1993-04-10)(Complex)[h BTTR]
+REAL_BOOT Eradication (1993-12-29)(Insane)
+REAL_BOOT Eradication (1993-12-29)(Insane)[b dump]
+FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
+REAL_BOOT Eternal Madness (19xx)(Digital Dreams)(AGA)(Disk 1 of 2)[HD]
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Meteors (1994)(Le Guirec, Alain)[h Warlock]
+REAL_BOOT Metograsp v1.8 (1994)(Ketturkat, D.)[WB]
+REAL_BOOT Metro-Cross (2013-09-11)(Wanted Team)[p][Atari ST conversion]
+REAL_BOOT Metropolis (demo-playable) (1992)(DIA Design)(PD)
+REAL_BOOT Mexican Massacre (1993)(Dudley, Frank)[PD-Soft][inc. source code, AMOS]
+REAL_BOOT Miam Man (19xx)(Phoenix Group)
+REAL_BOOT Micro Market (19xx)(Why Fronts)[v Liberator v5.01]
+REAL_BOOT Microbes (1992)(Vision)(SW)
+REAL_BOOT Microbes (1992)(Vision)(SW)[h BTTR]
+REAL_BOOT Microbes (1992)(Vision)(SW)[h UAF]
+REAL_BOOT Microbes (1992)(Vision)(SW)[h UAF][t +6 Offence]
+REAL_BOOT Microlyte Warriors v0.9 (demo-playable) (1996)(Birch, S. - TDD)[WB]
+REAL_BOOT Midnight Thief (1990)(Demon)[f Heartlund]
+REAL_BOOT Mikiko's Haicuchi (2008)(Four Season)[AMOS]
+REAL_BOOT MindBreaker (1987)(Digital Artwork)
+REAL_BOOT MindBreaker (1987)(Digital Artwork)[v Butonic v3.00][b corrupt file]
+REAL_BOOT Mine Field (1995)(Agony)(SW)
+REAL_BOOT Mine Runner v1.0 (1993-10-26)(Bock, Matthias)(FW)[h Assassins - ALE]
+REAL_BOOT Mine Runner v1.1 (1993-12-11)(Bock, Matthias)(FW)
+REAL_PASS Mine Runner v1.8 (1995-11-30)(Bock, Matthias - Nordlicht PD)(SW)[WB]
+REAL_BOOT Minefield (1993)(Engineering Ideas)[h BTTR]
+REAL_BOOT Minefield (1993)(Engineering Ideas)[h BTTR][a]
+REAL_BOOT MineRunner v1.8 (1995-11-30)(Bock, Matthias)(FW)
+REAL_BOOT Minesweeper (2012)(Hurley, Lee)
+REAL_BOOT Minetrasher (19xx)(Sculptor)
+REAL_BOOT Miniblast v1.0 (1990)(Bjerin, Anders)
+REAL_BOOT Miss All Bare America (1990)(TEW)[cr Aeon]
+REAL_BOOT Miss All Bare America (1990)(TEW)[cr Aeon][a]
+REAL_BOOT Missile Command (1986)(Merriman, Glen)(PD)
+REAL_BOOT Missile Command (19xx)(Bithead Technologies)[h BTTR]
+REAL_BOOT Missile Command (19xx)(Bithead Technologies)[h Senstics]
+REAL_BOOT Missile Command v2 (1991)(Bithead Technologies)
+REAL_BOOT Missile Defense (1986)(Merriman, Glen)(PD)[h Fair, C.]
+REAL_BOOT Missing in Action (1993)(Terabyte)
+REAL_BOOT Missing in Action (1993)(Terabyte)[a]
+REAL_BOOT Mister & Missis (1992)(Evans, J.)[t +3 GOD]
+REAL_BOOT Model's 1st Demo (demo-rolling) (1992-05)(Model)(AGA)[b]
+REAL_BOOT Monaco (1993)(Boys in Beige)(PD)
+REAL_BOOT Monaco (1993)(Boys in Beige)(PD)[h BTTR][m intro removed]
+REAL_BOOT Monaco (1993)(Boys in Beige)(PD)[m bamcopy]
+REAL_BOOT Monaco (1993)(Boys in Beige)(PD)[m intro disable]
+REAL_BOOT Monark v1.0e (1989)(Miner, Richard)[f LGD][h DGN]
+REAL_BOOT Monark v1.0e (1989)(Miner, Richard)[h DGN]
+REAL_PASS Ultimate ZX Spectrum Software Collection (1994)(Shining 8)(AGA)(Disk 10 of 10)[emulator]
+REAL_PASS Urban Shakedown Samples (199x)(Urban Shakedown)(Disk 1 of 6)[signed 8bit mono]
+REAL_PASS Urban Shakedown Samples (199x)(Urban Shakedown)(Disk 2 of 6)
+REAL_PASS Urban Shakedown Samples (199x)(Urban Shakedown)(Disk 3 of 6)
+REAL_PASS Urban Shakedown Samples (199x)(Urban Shakedown)(Disk 4 of 6)
+REAL_PASS Urban Shakedown Samples (199x)(Urban Shakedown)(Disk 5 of 6)
+REAL_PASS Urban Shakedown Samples (199x)(Urban Shakedown)(Disk 6 of 6)
+REAL_BOOT V.B.D. IFF (1994)(Gadge - F1 Licenceware)(LW)
+REAL_BOOT VCheck1.9 (1988)(Commodore Amiga Technical Support)[inc. VirusX v1.21]
+REAL_PASS Video & Genlock Programs (19xx)(George Thompson Services)(PD)(Disk 1 of 2)[WB]
+REAL_PASS Video & Genlock Programs (19xx)(George Thompson Services)(PD)(Disk 2 of 2)[WB]
+REAL_PASS VideoTracker v1.0 (1993-10-03)(van Campen, Peter)(AGA)(Disk 1 of 7)[HD]
+REAL_PASS VideoTracker v1.0 (1993-10-03)(van Campen, Peter)(AGA)(Disk 2 of 7)[HD]
+REAL_PASS VideoTracker v1.0 (1993-10-03)(van Campen, Peter)(AGA)(Disk 3 of 7)[HD]
+REAL_PASS VideoTracker v1.0 (1993-10-03)(van Campen, Peter)(AGA)(Disk 4 of 7)[HD]
+REAL_PASS VideoTracker v1.0 (1993-10-03)(van Campen, Peter)(AGA)(Disk 5 of 7)[HD]
+REAL_PASS VideoTracker v1.0 (1993-10-03)(van Campen, Peter)(AGA)(Disk 6 of 7)[HD]
+REAL_PASS VideoTracker v1.0 (1993-10-03)(van Campen, Peter)(AGA)(Disk 7 of 7)[HD]
+REAL_BOOT VideoTracker v1.34 (1994-02-23)(van Campen, Peter)(AGA)(SW)[FFS]
+REAL_BOOT VideoTracker v1.99 (1994-07-05)(van Campen, Peter)(ECS-AGA)(SW)
+REAL_BOOT VideoTracker v2.0 (1994-07-18)(van Campen, Peter)(AGA)(SW-R)[CU Amiga]
+REAL_BOOT Virus Expert, The v1.4 (1989-04)(van der Valk, Paul)
+REAL_BOOT VirusChecker v6.45 (1994-12-03)(Safe Hex International)[h SunSET][WB]
+REAL_BOOT VirusInformationBase v1.1 (1994-06-08)(Safe Hex International)(Disk 1 of 2)
+REAL_BOOT VirusInformationBase v1.1 (1994-06-08)(Safe Hex International)(Disk 2 of 2)
+REAL_BOOT VirusWorkshop v3.0 (1993-12-03)(Tristar & Red Sector inc)[HD]
+REAL_BOOT VirusWorkshop v3.1 (1994-01-05)(Tristar & Red Sector inc)[HD]
+REAL_PASS VirusWorkshop v3.8 (1994-06-22)(Tristar & Red Sector inc)[h PD-Soft][HD, FFS]
+REAL_PASS VirusWorkshop v4.0 (1994-08-20)(Tristar & Red Sector inc)[HD]
+REAL_BOOT VirusWorkshop v4.2 (1994-10-08)(Tristar & Red Sector inc)[HD]
+REAL_BOOT VirusWorkshop v4.3 (1994-10-21)(Tristar & Red Sector inc)[HD]
+REAL_BOOT VirusWorkshop v4.5 (1994-12-05)(Tristar & Red Sector inc)[h PD-Soft][HD, FFS]
+REAL_BOOT VirusWorkshop v4.5 (1994-12-05)(Tristar & Red Sector inc)[HD, FFS]
+REAL_BOOT VirusWorkshop v4.6 (1995-01-08)(Tristar & Red Sector inc)
+REAL_BOOT VirusWorkshop v4.7 (1995-01-28)(Tristar & Red Sector inc)[FFS]
+REAL_PASS VirusWorkshop v4.7 (1995-01-28)(Tristar & Red Sector inc)[HD]
+REAL_BOOT VirusWorkshop v4.8 (1995-02-28)(Tristar & Red Sector inc)[FFS]
+REAL_PASS VirusWorkshop v4.8 (1995-02-28)(Tristar & Red Sector inc)[HD, FFS]
+REAL_BOOT VirusWorkshop v5.1 (1995-04-30)(Tristar & Red Sector inc)[FFS]
+REAL_BOOT VirusWorkshop v5.3 (1995-07-12)(Tristar & Red Sector inc)[h Amiga Soft][HD, FFS]
