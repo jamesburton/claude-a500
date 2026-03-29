@@ -13497,3 +13497,259 @@ REAL_BOOT Looty v2.0 (2020-11-17)(Hogben, Mark)[Blitz BASIC]
 REAL_BOOT Lord of Hosts v1.0 (1991)(Pietzcker, Tim)(PD)[h Crash - TFA]
 REAL_BOOT Lord of Hosts v1.0 (1991)(Pietzcker, Tim)(PD)[h Crash - TFA][m bamcopy]
 REAL_BOOT Lore of Conquest v1.3 (1991)(Bryant, Mike)(SW)
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Drunk Desert Demo, The (1990-05-20)(Paradox)[h Warlock][m bamcopy]
+REAL_BOOT Dunxxadelia II - The Revenge (1991-05)(Alarm)[h Warlock]
+REAL_BOOT Dunxxadelia II - The Revenge (1991-05)(Alarm)[h Warlock][m bamcopy]
+REAL_BOOT Dutch Dreams BBStro (1994-09-08)(Genetic)(AGA)
+REAL_BOOT Dynamic Illusions (1992-08-08)(Quartz)
+REAL_BOOT Dynamic Illusions (1992-08-08)(Quartz)[m baddump]
+REAL_BOOT Dynamite Fonts 2 (1991-05-17)(Stryx)
+REAL_BOOT Dyspepsia (1993-10)(Analogy)[b doscopy - dump]
+REAL_BOOT Dyspepsia (1993-10)(Analogy)[b2 doscopy - dump]
+REAL_BOOT E.T. Demo (1993-03-12)(E.T.)[1Mb Chip]
+REAL_BOOT Earth Buildings, The (2003)(Traktor - Tulou)(AGA)[h BTTR]
+REAL_BOOT Earth's Sorrows (1991-12-27)(Hawk)
+REAL_BOOT Easter Party Demo Competition (1991)(Express)
+REAL_BOOT Easter Party Demo Competition (1991)(Express)[a]
+REAL_BOOT Eat This (1992-08-01)(Panic)
+REAL_BOOT Eat This (1992-08-01)(Panic)[a doscopy]
+REAL_BOOT Echt (2002)(Push Entertainment)(AGA)[h BTTR]
+REAL_BOOT Eclipse (1999-07-10)(MadWizards)(AGA)[h BTTR]
+REAL_BOOT Eclipse (1999-08-28)(Scoopex)[h BTTR]
+REAL_BOOT Ecliptica (1992-12-27)(TRSI)[b doscopy][TP2#3]
+REAL_BOOT Ecliptica (1992-12-27)(TRSI)[TP2#3]
+REAL_BOOT Ectoplazm BBS moves to Hallowed Point (1993-04-18)(Scoopex)[h Warlock]
+REAL_BOOT Ectoplazm BBS moves to Hallowed Point (1993-04-18)(Scoopex)[h Warlock][m bamcopy]
+REAL_BOOT Edit 0.5 (1998)(Haujobb)(AGA)[h BTTR]
+REAL_BOOT Effusion (1998-08-09)(Scoopex)(AGA)[h BTTR]
+REAL_BOOT Efter Plugget (1991)(Draco)[h BTTR]
+REAL_BOOT Ego (2000)(Focus Design)(AGA)[h BTTR]
+REAL_BOOT Ego-Trip (1991-07-13)(Cyrus)
+REAL_BOOT Ego-Trip (1991-07-13)(Cyrus)[b dump]
+REAL_BOOT Ektoplasma (1990-12-26)(Technoflight)
+REAL_BOOT Ektoplasma (1990-12-26)(Technoflight)[b dump]
+REAL_BOOT Electra (1998-11)(Darkage)(AGA)[h BTTR]
+REAL_BOOT Electric Shock (1993-06-23)(Genocide)
+REAL_BOOT Electrical Ecstasy (1991-06-07)(Amaze!)[h Warlock]
+REAL_BOOT Electrical Ecstasy (1991-06-07)(Amaze!)[h Warlock][m bamcopy]
+REAL_BOOT Electricity (2000)(Appendix)(AGA)[h BTTR]
+REAL_BOOT Electronic Trip (1992-01-27)(Nova)
+REAL_BOOT Electrons at Work (1998-04)(The Electronic Knights)
+REAL_BOOT Elefant, The (1990-06-29)(Scoopex)[h Warlock]
+REAL_BOOT Elefant, The (1990-06-29)(Scoopex)[h Warlock][m bamcopy]
+REAL_BOOT Elements (19xx)(Logic Probe)(AGA)[WB][BP#19]
+REAL_BOOT Elysion Demo Preview (1992)(Elysion)
+REAL_BOOT Elysion Demo Preview (1992)(Elysion)[h ALE][KS2.0]
+REAL_BOOT Elysion Demo Preview (1992)(Elysion)[h Warlock]
+REAL_BOOT Elysion Demo Preview (1992)(Elysion)[WB]
+REAL_BOOT Elysium - The Search for Anarchy (1991-04-28)(Sanity)[h Amiga Unlimited Munchen][FFS][SUM#3]
+REAL_BOOT Elysium - The Search for Anarchy (1991-04-28)(Sanity)[h Warlock][m bamcopy][SUM#3]
+REAL_BOOT Elysium - The Search for Anarchy (1991-04-28)(Sanity)[h Warlock][SUM#3]
+REAL_BOOT Elysium - The Search for Anarchy (1991-04-28)(Sanity)[inc. Sanity-Copy][SUM#3]
+REAL_BOOT Elysium - The Search for Anarchy (1991-04-28)(Sanity)[SUM#3]
+REAL_BOOT Embrolic Coding (1992-06-29)(X-Trade)
+REAL_BOOT Embrolic Coding (1992-06-29)(X-Trade)[a]
+REAL_PASS Embryo (1995)(Balance)(AGA)(Disk 1 of 2)[HD]
+REAL_BOOT ESWAT - Cyber Police Crackro (1990-11-28)(Paradox)[h Warlock]
+REAL_BOOT ESWAT - Cyber Police Crackro (1990-11-28)(Paradox)[h Warlock][m bamcopy]
+REAL_BOOT GAMA Professional v1.00 (1996)(Scum)(de)[inc. source code, AMOS]
+REAL_BOOT Game Warper 020 v1.0 (1994-07)(Taylor, D.)(SW)
+REAL_BOOT Game Warper 020 v1.0 (1994-07)(Taylor, D.)(SW)[a]
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+REAL_PASS Graphics Workbench v1.0 (1995)(Macks Conspiracy)(AGA)(Disk 1 of 4)[HD]
+REAL_PASS Graphics Workbench v1.0 (1995)(Macks Conspiracy)(AGA)(Disk 2 of 4)
+REAL_PASS Graphics Workbench v1.0 (1995)(Macks Conspiracy)(AGA)(Disk 4 of 4)
+REAL_BOOT GRFIX v2.1 (199x)(Detres, Franck)(fr)(SW)[h Floppy International][AMOS]
+REAL_BOOT Lore of Conquest v1.3 (1991)(Bryant, Mike)(SW)[a]
+REAL_BOOT Loser Dash (19xx)(Teravainen, K.)
+REAL_PASS Lost on Parrot Island (1996)(Otto, Frank)(AGA)(de-en)(FW)(Disk 1 of 2)[h FTH][HD]
+REAL_BOOT Lost on Parrot Island (1996)(Otto, Frank)(AGA)(de-en)(FW)(Disk 1 of 2)[h HF][HD]
+REAL_BOOT Lost on Parrot Island (1996)(Otto, Frank)(AGA)(de-en)(FW)(Disk 1 of 2)[h HF][m doscopy][HD]
+REAL_BOOT Lost on Parrot Island (1996)(Otto, Frank)(AGA)(de-en)(FW)(Disk 1 of 2)[h HF][v HNY 96][HD]
+REAL_PASS Lost on Parrot Island (1996)(Otto, Frank)(AGA)(de-en)(FW)(Disk 2 of 2)
+REAL_PASS Lost on Parrot Island (1996)(Otto, Frank)(AGA)(de-en)(FW)(Disk 2 of 2)[h FTH]
+REAL_PASS Lost on Parrot Island (1996)(Otto, Frank)(AGA)(de-en)(FW)(Disk 2 of 2)[h FTH][b disk label]
+REAL_PASS Lost on Parrot Island (1996)(Otto, Frank)(AGA)(de-en)(FW)(Disk 2 of 2)[m doscopy]
+REAL_BOOT Lost Onion, The (199x)(Rijnen, Sjef)(alpha)[AMOS]
+REAL_BOOT Lost Prince, The (demo-playable) (1994)(DTO Software)(PD)
+REAL_BOOT Lost v0.9.1 (2010)(Mistic JOE)(cs)[h Amiga CFP][AMOS]
+REAL_BOOT Lunar Death v1 (19xx)(White, Payton)(NTSC)(PD)[AMOS]
+REAL_BOOT Lupengo (19xx)(Borreo, Carlo)(PD)
+REAL_BOOT Lustrace v Parlamentu (1994)(Legion Software Alliance)(cs)
+REAL_BOOT M.O.R.C. v1.09 (19xx)(Edward, Terry)(PD)(Disk 1 of 2)[AMOS]
+REAL_PASS M.O.R.C. v1.09 (19xx)(Edward, Terry)(PD)(Disk 2 of 2)[AMOS]
+REAL_BOOT MA Games (1990)(M.A Software)(es)[v Blizzard v1.0][AMOS]
+REAL_BOOT Macho Killers (19xx)(Mellow Chips)[h BTTR]
+REAL_BOOT Mad Bomber Version II (1991)(Papworth, David)(PD)
+REAL_BOOT Mad Bomber Version II (1991)(Papworth, David)(PD)[h Assassins - ALE][KS2.04]
+REAL_BOOT Mad Bomber Version II (1991)(Papworth, David)(PD)[h IP]
+REAL_BOOT Mad Bomber Version II (1991)(Papworth, David)(PD)[h IP][a]
+REAL_BOOT Mad Factory v3.0 (1989)(Stumm, Roman)[h Assassins - ALE][KS2.04]
+REAL_BOOT Mad Fighters II 1200 (1994)(Man, Kwok)(AGA)(Disk 1 of 3)[AMOS]
+REAL_BOOT Mad Fighters II 1200 (1994)(Man, Kwok)(AGA)(Disk 1 of 3)[h Medellin][AMOS]
+REAL_BOOT Mad Fighters II 1200 (1994)(Man, Kwok)(AGA)(Disk 2 of 3)
+REAL_BOOT Mad Fighters II 1200 (1994)(Man, Kwok)(AGA)(Disk 2 of 3)[h Medellin]
+REAL_PASS Mad Fighters II 1200 (1994)(Man, Kwok)(AGA)(Disk 3 of 3)
+REAL_PASS Mad Fighters II 1200 (1994)(Man, Kwok)(AGA)(Disk 3 of 3)[h Medellin]
+REAL_BOOT Mad Fighters II 1200 (demo-playable) (1994)(Man, Kwok)(AGA)(PD)[AMOS]
+REAL_BOOT Mad Fighters II 1200 (demo-playable) (1994)(Man, Kwok)(AGA)(PD)[h PD-Soft][AMOS]
+REAL_BOOT Mad Fighters II 1200 (demo-playable) (1994)(Man, Kwok)(AGA)(PD)[m doscopy][AMOS]
+REAL_BOOT Madhouse - Indian Spirit (1995)(Spit)(Disk 1 of 2)[a][WB][AMOS]
+REAL_BOOT Madhouse - Indian Spirit (1995)(Spit)(Disk 1 of 2)[WB][AMOS]
+REAL_PASS Madhouse - Indian Spirit (1995)(Spit)(Disk 2 of 2)[WB]
+REAL_BOOT Madonna's Nude Puzzle (1991)(Clement, Paul)(PD)
+REAL_BOOT Madonna's Nude Puzzle (1991)(Clement, Paul)(PD)[h ALE]
+REAL_BOOT Madonna's Nude Puzzle (1991)(Clement, Paul)(PD)[h ALE][a]
+REAL_BOOT Madonna's Nude Puzzle (1991)(Clement, Paul)(PD)[h ALE][a2]
+REAL_BOOT Madonna's Nude Puzzle (1991)(Clement, Paul)(PD)[h ALE][a3]
+REAL_BOOT Magelore (1990)(Podesta, J.)[cr PNS]
+REAL_BOOT Magic Forest 2 - Son of Wilf (1991)(Shadow Software - Deja Vu)[h LSD][a cracktxt removed][AMOS]
+REAL_BOOT Magic Forest 2 - Son of Wilf (1991)(Shadow Software - Deja Vu)[h LSD][a][AMOS]
+REAL_BOOT Magic Forest 2 - Son of Wilf (1991)(Shadow Software - Deja Vu)[h LSD][AMOS]
+REAL_BOOT Magician (1990)(Marco, F.)(de)[tr en PRD][Amiga Power-Disc #07]
+REAL_BOOT Magnatron (1991)(BSP Design)(SW)
+REAL_BOOT Mah-Jongg - Dragon Tiles (1996)(Cynet)(AGA)
+REAL_BOOT Mah-Jongg - Dragon Tiles (1996)(Cynet)(AGA)[a]
+REAL_BOOT Make and Fight (demo-playable) (1992)(Metal Team)
+REAL_BOOT Make and Fight (demo-playable) (1992)(Metal Team)[h TDD]
+REAL_BOOT Malediction v3.0 (1995-02)(D'Heeger, Sebastien)(AGA)(en-fr)(SW)(Disk 1 of 2)
+REAL_BOOT Malediction v3.0 (1995-02)(D'Heeger, Sebastien)(AGA)(en-fr)(SW)(Disk 1 of 2)[h Dracs]
+REAL_PASS Malediction v3.0 (1995-02)(D'Heeger, Sebastien)(AGA)(en-fr)(SW)(Disk 2 of 2)
+REAL_BOOT Malediction v3.0 (1995-03)(D'Heeger, Sebastien - 17-Bit Software)(AGA)(SW)(Disk 1 of 2)
+REAL_PASS Malediction v3.0 (1995-03)(D'Heeger, Sebastien - 17-Bit Software)(AGA)(SW)(Disk 2 of 2)
+REAL_BOOT Malediction v3.0 (1995)(D'Heeger, Sebastien)(AGA)(fr)(SW-R)(Disk 1 of 2)[cr Passwords][h Dracs]
+REAL_BOOT Malediction v3.0 (1995)(D'Heeger, Sebastien)(AGA)(fr)(SW-R)(Disk 1 of 4)[cr Passwords]
+REAL_PASS Malediction v3.0 (1995)(D'Heeger, Sebastien)(AGA)(fr)(SW-R)(Disk 2 of 2)[cr Passwords][h Dracs]
+REAL_PASS Malediction v3.0 (1995)(D'Heeger, Sebastien)(AGA)(fr)(SW-R)(Disk 2 of 4)[cr Passwords]
+REAL_PASS Malediction v3.0 (1995)(D'Heeger, Sebastien)(AGA)(fr)(SW-R)(Disk 3 of 4)[cr Passwords]
+REAL_PASS Malediction v3.0 (1995)(D'Heeger, Sebastien)(AGA)(fr)(SW-R)(Disk 4 of 4)[cr Passwords]
+REAL_BOOT Mamba Move (1991-08-20)(Guenter Boldorf, Stefan)[h ALE][KS2.04]
+REAL_BOOT Man Machine (1989)(Livewires - Electric Software)(SW)
+REAL_BOOT Manager Sim Professional (1994)(Renk, K.)(de)
+REAL_BOOT Manager Sim Professional (1994)(Renk, K.)(de)[h LFC]
+REAL_BOOT Manga Hot Numbers (1994)(BZZ Soft - 17-Bit Software)(PD)
+REAL_BOOT Mangled Fenders ACE (1995)(Storonskij, Pete)
+REAL_BOOT Mangled Fenders ACE (1995)(Storonskij, Pete)[a]
+REAL_BOOT Manhole (2011)(Hurley, Lee)
+REAL_BOOT Mani Pulite (199x)(DoubleByte)(it)(Disk 1 of 3)[cr Black Aces][AMOS]
+REAL_PASS Mani Pulite (199x)(DoubleByte)(it)(Disk 2 of 3)(mani1)
+REAL_PASS Mani Pulite (199x)(DoubleByte)(it)(Disk 3 of 3)(mani2)
+REAL_BOOT Maniacball v1.1 (1996-10-24)(Elzner, Peter)(SW)[cr HF]
+REAL_PASS Maniacball v1.3 (1996-11-03)(Elzner, Peter)(SW)[cr HF][WB]
+REAL_BOOT Maniacball v1.5 (1997-05-14)(Elzner, Peter)(SW-R)[h BTTR][classic levels]
+REAL_BOOT Maniacball v1.5 (1997-05-14)(Elzner, Peter)(SW-R)[h BTTR][magic levels]
+REAL_BOOT Maniacball v1.5 (1997-05-14)(Elzner, Peter)(SW)[h BTTR]
+REAL_BOOT Marathon v1.0 (1995-08)(de Boer, Peter)(SW)[68020]
+REAL_PASS Marathon v1.1c (1995-08-22)(de Boer, Peter)(SW-R)[68020, WB]
+REAL_PASS Marathon v1.1c (1995-08-22)(de Boer, Peter)(SW-R)[68020, WB][docs]
+REAL_BOOT Marathon v1.4c (1996-08-16)(de Boer, Peter)(SW-R)[h Tel][68020]
+REAL_BOOT Marathon v1.5b (1996-11-19)(de Boer, Peter)(SW-R)[68020, WB]
+REAL_BOOT Marble-Slide - Fred Fish edition (1989)(Handel, Peter)(FW)[h Switch]
+REAL_PASS Marble-Slide - Seasoft edition (1989)(Handel, Peter)(FW)[h Software 2000][WB]
+REAL_PASS Marble-Slide - Seasoft edition (1989)(Handel, Peter)(FW)[WB]
+REAL_BOOT Marbles (1991)(Zandelin, Ola)[AMOS]
+REAL_BOOT Marbles (1991)(Zandelin, Ola)[h PD-Soft][AMOS]
+REAL_BOOT Marietto v1.0 (1997)(Carminati, Luca)(GW)[h BTTR]
+REAL_BOOT Mario (demo-playable) (2016-11-12)(Retro1234)
+REAL_BOOT Marryampic v1.2 (1996-02-14)(Mavati)(PD)
+REAL_BOOT Martial Morphers (1998)(Digital Ninja - F1 Licenceware)(LW)[1998 edition][AMOS]
+REAL_BOOT Martial Spirit (demo-playable) (199x)(Black Paladins)(SW)[AMOS]
+REAL_BOOT MASH - The Potato! (1992-08-07)(Stephenson, Graham)(PD)
+REAL_BOOT MASH v1 (1995-03-10)(Paranoid)(PD)
+REAL_BOOT MASH v1 (1995-03-10)(Paranoid)(PD)[h 17-Bit Software]
+REAL_PASS MASH v1 (1995-03-10)(Paranoid)(PD)[h HD Bad Karma]
+REAL_BOOT MASH v1 (1996-02-03)(Paranoid)(PD)[Aminet's release]
+REAL_BOOT Masquerade (1994-05-15)(Cynet)(AGA)(Disk 1 of 2)
+REAL_PASS Masquerade (1994-05-15)(Cynet)(AGA)(Disk 2 of 2)
+REAL_BOOT Master Blaster v1.0 (1994)(Alpha Brothers)(FW)
+REAL_BOOT Master Blaster v1.0 (1994)(Alpha Brothers)(FW)[a]
+REAL_BOOT Master Blaster v1.01 (1995)(Alpha Brothers)(FW)
+REAL_PASS Master Blaster v2.0 (1995-07-02)(Nexus)(SW)[WB][Blitz BASIC]
+REAL_PASS Master Blaster v2.2 (1995-08-25)(Nexus)(SW-R)[WB][Blitz BASIC]
+REAL_BOOT Master Blaster v2.21 (1995-10-25)(Nexus)(SW-R)[Blitz BASIC]
+REAL_BOOT Master Mind (19xx)(Bishop, Mark)[AMOS]
+REAL_BOOT Match Stick Man v1.4 (1992-11)(Fisher, Stuart)(SW)[f startup-sequence][inc. source code, AMOS]
+REAL_BOOT Match Stick Man v1.4 (1992-11)(Fisher, Stuart)(SW)[inc. source code, AMOS]
+REAL_PASS Matrix Blaster (1993)(Cybris Design)(FW)[WB][inc. source code, AMOS]
+REAL_BOOT Matter of Time, A (1994)(Zerbo, Michael)(Disk 1 of 3)[a][Visionary]
+REAL_BOOT Matter of Time, A (1994)(Zerbo, Michael)(Disk 1 of 3)[Visionary]
+REAL_BOOT Matter of Time, A (1994)(Zerbo, Michael)(Disk 2 of 3)
+REAL_BOOT Matter of Time, A (1994)(Zerbo, Michael)(Disk 2 of 3)[a]
+REAL_BOOT Matter of Time, A (1994)(Zerbo, Michael)(Disk 3 of 3)
+REAL_BOOT May & Yam 1 (1993)(Gavilan, David)[AMOS]
+REAL_BOOT May & Yam 2 (1996)(Gavilan, David)[AMOS]
+REAL_BOOT Mayhem (1991)(Ensignia)
+REAL_BOOT Mayhem (19xx)(Ensignia)(PD)(Disk 1 of 3)
+REAL_BOOT Mayhem (19xx)(Ensignia)(PD)(Disk 2 of 3)
+REAL_BOOT Mayhem (19xx)(Ensignia)(PD)(Disk 3 of 3)
+REAL_PASS Redit v1.13 (2016-02-13)(Scherrer, Kai)(PD)[WB]
+REAL_PASS Redit v1.2 (2014-01-03)(Scherrer, Kai)(PD)[WB]
+REAL_PASS Redit v1.3 (2014-01-05)(Scherrer, Kai)(PD)[WB]
+REAL_PASS Redit v1.4 (2014-01-07)(Scherrer, Kai)(PD)[WB]
+REAL_PASS Redit v1.5 (2014-01-08)(Scherrer, Kai)(PD)[WB]
+REAL_PASS Redit v1.6 (2014-01-08)(Scherrer, Kai)(PD)[WB]
+REAL_PASS Redit v1.7 (2014-01-16)(Scherrer, Kai)(PD)[WB]
+REAL_PASS Redit v1.8 (2014-01-16)(Scherrer, Kai)(PD)[WB]
+REAL_PASS Redit v1.9 (2016-01-10)(Scherrer, Kai)(PD)[WB]
+REAL_BOOT ReloKick v1.3 (1992)(AB Comp)[h Slipstream - Floppy International]
+REAL_BOOT ReloKick v1.3 (1992)(AB Comp)[h Slipstream]
+REAL_BOOT ReloKick v1.4 (1993)(AB Comp)[h DC - PD-Soft]
+REAL_BOOT ReloKick v1.4 (1993)(AB Comp)[h DC - PD-Soft][m bamcopy]
+REAL_BOOT ReloKick v1.4 (1993)(AB Comp)[h DC]
+REAL_BOOT ReloKick v1.41 (1994)(AB Comp)[h Geesus]
+REAL_BOOT ReloKick v1.41 (1994)(AB Comp)[h Geesus][a]
+REAL_BOOT ReloKick v1.4a (1994)(AB Comp)[h DCS - PD-Soft]
+REAL_BOOT ReloKick v1.4a (1994)(AB Comp)[h DCS]
+REAL_BOOT S-NES Macro Assembler v1.4 (1993-05)(Infernal Byte)(SW)[68020, KS2.0]
+REAL_BOOT S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 1 of 3)[b disk label]
+REAL_PASS S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 2 of 3)[b disk label]
+REAL_PASS S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 3 of 3)
+REAL_PASS S.A.M. Sample Synthesizer (1998)(TRSI)(FW)(Disk 3 of 3)[b disk label]
+REAL_BOOT SAFE II - 1200 Edition (1993)(Brainstarr)(SW-R)
+REAL_BOOT SAFE II (1993)(Brainstarr)(SW-R)
+REAL_BOOT Sample Disk 1 (1991-01)(Grace)
+REAL_BOOT Sample Orgasm, The (1995-05-01)(Elicma)(Disk 1 of 2)
+REAL_BOOT Sample Orgasm, The (1995-05-01)(Elicma)(Disk 2 of 2)
+REAL_BOOT Samplemaker v1.0 (1991)(Shadow)(PD)
+REAL_BOOT SampleMaker v3.1 (1992)(Shadow)
+REAL_BOOT SampleMaker v3.1 (1992)(Shadow)[m bamcopy]
+REAL_BOOT SampleMaker v3.1 (1992)(Shadow)[m]
+REAL_BOOT SB-Prolog v2.3.2 (1988-03)(Roch, David)
+REAL_BOOT Scorpius Mapper, The v2.0 (1992)(Sheeky, Mark)
+REAL_BOOT Seek & Destroy - The Ultimate VirusKiller v1.22 (1990-07)(United Forces)
+REAL_BOOT Seka v3.2 (1989-12-28)(Kefrens)[h Amitech]
+REAL_BOOT Sickness Simulator, The (1991)(Waynee)
+REAL_BOOT Sickness Simulator, The (1991)(Waynee)[a]
+REAL_BOOT SID v1.06 (1989)(Martin, Timm)(SW)[h Rays PD][a][WB]
+REAL_BOOT SID v1.06 (1989)(Martin, Timm)(SW)[h Rays PD][WB]
+REAL_PASS SID v2.00 (1992)(Martin, Timm)(SW)[WB]
+REAL_BOOT SKick Professional v3.21 (1992-12-11)(SinSoft)[Kickstarts avail - v34.005 & v39.106]
+REAL_BOOT SKick Professional v3.32 (1993-01-18)(SinSoft)[h Nike][Kickstarts avail - v34.005 & v37.175]
+REAL_BOOT SKick Professional v3.32 (1993-01-18)(SinSoft)[h Nike][Kickstarts avail - v34.005 & v39.106]
+REAL_BOOT Slideshow Construction Set v1.0 (1988-06-18)(Rybicki, Adam - 17-Bit Software)(SW)
+REAL_BOOT SNES-Hyper-Assembler v0.7b (1994)(Avantgarde)
+REAL_PASS SnoopDos v3.0 (1994-09)(Carroll, Eddy)(FW)[h BTTR][v HNY 96]
+REAL_BOOT Solve v1.5 (1995)(Delite)
+REAL_BOOT Sound Fx Series #1 (1993)(Crom Design)
+REAL_BOOT Sound Fx Series #2 (1993)(Crom Design)
+REAL_BOOT Sound Fx Series #3 (1993)(Crom Design)
+REAL_BOOT Sound Fx Series #4 (1993)(Crom Design)
+REAL_BOOT Sound Fx Series #5 (1993)(Crom Design)
+REAL_PASS Sound Samples 1 (19xx)(-)(PD)
+REAL_PASS Sound Samples 2 (19xx)(-)(PD)
+REAL_PASS Sound Samples 2 (19xx)(-)(PD)[b]
+REAL_PASS Sound Samples 3 (19xx)(-)(PD)
+REAL_PASS Sound Samples 3 (19xx)(-)(PD)[b]
+REAL_PASS Sound Samples 4 (19xx)(-)(PD)
+REAL_PASS Sound Samples 4 (19xx)(-)(PD)[b]
+REAL_PASS Sound Samples 5 (19xx)(-)(PD)
+REAL_BOOT Sound System (1990-01-07)(Paradise)
+REAL_BOOT Sound System (1990-01-07)(Paradise)[b doscopy]
+REAL_BOOT SoundTracker Datas #1 (1990)(Prouvost, Gaetan - Leclercq, Xavier)[h Free Distribution]
+REAL_BOOT SoundTracker v2.5 (1990)(Spreadpoint)(PD)
+REAL_BOOT SoundTracker v2.6 (1990-11-03)(Spreadpoint)(PD)[h 17-Bit Software]
+REAL_BOOT Space Writer I (1988)(17-Bit Software - Mr. Magic)(PD)
+REAL_BOOT Space Writer I (1988)(17-Bit Software - Mr. Magic)(PD)[a]
