@@ -19148,3 +19148,5 @@ REAL_PASS WHD_AlienBreedTowerAssault_v1.0_0279
 REAL_PASS WHD_AlienBreedTowerAssault_v1.0_AGA_0279
 REAL_PASS WHD_AlienBreedTowerAssault_v1.2_0279
 REAL_PASS WHD_AlienStorm_v1.3_0096
+REAL_PASS WHD_AlienStorm_v1.4_0096
+REAL_PASS WHD_Aliex_v1.1
