@@ -100,23 +100,52 @@ public sealed class Amiga
 
         int cycles = Cpu.ExecuteInstruction();
 
-        // Detect and accelerate tight loops (DBF delay loops, SUBQ+Bcc loops)
+        // Detect and accelerate tight loops
         if (AccelerateLoops && _loopDetector.Track(Cpu.PC))
         {
-            // Scan nearby addresses for DBF or SUBQ pattern
-            for (uint scanPC = Cpu.PC > 4 ? Cpu.PC - 4 : 0; scanPC <= Cpu.PC + 2; scanPC += 2)
+            // Scan nearby addresses for DBF pattern
+            for (uint scanPC = Cpu.PC > 6 ? Cpu.PC - 6 : 0; scanPC <= Cpu.PC + 2; scanPC += 2)
             {
                 ushort op = Bus.ReadWord(scanPC);
-                if ((op & 0xFFF8) == 0x51C8) // DBF Dn
+                if ((op & 0xFFF8) != 0x51C8) continue; // Not DBF
+
+                int countReg = op & 7;
+                int remaining = (short)(Cpu.D[countReg] & 0xFFFF);
+                if (remaining <= 0) break;
+
+                // Check for MOVE.L Ax,(Ay)+ ; DBF Dn pattern (memory fill)
+                ushort prevOp = scanPC >= 2 ? Bus.ReadWord(scanPC - 2) : (ushort)0;
+                if ((prevOp & 0xF1F8) == 0x20C8) // MOVE.L An,(Am)+
                 {
-                    int reg = op & 7;
-                    int extra = LoopDetector.AccelerateDbf(ref Cpu.D[reg]);
-                    extra = Math.Min(extra, 100000);
-                    cycles += extra;
-                    Cpu.TotalCycles += extra;
+                    int srcReg = prevOp & 7;
+                    int dstReg = (prevOp >> 9) & 7;
+                    uint fillValue = Cpu.A[srcReg];
+                    uint dstAddr = Cpu.A[dstReg];
+
+                    // Perform the remaining fills
+                    for (int j = 0; j < remaining; j++)
+                    {
+                        Bus.WriteWord(dstAddr, (ushort)(fillValue >> 16));
+                        Bus.WriteWord(dstAddr + 2, (ushort)(fillValue & 0xFFFF));
+                        dstAddr += 4;
+                    }
+                    Cpu.A[dstReg] = dstAddr;
+                    Cpu.D[countReg] = (Cpu.D[countReg] & 0xFFFF0000) | 0xFFFF;
+                    Cpu.PC = scanPC + 4; // Skip past DBF + displacement
+                    int extra = remaining * 20;
+                    cycles += Math.Min(extra, 500000);
+                    Cpu.TotalCycles += Math.Min(extra, 500000);
                     _loopDetector.Reset();
                     break;
                 }
+
+                // Pure delay loop (no side effects) — just skip
+                int extraDelay = LoopDetector.AccelerateDbf(ref Cpu.D[countReg]);
+                extraDelay = Math.Min(extraDelay, 100000);
+                cycles += extraDelay;
+                Cpu.TotalCycles += extraDelay;
+                _loopDetector.Reset();
+                break;
             }
         }
 
