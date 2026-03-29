@@ -14172,3 +14172,177 @@ REAL_BOOT ZX Spectrum Emulator v1.2 (1990)(KGB)(PD)[h LSD][emulator][inc. 38 gam
 REAL_PASS ZXAM Spectrum Emulator v1.6b (1995)(WareSoft)(SW)(Disk 1 of 2)[emulator][68020, WB]
 REAL_BOOT ZXAM Spectrum Emulator v1.6b (1995)(WareSoft)(SW)(Disk 2 of 2)[inc. 28 games]
 REAL_PASS ZXAM Spectrum Emulator v2.0b (1995)(WareSoft)(SW)[h 17-Bit Software][emulator]
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
+FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
+REAL_BOOT Explicit II (1994)(Xanadu)(AGA)[h PD-Soft]
+REAL_BOOT Explicit II (1994)(Xanadu)(AGA)[h Your Choice PD]
+REAL_BOOT Explicit II (1994)(Xanadu)(AGA)[reissue]
+REAL_BOOT Explocalipse (1994-02-26)(Ukonx)(Disk 1 of 2)
+REAL_BOOT Explocalipse (1994-02-26)(Ukonx)(Disk 2 of 2)
+REAL_BOOT Exploited Brilliance (1990-06-26)(No Limits)[h Warlock]
+REAL_BOOT Exploited Brilliance (1990-06-26)(No Limits)[h Warlock][m bamcopy]
+REAL_BOOT Explorer (1994-07-10)(Delight)(AGA)
+REAL_BOOT Expres (1991-07-28)(Beyond Force)[h Warlock]
+REAL_BOOT Expres (1991-07-28)(Beyond Force)[h Warlock][m bamcopy]
+REAL_BOOT Extend 40k Intro (1994)(Extend)(AGA)[h BTTR]
+REAL_BOOT Extension (1993-07-30)(Pygmy Projects)[A93#1]
+REAL_BOOT Extension (1993-07-30)(Pygmy Projects)[m doscopy][A93#1]
+REAL_BOOT Extension (1993-07-30)(Pygmy Projects)[m2 doscopy][A93#1]
+REAL_BOOT Extension (1993-07-30)(Pygmy Projects)[m3 doscopy][A93#1]
+REAL_BOOT Extra (1996)(Abyss)(AGA)[h BTTR]
+REAL_BOOT Eyemind (1993-12-29)(Focus Design)
+REAL_BOOT Eyes (1993-03-18)(Slyle & Blacky)
+REAL_BOOT F.I.M. - Fortune Imp Mundi v1.0 (1993-09-05)(Darkness)
+REAL_BOOT F.I.M. - Fortune Imp Mundi v1.2 (1993-11-10)(Darkness)[h BTTR]
+REAL_BOOT F.L.A.M. - Fuck Loomy Acupuncture Need (1993-09-03)(Cryptoburners - Dreamdealers)[h Warlock]
+REAL_BOOT F.L.A.M. - Fuck Loomy Acupuncture Need (1993-09-03)(Cryptoburners - Dreamdealers)[h Warlock][m bamcopy]
+REAL_BOOT F.T.0 - La Demo la Plus Fele (198x)(Les Feles)(fr)
+REAL_BOOT F.T.0 - La Demo la Plus Fele (198x)(Les Feles)(fr)[m bamcopy]
+REAL_BOOT F.T.0 - La Demo la Plus Fele 2 (1990)(Les Feles)(fr)
+REAL_BOOT F.T.0 - La Demo la Plus Fele 2 (1990)(Les Feles)(fr)[b doscopy]
+REAL_BOOT F.T.0 - La Demo la Plus Fele 2 (1990)(Les Feles)(fr)[b dump]
+REAL_BOOT F.T.0 - La Demo la Plus Fele 2 (1990)(Les Feles)(fr)[reissue]
+REAL_BOOT F.U.S.E. (1994-07-27)(Anathema)
+REAL_BOOT F.U.S.E. (1994-07-27)(Anathema)[b doscopy]
+REAL_BOOT F.U.S.E. (1994-07-27)(Anathema)[b2 doscopy]
+REAL_BOOT Face It (1992-11)(Strangers)(AGA)
+REAL_BOOT Face the First (1992-11)(Acheron)
+REAL_BOOT Face the First (1992-11)(Acheron)[b dump]
+REAL_BOOT Face the Reality (1992-03-08)(Scream)(Disk 1 of 2)
+REAL_BOOT Face the Reality (1992-03-08)(Scream)(Disk 2 of 2)
+REAL_BOOT Face the Reality (1992-03-08)(Scream)(Disk 2 of 2)[m]
+REAL_BOOT Factory BBS Intro, The (1993-03-28)(The Electronic Knights)
+REAL_BOOT Fad (1995-08-13)(Sonik)(AGA)[h BTTR]
+REAL_BOOT Faith of Black (1993)(Bronx)
+REAL_PASS Faktory (1995)(Virtual Dreams)(AGA)[HD][TP5#3]
+REAL_BOOT Faktory (1996)(Virtual Dreams)(AGA)(Disk 1 of 2)[HD][TP5#3]
+REAL_BOOT Faktory (1996)(Virtual Dreams)(AGA)(Disk 2 of 2)[HD][TP5#3]
+REAL_BOOT Falling (1989)(Reality Bytes)(AGA)[h BTTR][68030]
+REAL_BOOT Falling up (1992-06-26)(Analog)
+REAL_BOOT Falling up (1992-06-26)(Analog)[b dump]
+REAL_BOOT Family Business (1998)(Abyss)(AGA)[h BTTR][WB]
+REAL_BOOT Fanatik (1994-06-17)(Kronical)
+REAL_BOOT FI-RE Land (1992-02-21)(FI-RE Crew)
+REAL_BOOT FI-RE Land (1992-02-21)(FI-RE Crew)[a]
+REAL_BOOT FI-RE Land (1992-02-21)(FI-RE Crew)[b dump]
+REAL_BOOT FI-RE Land (1992-02-21)(FI-RE Crew)[b2 dump]
+REAL_BOOT FI-RE Land (1992-02-21)(FI-RE Crew)[m bamcopy]
+REAL_BOOT FI-RE Land (1992-02-21)(FI-RE Crew)[m2 bamcopy]
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Mr. Men Olympics v1.1 (1993)(Unity)(Disk 2 of 2)
+REAL_BOOT Mr. Men Olympics v1.11 (1993)(Unity)(Disk 1 of 2)
+REAL_BOOT Mr. Men Olympics v1.11 (1993)(Unity)(Disk 1 of 2)[a]
+REAL_BOOT Mr. Men Olympics v1.11 (1993)(Unity)(Disk 1 of 2)[a2]
+REAL_BOOT Mr. Men Olympics v1.11 (1993)(Unity)(Disk 1 of 2)[cr SR]
+REAL_BOOT Mr. Men Olympics v1.11 (1993)(Unity)(Disk 1 of 2)[cr SR][v Liberator v5.01]
+REAL_BOOT Mr. Men Olympics v1.11 (1993)(Unity)(Disk 2 of 2)
+REAL_BOOT Mr. Men Olympics v1.11 (1993)(Unity)(Disk 2 of 2)[a]
+REAL_BOOT Mr. Men Olympics v1.11 (1993)(Unity)(Disk 2 of 2)[cr SR]
+REAL_BOOT Mr. Men Olympics v1.11 (1993)(Unity)[h Outlaws]
+REAL_BOOT Mr. Shark Goes Racing (demo-playable) (1994)(Insanity Software)
+REAL_BOOT Mrtva Cesta (1995)(Torture)(cs)
+REAL_BOOT Mugsie's Revenge - Hired Hoods (1993)(Perks, A.)(SW)[inc. source code, AMOS]
+REAL_BOOT Muhtar, The (19xx)(Bronx)(PD)[a]
+REAL_BOOT Muhtar, The (19xx)(Bronx)(PD)[a2]
+REAL_BOOT Muhtar, The (19xx)(Bronx)(PD)[h BTTR]
+REAL_BOOT Multi-Player Yahtzee (1993)(King, Dave - F1 Licenceware)(LW)[AMOS]
+REAL_BOOT Mutant Penguin v1.0 (1994-04-28)(Bartram, Anthony - Smart Software)(PAL)(PD)[h Assassins - ALE][KS2.04, AMOS]
+REAL_BOOT Mystery 2144 AD (19xx)(Hearne, D.)
+REAL_BOOT Mystery Fish v1.6 (1994)(Aszart)(PD)[b]
+REAL_BOOT N.Y. Hardcash Pro! Edition (199x)(Scienide)
+REAL_BOOT Na Resetkani - 14 Minut Kompilace (1994-11-01)(Hologram)(cs)[AMOS]
+REAL_BOOT Na Resetkani - 98 Specialni Edice (1998-04-05)(Hologram)(cs)(Disk 1 of 2)[AMOS]
+REAL_BOOT Na Resetkani - 98 Specialni Edice (1998-04-05)(Hologram)(cs)(Disk 2 of 2)
+REAL_BOOT Nano Fly v1.0 (1994)(Nu-Grafik)(SW)[a][Quartz PD][AMOS]
+REAL_BOOT Nano Fly v1.0 (1994)(Nu-Grafik)(SW)[AMOS]
+REAL_BOOT Nano Fly v1.0 (1994)(Nu-Grafik)(SW)[h ALE][AMOS]
+REAL_BOOT Nano Fly v1.0 (1994)(Nu-Grafik)(SW)[h][AMOS]
+REAL_BOOT Nano Fly v1.0 (1994)(Nu-Grafik)(SW)[Quartz PD][AMOS]
+REAL_BOOT Napoleonic Wargame System v4.01 (1991)(Sear, Ashley)(PD)
+REAL_BOOT Napoleonic Wargame System v4.01 (1991)(Sear, Ashley)(PD)[h 17-Bit Software]
+REAL_BOOT Nautilus v1.4 (1997)(LeDouarain, M.)(PD)[AMOS]
+REAL_BOOT Nebula - The Wars of Uropa v1.00 (1990)(Austex)[h BNX]
+REAL_BOOT Nebula - The Wars of Uropa v1.00 (1990)(Austex)[h Fazwonga]
+REAL_BOOT Nebula - The Wars of Uropa v1.00 (1990)(Austex)[Software 2000]
+REAL_BOOT Necessary Roughness v1.0 (1993)(Sadler, Chris)(Disk 1 of 2)(SW)[AMOS]
+REAL_BOOT Necessary Roughness v1.0 (1993)(Sadler, Chris)(Disk 2 of 2)(SW)
+REAL_BOOT Neighbours - The Adventure (1992)(VideoBionics)(Disk 1 of 2)
+REAL_PASS Neighbours - The Adventure (1992)(VideoBionics)(Disk 2 of 2)
+REAL_BOOT Nemesis v1.1 (1993)(Pacific)(SW)
+REAL_BOOT Nemesis v1.1 (1993)(Pacific)(SW)[PD-Soft]
+REAL_BOOT Nestor Solitaire (1991)(Clark, Pat)(SW)
+REAL_BOOT Nestor Solitaire (1991)(Clark, Pat)(SW)[a highscore]
+REAL_BOOT Nibbler (1992)(Bronx)(PD)[t +20 NRG]
+REAL_BOOT Nibbler Super eXtra v1.89 (1996)(Backyard Brothers)(SW)
+REAL_BOOT Nibbler Super eXtra v1.89 (1996)(Backyard Brothers)(SW)[h Quartz PD]
+REAL_BOOT Nibbler Super eXtra v1.90 (1997)(Backyard Brothers)(SW)[h BTTR]
+REAL_BOOT Nibbly (1987)(Infomedia)
+REAL_BOOT Nibby Nibble (1993)(Amiga News)[h Coldcut]
+REAL_BOOT Nibby Nibble (1993)(Amiga News)[h Coldcut][a]
+REAL_BOOT Nibby Nibble (1993)(Amiga News)[h Coldcut][o]
+REAL_BOOT Nightmare Castle (demo-playable) (1995)(Scott, S. - Quartz PD)(PD)
+REAL_BOOT No Man's Land (1991-06-15)(Oxygen)
+REAL_BOOT No Man's Land (1991-06-15)(Oxygen)[a bootblock]
+REAL_BOOT No Man's Land (1991-06-15)(Oxygen)[b corrupt files]
+REAL_BOOT No Man's Land (1991-06-15)(Oxygen)[h 17-Bit Software - ALE]
+REAL_BOOT No Man's Land (1991-06-15)(Oxygen)[h 17-Bit Software]
+REAL_BOOT No Man's Land (1991-06-15)(Oxygen)[m bamcopy]
+REAL_BOOT No Man's Land (1991-06-15)(Oxygen)[t +33 DC]
+REAL_BOOT No Mercy 99 (1999)(On the Dole)(AGA)
+REAL_BOOT No Mercy 99 (1999)(On the Dole)(AGA)[a]
+REAL_BOOT Nobochi (1997)(Miracle FX - 5D Licenceware)(LW)
+REAL_BOOT Nobochi (demo-playable) (1997)(Miracle FX - 5D Licenceware)(LW)
+REAL_BOOT Noche de Walpurgis, La (1992)(New Dream)(PD)(Disk 1 of 5)(intro)
+REAL_BOOT Noche de Walpurgis, La (1992)(New Dream)(PD)(Disk 2 of 5)(1)[Bootable]
+REAL_PASS Noche de Walpurgis, La (1992)(New Dream)(PD)(Disk 3 of 5)(2)
+REAL_PASS Noche de Walpurgis, La (1992)(New Dream)(PD)(Disk 4 of 5)(3)
+REAL_PASS Noche de Walpurgis, La (1992)(New Dream)(PD)(Disk 5 of 5)(4)
+REAL_BOOT Norse Gods (1991)(Lowenstein, R.)[h GNS]
+REAL_BOOT Norse Gods (1991)(Lowenstein, R.)[h Jam]
+REAL_BOOT Nostalgium (199x)(Triad)
+REAL_BOOT Nu (1990)(Amiga Live)[cr NRG][m doscopy][v Smily Cancer]
+REAL_BOOT Nu (1990)(Amiga Live)[cr TMA]
+REAL_BOOT Nu (1990)(Amiga Live)[cr TMA][h Tristar]
+REAL_BOOT Nuclear Reaction (1996)(Akerberg, Bob)[v Liberator v5.01]
+REAL_BOOT Nuddies Memory (1990)(Exotic Dreams)
+REAL_BOOT Nukes 'R' Us (1994)(ConMeg)(de)(SW)
+REAL_BOOT Number-X v1.0 (1997-10-25)(Manzoni, Ermanno)[h SB-Soft]
+REAL_PASS Number-X v1.0 (1997-10-25)(Manzoni, Ermanno)[WB]
+REAL_BOOT Number-X v1.0 (1997-12-02)(Manzoni, Ermanno)
+REAL_BOOT Numerix (19xx)(Brown, G. - Boyd, N.)
+REAL_BOOT Numpty and the Alien Invaders (1992)(Quality Control)
+REAL_BOOT Oblidox v1.0 (1992)(Cox, Pete)(SW)[AMOS]
+REAL_BOOT Obliteratives, The (1993)(Digital Ninja - F1 Licenceware)(LW)[1998 edition][AMOS]
+REAL_BOOT Obliteratives, The (1993)(Digital Ninja - F1 Licenceware)(LW)[h Nemesis][AMOS]
+REAL_BOOT Oblivion (19xx)(Sibly, Mark)(SW)
+REAL_BOOT Obstickle (1991)(Lavery, Malcolm - F1 Licenceware)(LW)[1998 edition][AMOS]
+REAL_BOOT Obstickle (1991)(Lavery, Malcolm - F1 Licenceware)(LW)[AMOS]
+REAL_BOOT Obstickle (1991)(Lavery, Malcolm)[h ASO][AMOS]
+REAL_BOOT Odds on Favourite (1998)(Park Productions - F1 Software)(LW)[AMOS]
+REAL_BOOT Offence (1994)(Otto, Frank)[h BTTR]
+REAL_BOOT Offender v1.00 (1992-01)(Bayer, Fred)(SW)[68020, FPU, FFS]
+REAL_BOOT Og! (1993)(Parsons, D.)
+REAL_BOOT Og! (1993)(Parsons, D.)[m bamcopy]
+REAL_BOOT Ohm (1993)(Agimax)(de)(PD)[a][KS2.0][AMOS]
+REAL_BOOT Ohm (1993)(Agimax)(de)(PD)[a2][KS2.0][AMOS]
+REAL_BOOT Ohm (1993)(Agimax)(de)(PD)[a3][KS2.0][AMOS]
+REAL_BOOT Ohm (1993)(Agimax)(de)(PD)[KS2.0][AMOS]
+REAL_BOOT Oids (2014-03-20)(Meynaf)[p][Atari ST conversion][unarchive to mem]
+REAL_BOOT Okey (1991)(Kulcu, K. - Taylan, T.)(TR)[h IP][AMOS]
+REAL_BOOT Okey (1991)(Kulcu, K. - Taylan, T.)(TR)[h Wolf, R.][AMOS]
+REAL_BOOT Oklib's Revenge (1992)(Medley, Sue)(SW)[AGT]
+REAL_BOOT Okuzan (1993)(Amiga News)[cr Adalats]
+REAL_BOOT Olempiad '92 (1992)(Evans, Richard)(Disk 1 of 2)[h El Dorado]
+REAL_BOOT Olempiad '92 (1992)(Evans, Richard)(Disk 1 of 2)[m bamcopy]
+REAL_BOOT Olempiad '92 (1992)(Evans, Richard)(Disk 1 of 2)[m doscopy]
+REAL_PASS Olempiad '92 (1992)(Evans, Richard)(Disk 2 of 2)[h El Dorado]
+REAL_PASS Olempiad '92 (1992)(Evans, Richard)(Disk 2 of 2)[m bamcopy]
+REAL_PASS Olempiad '92 (1992)(Evans, Richard)(Disk 2 of 2)[m doscopy]
+REAL_BOOT Omega Race v0.61 Test (1990-11-10)(Leopold Soft)(PD)
+REAL_BOOT One on One (1992-06)(Scorpius)(SW)
+REAL_BOOT One on One (1992-06)(Scorpius)(SW)[inc. source code, ASM68k]
+REAL_BOOT Onslaught v1.0 (1994)(Moss, Carl)(PD)
+REAL_BOOT ORG2 (1992)(Logic-Art-Ware)(PD)[AMOS]
