@@ -14346,3 +14346,93 @@ REAL_BOOT One on One (1992-06)(Scorpius)(SW)
 REAL_BOOT One on One (1992-06)(Scorpius)(SW)[inc. source code, ASM68k]
 REAL_BOOT Onslaught v1.0 (1994)(Moss, Carl)(PD)
 REAL_BOOT ORG2 (1992)(Logic-Art-Ware)(PD)[AMOS]
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
+FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
+REAL_BOOT Fantasia - Duty Now for the Future (1990-08)(Zero Defects)
+REAL_BOOT Fantasia - Duty Now for the Future (1990-08)(Zero Defects)[a]
+REAL_BOOT Fantasia - Duty Now for the Future (1990-08)(Zero Defects)[h Warlock]
+REAL_BOOT Fantasy (1991-02-20)(Equinox)
+REAL_BOOT Fantasy (1993-07-25)(Unlimited)
+REAL_BOOT Fantasys Megademo 1, The (19xx)(Fantasys)
+REAL_BOOT Fashionating (1988-05)(Fashion)
+REAL_BOOT Fashionating (1988-05)(Fashion)[b dump]
+REAL_BOOT Fashionating (1988-05)(Fashion)[b2 dump]
+REAL_BOOT Fast (2000-04-21)(Nuance)(AGA)[h BTTR]
+REAL_BOOT Fast Track (1993-09-03)(Intense)
+REAL_BOOT Faster than Hell (1992-03-22)(World Federation of Mad Hackers)
+REAL_BOOT Faster than Hell (1992-03-22)(World Federation of Mad Hackers)[a bootloader]
+REAL_BOOT Faster than Hell (1992-03-22)(World Federation of Mad Hackers)[m errdms]
+REAL_BOOT Faster than Hell (1992-03-22)(World Federation of Mad Hackers)[reissue]
+REAL_BOOT Fat (1997-08-08)(Mystic)(AGA)[h BTTR]
+REAL_BOOT Fatal Morgana (1993)(Tragedy)(Disk 1 of 2)[KS2.0][TP3#7]
+REAL_BOOT Fatal Morgana (1993)(Tragedy)(Disk 2 of 2)[KS2.0][TP3#7]
+REAL_BOOT Fatal Morgana (1993)(Tragedy)[a][One Disk][TP3#7]
+REAL_BOOT Fatal Morgana (1993)(Tragedy)[One Disk][KS2.0][TP3#7]
+REAL_BOOT Fatal Morgana (1993)(Tragedy)[One Disk][TP3#7]
+REAL_BOOT Fatal Overdrive (1991-12-28)(Aero)(Disk 1 of 2)
+REAL_PASS Fatal Overdrive (1991-12-28)(Aero)(Disk 2 of 2)
+REAL_BOOT Faza (1994-11-12)(Freezers)(AGA)[h BTTR]
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Operation Desert Storm (1994-06-10)(Spike)(PD)[KS3.0]
+REAL_BOOT Operation Desert Storm (19xx)(Rizzolo, Carmen)(PD)[SEUCK]
+REAL_BOOT Operation Firestorm (1993)(Ruston, Phillip - F1 Licenceware)(LW)[1998 edition]
+REAL_BOOT Operation Firestorm (1993)(Ruston, Phillip - F1 Licenceware)(LW)[b doscopy][1998 edition]
+REAL_BOOT Operation Firestorm (1993)(Ruston, Phillip - F1 Licenceware)(LW)[b dump]
+REAL_BOOT Operation Firestorm (1993)(Ruston, Phillip)
+REAL_BOOT Operation Firestorm (1993)(Ruston, Phillip)[t +1 X-trade]
+REAL_BOOT Operation Firestorm (demo-playable) (1993)(Ruston, Phillip)(PD)
+REAL_BOOT Operation Firestorm (demo-playable) (1993)(Ruston, Phillip)(PD)[b doscopy]
+REAL_BOOT Operation Lemming v1.0 (1991)(Infinity)[h QUBE - Hellbound BBS][charityware][AMOS]
+REAL_BOOT Operation Lemming v1.0 (1991)(Infinity)[h QUBE - PRX][charityware][AMOS]
+REAL_BOOT Operation Lemming v1.0 (1991)(Infinity)[h QUBE][a][charityware][AMOS]
+REAL_BOOT Operation Lemming v1.0 (1991)(Infinity)[h QUBE][a2][charityware][AMOS]
+REAL_BOOT Operation Lemming v1.0 (1991)(Infinity)[h QUBE][charityware][AMOS]
+REAL_PASS Operation Lemming v1.0 (1991)(Infinity)[WB][charityware][AMOS]
+REAL_BOOT Operation Lemming v1.2 (1991)(Infinity)[charityware][AMOS]
+REAL_BOOT Operation Lemming v1.2 (1991)(Infinity)[h PMT - NOMAD][charityware][AMOS]
+REAL_BOOT Opposites Attract (19xx)(Polarware)(Disk 1 of 2)[cr QTX]
+REAL_BOOT Opposites Attract (19xx)(Polarware)(Disk 1 of 2)[cr QTX][a]
+REAL_PASS Opposites Attract (19xx)(Polarware)(Disk 2 of 2)[cr QTX]
+REAL_BOOT Oracle Horse Racing System (1991)(DWSS)[a][GFA-BASIC]
+REAL_BOOT Oracle Horse Racing System (1991)(DWSS)[a2][GFA-BASIC]
+REAL_BOOT Oracle Horse Racing System (1991)(DWSS)[a3][GFA-BASIC]
+REAL_BOOT Oracle Horse Racing System (1991)(DWSS)[GFA-BASIC]
+REAL_BOOT Orb (1994)(Anfang, Uwe)[h AVT]
+REAL_BOOT Orbit - Space Flight Simulator v0.99d (1991)(Zago, Lorenzo)(FW)(Disk 1 of 2)(0)[h QTX][a][AmigaBASIC]
+REAL_BOOT Orbit - Space Flight Simulator v0.99d (1991)(Zago, Lorenzo)(FW)(Disk 1 of 2)(0)[h QTX][AmigaBASIC]
+REAL_BOOT Orbit - Space Flight Simulator v0.99d (1991)(Zago, Lorenzo)(FW)(Disk 2 of 2)(1)[h QTX][a][bootable]
+REAL_BOOT Orbit - Space Flight Simulator v0.99d (1991)(Zago, Lorenzo)(FW)(Disk 2 of 2)(1)[h QTX][bootable]
+REAL_BOOT Orbit (1994)(Paranoid)
+REAL_BOOT Orbit (1994)(Paranoid)[a]
+REAL_BOOT Orbit (19xx)(Cyberstyle)[cr AFL]
+REAL_BOOT Orbit (19xx)(Cyberstyle)[cr Spaikers]
+REAL_BOOT Ork Attack - The Return (19xx)(West, Ian)
+REAL_BOOT Ork Attack (19xx)(West, Ian)
+REAL_BOOT Ork Attack (19xx)(West, Ian)[a]
+REAL_BOOT Ork Attack (19xx)(West, Ian)[a2]
+REAL_BOOT Ork Attack (19xx)(West, Ian)[h ALE]
+REAL_BOOT Otik Gold Edice v1.5 (2011)(Crudesys)(cs)[AMOS]
+REAL_BOOT Otik II - Otik a Vanoce (2011)(Crudesys)(cs)[AMOS]
+REAL_BOOT Otik v0.9b (2011)(Crudesys)(cs)[AMOS]
+REAL_BOOT Outerim (demo-playable) (19xx)(Teague, S.)
+REAL_BOOT Outfall (1995)(Papworth, David - F1 Licenceware)(LW)
+REAL_BOOT Outfall (1995)(Papworth, David - F1 Licenceware)(LW)[1998 edition]
+REAL_BOOT Outfall (demo-playable) (1995)(Papworth, David - F1 Licenceware)(LW)[h BTTR]
+REAL_BOOT Outliner (1996-02)(Scorpius - 5th Dimension)(AGA)(LW)
+REAL_BOOT Outliner (1996-02)(Scorpius)(AGA)(LW)
+REAL_BOOT Outpost - Solo Assault (1991)(Zandelin, Ola)(SW)[AMOS]
+REAL_BOOT Outpost - Solo Assault (1991)(Zandelin, Ola)(SW)[h BoGUs][AMOS]
+REAL_BOOT Outpost - Solo Assault (1991)(Zandelin, Ola)(SW)[h BoGUs][v BGS9][AMOS]
+REAL_BOOT Outpost - Solo Assault (1991)(Zandelin, Ola)(SW)[m bamcopy][AMOS]
+REAL_BOOT Outpost - Solo Assault (1991)(Zandelin, Ola)(SW)[m startup-sequence][AMOS]
+REAL_BOOT Outpost - Solo Assault (1991)(Zandelin, Ola)(SW)[Nordlicht Spiele #35-10][AMOS]
+REAL_BOOT Outpost - Solo Assault (1991)(Zandelin, Ola)(SW)[PD-Soft][AMOS]
+REAL_BOOT Ovecka Udelala Bee (2008)(Panprase)(cs)(preview)[AMOS]
+REAL_BOOT Overdose (1996)(Fantasy Freaks)(SW)
+REAL_BOOT Overlander (1994-04)(Scorpius)(SW)
+REAL_BOOT Overlander (1994-04)(Scorpius)(SW)[a]
+REAL_BOOT Overlander (1994-04)(Scorpius)(SW)[inc. source code, ASM68k]
+REAL_BOOT OverTaking (1994-05-08)(Jean-Pierre Software)
