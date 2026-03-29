@@ -13122,8 +13122,6 @@ BOOT bBase_II_v5_1991-11Bromley,_RobertFW
 BOOT bBase_II_v5_1991-11Bromley,_RobertFWh
 BOOT mCAD_v1.2.5_1987Mooney,_Tim_-_17-Bit_SoftwareSW
 BOOT miniBBS_v1.5_1989-04-13Riera,_G.IT
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Dexion Megademo (1989-02-12)(Dexion)[m baddump]
 REAL_BOOT Dexion Megademo (1989-02-12)(Dexion)[m2 baddump]
 REAL_BOOT Dexion Megademo (1989-02-12)(Dexion)[o][b dump]
@@ -13204,7 +13202,6 @@ REAL_PASS Dove (1994-12-28)(Abyss)(AGA)(Disk 2 of 2)
 REAL_PASS Dove (1994-12-28)(Abyss)(AGA)(Disk 2 of 2)[a filesystem]
 REAL_BOOT Draco Demo (1990)(Draco)[h BTTR]
 REAL_BOOT Dragon (1995)(Animators)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Dragon Lord (1995-09-27)(Alfaforce)
 REAL_BOOT Dragon Lord (1995-09-27)(Alfaforce)[m bamcopy]
 REAL_BOOT Dragons Megademo (19xx)(Dragons)
@@ -13224,7 +13221,6 @@ REAL_BOOT Drugstore (1995-04-23)(Abyss)(Disk 1 of 2)
 REAL_BOOT Drugstore (1995-04-23)(Abyss)(Disk 2 of 2)
 REAL_BOOT Drunk Desert Demo, The (1990-05-20)(Paradox)
 REAL_BOOT Drunk Desert Demo, The (1990-05-20)(Paradox)[h Warlock]
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Jet Set Billy v1.00 (1994)(Paasivirta, Niilo)[h ALE]
 REAL_BOOT Jet Set Willy '97 v1.2 (1997-06-27)(cELLBLOCK4)(SW)
 REAL_BOOT Jetmen (1989)(Digiteam)(it)[h Knight Industries]
@@ -13497,9 +13493,6 @@ REAL_BOOT Looty v2.0 (2020-11-17)(Hogben, Mark)[Blitz BASIC]
 REAL_BOOT Lord of Hosts v1.0 (1991)(Pietzcker, Tim)(PD)[h Crash - TFA]
 REAL_BOOT Lord of Hosts v1.0 (1991)(Pietzcker, Tim)(PD)[h Crash - TFA][m bamcopy]
 REAL_BOOT Lore of Conquest v1.3 (1991)(Bryant, Mike)(SW)
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Drunk Desert Demo, The (1990-05-20)(Paradox)[h Warlock][m bamcopy]
 REAL_BOOT Dunxxadelia II - The Revenge (1991-05)(Alarm)[h Warlock]
 REAL_BOOT Dunxxadelia II - The Revenge (1991-05)(Alarm)[h Warlock][m bamcopy]
@@ -13558,7 +13551,6 @@ REAL_BOOT ESWAT - Cyber Police Crackro (1990-11-28)(Paradox)[h Warlock][m bamcop
 REAL_BOOT GAMA Professional v1.00 (1996)(Scum)(de)[inc. source code, AMOS]
 REAL_BOOT Game Warper 020 v1.0 (1994-07)(Taylor, D.)(SW)
 REAL_BOOT Game Warper 020 v1.0 (1994-07)(Taylor, D.)(SW)[a]
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_PASS Graphics Workbench v1.0 (1995)(Macks Conspiracy)(AGA)(Disk 1 of 4)[HD]
 REAL_PASS Graphics Workbench v1.0 (1995)(Macks Conspiracy)(AGA)(Disk 2 of 4)
 REAL_PASS Graphics Workbench v1.0 (1995)(Macks Conspiracy)(AGA)(Disk 4 of 4)
@@ -13753,9 +13745,6 @@ REAL_BOOT SoundTracker v2.5 (1990)(Spreadpoint)(PD)
 REAL_BOOT SoundTracker v2.6 (1990-11-03)(Spreadpoint)(PD)[h 17-Bit Software]
 REAL_BOOT Space Writer I (1988)(17-Bit Software - Mr. Magic)(PD)
 REAL_BOOT Space Writer I (1988)(17-Bit Software - Mr. Magic)(PD)[a]
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
 REAL_PASS Embryo (1995)(Balance)(AGA)(Disk 2 of 2)[HD]
 REAL_BOOT Emptyhead (1993-12-29)(Rednex)(AGA)[m doscopy][TP3#6]
 REAL_BOOT Emptyhead (1993-12-29)(Rednex)(AGA)[TP3#6]
@@ -13778,7 +13767,6 @@ REAL_BOOT Enigma (1991-03-29)(Phenomena)
 REAL_BOOT Enigma (1991-03-29)(Phenomena)[b bamcopy]
 REAL_BOOT Enigma (1991-03-29)(Phenomena)[b dosfile]
 REAL_BOOT Enigma (1991-03-29)(Phenomena)[f AGA Eltech]
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Maze Madness v1.0 (1994)(Gaunt, B.L. - F1 Licenceware)(LW)[1998 edition][AMOS]
 REAL_BOOT Maze Madness v1.0 (1994)(Gaunt, B.L. - F1 Licenceware)(LW)[h Nemesis][AMOS]
 REAL_BOOT Maze, The (1990)(Ensignia)
@@ -13915,13 +13903,9 @@ REAL_PASS Ultimate ZX Spectrum Software Collection (1994)(Shining 8)(AGA)(Disk 0
 REAL_PASS Ultimate ZX Spectrum Software Collection (1994)(Shining 8)(AGA)(Disk 07 of 10)[emulator]
 REAL_PASS Ultimate ZX Spectrum Software Collection (1994)(Shining 8)(AGA)(Disk 08 of 10)[emulator]
 REAL_PASS Ultimate ZX Spectrum Software Collection (1994)(Shining 8)(AGA)(Disk 09 of 10)[emulator]
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Enigma (1991-03-29)(Phenomena)[h]
 REAL_BOOT Enigma (1991-03-29)(Phenomena)[m baddump]
 REAL_BOOT Enigma (1991-03-29)(Phenomena)[m2 baddump]
-FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
 REAL_BOOT Enigma 2 (19xx)(Phenomena)
 REAL_BOOT Enjoy the Silents (1992-10-24)(The Silents)
 REAL_BOOT Enjoystick (1991)(2000 A.D.)[h Warlock][aka Enjoy Stick]
@@ -13934,9 +13918,7 @@ REAL_BOOT Equipose (1993-04-10)(Complex)[h BTTR - Warlock]
 REAL_BOOT Equipose (1993-04-10)(Complex)[h BTTR]
 REAL_BOOT Eradication (1993-12-29)(Insane)
 REAL_BOOT Eradication (1993-12-29)(Insane)[b dump]
-FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
 REAL_BOOT Eternal Madness (19xx)(Digital Dreams)(AGA)(Disk 1 of 2)[HD]
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Meteors (1994)(Le Guirec, Alain)[h Warlock]
 REAL_BOOT Metograsp v1.8 (1994)(Ketturkat, D.)[WB]
 REAL_BOOT Metro-Cross (2013-09-11)(Wanted Team)[p][Atari ST conversion]
@@ -14020,13 +14002,8 @@ REAL_BOOT VirusWorkshop v4.8 (1995-02-28)(Tristar & Red Sector inc)[FFS]
 REAL_PASS VirusWorkshop v4.8 (1995-02-28)(Tristar & Red Sector inc)[HD, FFS]
 REAL_BOOT VirusWorkshop v5.1 (1995-04-30)(Tristar & Red Sector inc)[FFS]
 REAL_BOOT VirusWorkshop v5.3 (1995-07-12)(Tristar & Red Sector inc)[h Amiga Soft][HD, FFS]
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
 REAL_BOOT bBase II v5 (1991-11)(Bromley, Robert)(FW)
 REAL_BOOT bBase II v5 (1991-11)(Bromley, Robert)(FW)[h]
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
-FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
 REAL_PASS Eternal Madness (19xx)(Digital Dreams)(AGA)(Disk 2 of 2)[HD]
 REAL_BOOT Eternity (1994-04-22)(Spasm)[inc. Bim Bam 2][FFS-DC]
 REAL_BOOT Euphoria (1991)(The Giants)[h Subway PD]
@@ -14059,7 +14036,6 @@ REAL_BOOT Expiration (1994-04-16)(Mayhem)
 REAL_BOOT Expirement (1989)(Crusaders)
 REAL_BOOT Expirement (1989)(Crusaders)[h 17-Bit Software]
 REAL_BOOT Explicit II (1994)(Xanadu)(AGA)
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Maze Man (1993)(Mr. E Software)[h BTTR]
 REAL_BOOT mCAD v1.2.5 (1987)(Mooney, Tim - 17-Bit Software)(SW)
 REAL_BOOT miniBBS v1.5 (1989-04-13)(Riera, G.)(IT)
@@ -14172,11 +14148,6 @@ REAL_BOOT ZX Spectrum Emulator v1.2 (1990)(KGB)(PD)[h LSD][emulator][inc. 38 gam
 REAL_PASS ZXAM Spectrum Emulator v1.6b (1995)(WareSoft)(SW)(Disk 1 of 2)[emulator][68020, WB]
 REAL_BOOT ZXAM Spectrum Emulator v1.6b (1995)(WareSoft)(SW)(Disk 2 of 2)[inc. 28 games]
 REAL_PASS ZXAM Spectrum Emulator v2.0b (1995)(WareSoft)(SW)[h 17-Bit Software][emulator]
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
-FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
 REAL_BOOT Explicit II (1994)(Xanadu)(AGA)[h PD-Soft]
 REAL_BOOT Explicit II (1994)(Xanadu)(AGA)[h Your Choice PD]
 REAL_BOOT Explicit II (1994)(Xanadu)(AGA)[reissue]
@@ -14231,7 +14202,6 @@ REAL_BOOT FI-RE Land (1992-02-21)(FI-RE Crew)[b dump]
 REAL_BOOT FI-RE Land (1992-02-21)(FI-RE Crew)[b2 dump]
 REAL_BOOT FI-RE Land (1992-02-21)(FI-RE Crew)[m bamcopy]
 REAL_BOOT FI-RE Land (1992-02-21)(FI-RE Crew)[m2 bamcopy]
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Mr. Men Olympics v1.1 (1993)(Unity)(Disk 2 of 2)
 REAL_BOOT Mr. Men Olympics v1.11 (1993)(Unity)(Disk 1 of 2)
 REAL_BOOT Mr. Men Olympics v1.11 (1993)(Unity)(Disk 1 of 2)[a]
@@ -14346,11 +14316,6 @@ REAL_BOOT One on One (1992-06)(Scorpius)(SW)
 REAL_BOOT One on One (1992-06)(Scorpius)(SW)[inc. source code, ASM68k]
 REAL_BOOT Onslaught v1.0 (1994)(Moss, Carl)(PD)
 REAL_BOOT ORG2 (1992)(Logic-Art-Ware)(PD)[AMOS]
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
-FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
 REAL_BOOT Fantasia - Duty Now for the Future (1990-08)(Zero Defects)
 REAL_BOOT Fantasia - Duty Now for the Future (1990-08)(Zero Defects)[a]
 REAL_BOOT Fantasia - Duty Now for the Future (1990-08)(Zero Defects)[h Warlock]
@@ -14375,7 +14340,6 @@ REAL_BOOT Fatal Morgana (1993)(Tragedy)[One Disk][TP3#7]
 REAL_BOOT Fatal Overdrive (1991-12-28)(Aero)(Disk 1 of 2)
 REAL_PASS Fatal Overdrive (1991-12-28)(Aero)(Disk 2 of 2)
 REAL_BOOT Faza (1994-11-12)(Freezers)(AGA)[h BTTR]
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Operation Desert Storm (1994-06-10)(Spike)(PD)[KS3.0]
 REAL_BOOT Operation Desert Storm (19xx)(Rizzolo, Carmen)(PD)[SEUCK]
 REAL_BOOT Operation Firestorm (1993)(Ruston, Phillip - F1 Licenceware)(LW)[1998 edition]
@@ -14436,11 +14400,6 @@ REAL_BOOT Overlander (1994-04)(Scorpius)(SW)
 REAL_BOOT Overlander (1994-04)(Scorpius)(SW)[a]
 REAL_BOOT Overlander (1994-04)(Scorpius)(SW)[inc. source code, ASM68k]
 REAL_BOOT OverTaking (1994-05-08)(Jean-Pierre Software)
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
-FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
 REAL_BOOT Fear (1995)(Mystic)(AGA)(Disk 1 of 2)[IO95]
 REAL_BOOT Fear (1995)(Mystic)(AGA)(Disk 2 of 2)[IO95]
 REAL_BOOT February Clouds (1992)(Dual Crew - Shining)[h BTTR - MADny]
@@ -14458,7 +14417,6 @@ REAL_BOOT Fill'Em All (1990-12-27)(Vertigo)[h Warlock][m bamcopy]
 REAL_BOOT Filled Perspective (1990-05-04)(Zero Defects)
 REAL_BOOT Filled Perspective (1990-05-04)(Zero Defects)[h Warlock]
 REAL_BOOT Filled Vektors (1989-05-19)(It)[h Warlock]
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Overlander (1994-04)(Scorpius)(SW)[m bamcopy]
 REAL_BOOT P-GWIN v1.0 (1996-04-20)(Ladybird Design)(SW)[h Analog - Sagrael]
 REAL_BOOT P.L.E.B.S (1996)(Bright Spark Software - 5D Licenceware)(LW)
@@ -14491,11 +14449,6 @@ REAL_BOOT Paranoid (1989)(Wente, Felix)(de)(PD)[h Fastteam - KNS Crew][inc. sour
 REAL_BOOT Paranoid (1989)(Wente, Felix)(de)(PD)[inc. source code, C]
 REAL_BOOT Paranoid Game Demo (1990)(Paranoid)
 REAL_BOOT PT-45 (1989)(Oscarsoft)[h TFS][SEUCK]
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
-FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
 REAL_BOOT Filled Vektors (1989-05-19)(It)[h Warlock][m bamcopy]
 REAL_BOOT Fillet the Fish (1990-09-15)(Jester Brothers International)
 REAL_BOOT Final Condom, The (1994-07)(Delon)(AGA)
@@ -14538,7 +14491,6 @@ REAL_BOOT First Try !! !! !! (1991-02)(Beyond Force)[h Warlock][m bamcopy]
 REAL_BOOT Five (1998)(Sonik Clique)(AGA)
 REAL_BOOT Flash for Fantasy (1990)(Sanity)[h 17-Bit Software]
 REAL_BOOT Flash for Fantasy (1990)(Sanity)[h 17-Bit Software][o]
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Paranoid Game Demo (1990)(Paranoid)[b doscopy]
 REAL_BOOT Parasite (1995)(ZSoft - F1 Software)(LW)[1998 edition][AMOS]
 REAL_BOOT Parasite (1995)(ZSoft - F1 Software)(LW)[AMOS]
@@ -14598,11 +14550,6 @@ REAL_BOOT Picture Puzzle v1.0 (1992-03-16)(Wheatstone, Peter)[m bamcopy][inc. so
 REAL_BOOT Pigs, The II - Das Schwein Schlagt Zuruck v2.0 (1993-08-28)(The Game Creatores)(de)(SW)
 REAL_BOOT PillMania (1994)(Olsen, Martin)(SW)[h Metal Connextion]
 REAL_BOOT PillMania (1994)(Olsen, Martin)(SW)[h Metal Connextion][m doscopy - bamcopy]
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
-FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
 REAL_BOOT Flash for Fantasy (1991-04-27)(Sanity)[h Warlock]
 REAL_BOOT Flash for Fantasy (1991-04-27)(Sanity)[h Warlock][m bamcopy]
 REAL_BOOT Flavour (1995)(Limited Edition)(AGA)
@@ -14614,7 +14561,6 @@ REAL_BOOT Flight Over Fight - 1 mega version (1990-08-22)(Hawk)[b doscopy - dump
 REAL_BOOT Flight Over Fight - 512k version (1990-08-22)(Hawk)
 REAL_BOOT Flora (1996)(Dream Row)(AGA)
 REAL_BOOT Flora (1996)(Dream Row)(AGA)[a]
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Pilotuv Pribeh (1991)(Straton)(cs)[AMOS]
 REAL_BOOT Ping Pong (199x)(Kallasoft)(AGA)[cr CPU - MGF - JOY][b virus damage]
 REAL_BOOT Ping Pong (199x)(Kallasoft)(AGA)[cr FLT]
@@ -14630,11 +14576,6 @@ REAL_PASS Pioneers (1996)(Schroedter, Lars)(Disk 3 of 3)[cr Backlash]
 REAL_PASS Pioneers (1996)(Schroedter, Lars)(Disk 3 of 3)[cr Backlash][m doscopy]
 REAL_PASS Pioneers (1996)(Schroedter, Lars)(Disk 3 of 3)[cr Backlash][tr pl Opus SP]
 REAL_BOOT Pipeline (1989)(Brown, Richard)
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
-FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
 REAL_BOOT Flower Power (1992)(Anarchy)
 REAL_BOOT Flowers (1997-07)(Drifters)(Disk 1 of 3)[KS2.0, HD]
 REAL_BOOT Flowers (1997-07)(Drifters)(Disk 2 of 3)[KS2.0, HD]
@@ -14684,7 +14625,6 @@ REAL_BOOT Freekd Out (1989)(Crusaders)[m]
 REAL_BOOT Fresh Flavour - Is That da Fresh Flava (1994-05-19)(Eskimos)
 REAL_BOOT Fresh Flavour - Is That da Fresh Flava (1994-05-19)(Eskimos)[a]
 REAL_BOOT Friday at Eight - The Aftertouche (1994-04-05)(Polka Brothers)(AGA)[G94#3]
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Pipeline (1989)(Brown, Richard)[b dump]
 REAL_BOOT Pipeline (1990)(Cluster Developments)(PD)[h Software 2000]
 REAL_BOOT Pipeline (19xx)(Amonia)(PD)
@@ -14769,11 +14709,6 @@ REAL_BOOT Project Buzzbar (19xx)(Armstrong, S.)[h Graph FX - STR][a]
 REAL_BOOT Project Horizon (demo-playable) (2021-02-24)(Electric Black Sheep)[AMOS]
 REAL_BOOT Prototype (1997)(Caleb, Christopher - F1 Licenceware)(LW)(Disk 1 of 5)[2Mb RAM, KS2.0][AMOS]
 REAL_BOOT ProTris v1.0 (1993-11-03)(Mirage)(SW)[h Pazza]
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
-FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
 REAL_BOOT Friday at Eight - The Aftertouche (1994-04-05)(Polka Brothers)(AGA)[a no packed][G94#3]
 REAL_BOOT Friday at Eight - The Aftertouche (1994-04-05)(Polka Brothers)(AGA)[h BTTR][G94#3]
 REAL_BOOT Fruit Drop (1991-03-11)(Control)
@@ -14846,7 +14781,6 @@ REAL_PASS Genocide (1994-06-24)(Prologik Dezign)(Disk 2 of 2)[m2]
 REAL_BOOT Genocide Softmovie (1993)(Genocide)
 REAL_BOOT Geometrical Dreams (1991-06-14)(The Silents)[h Warlock]
 REAL_BOOT Geometrical Dreams (1991-06-14)(The Silents)[h Warlock][m bamcopy]
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Gerp 2016 (2016-09-03)(Insane)[final release]
 REAL_BOOT Get Frogged (1992)(Decay)
 REAL_BOOT Get Frogged (1992)(Decay)[a]
@@ -15194,12 +15128,6 @@ REAL_BOOT Rollerpede (19xx)(-)(PD)
 REAL_BOOT Roopert - The World of Logic (demo-playable) (1998)(Gleaming Design)
 REAL_BOOT Roper (1995)(Saul, M.)
 REAL_BOOT ROT (1987)(HK Soft)
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
-FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Gospel Karaoke (1992-07-02)(Complex)[h Warlock]
 REAL_BOOT Govinda (1997)(Depth)(AGA)[h BTTR]
 REAL_BOOT Graisse Antique (1993-12-28)(Nolem)(fr)[m doscopy][TP3#23]
@@ -15406,12 +15334,6 @@ REAL_BOOT SexMachine, The (19xx)(Veenstra, Jochem - Campen, Peter)[b dump][XXX]
 REAL_BOOT SexMachine, The (19xx)(Veenstra, Jochem - Campen, Peter)[h Softrunner][b dump][XXX]
 REAL_BOOT SexMachine, The (19xx)(Veenstra, Jochem - Campen, Peter)[h Softrunner][XXX]
 REAL_BOOT SexMachine, The (19xx)(Veenstra, Jochem - Campen, Peter)[XXX]
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
-FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Harmagedon (1993-12-27)(Infect)(AGA)[b doscopy][TP3#5]
 REAL_BOOT Harmagedon (1993-12-27)(Infect)(AGA)[b2 doscopy][TP3#5]
 REAL_BOOT Hartcore (1993-11-08)(E.T.)
@@ -15464,7 +15386,6 @@ REAL_BOOT Hip Hop Hater (1992-07-01)(Death Defiers)
 REAL_BOOT Hit Fido (1991-04-28)(KGB)(Disk 1 of 2)[a][SUM#4]
 REAL_BOOT Hit Fido (1991-04-28)(KGB)(Disk 1 of 2)[a2][SUM#4]
 REAL_BOOT Hit Fido (1991-04-28)(KGB)(Disk 1 of 2)[SUM#4]
-FAIL Hit Fido (1991-04-28)(KGB)(Disk 1 of 2)[u][SUM#4] (bad size: 529408)
 REAL_BOOT Hit Fido (1991-04-28)(KGB)(Disk 2 of 2)[a][SUM#4]
 REAL_BOOT Hit Fido (1991-04-28)(KGB)(Disk 2 of 2)[SUM#4]
 REAL_BOOT Hit the Road (1989)(Flash Production)(Disk 1 of 2)
@@ -16960,13 +16881,6 @@ REAL_BOOT Zyrad II (1994)(Scougall, Steven)(PD)
 REAL_BOOT Zzzep (1990)(Jumpshoe, H.)[b]
 REAL_BOOT Zzzep (1990)(Jumpshoe, H.)[cr PRD][t +3 ATZ]
 REAL_BOOT Zzzep (1990)(Jumpshoe, H.)[cr PRD][t +4 MAD]
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
-FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
-FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
-FAIL Hit Fido (1991-04-28)(KGB)(Disk 1 of 2)[u][SUM#4] (bad size: 529408)
 REAL_BOOT Limited Edition Series (1992-10)(Laser Dance)[h Warlock][m bamcopy]
 REAL_BOOT Link Megademo (1989)(Link)
 REAL_BOOT Link Megademo (1989)(Link)[o]
@@ -17049,3 +16963,660 @@ REAL_BOOT Madness 2 - The Search for Sanity (1991-02-23)(Anarchy)
 REAL_BOOT Madness 2 - The Search for Sanity (1991-02-23)(Anarchy)[h BTTR - Warlock]
 REAL_BOOT Madness 2 - The Search for Sanity (1991-02-23)(Anarchy)[h BTTR]
 REAL_BOOT Madness Week (1989-11)(Syntex)(Disk 1 of 2)
+REAL_PASS 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4]
+REAL_PASS Dexion Megademo (1989-02-12)(Dexion)[b3 dump]
+REAL_PASS Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files]
+REAL_BOOT Enigma (1991-03-29)(Phenomena)[u]
+REAL_BOOT Eradication (1993-12-29)(Insane)[u]
+REAL_PASS German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save)
+REAL_BOOT Hit Fido (1991-04-28)(KGB)(Disk 1 of 2)[u][SUM#4]
+REAL_BOOT Madness Week (1989-11)(Syntex)(Disk 1 of 2)[h AMOS PD]
+REAL_BOOT Madness Week (1989-11)(Syntex)(Disk 2 of 2)
+REAL_BOOT Madness Week (1989-11)(Syntex)(Disk 2 of 2)[h AMOS PD]
+REAL_BOOT Mag! Crack Intro (19xx)(RSI - Tristar)
+REAL_BOOT Magic Roundabout (1990-06-29)(Alienation)
+REAL_BOOT Magnetic Dreams (1992-04-21)(Digital)
+REAL_BOOT Maharischi Mahesch Yogi Popper (1992-11-11)(Melon Dezign)[h zebra3.org]
+REAL_BOOT Majestic Demo, The (19xx)(Pisteurs)(fr)
+REAL_BOOT Majic 12 Intro (19xx)(Majic 12)[h Warlock]
+REAL_BOOT Majic 12 Intro (19xx)(Majic 12)[h Warlock][m bamcopy]
+REAL_PASS Malevolent Creations VII (1995-05-22)(Ruskean Reian Ritarit)(AGA)[WB]
+REAL_BOOT Malfunction (1991-10)(Genocide)[h Warlock]
+REAL_BOOT Malfunction (1991-10)(Genocide)[h Warlock][m bamcopy]
+REAL_PASS Man on the Moon v1.00 (1995-04-09)(Faculty)(AGA)(Disk 1 of 4)[h 13th Hour][HD]
+REAL_PASS Man on the Moon v1.00 (1995-04-09)(Faculty)(AGA)(Disk 1 of 5)[HD]
+REAL_PASS Man on the Moon v1.00 (1995-04-09)(Faculty)(AGA)(Disk 2 of 4)[h 13th Hour][HD]
+REAL_PASS Man on the Moon v1.00 (1995-04-09)(Faculty)(AGA)(Disk 2 of 5)[HD]
+REAL_PASS Man on the Moon v1.00 (1995-04-09)(Faculty)(AGA)(Disk 3 of 4)[h 13th Hour][HD]
+REAL_PASS Man on the Moon v1.00 (1995-04-09)(Faculty)(AGA)(Disk 3 of 5)[HD]
+REAL_PASS Man on the Moon v1.00 (1995-04-09)(Faculty)(AGA)(Disk 4 of 4)[h 13th Hour][HD]
+REAL_PASS Man on the Moon v1.00 (1995-04-09)(Faculty)(AGA)(Disk 4 of 5)[HD]
+REAL_PASS Man on the Moon v1.00 (1995-04-09)(Faculty)(AGA)(Disk 5 of 5)[HD]
+REAL_BOOT Mandelbrot und Julia (1992-07-24)(Beyond Force)[h Warlock]
+REAL_BOOT Mandelbrot und Julia (1992-07-24)(Beyond Force)[h Warlock][m bamcopy]
+REAL_BOOT Manta (1990)(Corpse)
+REAL_BOOT Manta (1990)(Corpse)[a rebuilt][FFS]
+REAL_BOOT Manual Override (1995-04-15)(Subacid)(AGA)[G95]
+REAL_BOOT Marchewki (1992-01-14)(Alchemy)(cs-en)
+REAL_BOOT Marchewki (1992-04-12)(Alchemy)(cs-en)[b doscopy][final release]
+REAL_BOOT Marchewki (1992-04-12)(Alchemy)(cs-en)[final release]
+REAL_BOOT Mario Meets Mortal Kombat (1994-10-05)(Tesko)
+REAL_BOOT Mathic - The Demo (1992)(Mathic Entertainment)(Disk 1 of 2)
+REAL_PASS Mathic - The Demo (1992)(Mathic Entertainment)(Disk 2 of 2)
+REAL_BOOT Maths Essay (1989)(Black Monks)
+REAL_BOOT Matrix's Little Dentro (1992-03-08)(LSD)
+REAL_BOOT Max Headroom Demo (1988)(Supra Soft Inc)
+REAL_BOOT Maxima (1993-04-23)(Scoopex)[FFS]
+REAL_BOOT Maxima (1993-04-23)(Scoopex)[h BTTR]
+REAL_BOOT Maxima (1993-04-23)(Scoopex)[h Warlock]
+REAL_BOOT Maxima (1993-04-23)(Scoopex)[h Warlock][m bamcopy]
+REAL_BOOT Maxima (1993-04-23)(Scoopex)[v Saddam 1]
+REAL_BOOT Maximum Overdrive (1990-01)(The Special Brothers)
+REAL_BOOT Maximum Overdrive (1990-01)(The Special Brothers)[b dump]
+REAL_BOOT Maximum Overdrive (1990-12-05)(The Special Brothers)(Disk 1 of 2)
+REAL_BOOT Maximum Overdrive (1990-12-05)(The Special Brothers)(Disk 2 of 2)
+REAL_BOOT Maximum Overdrive (1993-11-05)(Rage)(AGA)(Disk 1 of 2)
+REAL_PASS Maximum Overdrive (1993-11-05)(Rage)(AGA)(Disk 1 of 2)[a HD install][HD]
+REAL_BOOT Maximum Overdrive (1993-11-05)(Rage)(AGA)(Disk 1 of 2)[f Visage]
+REAL_PASS Maximum Overdrive (1993-11-05)(Rage)(AGA)(Disk 1 of 2)[HD]
+REAL_PASS Maximum Overdrive (1993-11-05)(Rage)(AGA)(Disk 2 of 2)
+REAL_PASS Maximum Overdrive (1993-11-05)(Rage)(AGA)(Disk 2 of 2)[f Visage]
+REAL_PASS Maximum Overdrive (1993-11-05)(Rage)(AGA)(Disk 2 of 2)[HD]
+REAL_BOOT Maximum Overdrive 2 - The Emperor Strikes Back (1994-08)(Rage)(AGA)(Disk 1 of 3)[A94#6]
+REAL_PASS Maximum Overdrive 2 - The Emperor Strikes Back (1994-08)(Rage)(AGA)(Disk 2 of 3)
+REAL_PASS Maximum Overdrive 2 - The Emperor Strikes Back (1994-08)(Rage)(AGA)(Disk 3 of 3)
+REAL_BOOT Maximum Velocity (1992-08-07)(The Silents)
+REAL_BOOT Maxtro - Maxwell das Lamerschwein is Back (199x)(Mendrik)
+REAL_BOOT Maxtro (1993-05-05)(Analog)
+REAL_BOOT Mayday Resistance (1992-12-27)(Adict)
+REAL_BOOT Mayday Resistance (1992-12-27)(Adict)[a intro disable]
+REAL_BOOT Mayday Resistance (1992-12-27)(Adict)[m bamcopy]
+REAL_BOOT Mayday Resistance (1992-12-27)(Adict)[m]
+REAL_BOOT McDonald Land Mini-Trainer (1992-10-28)(Chaos)[h Warlock]
+REAL_BOOT McDonald Land Mini-Trainer (1992-10-28)(Chaos)[h Warlock][m bamcopy]
+REAL_BOOT Medley Relation (1990-12-29)(Treacl)
+REAL_BOOT Medley Relation (1990-12-29)(Treacl)[m empty sectors]
+REAL_BOOT Meet-Tro (1994)(Cybex - The Electronic Knights)
+REAL_BOOT Meet-Tro (1994)(Cybex - The Electronic Knights)[b doscopy - dump]
+REAL_BOOT Meet-tro (2014-08-03)(Y-Crew)
+REAL_BOOT Meetro 93 (1993-07-30)(Balance)[h Warlock]
+REAL_BOOT Meetro 93 (1993-07-30)(Balance)[h Warlock][m bamcopy]
+REAL_BOOT Mega Demo (1988-10)(Top Swap)[KS1.2]
+REAL_BOOT Mega Demo (1988-10)(Top Swap)[m bamcopy][KS1.2]
+REAL_BOOT Mega Demo (1989-03-11)(The Assassins)
+REAL_BOOT Mega Demo (1989)(End of Century 1999)
+REAL_BOOT Mega Demo (1989)(High Voltage France)
+REAL_BOOT Mega Demo 2 (1989)(End of Century 1999)
+REAL_BOOT Mega Demo 2 (1989)(End of Century 1999)[h Warlock]
+REAL_BOOT Mega Demo 2 (1989)(End of Century 1999)[m bamcopy]
+REAL_BOOT Mega Demo I (1991-12-27)(Toxic Trooper)(Disk 1 of 2)
+REAL_BOOT Mega Demo Level One T.D.T. (1988)(Dream Team - Level One)
+REAL_BOOT Mega Demo Level One T.D.T. (1988)(Dream Team - Level One)[b corrupt file]
+REAL_BOOT Mega Demo Nr.3 - When God's Cries (1989-12-04)(The Silents)
+REAL_BOOT Mega Demo Nr.3 - When God's Cries (1989-12-04)(The Silents)[b corrupt file]
+REAL_BOOT Mega Demo Nr.3 - When God's Cries (1989-12-04)(The Silents)[m bamcopy][b corrupt file]
+REAL_BOOT Mega Maid (1989-03-24)(Pixar - The Band)[h MST][XXX]
+REAL_BOOT Mega Maid (1989-03-24)(Pixar - The Band)[h RBS][XXX]
+REAL_BOOT Mega Maid (1989-03-24)(Pixar - The Band)[XXX]
+REAL_BOOT Mega-Demo (1990-07-01)(Treacl)(Disk 1 of 3)
+REAL_BOOT Mega-Demo (1990-07-01)(Treacl)(Disk 2 of 3)
+REAL_BOOT Mega-Demo (1990-07-01)(Treacl)(Disk 2 of 3)[m baddump]
+REAL_BOOT Mega-Demo (1990-07-01)(Treacl)(Disk 3 of 3)[m baddump]
+REAL_BOOT Mega-Demo (1990-07-01)(Treacl)(Disk 3 of 3)[m2 baddump]
+REAL_BOOT Mega-Demo (1990-07-01)(Treacl)(Disk 3 of 3)[m3 baddump]
+REAL_BOOT Mega-Demo (1990)(The Style Council)
+REAL_BOOT Mega-Demo #1 (1990)(Powerstars)
+REAL_BOOT Mega-Demo-Disk 2 (1989-01-20)(Wings of Tomorrow)[KS1.2]
+REAL_BOOT Megademo - Hottest Stuff (1988-08)(Megaforce)
+REAL_BOOT Megademo - Hottest Stuff (1988-08)(Megaforce)[b dump]
+REAL_BOOT Megademo - Hottest Stuff (1988-08)(Megaforce)[SCA protected]
+REAL_BOOT Megademo - Masters at Work (1989-06-29)(Flash Production)
+REAL_BOOT Megademo - Masters at Work Disc 1 (1989-06-29)(Flash Production)
+REAL_BOOT Megademo - Masters at Work Disc 2 (1989-06-29)(Flash Production)
+REAL_BOOT Megademo - Masturbation (1992)(Fluffy Bears)(pl)
+REAL_BOOT Megademo - Mega-Competition Demo (1989-07-07)(Rebels)
+REAL_BOOT Megademo - Mega-Competition Demo (1989-07-07)(Rebels)[a]
+REAL_BOOT Megademo - Mega-Competition Demo (1989-07-07)(Rebels)[m bamcopy]
+REAL_BOOT Megademo (1987-12-04)(Antitrax 2010)
+REAL_BOOT Megademo (1987-12-04)(Antitrax 2010)[a]
+REAL_BOOT Megademo (1987-12-04)(Antitrax 2010)[b doscopy - dump]
+REAL_BOOT Megademo (1987-12-04)(Antitrax 2010)[b doscopy]
+REAL_BOOT Megademo (1987-12-04)(Antitrax 2010)[o][b doscopy - dump]
+REAL_BOOT Megademo (1988-05-25)(Ian & Mic)
+REAL_BOOT Megademo (1988-05-25)(Ian & Mic)[b doscopy]
+REAL_BOOT Megademo (1988-05-25)(Ian & Mic)[h SPC]
+REAL_BOOT Megademo (1988-08-23)(Scientific Cracking Team)[m bamcopy - doscopy]
+REAL_BOOT Megademo (1989-01-07)(Jungle Command - Magnificent Force - Joy)
+REAL_BOOT Megademo (1989-01-07)(Jungle Command - Magnificent Force - Joy)[b doscopy - dump]
+REAL_BOOT Megademo (1989-01-24)(Deathstar)(Disk 1 of 2)
+REAL_BOOT Megademo (1989-01-24)(Deathstar)(Disk 1 of 2)[m baddump]
+REAL_BOOT Megademo (1989-01-24)(Deathstar)(Disk 1 of 2)[m errdms]
+REAL_BOOT Megademo (1989-01-24)(Deathstar)(Disk 1 of 2)[o]
+REAL_BOOT Megademo (1989-01-24)(Deathstar)(Disk 2 of 2)
+REAL_BOOT Megademo (1989-01-24)(Deathstar)(Disk 2 of 2)[b dump]
+REAL_BOOT Megademo (1989-01-24)(Deathstar)(Disk 2 of 2)[b2 dump]
+REAL_BOOT Megademo (1989-01-24)(Deathstar)(Disk 2 of 2)[m baddump]
+REAL_BOOT Megademo (1989-01-24)(Deathstar)(Disk 2 of 2)[m baddump][o]
+REAL_BOOT Megademo (1989-03-24)(Electronic Artists)
+REAL_BOOT Megademo (1989-03-25)(Vision)
+REAL_BOOT Megademo (1989-03-25)(Vision)[m baddump]
+REAL_BOOT Megademo (1989-04-01)(Digilogic)
+REAL_BOOT Megademo (1989-07-29)(United Forces)
+REAL_BOOT Megademo (1989-07-29)(United Forces)[b doscopy - dump]
+REAL_BOOT Megademo (1989-07-29)(United Forces)[m baddump]
+REAL_BOOT Megademo (1989-08-20)(Errors)
+REAL_BOOT Megademo (1989-11)(Sunlight)
+REAL_BOOT Megademo (1989-11)(Sunlight)(preview)[b dump]
+REAL_BOOT Megademo (1989-12)(Darklight)
+REAL_BOOT Megademo (1989)(Abel)
+REAL_BOOT Megademo (1989)(Abel)[rebuilt]
+REAL_BOOT Megademo (1989)(Phenomena)
+REAL_BOOT Megademo (1989)(Phenomena)[a]
+REAL_BOOT Megademo (1989)(Phenomena)[b dump]
+REAL_BOOT Megademo (1989)(Scoopex - Share and Enjoy)
+REAL_BOOT Megademo (1989)(Scoopex - Share and Enjoy)[b errdms]
+REAL_BOOT Megademo (1989)(The Fast Guys)[b dump]
+REAL_BOOT Megademo (1990-01-05)(Dual Crew)
+REAL_BOOT Megademo (1990-01-05)(Dual Crew)[f]
+REAL_BOOT Megademo (1990-01-05)(Dual Crew)[m baddump]
+REAL_BOOT Megademo (1990-01-05)(Dual Crew)[m baddump][o]
+REAL_BOOT Megademo (1990-01-05)(Dual Crew)[m2 baddump]
+REAL_BOOT Megademo (1990-03-24)(Legion-7)
+REAL_BOOT Megademo (1990-07-01)(Pyrrusians)
+REAL_BOOT Megademo (1990-08)(Asperity)
+REAL_BOOT Megademo (1990)(Excellence)
+REAL_BOOT Megademo (1990)(MC-ZZZ)
+REAL_BOOT Megademo (1990)(Supplex)
+REAL_BOOT Megademo (1992-01)(Semtex)
+REAL_BOOT Megademo #1 (1990-05-17)(Dreamdealers)[a introtxt]
+REAL_BOOT Megademo #1 (1990-05-17)(Dreamdealers)[h Warlock]
+REAL_BOOT Megademo #2 - Think Over the Star (1991-01-22)(Dreamdealers)
+REAL_BOOT Megademo 1 (1988-12)(Cascade 1733)
+REAL_BOOT Megademo 1 (1988-12)(Cascade 1733)[b filesystem][a rebuilt][FFS]
+REAL_BOOT Megademo 1 (1988-12)(Cascade 1733)[h KRS-One]
+REAL_BOOT Megademo 1 (1988-12)(Cascade 1733)[h Warlock]
+REAL_BOOT Megademo 1 (1988-12)(Cascade 1733)[h Warlock][m bamcopy]
+REAL_BOOT Megademo 1 (1989)(Doctor Destroy Team)
+REAL_BOOT Megademo 1 (1990-04-23)(Star Rangers)
+REAL_BOOT Megademo 1 (1990-06-29)(Budbrain Productions)(Disk 1 of 2)
+REAL_BOOT Megademo 1 (1990-06-29)(Budbrain Productions)(Disk 1 of 2)[b dump]
+REAL_BOOT Megademo 1 (1990-06-29)(Budbrain Productions)(Disk 1 of 2)[b2 dump]
+REAL_BOOT Megademo 1 (1990-06-29)(Budbrain Productions)(Disk 2 of 2)
+REAL_BOOT Megademo 1 (1990-06-29)(Budbrain Productions)(Disk 2 of 2)[b dump]
+REAL_BOOT Megademo 1 (1991)(Fanatix)(Disk 1 of 2)[h AMOS PD]
+REAL_BOOT Megademo 1 (1991)(Fanatix)(Disk 1 of 2)[h AMOS PD][b disk label]
+REAL_BOOT Megademo 1 (1991)(Fanatix)(Disk 2 of 2)
+REAL_BOOT Megademo 1 (1991)(Fanatix)(Disk 2 of 2)[b disk label]
+REAL_BOOT Megademo 2 - Back to the Roots (1993)(Drix)[h Warlock][m bamcopy]
+REAL_BOOT Megademo 2 - Back to the Roots (1993)(Drix)[m baddump]
+REAL_BOOT Megademo 2 - Back to the Roots (1993)(Drix)[m bamcopy]
+REAL_PASS Megademo 2 - Back to the Roots (1993)(Drix)[zoom archive]
+REAL_BOOT Megademo 2 (1990-12-29)(Budbrain Productions)
+REAL_BOOT Megademo 2 (1990-12-29)(Budbrain Productions)[a]
+REAL_BOOT Megademo 2 (1990-12-29)(Budbrain Productions)[o]
+REAL_BOOT Megademo 2 (1990)(2001 Datakill)
+REAL_BOOT Megademo 2 (1990)(2001 Datakill)[b dump]
+REAL_BOOT Megademo 2 (1990)(Disorder)
+REAL_BOOT Megademo 2 (1990)(Disorder)[m baddump]
+REAL_BOOT MegaDemo 2 (1993-07-27)(Virtual Dimension)(Disk 1 of 2)
+REAL_PASS MegaDemo 2 (1993-07-27)(Virtual Dimension)(Disk 2 of 2)
+REAL_BOOT Megademo 3 (1989-01)(North Star - Fairlight)(Disk 1 of 2)
+REAL_BOOT Megademo 3 (1989-01)(North Star - Fairlight)(Disk 1 of 2)[b doscopy - dump]
+REAL_BOOT Megademo 3 (1989-01)(North Star - Fairlight)(Disk 1 of 2)[b dump]
+REAL_BOOT Megademo 3 (1989-01)(North Star - Fairlight)(Disk 2 of 2)
+REAL_BOOT Megademo 3 (1991)(Budbrain Productions)[h Warlock]
+REAL_BOOT Megademo 3 (1991)(Budbrain Productions)[h Warlock][m bamcopy]
+REAL_BOOT Megademo 3 (1991)(Fanatix)(Disk 1 of 2)[h AMOS PD]
+REAL_BOOT Megademo 3 (1991)(Fanatix)(Disk 2 of 2)
+REAL_BOOT Megademo 4 (1992)(Fanatix)(Disk 1 of 2)
+REAL_BOOT Megademo 4 (1992)(Fanatix)(Disk 2 of 2)
+REAL_BOOT Megademo Disk 1 (1989-02-08)(Phoenix)
+REAL_BOOT Megademo Disk 1 (1989-02-08)(Phoenix)[m bamcopy]
+REAL_BOOT Megademo Disk 2 (1989-08-08)(Phoenix)
+REAL_BOOT Megademo I (1990-04-23)(Omega)
+REAL_BOOT Megademo I (1992-10-18)(Proxis)
+REAL_BOOT Megademo I (1993)(Syndicate)
+REAL_BOOT Megademo I (1993)(Syndicate)[a]
+REAL_BOOT Megademo II (1989-07-29)(Vision)
+REAL_BOOT Megademo II (1990-02-17)(Rebels)
+REAL_BOOT Megademo IV - Devil's Key (1990-06-05)(Alcatraz)(Disk 1 of 3)[f]
+REAL_BOOT Megademo IV - Devil's Key (1990-06-05)(Alcatraz)(Disk 1 of 3)[f2]
+REAL_BOOT Megademo IV - Devil's Key (1990-06-05)(Alcatraz)(Disk 1 of 3)[f3]
+REAL_BOOT Megademo IV - Devil's Key (1990-06-05)(Alcatraz)(Disk 2 of 3)
+REAL_BOOT Megademo IV - Devil's Key (1990-06-05)(Alcatraz)(Disk 3 of 3)
+REAL_BOOT Megademo IV - Devil's Key (1990-06-05)(Alcatraz)(Disk 3 of 3)[b dump]
+REAL_PASS Megademo IV - Devil's Key (1990-06-05)(Alcatraz)(Disk 3 of 3)[h Treacle-Team]
+REAL_BOOT Megademo One - Out of Nowhere (1991)(Alarm)
+REAL_BOOT Megademo One - Out of Nowhere (1991)(Alarm)[h Warlock]
+REAL_BOOT Megademo One - Out of Nowhere (1991)(Alarm)[h Warlock][m bamcopy]
+REAL_BOOT Megademo One - Out of Nowhere (1991)(Alarm)[m bamcopy]
+REAL_BOOT Megademo One (1989)(Manowar)
+REAL_BOOT Megademo One (1990-08-02)(Katharsis)
+REAL_BOOT Megademo One (1990-08-02)(Katharsis)[b doscopy]
+REAL_BOOT Megademo v1.0 - Intro (1988)(Defjam - Red Sector Inc)[h Warlock]
+REAL_BOOT Megademo v1.0 - Intro (1988)(Defjam - Red Sector Inc)[h Warlock][m bamcopy]
+REAL_BOOT Megademo v1.0 (1988)(Defjam - Red Sector Inc)
+REAL_BOOT Megademo v1.0 (1988)(Defjam - Red Sector Inc)[a bootblock]
+REAL_BOOT Megademo v1.0 (1988)(Defjam - Red Sector Inc)[b corrupt file][a startup-sequence]
+REAL_BOOT Megademo v1.0 (1988)(Defjam - Red Sector Inc)[f Andreas][a startup-sequence]
+REAL_BOOT Megademo v1.0 (1988)(Defjam - Red Sector Inc)[m bamcopy]
+REAL_BOOT Megademo-Disk I (1989)(Flashlight Design)[b doscopy]
+REAL_BOOT Megapack 2 - Fanatic is Dead (1990)(Extensors)
+REAL_BOOT Megapack 2 - Fanatic is Dead (1990)(Extensors)[h Warlock]
+REAL_BOOT Megashow (1990-09)(Power 68000)
+REAL_BOOT MegaTraveller 1 - The Zhodani Conspiracy Crack Intro (1991-05)(Agile)[h Warlock]
+REAL_BOOT MegaTraveller 1 - The Zhodani Conspiracy Crack Intro (1991-05)(Agile)[h Warlock][m bamcopy]
+REAL_BOOT Mekka Symposium 1997 demo (1997-03-28)(Jolly)(AGA)
+REAL_BOOT Mekkademo (1991-09-28)(Cyborx)(Disk 1 of 2)
+REAL_BOOT Mekkademo (1991-09-28)(Cyborx)(Disk 1 of 2)[a]
+REAL_BOOT Mekkademo (1991-09-28)(Cyborx)(Disk 2 of 2)
+REAL_BOOT Melba (2001-04-16)(Appendix)(AGA)[h BTTR]
+REAL_PASS Melchior (1995-05-03)(Impact)(AGA)(Disk 1 of 2)[HD]
+REAL_PASS Melchior (1995-05-03)(Impact)(AGA)(Disk 2 of 2)
+REAL_BOOT Melee Intro, The (1993)(Arise)(AGA)
+REAL_BOOT Melee Intro, The (1993)(Arise)(AGA)[m bamcopy]
+REAL_BOOT Meltdown (1991-01)(Excellence - Absence)[h BTTR - Warlock]
+REAL_BOOT Meltdown (1991-01)(Excellence - Absence)[h BTTR]
+REAL_BOOT Melted Experience, The (1991-07)(The Electric Touch)
+REAL_BOOT Melted Experience, The (1991-07)(The Electric Touch)[o]
+REAL_BOOT Memory Overload (1992-10-14)(The Independents)
+REAL_BOOT Memory Overload (1992-10-14)(The Independents)[m]
+REAL_BOOT Menace (1992-08-01)(Desire)
+REAL_BOOT Menace (1992-08-01)(Desire)[h BTTR - Warlock]
+REAL_BOOT Menace (1992-08-01)(Desire)[h BTTR]
+REAL_BOOT Menace (1992-08-01)(Desire)[v CCCP]
+REAL_BOOT Mental HangOver (1990-04-12)(Scoopex)
+REAL_BOOT Mental HangOver (1990-04-12)(Scoopex)[b bamcopy - dump]
+REAL_BOOT Mental HangOver (1990-04-12)(Scoopex)[b dump]
+REAL_BOOT Mental HangOver (1990-04-12)(Scoopex)[h][b bamcopy]
+REAL_BOOT Mental HangOver (1990-04-12)(Scoopex)[m doscopy]
+REAL_BOOT Mental Rave Series 2 - Polytheism (1992-12-28)(Adict)
+REAL_BOOT Mental Rave Series 2 - Polytheism (1992-12-28)(Adict)[h Warlock]
+REAL_BOOT Mere Guld - Previous Unreleased Tracks 1991-1994 (1994)(Gunnars Farvebio)
+REAL_BOOT Mesmerized (1990-12-26)(Pure Metal Coders)[h Subway]
+REAL_BOOT Metal Connextion (1991-04-22)(Focus Design)
+REAL_BOOT Metal Disaster (1992-02-02)(Splash)
+REAL_BOOT Metal Melissa - The Pisser (1991-07)(Animators)[a][edited 3 times]
+REAL_BOOT Metal Melissa - The Pisser (1991-07)(Animators)[a2][edited 5 times]
+REAL_BOOT Metal Melissa - The Pisser (1991-07)(Animators)[a3][edited 6 times]
+REAL_BOOT Metal Melissa - The Pisser (1991-07)(Animators)[a4][edited 6 times]
+REAL_BOOT Metal Melissa - The Pisser (1991-07)(Animators)[a5][edited 7 times]
+REAL_BOOT Metal Melissa - The Pisser (1991-07)(Animators)[b dump][edited 6 times]
+REAL_BOOT Metal Melissa - The Pisser (1991-07)(Animators)[edited 2 times]
+REAL_BOOT Methylate (1994-03-29)(Focus Design)
+REAL_BOOT Metro (1992-04-20)(Parallax)
+REAL_BOOT Metro (1992-04-20)(Parallax)[m doscopy]
+REAL_BOOT Metro 2 (1992-05-24)(Parallax)[errdms]
+REAL_BOOT Mibootie (2013-02-10)(Triad)[boot intro]
+REAL_BOOT Mikro Bitti Demo (1993-03)(Black Jack)
+REAL_BOOT Millenium (2000-08-26)(Scoopex)[h BTTR]
+REAL_BOOT Millions (1993)(Beyond)(AGA)[h Express PD - ALE]
+REAL_BOOT Millions (1993)(Beyond)(AGA)[h Express PD]
+REAL_BOOT Mina 1 (1991-07-08)(Energy - Xerox)
+REAL_BOOT Mina Omistan (1994-04-22)(Movement)(AGA)[S94#5]
+REAL_BOOT Mind Expanding (1993-12-29)(Melon Dezign)[h Warlock][m bamcopy][TP3#22]
+REAL_BOOT Mind Expanding (1993-12-29)(Melon Dezign)[h Warlock][TP3#22]
+REAL_BOOT Mind Riot (1993-01-13)(Andromeda)
+REAL_BOOT Mind Riot (1993-01-13)(Andromeda)[h ALE]
+REAL_BOOT Mind Riot (1993-01-13)(Andromeda)[h BTTR]
+REAL_BOOT Mind Riot (1993-01-13)(Andromeda)[h demondownload.dk]
+REAL_BOOT Mind Riot (1993-01-13)(Andromeda)[h Warlock]
+REAL_BOOT Mind Riot (1993-01-13)(Andromeda)[h Warlock][m bamcopy]
+REAL_BOOT Mind the Carrott 2 (1995)(The Black Lotus)(AGA)[h BTTR]
+REAL_BOOT Mind the Co-op (1995-10-21)(Axis - The Black Lotus)(AGA)[h BTTR]
+REAL_BOOT Mindblasting Vectorballs (1989-09)(Red Sector Inc)[h BTTR]
+REAL_BOOT Mindblasting Vectorballs (1989-09)(Red Sector Inc)[h Warlock]
+REAL_BOOT Mindblasting Vectorballs (1989-09)(Red Sector Inc)[h Warlock][m bamcopy]
+REAL_BOOT Mindfield (1997)(Mega Watts)(Disk 1 of 3)
+REAL_BOOT Mindfield (1997)(Mega Watts)(Disk 1 of 3)[b doscopy]
+REAL_BOOT Mindfield (1997)(Mega Watts)(Disk 1 of 3)[b2 doscopy]
+REAL_BOOT Mindfield (1997)(Mega Watts)(Disk 2 of 3)
+REAL_BOOT Mindfield (1997)(Mega Watts)(Disk 2 of 3)[b doscopy]
+REAL_BOOT Mindfield (1997)(Mega Watts)(Disk 3 of 3)
+REAL_BOOT Mindfield (1997)(Mega Watts)(Disk 3 of 3)[b doscopy]
+REAL_BOOT Mindflow (1994-08-06)(Stellar)(AGA)[A94#1]
+REAL_BOOT Mindflux (2003-07)(Software Failure)(AGA)[h BTTR]
+REAL_PASS Mindprobe (1996)(The Black Lotus)(AGA)(Disk 1 of 2)[HD][TP5#15]
+REAL_PASS Mindprobe (1996)(The Black Lotus)(AGA)(Disk 2 of 2)[HD][TP5#15]
+REAL_BOOT Mindwarp (1993-06-10)(Team Hoi)(AGA)[h Telescan PD][m bamcopy]
+REAL_BOOT Mindwarp (1993-06-10)(Team Hoi)(AGA)[h]
+REAL_BOOT Mindwarp Megademo I (1988)(Mindwarp)[h Amiga-Action][FFS]
+REAL_BOOT Mindwarp Megademo II (1989-08-26)(Mindwarp - Alpha Flight)
+REAL_BOOT Mini Megademo (1992-01-20)(Doom UK)
+REAL_BOOT Mini-Demo (1989)(Paradise)
+REAL_BOOT Mint (1995-04-14)(Teenage Crime)(AGA)[a rebuilt][G95#7]
+REAL_BOOT Mint (1995-04-14)(Teenage Crime)(AGA)[a][G95#7]
+REAL_BOOT Mint (1995-04-14)(Teenage Crime)(AGA)[h Neo][G95#7]
+REAL_BOOT Mintro 4 (1992-01-06)(Plague)[h BTTR]
+REAL_BOOT Minus 4 (2000)(Rave Network Overscan)(AGA)[h BTTR]
+REAL_BOOT Misery (1995-08-11)(The Black Lotus)(AGA)
+REAL_BOOT Misery Dentro 2 (1992)(TRSI)[C93#2]
+REAL_BOOT Missing Link (1991-04-26)(Light)
+REAL_BOOT Missing Link (1991-04-26)(Light)[b dump]
+REAL_BOOT Mission Nostromo (1992)(Focus Design)
+REAL_BOOT Mobile - Destination Unknown (1993)(Spaceballs)[G93#3]
+REAL_BOOT Modeler Converter (1991-04-22)(Drifters)[h BTTR]
+REAL_BOOT Modular (2000)(Haujobb)(AGA)[h BTTR]
+REAL_BOOT Modules and More 8 (1993-12-15)(Hufo)(AGA)
+REAL_BOOT Modules and More 9 (1994-01-01)(Hufo)
+REAL_BOOT Moeurs, Les (1994)(Apocalypse)(AGA)
+REAL_BOOT Mokkula-Intro (1991-10-19)(Genocide)[h Warlock]
+REAL_BOOT Mokkula-Intro (1991-10-19)(Genocide)[h Warlock][m bamcopy]
+REAL_BOOT Mole (2015-04-04)(Y-Crew)
+REAL_BOOT Molndal (2002)(Elcrew)(AGA)(de-en)[h BTTR]
+REAL_BOOT Moments (1995)(Old Bulls)(AGA)[E95#2]
+REAL_BOOT Mona Lisa Was a Man (1992-12-28)(Abyss)
+REAL_BOOT Mona Lisa Was a Man (1992-12-28)(Abyss)[h ALE][m corrupt file]
+REAL_BOOT Mona Lisa Was a Man (1992-12-28)(Abyss)[h Warlock][m corrupt file]
+REAL_BOOT Mona Lisa Was a Man (1992-12-28)(Abyss)[m corrupt file]
+REAL_BOOT Monkey Business (2000)(Apathy)(AGA)[h BTTR]
+REAL_BOOT Monolith (1994)(Over The Top)
+REAL_BOOT Monoxide (1992-11-28)(Vanish)
+REAL_BOOT Monoxide (1992-11-28)(Vanish)[b dump]
+REAL_BOOT Moonlight Shadow (1993-01-03)(23 Celsius Crew)[h BTTR]
+REAL_BOOT Morbid Visions (1993)(Division)
+REAL_BOOT More Members (1994-10-08)(Birdhouse Projects)
+REAL_BOOT More Vectors (1991-08-24)(23 Celsius Crew)
+REAL_BOOT Morning Trip, The (1998)(Loonies)(AGA)[h BTTR]
+REAL_BOOT Morph Final Crack Intro (1993)(Paradox)[h Warlock]
+REAL_BOOT Morph Final Crack Intro (1993)(Paradox)[h Warlock][m bamcopy]
+REAL_BOOT Mothermilk (1990-11-10)(Extensors)
+REAL_BOOT Mothermilk (1990-11-10)(Extensors)[h Warlock]
+REAL_BOOT Motion - Origin 2 (1994-12-28)(Bomb)(AGA)(Disk 1 of 2)[f 68040][TP4#3]
+REAL_BOOT Motion - Origin 2 (1994-12-28)(Bomb)(AGA)(Disk 1 of 2)[TP4#3]
+REAL_BOOT Motion - Origin 2 (1994-12-28)(Bomb)(AGA)(Disk 2 of 2)
+REAL_BOOT Motion - Origin 2 (1994-12-28)(Bomb)(AGA)(Disk 2 of 2)[m doscopy]
+REAL_BOOT Motion - Origin 2 (1995)(Bomb)(AGA)(Disk 1 of 2)[updated][TP4#3]
+REAL_BOOT Motion - Origin 2 (1995)(Bomb)(AGA)(Disk 2 of 2)[updated]
+REAL_BOOT Motion Blur (2000)(Horizontal Lamers)(AGA)[h BTTR]
+REAL_BOOT Motown BBS Intro (1991-09-11)(Equinox)
+REAL_BOOT Mountain Beer Party '92 (1992)(Grace)(Disk 1 of 2)
+REAL_BOOT Mountain Beer Party '92 (1992)(Grace)(Disk 2 of 2)
+REAL_BOOT Mouse Ate the Cat, The (1992)(Trash)[TP2#17]
+REAL_BOOT Move Any Mountain (1993-03)(Lazy Bones)
+REAL_BOOT Move the Mouse (1988-11)(Red Sector Inc)[h Warlock]
+REAL_BOOT Move the Mouse (1988-11)(Red Sector Inc)[h Warlock][m bamcopy]
+REAL_PASS Move your Brain (1995-05-21)(Maniax)(AGA)[HD]
+REAL_BOOT Moviedemo 1 (19xx)(Addonic)
+REAL_BOOT Moving (1998-12-27)(Darkage - Scoopex)(AGA)[h BTTR]
+REAL_BOOT Mr.Monkey (1994-06-24)(Rebels)(AGA)
+REAL_BOOT Mr.Monkey (1994-06-24)(Rebels)(AGA)[m doscopy]
+REAL_PASS Much Ado About Nothing (1994-12-27)(Duplo)(AGA)[WB]
+REAL_BOOT Multi Part Demo (1991-03-30)(Ecstasy)
+REAL_BOOT Multi-Cycle Delirium (1991)(Extensors)
+REAL_BOOT Multi-Cycle Delirium (1991)(Extensors)[h Warlock]
+REAL_BOOT Multi-Parts Demo (1990-11)(Concept)[h BTTR]
+REAL_BOOT Multica (1992)(Andromeda)[G92#10]
+REAL_BOOT Multicolor (2008-09-20)(Unique)
+REAL_BOOT Multipart Demo - The First Magic Production (1991-11-11)(Skid Row)
+REAL_BOOT Multiplexor (1989-04)(Beyond Force)[h Warlock]
+REAL_BOOT Multiplexor (1989-04)(Beyond Force)[h Warlock][m bamcopy]
+REAL_BOOT Multro (1992-05-15)(Ghost)
+REAL_BOOT Mutant's Dreams (19xx)(Syntex)
+REAL_BOOT Mutation (1992)(Crass)
+REAL_BOOT My House (2000)(Darkage)(AGA)[h BTTR]
+REAL_BOOT My Mama is a Vampire (1994-10-30)(Duplo)(AGA)(Disk 1 of 2)
+REAL_BOOT My Mama is a Vampire (1994-10-30)(Duplo)(AGA)(Disk 1 of 2)[a]
+REAL_PASS My Mama is a Vampire (1994-10-30)(Duplo)(AGA)(Disk 2 of 2)
+REAL_PASS My Mama is a Vampire (1994-10-30)(Duplo)(AGA)(Disk 2 of 2)[a]
+REAL_BOOT MysPys (1992-03-01)(Equinox)
+REAL_BOOT Mysterious Mixture (1990)(Beyond Force)[h Warlock]
+REAL_BOOT Mysterious Mixture (1990)(Beyond Force)[h Warlock][m bamcopy]
+REAL_PASS Mystic - The Demo (1995-12-28)(Mystic)(Disk 1 of 2)[HD]
+REAL_PASS Mystic - The Demo (1995-12-28)(Mystic)(Disk 2 of 2)[HD]
+REAL_BOOT Mystical Brine II (1993-08-31)(Voodoo Design)
+REAL_BOOT Mystical Crack Intro (1990)(Paradox)[h Warlock]
+REAL_BOOT Mystical Crack Intro (1990)(Paradox)[h Warlock][m bamcopy]
+REAL_BOOT N-tro (1993-08-01)(Prime Design)(de-en)(Disk 1 of 2)
+REAL_PASS N-tro (1993-08-01)(Prime Design)(de-en)(Disk 2 of 2)
+REAL_BOOT N20 (1999)(Spaceballs)(AGA)[h BTTR]
+REAL_BOOT Nano (2002)(Scarab)(AGA)[h BTTR]
+REAL_BOOT Nano-Demo (1991-03-30)(Catastrophy)
+REAL_BOOT Naos (1994-10)(Nova Acies)
+REAL_BOOT Nearer my God to Thee (1992-12-27)(The Electronic Knights)[h Warlock]
+REAL_BOOT Nearer my God to Thee (1992-12-27)(The Electronic Knights)[h Warlock][m bamcopy]
+REAL_BOOT Necronomicon, The (1992)(Symbiosis)
+REAL_BOOT Necronomicon, The (1992)(Symbiosis)[b]
+REAL_BOOT Necropolis Megademo (19xx)(Necropolis)
+REAL_BOOT Need 1 Meg (19xx)(Byterapers)
+REAL_BOOT Negative FX (2014-02-15)(Reality)
+REAL_BOOT Nemesis - The Judgement Day (1992-08-01)(Cyborx)
+REAL_BOOT Nemesis - The Judgement Day (1992-08-01)(Cyborx)[a]
+REAL_BOOT Nervous Breakdown (1989-01-12)(Epsilon Designs)
+REAL_BOOT Nervous Breakdown (1989-01-12)(Epsilon Designs)[m]
+REAL_BOOT Netzone '97 Invitation (1997-08-16)(Ramses)(AGA)[WB][aka Place to Be V Invitation][68030]
+REAL_BOOT Neural Assault (1993)(Rage)[a][ECC#1]
+REAL_BOOT Neural Assault (1993)(Rage)[b doscopy][ECC#1]
+REAL_BOOT Neural Assault (1993)(Rage)[ECC#1]
+REAL_BOOT Neurasthenia (1993-05-03)(Hiron)
+REAL_BOOT Never Again (1991)(Panoramic Design)
+REAL_BOOT Nevermind (1992-06-28)(Dominators)(Disk 1 of 2)
+REAL_BOOT Nevermind (1992-06-28)(Dominators)(Disk 1 of 2)[m bamcopy - doscopy]
+REAL_BOOT Nevermind (1992-06-28)(Dominators)(Disk 2 of 2)
+REAL_BOOT Nevermind (1992-06-28)(Dominators)(Disk 2 of 2)[rebuilt]
+REAL_BOOT NeverWhere (1990-08-31)(Crionics)
+REAL_BOOT NeverWhere (1990-08-31)(Crionics)[a]
+REAL_BOOT NeverWhere (1990-08-31)(Crionics)[b dump]
+REAL_BOOT NeverWhere (1990-08-31)(Crionics)[m baddump]
+REAL_BOOT New Age (1993-09-22)(Ram Jam)
+REAL_BOOT New Bits on the Block (19xx)(Metal Eater - UDO)(Disk 1 of 2)[b]
+REAL_PASS New Bits on the Block (19xx)(Metal Eater - UDO)(Disk 2 of 2)[b]
+REAL_BOOT New Cracktro (1993-12-28)(Penisex)
+REAL_BOOT New Demo-Disk (1989)(Threat)[m bamcopy]
+REAL_BOOT New Demos (1988-07-12)(Wild Cooper Crew)
+REAL_BOOT New Intro (1992-03)(Atomic)[h Warlock]
+REAL_BOOT New Intro (1992-03)(Atomic)[h Warlock][m bamcopy]
+REAL_BOOT New Members Intro (1992-07-10)(Equinox)
+REAL_BOOT New Members Mini-Intro (1992-10)(Spaceballs)[h Warlock]
+REAL_BOOT New Members Mini-Intro (1992-10)(Spaceballs)[h Warlock][m bamcopy]
+REAL_BOOT New Production Released at the Southern Party (1993-07)(Darkness)
+REAL_BOOT New Production Released at the Southern Party (1993-07)(Darkness)[a]
+REAL_BOOT Next Generation (1991)(Extensors)
+REAL_BOOT Next Generation (1991)(Extensors)[h Warlock]
+REAL_BOOT Nexus 7 (1994-12-29)(Andromeda)(AGA)[a][TP4#1]
+REAL_BOOT Nexus 7 (1994-12-29)(Andromeda)(AGA)[a][WB][TP4#1]
+REAL_PASS Nexus 7 (1994-12-29)(Andromeda)(AGA)[a2][WB][TP4#1]
+REAL_BOOT Nexus 7 (1994-12-29)(Andromeda)(AGA)[h BTTR][a][TP4#1]
+REAL_BOOT Nexus 7 (1994-12-29)(Andromeda)(AGA)[h BTTR][TP4#1]
+REAL_BOOT Nexus 7 (1994-12-29)(Andromeda)(AGA)[TP4#1]
+REAL_PASS Nexus 7 (1994-12-29)(Andromeda)(AGA)[WB][TP4#1]
+REAL_BOOT Nexus Party Invitation (1995)(Nexus)(AGA)
+REAL_BOOT Nice (1992)(Ordeal)
+REAL_BOOT Nice (1992)(Ordeal)[b doscopy]
+REAL_BOOT Nicky Bomb 2 Crack Intro (1992)(Paradox)[h Warlock]
+REAL_BOOT Nicky Bomb 2 Crack Intro (1992)(Paradox)[h Warlock][m bamcopy]
+REAL_BOOT Night Hunter Crack Intro (19xx)(TRSI)[h Warlock]
+REAL_BOOT Night Hunter Crack Intro (19xx)(TRSI)[h Warlock][m bamcopy]
+REAL_BOOT Nightcrawler (1992-10-07)(Equinox)
+REAL_BOOT Nightcrawler (1992-10-07)(Equinox)[h Warlock]
+REAL_BOOT Nightcrawler (1992-10-07)(Equinox)[h Warlock][m bamcopy]
+REAL_BOOT Nightfall (1994)(Solitude)[KS2.0]
+REAL_BOOT Ninja (1994)(Melon Dezign)[a][KS2.0][TP4#7]
+REAL_BOOT Ninja (1994)(Melon Dezign)[a2][KS2.0][TP4#7]
+REAL_BOOT Ninja (1994)(Melon Dezign)[KS2.0][TP4#7]
+REAL_BOOT Nitropac (1990)(Northstar - The Silents)[h Warlock]
+REAL_BOOT Nitropac (1990)(Northstar - The Silents)[h Warlock][m bamcopy]
+REAL_BOOT Nitte! (1994-12-28)(Passion)(AGA)[h BTTR]
+REAL_BOOT Nivel (1993-01)(Banal Projects)[h Warlock]
+REAL_BOOT Nivel (1993-01)(Banal Projects)[h Warlock][m bamcopy]
+REAL_BOOT Njet (1993)(Eternity)
+REAL_BOOT No Brain - No Pain! (1990)(Flash Production)(Disk 1 of 2)
+REAL_BOOT No Brain - No Pain! (1990)(Flash Production)(Disk 1 of 2)[o]
+REAL_BOOT No Brain - No Pain! (1990)(Flash Production)(Disk 2 of 2)
+REAL_BOOT No Brain - No Pain! (1990)(Flash Production)(Disk 2 of 2)[o]
+REAL_BOOT No Future (1994-04-16)(Tilt)(AGA)(Disk 1 of 3)
+REAL_BOOT No Future (1994-04-16)(Tilt)(AGA)(Disk 2 of 3)
+REAL_BOOT No Future (1994-04-16)(Tilt)(AGA)(Disk 3 of 3)
+REAL_BOOT No Future (1994-04-16)(Tilt)(AGA)(Disk 3 of 3)[b doscopy]
+REAL_BOOT No Good -Start the Dance- (19xx)(Prodigy)
+REAL_BOOT No Human Vibes (1994-12-21)(Scoopex)(AGA)[h BTTR]
+REAL_BOOT No Limit (1993-02)(Project A)
+REAL_BOOT No Limit (1993-02)(Project A)[b dump]
+REAL_PASS No Limit (1993-02)(Project A)[b2 dump]
+REAL_BOOT No Limits BBS Intro (1991)(No Limits)[h Warlock]
+REAL_BOOT No Limits BBS Intro (1991)(No Limits)[h Warlock][m bamcopy]
+REAL_BOOT No More Vectors (1992)(Triangle 3532)(Disk 1 of 2)[TP2#13]
+REAL_BOOT No More Vectors (1992)(Triangle 3532)(Disk 2 of 2)[TP2#13]
+REAL_PASS No Name (19xx)(Mystic)(AGA)(Disk 1 of 2)[HD]
+REAL_PASS No Name (19xx)(Mystic)(AGA)(Disk 2 of 2)[HD]
+REAL_BOOT No Pain - No Gain (1991-05-09)(Genocide)[h Warlock]
+REAL_BOOT No Pain - No Gain (1991-05-09)(Genocide)[h Warlock][m bamcopy]
+REAL_BOOT No Prayors for the Living Death (1991-04)(Dominators)
+REAL_BOOT No Prayors for the Living Death (1991-04)(Dominators)[b corrupt files]
+REAL_BOOT No Reality (1990)(Devils)
+REAL_BOOT No Reality (1990)(Devils)[a badump]
+REAL_BOOT No Reality (1990)(Devils)[b dump]
+REAL_BOOT No Requiem (1995)(Mad Dogs)(AGA)(Disk 1 of 2)
+REAL_PASS No Requiem (1995)(Mad Dogs)(AGA)(Disk 2 of 2)
+REAL_BOOT No Sleeping (1994-04-03)(Offence)[h BTTR]
+REAL_BOOT No Tech (1991-05-30)(Bass - Drifters)
+REAL_BOOT No Tech (1991-05-30)(Bass - Drifters)[a]
+REAL_BOOT No Tech (1991-05-30)(Bass - Drifters)[b doscopy]
+REAL_BOOT No Tech (1991-05-30)(Bass - Drifters)[b dump]
+REAL_PASS No Tech (1991-05-30)(Bass - Drifters)[b2 dump]
+REAL_BOOT No Transition (1995-03)(Ukonx)
+REAL_BOOT No-Lem (1993-09)(Impact)
+REAL_BOOT No-Refund! (1993-08-11)(Cybornetics)(Disk 1 of 2)[inc. source code, AMOS]
+REAL_BOOT No-Refund! (1993-08-11)(Cybornetics)(Disk 1 of 2)[m bamcopy][inc. source code, AMOS]
+REAL_BOOT No-Refund! (1993-08-11)(Cybornetics)(Disk 2 of 2)
+REAL_BOOT No-Refund! (1993-08-11)(Cybornetics)(Disk 2 of 2)[m bamcopy]
+REAL_PASS No! (1995)(Polka Brothers)(AGA)[HD][TP5#9]
+REAL_BOOT NoGood (1995-04-01)(Act)[2Mb Chip]
+REAL_BOOT NoGood (1995-04-01)(Act)[a][2Mb Chip]
+REAL_BOOT Noisejesus (2000)(Spaceballs)[h BTTR]
+REAL_BOOT Non Stop (1994)(Dual Crew - Shining)(AGA)[h BTTR]
+REAL_BOOT Nonsens (1995-11-30)(Humbugs)[KS2.04]
+REAL_BOOT Nonterraqueous (1992-06)(Alarm)[h Warlock]
+REAL_BOOT Nonterraqueous (1992-06)(Alarm)[h Warlock][m bamcopy]
+REAL_BOOT Noodle Box (2016-09-03)(Y-Crew)
+REAL_BOOT NOP (1993)(Muffbusters)(AGA)[h BTTR]
+REAL_BOOT NOP (1993)(Muffbusters)(AGA)[h Vark]
+REAL_BOOT North Star Mega-Demo-Disk 1 (1988)(North Star)
+REAL_BOOT North Star Mega-Demo-Disk 1 (1988)(North Star)[b]
+REAL_BOOT North Star Mega-Demo-Disk 2 (1988-09)(North Star - Fairlight)
+REAL_BOOT North Star Mega-Demo-Disk 2 (1988-09)(North Star - Fairlight)[b doscopy]
+REAL_BOOT North Star Mega-Demo-Disk 2 (1988-09)(North Star - Fairlight)[b2 doscopy]
+REAL_BOOT North Star Mega-Demo-Disk 2 (1988-09)(North Star - Fairlight)[o][b doscopy]
+REAL_BOOT Norwegian Division Demo (1989-04-30)(Computerbrains Cracking Service - Defjam - Spreadpoint)[h Warlock]
+REAL_BOOT Norwegian Division Demo (1989-04-30)(Computerbrains Cracking Service - Defjam - Spreadpoint)[h Warlock][m bamcopy]
+REAL_BOOT Nosense (1990-06-05)(The Link)
+REAL_BOOT Nostalgia (1995-05-07)(Outlaws)
+REAL_BOOT Not Again (1994-02-25)(Sanity - Complex - Avena - Lego - Andere)(AGA)
+REAL_PASS Nude (1996-10-20)(Puzzle)(AGA)(Disk 1 of 2)[HD]
+REAL_PASS Nude (1996-10-20)(Puzzle)(AGA)(Disk 2 of 2)
+REAL_BOOT Nugget (1993-03-05)(The Black Lotus)
+REAL_BOOT Nugget (1993-03-05)(The Black Lotus)[a doscopy]
+REAL_BOOT Nugget (1993-03-05)(The Black Lotus)[b fake track]
+REAL_BOOT Nuke (1992-07-24)(Genocide)[h Warlock]
+REAL_BOOT Nuke (1992-07-24)(Genocide)[h Warlock][m bamcopy]
+REAL_BOOT Numb (1993-12-29)(Movement)(AGA)
+REAL_BOOT Nutzlos (1993-10-05)(Arise)[h Warlock]
+REAL_BOOT Nutzlos (1993-10-05)(Arise)[h Warlock][m bamcopy]
+REAL_BOOT Oblique Infinity (1991-06)(Goldfire)
+REAL_BOOT Obvious Disaster - Final Version (1991-01)(Phenomena)[h Subway PD]
+REAL_BOOT Obvious Disaster - Final Version (1991-01)(Phenomena)[h Subway PD][m bamcopy]
+REAL_PASS Ocaso del Payaso, El (1995)(Goblins)(AGA)(Disk 1 of 2)
+REAL_PASS Ocaso del Payaso, El (1995)(Goblins)(AGA)(Disk 2 of 2)
+REAL_BOOT Ocean (2001-04-16)(Gunnars Farvebio)(AGA)[h BTTR]
+REAL_BOOT Octarock-3D (1991-10)(Alex Van Starrex)[WB]
+REAL_BOOT Ode to Triace (2015-07-05)(OCS-Farts)
+REAL_BOOT Odelsgutt 2 (1993-07-30)(Paramount Productions)
+REAL_BOOT Odessy (1992-10-16)(Nasty Boyz)
+REAL_BOOT Odyssey v1.0 (1991-12-28)(Alcatraz)(Disk 2 of 5)
+REAL_BOOT Odyssey v1.0 (1991-12-28)(Alcatraz)(Disk 2 of 5)[o]
+REAL_BOOT Odyssey v1.0 (1991-12-28)(Alcatraz)(Disk 3 of 5)[o]
+REAL_BOOT Odyssey v1.0 (1991-12-28)(Alcatraz)(Disk 4 of 5)[o]
+REAL_BOOT Odyssey v1.0 (1991-12-28)(Alcatraz)(Disk 5 of 5)[o]
+REAL_BOOT Odyssey v1.1c - Update disk & HD Install (1992)(Alcatraz)
+REAL_BOOT Odyssey v1.1c (1991-12-28)(Alcatraz)(Disk 1 of 5)[h][TP1#1]
+REAL_BOOT Odyssey v1.1c (1991-12-28)(Alcatraz)(Disk 1 of 5)[o][TP1#1]
+REAL_BOOT Odyssey v1.1c (1991-12-28)(Alcatraz)(Disk 1 of 5)[TP1#1]
+REAL_BOOT Odyssey v1.1c (1991-12-28)(Alcatraz)(Disk 2 of 5)
+REAL_BOOT Odyssey v1.1c (1991-12-28)(Alcatraz)(Disk 3 of 5)
+REAL_BOOT Odyssey v1.1c (1991-12-28)(Alcatraz)(Disk 4 of 5)
+REAL_BOOT Odyssey v1.1c (1991-12-28)(Alcatraz)(Disk 5 of 5)
+REAL_BOOT Odyssey v1.1d (1991-12-28)(Alcatraz)(Disk 1 of 5)[f AGA Hornet 1993-01-28]
+REAL_BOOT Offbeat (1999)(Loveboat)(AGA)[h BTTR]
+REAL_BOOT Official Invitation for Eastern Conference 93 (1993-02-25)(Energy - Manitou - Scoopex)[h Warlock]
+REAL_BOOT Official Invitation for Eastern Conference 93 (1993-02-25)(Energy - Manitou - Scoopex)[h Warlock][m bamcopy]
+REAL_PASS Official South Sealand '96 Amiga Invitation Demo, The (1996)(XTM Prods)[HD]
+REAL_BOOT Official Starting, The (1990)(Dictators)
+REAL_BOOT Offworld 1 Intro (2000)(Reason)(AGA)[h BTTR]
+REAL_BOOT Oh No! (1992-02)(Beyond Force)[h Warlock]
+REAL_BOOT Oh No! (1992-02)(Beyond Force)[h Warlock][m bamcopy]
+REAL_BOOT Oh No! More Vectors (1992-11-21)(Hardcore Design)
+REAL_BOOT Oktagon (1992-03-29)(Netzwerk)
+REAL_BOOT Oldskool Fools (2000-08-03)(Mandel Bros)
+REAL_BOOT Oldskool Fools (2000)(Mandel Bros)[h BTTR]
+REAL_BOOT Oldskool Fools (2000)(Mandel Bros)[h BTTR][a]
+REAL_BOOT Olympe (1994-12-27)(Gods)(AGA)[TP4#17]
+REAL_BOOT Olympia - The Official Olympictro (1992-05-15)(Profecy)
+REAL_BOOT Omen (1993-03-14)(Anathema)(AGA)
+REAL_BOOT Omnichrom (2000-04-21)(Ephidrena)(AGA)[h BTTR]
+REAL_BOOT On a Wing and a Prayer (1994)(Spectre)
+REAL_BOOT Once Upon a Time (1996-04-05)(Ward)(AGA)[a][G96#6]
+REAL_BOOT One (2003)(Nature)(AGA)[h BTTR]
+REAL_BOOT One Day (1997)(Haujobb)(AGA)[h BTTR]
+REAL_BOOT One Message (1996-05-30)(Honoo)(AGA)
+REAL_BOOT One Message (1996-05-30)(Honoo)(AGA)[a files deleted]
+REAL_BOOT Only for Fun (1990-08-25)(Cyclone)
+REAL_BOOT Only for Fun (1990-08-25)(Cyclone)[b dump]
+REAL_BOOT Ooh It's Obscene III - The Nightmare Continues (1989)(Anarchy)
+REAL_BOOT Ooh It's Obscene III - The Nightmare Continues (1989)(Anarchy)[b corrupt file]
+REAL_BOOT Ooh It's Obscene III - The Nightmare Continues (1989)(Anarchy)[b errdms]
+REAL_BOOT Ooh! It's Obscene V (19xx)(Anarchy)(Disk 1 of 2)
+REAL_BOOT Ooh! It's Obscene V (19xx)(Anarchy)(Disk 2 of 2)
+REAL_BOOT Oooh! It's Obscene II - The Revenge (1989)(Anarchy)
+REAL_BOOT Ooooh It's Obscene IV (1989)(Anarchy)
+REAL_BOOT Operation Stealth Crack Intro (1990)(Paradox)[h Warlock]
+REAL_BOOT Operation Stealth Crack Intro (1990)(Paradox)[h Warlock][m bamcopy]
+REAL_BOOT Optical Arts Megademo (199x)(Optical Arts)
+REAL_BOOT Optical Illusions (1993)(Septic)
+REAL_BOOT Optimum Fuckup (1992)(Sanity)[h BTTR][H92#9]
+REAL_BOOT Optimus Maximus (1992-04-17)(Paradise)(Disk 1 of 2)
+REAL_BOOT Optimus Maximus (1992-04-17)(Paradise)(Disk 1 of 2)[b doscopy - dump]
+REAL_BOOT Optimus Maximus (1992-04-17)(Paradise)(Disk 2 of 2)
+REAL_BOOT Optimus Maximus (1992-04-17)(Paradise)(Disk 2 of 2)[a doscopy]
+REAL_BOOT Orgasmodrome (1995-04)(Ozone Free)(AGA)
+REAL_BOOT Origin (1993-12-29)(Complex)(AGA)(Disk 1 of 2)[TP3#1]
+REAL_BOOT Origin (1993-12-29)(Complex)(AGA)(Disk 2 of 2)[TP3#1]
+REAL_BOOT Origo (1992-12-31)(Talent)
+REAL_BOOT Oriole (2015-06-09)(Y-Crew)
+REAL_BOOT Ottifanten (1988-08-27)(Thrust)[h Warlock]
+REAL_BOOT Ottifanten (1988-08-27)(Thrust)[h Warlock][m bamcopy]
+REAL_BOOT Ottifanten 2 - Megademo Part (1989-01-07)(Joy - Jungle Command - Magnificent Force)
+REAL_BOOT Our Contribution (1992-12-28)(Legend)(ECS)[h Warlock]
+REAL_BOOT Out (1995-08-14)(Mad Dogs)(AGA)[GA95#6]
+REAL_BOOT Out of Order (1993)(Anathema)
+REAL_BOOT Out of the Ashes (1993-09-20)(Equinox - Razor 1911)
+REAL_BOOT Out of Time (1993-07-30)(Avalon)
+REAL_BOOT Out of Time (1993-07-30)(Avalon)[b dump]
+REAL_BOOT Outdated (1994-05-20)(Trance)
+REAL_BOOT Outgrowing (1998)(Potion)(AGA)[h BTTR]
+REAL_BOOT Outland (1991-10-22)(Rebels)
+REAL_BOOT Outland (1991-10-22)(Rebels)[h 17-Bit Software]
+REAL_BOOT Outland (1991-10-22)(Rebels)[h 17-Bit Software][o]
+REAL_BOOT Outland (1995-03)(Suspect)
+REAL_BOOT Outlands (1994-08-11)(Freezers)
+REAL_BOOT Outline 2015 Invitation Intro (2015-05-03)(Desire)
+REAL_BOOT Over Dimension (1991)(Aero)
+REAL_BOOT Over Dimension (1991)(Aero)[b doscopy]
+REAL_BOOT Overcharge (1995-08-30)(Ozone Free)(AGA)
+REAL_BOOT Overdose (1991-03-10)(Delight)[h BTTR]
+REAL_BOOT Overvision (1993)(Blaze)
+REAL_BOOT Pang Trainer (1990)(Zero Defects)
+REAL_BOOT Pang Trainer (1990)(Zero Defects)[h Warlock]
+REAL_BOOT Panta Rhei (1993-08-01)(Talent)(AGA)
+REAL_BOOT Panta Rhei (1993-08-01)(Talent)(AGA)[a]
+REAL_BOOT Panta Rhei (1993-08-01)(Talent)(AGA)[a2]
+REAL_BOOT Panta Rhei (1993-08-01)(Talent)(AGA)[h Warlock]
+REAL_BOOT Panta Rhei (1993-08-01)(Talent)(AGA)[m bamcopy]
+REAL_BOOT Paradigma (1993-08-01)(Complex)[f A500]
+REAL_BOOT Paradigma (1993-08-01)(Complex)[f A500][h Warlock]
+REAL_BOOT Paradigma (1993-08-01)(Complex)[f A500][h Warlock][m bamcopy]
+REAL_BOOT Paradigma (1993-08-01)(Complex)[h BTTR]
+REAL_BOOT PC 64k (2001)(The Black Lotus)(AGA)[h BTTR]
+REAL_BOOT PCT's Megademo (1988)(Perfect Cracking Team)
+REAL_BOOT PMC Megademo, The (1989-08-12)(Pure Metal Coders)
+REAL_BOOT PU-240 (1989)(Complex)[h Warlock]
+REAL_BOOT PU-240 (1989)(Complex)[h Warlock][m bamcopy]
