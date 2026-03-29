@@ -2,7 +2,456 @@ GAME_VERIFIED Great Giana Sisters, The
 GAME_VERIFIED Magic Pockets
 GAME_VERIFIED Pac-Land
 GAME_VERIFIED Pinball Fantasies_Disk0
+GAME_VERIFIED Master Axe
+GAME_VERIFIED Robocop ++
+GAME_VERIFIED Die Hard 2 - Die Harder
+GAME_VERIFIED Altered Beast
+GAME_VERIFIED Robocop 3
+GAME_VERIFIED Awesome
+GAME_VERIFIED Golden Axe
+GAME_VERIFIED Final Fight
+GAME_VERIFIED North And South
+GAME_VERIFIED Space Racer
+GAME_VERIFIED Shadow Dancer
+GAME_VERIFIED Paperboy 1
+GAME_VERIFIED Chase HQ2
+GAME_VERIFIED Forgotten Worlds
+GAME_VERIFIED Arkanoid
+GAME_VERIFIED AmigaDOS Tutorial
+GAME_VERIFIED SpindizzyWorlds
+GAME_VERIFIED RickDangerous
+GAME_VERIFIED Rogue Trooper
+GAME_VERIFIED Assassin
+GAME_VERIFIED Stunt Car Racer
+GAME_VERIFIED Test Drive I
+GAME_VERIFIED Future Basket
+GAME_VERIFIED F18 - Interceptor
+GAME_VERIFIED James Pond
+GAME_VERIFIED Giana Sisters
+GAME_VERIFIED Street Rod 2
+GAME_VERIFIED Fire and Forget 
+GAME_VERIFIED Twintris
+GAME_VERIFIED Kings Quest 3
+GAME_VERIFIED Spy Who Loved Me
+GAME_VERIFIED Fuzzball
+GAME_VERIFIED Mortal Kombat
+GAME_VERIFIED Harley Davidson
+GAME_VERIFIED Rainbow Islands
+GAME_VERIFIED Body Blows Galactic
+GAME_VERIFIED Fire & Ice
+GAME_VERIFIED Shuffle puck Cafe
+GAME_VERIFIED Battle Valley
+GAME_VERIFIED Batman Returns
+GAME_VERIFIED Livingstone 2
+GAME_VERIFIED Street Rod 1
+GAME_VERIFIED Parasol Stars
+GAME_VERIFIED Impossible Mission II
+GAME_VERIFIED Flood
+GAME_VERIFIED Team Suzuki
+GAME_VERIFIED Maniac Mansion
+GAME_VERIFIED Overlander
+GAME_VERIFIED Menace
+GAME_VERIFIED Wild Streets
+GAME_VERIFIED Summer Games I
+GAME_VERIFIED Defender Of The Crown
+GAME_VERIFIED Army Moves
+GAME_VERIFIED Alfred Chicken
+GAME_VERIFIED Predator
+GAME_VERIFIED Turrican
+GAME_VERIFIED Hostages
+GAME_VERIFIED Rodland
+GAME_VERIFIED Robocod
+GAME_VERIFIED The Shining Way of Kung Fu
+GAME_VERIFIED Ski Or Die
+GAME_VERIFIED Speed ball 2
+GAME_VERIFIED Beach Volley
+GAME_VERIFIED Zak McKracken
+GAME_VERIFIED Back To The Future III
+GAME_VERIFIED TowerOfBabel
+GAME_VERIFIED Amazing Spider-Man
+GAME_VERIFIED Shadow of the Beast
+GAME_VERIFIED Pirates!
+GAME_VERIFIED Red Heat
+GAME_VERIFIED Rolling Thunder
+GAME_VERIFIED Flash Back
+GAME_VERIFIED Robocop 2
+GAME_VERIFIED Panza KickBoxing
+GAME_VERIFIED Samurai - The Way of the Warrior
+GAME_VERIFIED Bomb Jack
+GAME_VERIFIED Beyond the Ice Palace
+GAME_VERIFIED Last Ninja Remix
+GAME_VERIFIED Blood Money
+GAME_VERIFIED P47 Thunderbolt
+GAME_VERIFIED Rockstar Ate My Hamster
+GAME_VERIFIED Barbarian1
+GAME_VERIFIED Fire and Forget II - The De
+GAME_VERIFIED Batman - The Movie
+GAME_VERIFIED Gods
+GAME_VERIFIED Road Rash
+GAME_VERIFIED Speed ball
+GAME_VERIFIED Retaliator
+GAME_VERIFIED The Final Battle
+GAME_VERIFIED BartSimpson
+GAME_VERIFIED Licence to Kill
+GAME_VERIFIED Barbarian2
+GAME_VERIFIED Spy vs Spy
+GAME_VERIFIED Pang
+GAME_VERIFIED Fighter Bomber
+GAME_VERIFIED Archon
+GAME_VERIFIED Magic Pockets
+GAME_VERIFIED Mission Elevator 
 GAME_VERIFIED Silkworm
+GAME_VERIFIED Alcatraz
+GAME_VERIFIED Chase HQ
+GAME_VERIFIED Myth
+GAME_VERIFIED Kings Quest 2
+GAME_VERIFIED Dogs Of War
+GAME_VERIFIED Last Ninja 3
+GAME_VERIFIED Amega Mega Games
+GAME_VERIFIED Kings Quest
+GAME_VERIFIED Bangkok Knights
+GAME_VERIFIED The Running Man
+GAME_VERIFIED Great Courts 2
+GAME_VERIFIED Lotus Turbo Challenge I
+GAME_VERIFIED Second Samurai
+GAME_VERIFIED Super Hang On
+GAME_VERIFIED Dragon Ninja
+GAME_VERIFIED Crazy Cars II
+GAME_VERIFIED Chambers of Shaolin
+GAME_VERIFIED Lotus Turbo Challenge III
+GAME_VERIFIED Renegade
+GAME_VERIFIED spanipirate
+GAME_VERIFIED Hook
+GAME_VERIFIED Spy vs Spy - The Island Cap
+GAME_VERIFIED Crazy Cars ++
+GAME_VERIFIED Turbo Outrun
+GAME_VERIFIED Hunter
+GAME_VERIFIED Shadow Warrior
+GAME_VERIFIED Xenon
+GAME_VERIFIED Street fighter 2
+GAME_VERIFIED Swiv
+GAME_VERIFIED International Karate +
+GAME_VERIFIED Escape From Colditz
+GAME_VERIFIED Blade Warrior
+GAME_VERIFIED Pandora
+GAME_VERIFIED Powerdrome
+GAME_VERIFIED Microprose Soccer
+GAME_VERIFIED Bionic Commando
+GAME_VERIFIED Paperboy 2
+GAME_VERIFIED Live and Let Die
+GAME_VERIFIED Batman - The Caped Crusader
+GAME_VERIFIED Pacmania
+GAME_VERIFIED Formula One Grand Prix
+GAME_VERIFIED Last Ninja 2
+GAME_VERIFIED Goal
+GAME_VERIFIED Thunder Cat
+GAME_VERIFIED Wings Of Fury
+GAME_VERIFIED Crazy Cars
+GAME_VERIFIED Bart Simpson
+GAME_VERIFIED Budokan
+GAME_VERIFIED The NinjaWarriors
+GAME_VERIFIED Back to the Future II
+GAME_VERIFIED First Samurai
+GAME_VERIFIED Prince of Persia
+GAME_VERIFIED After Burner II
+GAME_VERIFIED Lotus Turbo Challenge II
+GAME_VERIFIED Nitro
+GAME_VERIFIED Rtype 2
+GAME_VERIFIED Double Dragon 1
+GAME_VERIFIED Zaxxon
+GAME_VERIFIED F1
+GAME_VERIFIED Toki
+GAME_VERIFIED KickOff 2
+GAME_VERIFIED RickDangerous2
+GAME_VERIFIED Killing Game show
+GAME_VERIFIED More Lemmings
+GAME_VERIFIED After Burner
+GAME_VERIFIED Cabal
+GAME_VERIFIED Double Dragon 2
+GAME_VERIFIED Light Force
+GAME_VERIFIED Simulcra
+GAME_VERIFIED Summer Games II
+GAME_VERIFIED Final Whistle
+GAME_VERIFIED Beverly Hills Cop
+GAME_VERIFIED Blues Brothers
+GAME_VERIFIED Space Quest 1
+GAME_VERIFIED Crazy Cars III
+GAME_VERIFIED Puzznic
+GAME_VERIFIED BeachVolley
+GAME_VERIFIED DesertStrike
+GAME_VERIFIED Apb
+GAME_VERIFIED Platoon
+GAME_VERIFIED Rambo III
+GAME_VERIFIED Impossible Mission 2025
+GAME_VERIFIED IkariWarriors
+GAME_VERIFIED Aladdin
+GAME_VERIFIED Body Blows
+GAME_VERIFIED Lethal Weapon
+GAME_VERIFIED Test Drive II - The Duel
+GAME_VERIFIED Dan Dare III - The Escape!
+GAME_VERIFIED Persian Gulf Inferno
+GAME_VERIFIED Strider
+GAME_VERIFIED Double Dragon 3
+GAME_VERIFIED Street Fighter
+GAME_VERIFIED Shinobi
+GAME_VERIFIED Sinbad and the Throne of th
+GAME_VERIFIED Terminator 2 - Judgement Day
+GAME_VERIFIED M1 Tank Platoon
+GAME_VERIFIED Addams Family
+GAME_VERIFIED Barbarian - The Ultimate Warrior
+GAME_VERIFIED Nuclear War
+GAME_VERIFIED Full Contact
+GAME_VERIFIED Robocop
+GAME_VERIFIED Bubble Bobble
+GAME_VERIFIED cannonfoddersoccer
+GAME_VERIFIED ChaosEngine2_v1.0_0172
+GAME_VERIFIED ChaosEngine_v1.2_0106
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 5 of 5)(Fonts)
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 5 of 6)(Locale)[a2]
+GAME_VERIFIED Workbench v2.04 rev 37.67 (1991)(Commodore)(Disk 3 of 4)(Fonts)[a]
+GAME_VERIFIED Workbench v1.3 rev 34.20 (1988)(Commodore)(A500-A2000)(Disk 1 of 2)(Workbench)[m]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 5 of 6)(Locale)[m]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 1 of 6)(Install)[a2]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 4 of 6)(Storage)[a2]
+GAME_VERIFIED Workbench v2.04 rev 37.67 (1991)(Commodore)(Disk 1 of 4)(Workbench)
+GAME_VERIFIED Workbench v3.1 rev 40.29 (1993)(Commodore)(beta)(Disk 3 of 6)(Extras)
+GAME_VERIFIED Workbench v1.1 rev 31.334 (1986)(Commodore)(Disk 1 of 2)(Workbench)[m system-configuration]
+GAME_VERIFIED Workbench v3.1 rev 40.29 (1993)(Commodore)(beta)(Disk 1 of 6)(Install)[m]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 1 of 5)(Install)[a]
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 4 of 4)(Install)[a]
+GAME_VERIFIED Workbench v2.1 rev 38.30 (1992)(Commodore)(M10)(Disk 4 of 5)(Locale)
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 4 of 6)(Storage)[m]
+GAME_VERIFIED Workbench v1.3 rev 34.20 (1988)(Commodore)(A500-A2000)(GB)(Disk 2 of 2)(Extras)
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 5 of 6)(Locale)[a]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 1 of 6)(Install)[!]
+GAME_VERIFIED Workbench v1.1 rev 31.334 (1986)(Commodore)(Disk 1 of 2)(Workbench)[m icon positions]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 2 of 6)(Workbench)[a2]
+GAME_VERIFIED Workbench v1.1 rev 31.334 (1986)(Commodore)(Disk 1 of 2)(Workbench)[m icon positions][u]
+GAME_VERIFIED ZZZ-UNK-Workbench v1.3 (198x)(Commodore)(Disk 2 of 2)(Extras)[m2]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 6 of 6)(Fonts)[m]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 2 of 6)(Workbench)[!]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 2 of 6)(Workbench)[m2]
+GAME_VERIFIED Workbench v1.3 rev 34.21 (1988)(Commodore)(A500-A2000)(NO)(Disk 2 of 2)(Extras)
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 3 of 6)(Extras)[m2]
+GAME_VERIFIED Workbench v1.3 rev 34.20 (1988)(Commodore)(A500-A2000)(DK)(Disk 1 of 2)(Workbench)
+GAME_VERIFIED Workbench v1.3.3 rev 34.34 (1990)(Commodore)(Disk 1 of 2)(Workbench)[m]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 2 of 6)(Workbench)[a]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 1 of 6)(Install)[m drive definitions][a]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 6 of 6)(Fonts)
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 1 of 6)(Install)[m drive definitions]
+GAME_VERIFIED Workbench v1.3.2 rev 34.28 (1989)(Commodore)(A500-A2000)(IT)(Disk 1 of 2)(Workbench)[m]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 5 of 6)(Locale)[m2]
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 1 of 4)(Workbench)[m4]
+GAME_VERIFIED Workbench v1.1 rev 31.334 (1986)(Commodore)(Disk 2 of 2)(Extras)[a]
+GAME_VERIFIED Workbench v1.3.3 rev 34.34 (1990)(Commodore)(Disk 1 of 2)(Workbench)[m3]
+GAME_VERIFIED Workbench v1.1 rev 31.334 (1986)(Commodore)(Disk 1 of 2)(Workbench)[Cloanto Amiga Forever Edition]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 3 of 6)(Extras)[a]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 5 of 6)(Locale)[m2]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 4 of 5)(Locale)[a]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 3 of 6)(Extras)[m3]
+GAME_VERIFIED Workbench v1.2 rev 33.56 (1987)(Commodore)(A2000)(DE)(Disk 2 of 2)(Extras)
+GAME_VERIFIED Workbench v1.4b1 rev 36.8 (1989)(Commodore)(beta)(Disk 4 of 4)(KICKfile)
+GAME_VERIFIED Workbench v2.1 rev 38.36 (1992)(Commodore)(M10)(Disk 1 of 5)(Install)
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 1 of 6)(Install)[a]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 4 of 6)(Storage)[a]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 3 of 5)(Extras)
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 4 of 4)(Install)
+GAME_VERIFIED Workbench v1.4b1 rev 36.8 (1989)(Commodore)(beta)(Disk 3 of 4)(Autodocs-Includes)
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 3 of 6)(Extras)[m]
+GAME_VERIFIED Workbench v1.1 rev 31.334 (1986)(Commodore)(Disk 2 of 2)(Extras)
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 3 of 6)(Extras)
+GAME_VERIFIED Workbench v1.2 rev 33.56 (1987)(Commodore)(A500)(GB)(Disk 2 of 2)(Extras)
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 2 of 6)(Workbench)[m2]
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 4 of 4)(Install)[h]
+GAME_VERIFIED Workbench v1.4b1 rev 36.8 (1989)(Commodore)(beta)(Disk 2 of 4)(Extras)
+GAME_VERIFIED Workbench v2.1 rev 38.36 (1992)(Commodore)(M10)(Disk 1 of 5)(Install)[m]
+GAME_VERIFIED Workbench v1.3.2 rev 34.28 (1989)(Commodore)(Disk 1 of 2)(Workbench)[m]
+GAME_VERIFIED Workbench v1.3.3 rev 34.34 (1990)(Commodore)(Disk 2 of 2)(Extras)[m bamcopy]
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 3 of 4)(Fonts)[m bamcopy - doscopy]
+GAME_VERIFIED Workbench v1.0 (1985)(Commodore)
+GAME_VERIFIED Workbench v1.2 rev 33.56 (1987)(Commodore)(A2000)(Disk 1 of 2)(Workbench)[Cloanto Amiga Forever Edition]
+GAME_VERIFIED Workbench v1.4a15 rev 36.1 (1989)(Commodore)(alpha)[m][o][b translator.library]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 4 of 6)(Storage)[a2]
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 3 of 4)(Fonts)[!]
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 1 of 4)(Workbench)
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 3 of 6)(Extras)[m]
+GAME_VERIFIED Workbench v1.3 rev 34.20 (1988)(Commodore)(A500-A2000)(GB)(Disk 1 of 2)(Workbench)
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 4 of 4)(Install)[a2]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 1 of 6)(Install)
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 3 of 4)(Fonts)[m bamcopy]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 5 of 5)(Fonts)[m]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 5 of 5)(Fonts)[a]
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 1 of 4)(Workbench)[m2]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 2 of 6)(Workbench)[m]
+GAME_VERIFIED Workbench v2.1 rev 38.30 (1992)(Commodore)(M10)(Disk 5 of 5)(Fonts)
+GAME_VERIFIED Workbench v1.1 rev 31.334 (1986)(Commodore)(DE)(Disk 1 of 2)(Workbench)
+GAME_VERIFIED Workbench v1.3.3 rev 34.34 (1990)(Commodore)(Disk 1 of 2)(Workbench)[Cloanto Amiga Forever Edition]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 1 of 6)(Install)[a3]
+GAME_VERIFIED Workbench v2.04 rev 37.67 (1991)(Commodore)(Disk 2 of 4)(Extras)[a]
+GAME_VERIFIED Workbench v1.3.3 rev 34.34 (1990)(Commodore)(A500-A2000)(Disk 1 of 2)(Workbench)
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 6 of 6)(Fonts)
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 1 of 6)(Install)[a]
+GAME_VERIFIED Workbench v2.1 rev 38.30 (1992)(Commodore)(M10)(Disk 1 of 5)(Install)
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 3 of 4)(Fonts)[m icons]
+GAME_VERIFIED Workbench v1.2 rev 33.56 (1987)(Commodore)(Disk 2 of 2)(Extras)[m]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 4 of 5)(Locale)
+GAME_VERIFIED Workbench v1.3.2 rev 34.28 (1989)(Commodore)(A500-A2000)(IT)(Disk 1 of 2)(Workbench)[m3]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 2 of 5)(Workbench)[m]
+GAME_VERIFIED Workbench v2.04 rev 37.67 (1991)(Commodore)(Disk 1 of 4)(Workbench)[m3]
+GAME_VERIFIED Workbench v3.1 rev 40.29 (1993)(Commodore)(beta)(Disk 2 of 6)(Workbench)[m][b not bootable]
+GAME_VERIFIED Workbench v1.3.2 rev 34.28 (1989)(Commodore)(GB)(Disk 1 of 2)(Workbench)[m3]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 1 of 6)(Install)
+GAME_VERIFIED Workbench v1.2 rev 33.56 (1987)(Commodore)(Disk 1 of 2)(Workbench)[m]
+GAME_VERIFIED Workbench v2.1 rev 38.36 (1992)(Commodore)(M10)(Disk 2 of 5)(Workbench)
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 6 of 6)(Fonts)[a]
+GAME_VERIFIED Workbench v1.3.3 rev 34.34 (1990)(Commodore)(A500-A2000)(DE)(Disk 1 of 2)(Workbench)[m]
+GAME_VERIFIED Workbench v2.04 rev 37.67 (1991)(Commodore)(Disk 2 of 4)(Extras)
+GAME_VERIFIED Workbench v1.0 (1985)(Commodore)[a]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 6 of 6)(Fonts)[m]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 2 of 6)(Workbench)[m3]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 3 of 6)(Extras)[a2]
+GAME_VERIFIED Workbench v1.3.2 rev 34.28 (1989)(Commodore)(GB)(Disk 1 of 2)(Workbench)[m]
+GAME_VERIFIED Workbench v1.2 rev 33.56 (1987)(Commodore)(A500)(GB)(Disk 1 of 2)(Workbench)[m]
+GAME_VERIFIED Workbench v1.3.2 rev 34.28 (1989)(Commodore)(GB)(Disk 1 of 2)(Workbench)[m2]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 5 of 6)(Locale)[m]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 3 of 6)(Extras)[m bamcopy]
+GAME_VERIFIED Workbench v1.3.3 rev 34.34 (1990)(Commodore)(A500-A2000)(DK)(Disk 1 of 2)(Workbench)[m]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 2 of 6)(Workbench)[a3]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 2 of 5)(Workbench)[Cloanto Amiga Forever Edition]
+GAME_VERIFIED Workbench v2.0 rev 36.102 (1990)(Commodore)(A3000)(Disk 3 of 3)(Install)[m]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 3 of 6)(Extras)[m2]
+GAME_VERIFIED Workbench v1.3.3 rev 34.34 (1990)(Commodore)(A500-A2000)(DE)(Disk 2 of 2)(Extras)[m]
+GAME_VERIFIED Workbench v2.0 rev 36.68 (1990)(Commodore)(A3000)(Disk 1 of 3)(Workbench)[Cloanto Amiga Forever Edition]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 6 of 6)(Fonts)[m2]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 4 of 6)(Storage)[m bamcopy]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(beta)(Disk 1 of 6)(Install)
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 1 of 4)(Workbench)[m bamcopy]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 3 of 5)(Extras)[m2]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 5 of 6)(Locale)[m bamcopy]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 5 of 6)(Locale)[a]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 1 of 5)(Install)
+GAME_VERIFIED Workbench v3.1 rev 40.29 (1993)(Commodore)(beta)(Disk 6 of 6)(Fonts)
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 3 of 6)(Extras)[!]
+GAME_VERIFIED Workbench v1.0 (1985)(Commodore)[m startup-sequence][Cloanto Amiga Forever Edition]
+GAME_VERIFIED Workbench v1.3.2 rev 34.28 (1989)(Commodore)(Disk 2 of 2)(Extras)[m][o][b]
+GAME_VERIFIED Workbench v1.4b1 rev 36.8 (1989)(Commodore)(beta)(Disk 1 of 4)(Workbench)
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 5 of 6)(Locale)[!]
+GAME_VERIFIED Workbench v2.04 rev 37.67 (1991)(Commodore)(Disk 2 of 4)(Extras)[m]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 2 of 6)(Workbench)[m4]
+GAME_VERIFIED Workbench v2.04 rev 37.67 (1991)(Commodore)(Disk 1 of 4)(Workbench)[m]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 1 of 6)(Install)[m]
+GAME_VERIFIED Workbench v1.3.3 rev 34.34 (1990)(Commodore)(A500-A2000)(DE)(Disk 1 of 2)(Workbench)
+GAME_VERIFIED Workbench v2.04 rev 37.67 (1991)(Commodore)(Disk 1 of 4)(Workbench)[m2]
+GAME_VERIFIED ZZZ-UNK-Workbench v1.3 (198x)(Commodore)(Disk 2 of 2)(Extras)[m]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 1 of 6)(Install)[m]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 2 of 6)(Workbench)[m bamcopy]
+GAME_VERIFIED Workbench v2.04 rev 37.67 (1991)(Commodore)(Disk 1 of 4)(Workbench)[m4]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 6 of 6)(Fonts)[m icons]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 4 of 5)(Locale)[a2]
+GAME_VERIFIED Workbench v1.3.2 rev 34.28 (1989)(Commodore)(Disk 2 of 2)(Extras)[m]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 5 of 6)(Locale)
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 4 of 6)(Storage)[m2]
+GAME_VERIFIED Workbench v1.3.3 rev 34.34 (1990)(Commodore)(Disk 2 of 2)(Extras)
+GAME_VERIFIED Workbench v3.0 rev 39.07 (1992)(Commodore)(beta)(Disk 2 of 6)(Workbench)[m startup-sequence]
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 2 of 4)(Extras)[m bamcopy - doscopy]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 5 of 6)(Locale)[m]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 1 of 6)(Install)[m3]
+GAME_VERIFIED Workbench v1.3.2 rev 34.28 (1989)(Commodore)(A500-A2000)(NL)(Disk 1 of 2)(Workbench)[m]
+GAME_VERIFIED Workbench v1.3.2 rev 34.28 (1989)(Commodore)(A500-A2000)(IT)(Disk 2 of 2)(Extras)[m]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 2 of 6)(Workbench)
+GAME_VERIFIED Workbench v1.3 rev 34.20 (1988)(Commodore)(A500-A2000)(DK)(Disk 2 of 2)(Extras)
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 2 of 5)(Workbench)[m gvpscsi]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 4 of 5)(Locale)[m]
+GAME_VERIFIED Workbench v1.2 rev 33.56 (1987)(Commodore)(A500-A2000)(Disk 1 of 2)(Workbench)[m]
+GAME_VERIFIED Workbench v1.4a15 rev 36.1 (1989)(Commodore)(alpha)[m]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 1 of 6)(Install)[m drive definitions]
+GAME_VERIFIED Workbench v1.2 rev 33.56 (1987)(Commodore)(A2000)(DE)(Disk 1 of 2)(Workbench)
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 5 of 6)(Locale)[a]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 1 of 6)(Install)[m2]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 6 of 6)(Fonts)[a]
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 1 of 4)(Workbench)[m3]
+GAME_VERIFIED Workbench v3.1 rev 40.29 (1993)(Commodore)(beta)(Disk 5 of 6)(Locale)
+GAME_VERIFIED Workbench v1.0 (1985)(Commodore)[m files moved]
+GAME_VERIFIED Workbench v2.04 rev 37.67 (1991)(Commodore)(Disk 3 of 4)(Fonts)
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 2 of 4)(Extras)[m bamcopy]
+GAME_VERIFIED Workbench v1.2 rev 33.56 (1987)(Commodore)(A500)(GB)(Disk 2 of 2)(Extras)[m bamcopy]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 4 of 6)(Storage)[!]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 3 of 6)(Extras)[!]
+GAME_VERIFIED Workbench v1.3.2 rev 34.28 (1989)(Commodore)(A500-A2000)(IT)(Disk 1 of 2)(Workbench)[m2]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 3 of 6)(Extras)[m]
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 2 of 4)(Extras)[!]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 2 of 5)(Workbench)[m files added]
+GAME_VERIFIED Workbench v1.0 (1985)(Commodore)[m files moved][a]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 2 of 6)(Workbench)[b not bootable]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 4 of 6)(Storage)[m]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 2 of 5)(Workbench)[m gvpscsi][a]
+GAME_VERIFIED Workbench v1.2 rev 33.56 (1987)(Commodore)(A500)(Disk 2 of 2)(Extras)[m]
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 1 of 4)(Workbench)[m5][o]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 3 of 5)(Extras)[m]
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 2 of 5)(Workbench)[m keymaps]
+GAME_VERIFIED Workbench v1.0 (1985)(Commodore)[Cloanto Amiga Forever Edition]
+GAME_VERIFIED Workbench v3.1 rev 40.29 (1993)(Commodore)(beta)(Disk 4 of 6)(Storage)
+GAME_VERIFIED Workbench v2.1 rev 38.30 (1992)(Commodore)(M10)(Disk 2 of 5)(Workbench)[m]
+GAME_VERIFIED Workbench v2.04 rev 37.67 (1991)(Commodore)(Disk 4 of 4)(Install)
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 2 of 6)(Workbench)[m]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 6 of 6)(Fonts)[u]
+GAME_VERIFIED Workbench v1.4b1 rev 36.8 (1989)(Commodore)(beta)(Disk 1 of 4)(Workbench)[m]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 4 of 6)(Storage)[a]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 2 of 6)(Workbench)[m5]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 6 of 6)(Fonts)[m doscopy]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 2 of 6)(Workbench)[m3]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 2 of 6)(Workbench)[a]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 2 of 6)(Workbench)[m2]
+GAME_VERIFIED Workbench v1.2 rev 33.43 (1986)(Commodore)(A1000)(DE)(Disk 1 of 2)(Workbench)[m]
+GAME_VERIFIED Workbench v1.3 rev 34.21 (1988)(Commodore)(A500-A2000)(NO)(Disk 1 of 2)(Workbench)
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 3 of 6)(Extras)[a]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 2 of 6)(Workbench)[!]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 4 of 6)(Storage)
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 1 of 6)(Install)[m2]
+GAME_VERIFIED Workbench v1.2 rev 33.56 (1987)(Commodore)(A500)(Disk 1 of 2)(Workbench)[m][v BGS9]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 4 of 6)(Storage)[m]
+GAME_VERIFIED Workbench v2.05 rev 37.71 (1992)(Commodore)(Disk 1 of 4)(Workbench)[m]
+GAME_VERIFIED Workbench v1.1 rev 31.334 (1986)(Commodore)(Disk 1 of 2)(Workbench)[b errdms]
+GAME_VERIFIED Workbench v3.0 rev 39.29 (1992)(Commodore)(A1200-A4000)(M10)(Disk 1 of 6)(Install)[m3]
+GAME_VERIFIED Workbench v1.2 rev 33.43 (1986)(Commodore)(A1000)(DE)(Disk 2 of 2)(Extras)
+GAME_VERIFIED Workbench v1.3.3 rev 34.34 (1990)(Commodore)(Disk 1 of 2)(Workbench)[m2]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 4 of 6)(Storage)[m2]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 6 of 6)(Fonts)[!]
+GAME_VERIFIED Workbench v2.1 rev 38.36 (1992)(Commodore)(M10)(Disk 2 of 5)(Workbench)[m]
+GAME_VERIFIED Workbench v1.2 rev 33.56 (1987)(Commodore)(A500)(Disk 1 of 2)(Workbench)
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 6 of 6)(Fonts)[m doscopy][a bamcopy]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 4 of 6)(Storage)[!]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1996)(ESCOM)(M10)(Disk 2 of 6)(Workbench)[m files deleted]
+GAME_VERIFIED Workbench v2.1 rev 38.30 (1992)(Commodore)(M10)(Disk 3 of 5)(Extras)
+GAME_VERIFIED Workbench v1.3 rev 34.20 (1988)(Commodore)(A500-A2000)(Disk 2 of 2)(Extras)
+GAME_VERIFIED Workbench v2.1 rev 38.35 (1992)(Commodore)(M10)(Disk 3 of 5)(Extras)[a]
+GAME_VERIFIED Workbench v3.1 rev 40.42 (1994)(Commodore)(M10)(Disk 5 of 6)(Locale)[!]
+GAME_VERIFIED Workbench v1.3.3 rev 34.34 (1990)(Commodore)(A500-A2000)(DE)(Disk 2 of 2)(Extras)
+GAME_VERIFIED DizzyCollection_v1.2
+GAME_VERIFIED DizzyPrinceOfTheYolkfolk_v1.4_1146
+GAME_VERIFIED DynaBlaster_v1.2_0664
+GAME_VERIFIED explodingfist
+GAME_VERIFIED FaeryTaleAdventure_v1.1_0367
+GAME_VERIFIED FantasyWorldDizzy_v1.1_0120
+GAME_VERIFIED galaga26
+GAME_VERIFIED ikplus
+GAME_VERIFIED magicforest2
+GAME_VERIFIED masterblaster
+GAME_VERIFIED moria
+GAME_VERIFIED Myth_v1.0_2455
+GAME_VERIFIED Pang_v2.2_0929
+GAME_VERIFIED paradroid
+GAME_VERIFIED paradroid2
+GAME_VERIFIED ProjectXSE_v1.5_BTTR
+GAME_VERIFIED RainbowIslands_v1.3_0012
+GAME_VERIFIED scorchedtanks
+GAME_VERIFIED screechv234
+GAME_VERIFIED sensiblemassacre
+GAME_VERIFIED sensiblemassacre2
+GAME_VERIFIED Silkworm
+GAME_VERIFIED skidmarks
+GAME_VERIFIED superpacman92
+GAME_VERIFIED swivdemo
 GAME_VERIFIED SWIV (1989)(Storm)[cr CPY][t +6 CPY]
 GAME_VERIFIED SWIV (1989)(Storm)[cr CPY][t +8 CPY]
 GAME_VERIFIED SWIV (1989)(Storm)[cr CPY][t +8 CPY][a2]
