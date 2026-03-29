@@ -17620,3 +17620,165 @@ REAL_BOOT PCT's Megademo (1988)(Perfect Cracking Team)
 REAL_BOOT PMC Megademo, The (1989-08-12)(Pure Metal Coders)
 REAL_BOOT PU-240 (1989)(Complex)[h Warlock]
 REAL_BOOT PU-240 (1989)(Complex)[h Warlock][m bamcopy]
+REAL_BOOT Paradisio (1997-03-31)(Drifters)(Disk 1 of 3)[KS2.0, HD]
+REAL_BOOT Paradisio (1997-03-31)(Drifters)(Disk 2 of 3)[KS2.0, HD]
+REAL_BOOT Paradisio (1997-03-31)(Drifters)(Disk 3 of 3)[KS2.0, HD]
+REAL_BOOT Parallax (1990)(Zero Defects)
+REAL_BOOT Parallax (1990)(Zero Defects)[h Warlock]
+REAL_BOOT Paranoid Demo (1989-07)(Paranoimia)
+REAL_BOOT Paranoid Demo (1989-07)(Paranoimia)[a]
+REAL_BOOT Paranoid Demo (1989-07)(Paranoimia)[m doscopy]
+REAL_BOOT Paranoimia Party Demo (1989)(Tristar)
+REAL_BOOT Paranoimia Party Demo (1989)(Tristar)[h Warlock]
+REAL_BOOT Paranoimia Party Demo (1989)(Tristar)[h Warlock][m bamcopy]
+REAL_BOOT Party '92 (1992)(Abyss)
+REAL_BOOT Party '93, The (1993)(The Silents - Lemon - Spaceballs)
+REAL_BOOT Party 1991 Invitation, The (1991-11-08)(Crystal - The Silents - Rebels)
+REAL_PASS Party 1991 Invitation, The (1991-11-08)(Crystal - The Silents - Rebels)[b bootblock]
+REAL_BOOT Party 1992, The - Part II the Final - Voting Disk (1992)(Anarchy - Crystal - The Silents)
+REAL_BOOT Party 1994, The - Vote Disk (1994-12-27)(Nuts)[a]
+REAL_BOOT Party 92 Invitation - Info Freako (1992-10-31)(Melon Dezign)
+REAL_BOOT Party 92 Invitation - Info Freako (1992-10-31)(Melon Dezign)[a]
+REAL_BOOT Party 92 Invitation - Info Freako (1992-10-31)(Melon Dezign)[h Warlock]
+REAL_BOOT Party 92 Invitation - Info Freako (1992-10-31)(Melon Dezign)[h Warlock][m bamcopy]
+REAL_BOOT Party Demo (1990-06-29)(Cycron)[h Warlock]
+REAL_BOOT Party Demo (1991)(Grace)
+REAL_BOOT Party Intro for Society Party (19xx)(Cup)[h Warlock]
+REAL_BOOT Party IV 40k Intro (1994-12-28)(Desire - Facet's Pussy)[h BTTR - Warlock]
+REAL_BOOT Party IV 40k Intro (1994-12-28)(Desire - Facet's Pussy)[h BTTR]
+REAL_BOOT Party Massacre, The (1990-04-13)(Lynx Crew)[h ALE][KS2.0]
+REAL_BOOT Party Scroller TG94 (1994)(Hoaxers)[h BTTR]
+REAL_BOOT Party Time (1991)(Prology)
+REAL_BOOT Party-Demo (1990-08-25)(Majic 12)
+REAL_BOOT Pasi - The Maniac from Burning Hell (1997)(Black Jack)
+REAL_BOOT Paskallamahalla (1994-06)(Insane)
+REAL_PASS Passengers (1996)(Three Little Elks)(AGA)(Disk 1 of 2)[HD][TP5#4]
+REAL_BOOT Passengers (1996)(Three Little Elks)(AGA)(Disk 2 of 2)[HD][TP5#4]
+REAL_BOOT Passionate (1994-11-24)(Passion)(AGA)[h BTTR]
+REAL_BOOT Pee Wee (1994-08-05)(Complex)(AGA)[h BTTR][S94#1]
+REAL_BOOT Pee Wee (1994-08-05)(Complex)(AGA)[S94#1]
+REAL_BOOT Perehelion (1992-09-27)(Crass)
+REAL_BOOT Perehelion (1992-09-27)(Crass)[b doscopy]
+REAL_BOOT Performance (1997-07-20)(Scoopex)(AGA)[h BTTR]
+REAL_BOOT Perkele (1993-08-07)(Movement)[h Warlock]
+REAL_BOOT Perkele (1993-08-07)(Movement)[h Warlock][m bamcopy]
+REAL_BOOT Perpetuum Mobile (1992-12-28)(Mechaniac and Deus)
+REAL_BOOT Persipiration (2002)(Efreet)(AGA)[h BTTR]
+REAL_BOOT Pha-Q - Lameness Took Me (1993-11-07)(Scoopex)
+REAL_BOOT Pha-Q - Lameness Took Me (1993-11-07)(Scoopex)[m doscopy]
+REAL_BOOT Phantasmagoria (1991)(Anarchy)[h Warlock]
+REAL_BOOT Phantasmagoria (1991)(Anarchy)[h Warlock][m bamcopy]
+REAL_BOOT Phi (1996-07-06)(Artwork)(AGA)[h BTTR]
+REAL_BOOT Phobia Showdemo (1992)(Signetta)[m baddump]
+REAL_BOOT Phobos (1994)(Cydonia)[h BTTR]
+REAL_BOOT Phorce - Zero Gravity 2 Remix (1997-06-08)(Scoopex)(AGA)[h BTTR]
+REAL_BOOT Phucker (1994-08-19)(The Black Lotus)
+REAL_BOOT Phucker (1994-08-19)(The Black Lotus)[h Defiance]
+REAL_BOOT Phucker (1994-08-19)(The Black Lotus)[m bamcopy]
+REAL_BOOT Piece of Mind (1992-07-24)(Nikki Corruptions)
+REAL_BOOT Piece of Mind (1992-07-24)(Nikki Corruptions)[a]
+REAL_BOOT Pimple Bombin (1991-06-08)(Equinox)
+REAL_BOOT Pimpuls (1994-07-28)(FunBlazCrova)(AGA)
+REAL_BOOT Pink Floyd - The Wall (1991)(Split-dimension - Caltec)(Disk 1 of 6)
+REAL_BOOT Pink Floyd - The Wall (1991)(Split-dimension - Caltec)(Disk 1 of 6)[a]
+REAL_BOOT Pink Floyd - The Wall (1991)(Split-dimension - Caltec)(Disk 2 of 6)
+REAL_BOOT Pink Floyd - The Wall (1991)(Split-dimension - Caltec)(Disk 3 of 6)
+REAL_BOOT Pink Floyd - The Wall (1991)(Split-dimension - Caltec)(Disk 4 of 6)
+REAL_BOOT Pink Floyd - The Wall (1991)(Split-dimension - Caltec)(Disk 5 of 6)
+REAL_BOOT Pink Floyd - The Wall (1991)(Split-dimension - Caltec)(Disk 5 of 6)[a]
+REAL_PASS Pink Floyd - The Wall (1991)(Split-dimension - Caltec)(Disk 6 of 6)
+REAL_BOOT Pink Floyd - The Wall (1991)(Split-dimension - Caltec)(Disk 6 of 6)[a]
+REAL_BOOT Pink Project (1995-04-01)(Equinox)[68020, 1Mb Fast]
+REAL_BOOT Piranhas Copy-Party Demo (1989)(Piranhas)
+REAL_BOOT Piranhas Copy-Party Demo (1989)(Piranhas)[b dump]
+REAL_BOOT Pirates Crack Intro (1990)(Extensors)
+REAL_BOOT Pirates Crack Intro (1990)(Extensors)[h Warlock]
+REAL_BOOT Pitstop BBS-mo (1995)(Gods)(AGA)
+REAL_BOOT Pixel Generation (1993-09)(Spirit)
+REAL_BOOT Pixel Nation (1991-07-25)(Defjam)
+REAL_BOOT Pixel Nation (1991-07-25)(Defjam)[a]
+REAL_BOOT Pixel Nation (1991-07-25)(Defjam)[b doscopy]
+REAL_BOOT Pixel Nation (1991-07-25)(Defjam)[b sector damage]
+REAL_BOOT Pixel Nation (1991-07-25)(Defjam)[o]
+REAL_BOOT Pixeled Pleasures (1991-05-18)(Them)
+REAL_BOOT Pixeled Pleasures (1991-05-18)(Them)[a]
+REAL_BOOT Pixeled Pleasures (1991-05-18)(Them)[m baddump]
+REAL_BOOT Placebo (1997)(Depth)(AGA)[h BTTR]
+REAL_BOOT Plane (1993-01-07)(Funky Buddhas - Kefrens)
+REAL_BOOT Plane (1993-01-07)(Funky Buddhas - Kefrens)[b doscopy]
+REAL_BOOT Plane (1993-01-07)(Funky Buddhas - Kefrens)[b doscopy][a]
+REAL_BOOT Planet Groove (1993-03-01)(Team Hoi)(AGA)
+REAL_BOOT Planet M. (1995)(Melon Dezign)(AGA)[SIH95#1]
+REAL_BOOT Planet Rocklobster (2015-04-05)(Oxyron)
+REAL_BOOT Plasma Explosion (1990-03-06)(Timex)
+REAL_BOOT Plasma-Tronic (1991-05-01)(Krytan - The Beatmaster)
+REAL_BOOT Plasmutex (1991-05)(The Flame Arrows)
+REAL_BOOT Plasmutex (1991-05)(The Flame Arrows)[a]
+REAL_BOOT Plasmutex (1991-05)(The Flame Arrows)[h Genestealers]
+REAL_BOOT Plastic Messiah (1993-07-30)(Carillon and Cyberiad)[h Warlock]
+REAL_BOOT Plastic Messiah (1993-07-30)(Carillon and Cyberiad)[h Warlock][m bamcopy]
+REAL_BOOT Plastic Passion (1991-12-26)(Upfront)
+REAL_BOOT Pleasure Trip (1992-04-18)(LSD)
+REAL_BOOT Pleasure Trip (1992-04-18)(LSD)[m]
+REAL_BOOT Pluss (2000)(Ephidrena)[h BTTR][KS2.0]
+REAL_BOOT Point Blank (1992-06-26)(Andromeda)[a][H92#7]
+REAL_BOOT Point Blank (1992-06-26)(Andromeda)[H92#7]
+REAL_BOOT Point Blank (1992-06-26)(Andromeda)[m baddump][H92#7]
+REAL_BOOT Point Blank (1992-06-26)(Andromeda)[m doscopy][H92#7]
+REAL_BOOT Point Zero (1998)(Mawi)(AGA)[h BTTR]
+REAL_BOOT Poliittinen Kannanotto (1993-12-13)(Limbo)[h Warlock]
+REAL_BOOT Poliittinen Kannanotto (1993-12-13)(Limbo)[h Warlock][m bamcopy]
+REAL_BOOT Polishkitchen (2001)(Spaceballs)(AGA)[h BTTR]
+REAL_BOOT Poltergeist (1990-08-20)(Excellence)
+REAL_BOOT Popjunkie (1999)(Spaceballs)(AGA)[h BTTR]
+REAL_BOOT Portentous Tale (1994)(Flying Cows Inc)
+REAL_BOOT Poseidon (1992)(Chryseis)(AGA)[b]
+REAL_BOOT Positive Logic (1993-07-24)(Fifth Generation)
+REAL_BOOT Positive Logic (1993-07-24)(Fifth Generation)[b doscopy - dump]
+REAL_BOOT Positive Logic (1993-07-24)(Fifth Generation)[b doscopy]
+REAL_BOOT Positive Logic (1993-07-24)(Fifth Generation)[b dump]
+REAL_BOOT Possessed Megademo (1990-06-19)(Possessed)(Disk 1 of 2)
+REAL_BOOT Possessed Megademo (1990-06-19)(Possessed)(Disk 1 of 2)[b dump]
+REAL_BOOT Possessed Megademo (1990-06-19)(Possessed)(Disk 2 of 2)[b bamcopy][bootable]
+REAL_BOOT Possessed Megademo (1990-06-19)(Possessed)(Disk 2 of 2)[b dump][bootable]
+REAL_BOOT Possessed Megademo (1990-06-19)(Possessed)(Disk 2 of 2)[bootable]
+REAL_BOOT Possible (1999)(Appendix)(AGA)[h BTTR]
+REAL_BOOT Pothead's Beast (1990-01-06)(Abandon)[h BTTR - Warlock]
+REAL_BOOT Pothead's Beast (1990-01-06)(Abandon)[h BTTR]
+REAL_BOOT Pourquoi Faire Simple Quand On Peut Faire Complique (1994-07-24)(Shadock)(AGA)(fr)
+REAL_BOOT Power and Agony - Back from Hell (1991-12-28)(Trackers)
+REAL_BOOT Power and Agony - Back from Hell (1991-12-28)(Trackers)[a]
+REAL_BOOT Power and Agony - Back from Hell (1991-12-28)(Trackers)[b dump]
+REAL_BOOT Power and Agony - Back from Hell (1991-12-28)(Trackers)[u]
+REAL_BOOT Power Munker - The Story of the Thunderchild II (1990-12-29)(Kefrens)
+REAL_BOOT Power Munker - The Story of the Thunderchild II (1990-12-29)(Kefrens)[m corrupt file]
+REAL_BOOT Power Munker - The Story of the Thunderchild II (1990-12-29)(Kefrens)[m corrupt file][a missing files]
+REAL_BOOT Power of Inspiration (1991-11-17)(Katharsis)
+REAL_BOOT Powerslaves Megademo (1989-12-16)(Powerslaves)(Disk 1 of 2)
+REAL_BOOT Powerslaves Megademo (1989-12-16)(Powerslaves)(Disk 1 of 2)[m baddump]
+REAL_BOOT Powerslaves Megademo (1989-12-16)(Powerslaves)(Disk 1 of 2)[m2 baddump]
+REAL_BOOT Powerslaves Megademo (1989-12-16)(Powerslaves)(Disk 2 of 2)
+REAL_PASS Powerslaves Megademo (1989-12-16)(Powerslaves)(Disk 2 of 2)[a bootblock]
+REAL_PASS Powerslaves Megademo (1989-12-16)(Powerslaves)(Disk 2 of 2)[b dump]
+REAL_BOOT Powertrax (1988-03-18)(The Light Circle)
+REAL_BOOT PowROOT do Korzeni (1994-08-10)(DTS Inc)(AGA)(pl)
+REAL_BOOT PowROOT do Korzeni #2 (1994-11-12)(DTS Inc)(AGA)(pl)
+REAL_BOOT Precision (2007-10-28)(Nature)(AGA)
+REAL_BOOT Precision 1991 - The Year We Get in Contact (1991-07-28)(Precise)
+REAL_BOOT Precision 1991 - The Year We Get in Contact (1991-07-28)(Precise)[o]
+REAL_BOOT Predators Megademo (1989-12)(Predators)(Disk 1 of 2)
+REAL_BOOT Predators Megademo (1989-12)(Predators)(Disk 1 of 2)[a]
+REAL_BOOT Predators Megademo (1989-12)(Predators)(Disk 2 of 2)
+REAL_BOOT Predators Megademo (1989-12)(Predators)(Disk 2 of 2)[a]
+REAL_BOOT Predators Megademo (1989-12)(Predators)(Disk 2 of 2)[a2]
+REAL_BOOT Prelude (1992)(The Southern Guild)[h Warlock]
+REAL_BOOT Prelude (1992)(The Southern Guild)[h Warlock][m bamcopy]
+REAL_BOOT Pretty Fly (1999)(Apathy)(AGA)[h BTTR]
+REAL_BOOT Preview (1994)(Impulse)[KS2.0]
+REAL_BOOT Prey, The (1994-12-27)(Polka Brothers)(AGA)(Disk 1 of 2)
+REAL_BOOT Prey, The (1994-12-27)(Polka Brothers)(AGA)(Disk 1 of 2)[a]
+REAL_BOOT Prey, The (1994-12-27)(Polka Brothers)(AGA)(Disk 1 of 2)[m]
+REAL_PASS Prey, The (1994-12-27)(Polka Brothers)(AGA)(Disk 2 of 2)
+REAL_PASS Prey, The (1994-12-27)(Polka Brothers)(AGA)(Disk 2 of 2)[m]
+REAL_BOOT Prezydemo 2 (1991-03-08)(Hell Order Team)
+REAL_BOOT Primal Scream (1994-11-06)(Gigatron)
