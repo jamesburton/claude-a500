@@ -1,0 +1,5 @@
+GAME_VERIFIED Great Giana Sisters, The
+GAME_VERIFIED Magic Pockets
+GAME_VERIFIED Pac-Land
+GAME_VERIFIED Pinball Fantasies_Disk0
+GAME_VERIFIED Silkworm

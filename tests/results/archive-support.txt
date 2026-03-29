@@ -1,0 +1,49 @@
+ZIP_ADF_LOAD $623 (19xx)(Clique)[WB]
+ZIP_RUN $623 (19xx)(Clique)[WB]
+ZIP_ADF_LOAD 0X0 (1998)(Shad-Art)(PD)[h SB-Soft]
+ZIP_RUN 0X0 (1998)(Shad-Art)(PD)[h SB-Soft]
+ZIP_ADF_LOAD 1 Across 2 Down (1990-12)(Amiganuts United)(LW)(Disk 1 of 2)[AMOS]
+ZIP_RUN 1 Across 2 Down (1990-12)(Amiganuts United)(LW)(Disk 1 of 2)[AMOS]
+ZIP_ADF_LOAD 1 Across 2 Down (1990-12)(Amiganuts United)(LW)(Disk 2 of 2)[AMOS]
+ZIP_RUN 1 Across 2 Down (1990-12)(Amiganuts United)(LW)(Disk 2 of 2)[AMOS]
+ZIP_ADF_LOAD 1 Week (2001)(Contraz)(AGA)[h BTTR]
+ZIP_RUN 1 Week (2001)(Contraz)(AGA)[h BTTR]
+ZIP_ADF_LOAD 100 Printer Drivers (19xx)(Anglia PD)(PD)
+ZIP_RUN 100 Printer Drivers (19xx)(Anglia PD)(PD)
+ZIP_ADF_LOAD 1000 Wasted Dreams (1991-10-19)(Panic)
+ZIP_RUN 1000 Wasted Dreams (1991-10-19)(Panic)
+ZIP_ADF_LOAD 1000 Wasted Dreams (1991-10-19)(Panic)[b doscopy]
+ZIP_RUN 1000 Wasted Dreams (1991-10-19)(Panic)[b doscopy]
+ZIP_ADF_LOAD 1000 Wasted Dreams (1991-10-19)(Panic)[b dump]
+ZIP_RUN 1000 Wasted Dreams (1991-10-19)(Panic)[b dump]
+ZIP_ADF_LOAD 1000% (1998-12-27)(Scoopex)(AGA)[h BTTR]
+ZIP_RUN 1000% (1998-12-27)(Scoopex)(AGA)[h BTTR]
+ZIP_ADF_LOAD 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 1 of 8)
+ZIP_RUN 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 1 of 8)
+ZIP_ADF_LOAD 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 2 of 8)
+ZIP_RUN 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 2 of 8)
+ZIP_ADF_LOAD 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 3 of 8)
+ZIP_RUN 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 3 of 8)
+ZIP_ADF_LOAD 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 5 of 8)
+ZIP_RUN 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 5 of 8)
+ZIP_ADF_LOAD 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 6 of 8)
+ZIP_RUN 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 6 of 8)
+ZIP_ADF_LOAD 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 7 of 8)
+ZIP_RUN 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 7 of 8)
+ZIP_ADF_LOAD 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 8 of 8)
+ZIP_RUN 101 Imagine Objects Volume 1 (19xx)(Public Domain Plus)(PD)(Disk 8 of 8)
+ZIP_ADF_LOAD 1024 bytes Bootblock (1992-12-29)(Oxygen)[TP2#24][boot intro]
+ZIP_RUN 1024 bytes Bootblock (1992-12-29)(Oxygen)[TP2#24][boot intro]
+ZIP_ADF_LOAD 109 (1991)(-)(PD)[h ASO][SEUCK]
+ZIP_RUN 109 (1991)(-)(PD)[h ASO][SEUCK]
+ZIP_ADF_LOAD 1497 - Five Years After v0.09 (1996-08-15)(Hagqvist, Jan)(SW)[KS2.0]
+ZIP_RUN 1497 - Five Years After v0.09 (1996-08-15)(Hagqvist, Jan)(SW)[KS2.0]
+LHA_LOAD Silkworm
+ZIP_ADF_LOAD Great Giana Sisters, The
+ZIP_RUN Great Giana Sisters, The
+ZIP_ADF_LOAD Magic Pockets
+ZIP_RUN Magic Pockets
+ZIP_ADF_LOAD Pac-Land
+ZIP_RUN Pac-Land
+ZIP_ADF_LOAD Pinball Fantasies_Disk0
+ZIP_RUN Pinball Fantasies_Disk0
