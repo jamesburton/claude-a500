@@ -14491,3 +14491,110 @@ REAL_BOOT Paranoid (1989)(Wente, Felix)(de)(PD)[h Fastteam - KNS Crew][inc. sour
 REAL_BOOT Paranoid (1989)(Wente, Felix)(de)(PD)[inc. source code, C]
 REAL_BOOT Paranoid Game Demo (1990)(Paranoid)
 REAL_BOOT PT-45 (1989)(Oscarsoft)[h TFS][SEUCK]
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
+FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
+REAL_BOOT Filled Vektors (1989-05-19)(It)[h Warlock][m bamcopy]
+REAL_BOOT Fillet the Fish (1990-09-15)(Jester Brothers International)
+REAL_BOOT Final Condom, The (1994-07)(Delon)(AGA)
+REAL_BOOT Final Condom, The (1994-07)(Delon)(AGA)[b corrupt file][A94#9]
+REAL_BOOT Final Condom, The (1994-07)(Delon)(AGA)[m doscopy][A94#9]
+REAL_BOOT Final Confession (1992)(Where Is Pain There Is No Brain - The Mad Mixers)
+REAL_BOOT Finlandia-Intro (1992-04-15)(Sonic)[h Warlock]
+REAL_BOOT Finlandia-Intro (1992-04-15)(Sonic)[h Warlock][m bamcopy]
+REAL_BOOT Fire and Brimstone Trainer (1990-06-09)(Vision Factory)[h Warlock]
+REAL_BOOT Fire and Brimstone Trainer (1990-06-09)(Vision Factory)[h Warlock][m bamcopy]
+REAL_BOOT First AGA Demo (1993)(Access)(AGA)(Disk 1 of 2)
+REAL_BOOT First AGA Demo (1993)(Access)(AGA)(Disk 2 of 2)
+REAL_BOOT First Amiga Demo (1988-06-14)(Deathstar - Beyond Force)[h Warlock]
+REAL_BOOT First Amiga Demo (1988-06-14)(Deathstar - Beyond Force)[h Warlock][m bamcopy]
+REAL_BOOT First Blood (1991)(Analog)
+REAL_BOOT First Blood (1991)(Analog)[a]
+REAL_BOOT First Cascade Denmark (1988)(Cascade 1733)[h Warlock]
+REAL_BOOT First Cascade Denmark (1988)(Cascade 1733)[h Warlock][m bamcopy]
+REAL_BOOT First Commercial Intro (1993)(Krypton Force)(de-en)
+REAL_BOOT First Comming (1993-05-03)(Blasphemy)(Disk 1 of 2)
+REAL_BOOT First Comming (1993-05-03)(Blasphemy)(Disk 2 of 2)
+REAL_BOOT First Crimes (1991)(Sodomisators)(Disk 1 of 2)[m virus removed]
+REAL_BOOT First Crimes (1991)(Sodomisators)(Disk 1 of 2)[v Saddam]
+REAL_BOOT First Crimes (1991)(Sodomisators)(Disk 2 of 2)[m virus removed]
+REAL_BOOT First Crimes (1991)(Sodomisators)(Disk 2 of 2)[v Saddam]
+REAL_BOOT First Demo (1992)(Dream)
+REAL_BOOT First Demo (1993)(Ball)
+REAL_BOOT First Entertainment (1991)(Faith)[b doscopy]
+REAL_BOOT First Entertainment (1991)(Faith)[b2 doscopy]
+REAL_BOOT First Intro (1988-02-20)(Magnificent Force)
+REAL_BOOT First Intro (1988-02-20)(Magnificent Force)[m baddump]
+REAL_BOOT First Intro (1992-04)(Comotion)[h TSB]
+REAL_BOOT First Official CP Intro (1994-05)(Cosmic Pirates)(AGA)
+REAL_BOOT First Production (1994-04-04)(Atmosphere)[h Pazza][AMOS]
+REAL_BOOT First Production (1994-04-04)(Atmosphere)[h Pazza][m bamcopy][AMOS]
+REAL_BOOT First Step (1991)(Axe)[h BTTR]
+REAL_BOOT First Think (1993-03-19)(Agoa)
+REAL_BOOT First Try !! !! !! (1991-02)(Beyond Force)[h Warlock]
+REAL_BOOT First Try !! !! !! (1991-02)(Beyond Force)[h Warlock][m bamcopy]
+REAL_BOOT Five (1998)(Sonik Clique)(AGA)
+REAL_BOOT Flash for Fantasy (1990)(Sanity)[h 17-Bit Software]
+REAL_BOOT Flash for Fantasy (1990)(Sanity)[h 17-Bit Software][o]
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Paranoid Game Demo (1990)(Paranoid)[b doscopy]
+REAL_BOOT Parasite (1995)(ZSoft - F1 Software)(LW)[1998 edition][AMOS]
+REAL_BOOT Parasite (1995)(ZSoft - F1 Software)(LW)[AMOS]
+REAL_BOOT Parasite II (1995)(Watters, Shaun - 5D Licenceware)(LW)
+REAL_BOOT Parattack (1993)(Kreibich, A.)(SW)[AMOS]
+REAL_BOOT Parattack (1993)(Kreibich, A.)(SW)[h Neon][AMOS]
+REAL_BOOT Parcheese v1.5g (1992-10-29)(Egusquiza, Xavier)(PD)
+REAL_BOOT Parcheese v1.5g (1992-10-29)(Egusquiza, Xavier)(PD)[h GOD]
+REAL_BOOT Parcheese v1.7g (1993-10-30)(Egusquiza, Xavier)(PD)[h D-Age]
+REAL_BOOT Parodia Adventure (1994)(Big Mac Brothers)(de-en)(PD)[KS2, Call-Ware]
+REAL_BOOT Particle Man (199x)(Nordovics, Paul)(PD)[h RR][inc. source code, AMOS]
+REAL_BOOT Particle Man (199x)(Nordovics, Paul)(PD)[h RR][m bamcopy][inc. source code, AMOS]
+REAL_BOOT Party Games (1989)(Modedeal)[a][XXX]
+REAL_BOOT Party Games (1989)(Modedeal)[b errdms][XXX]
+REAL_BOOT Party Games (1989)(Modedeal)[b2][XXX]
+REAL_BOOT Party Games (1989)(Modedeal)[b3][XXX]
+REAL_BOOT Party Games (1989)(Modedeal)[h Tristar][XXX]
+REAL_BOOT Party Games (1989)(Modedeal)[h][a][Summer Night Games, XXX]
+REAL_BOOT Party Games (1989)(Modedeal)[h][Summer Night Games, XXX]
+REAL_BOOT Party Games (1989)(Modedeal)[m bootblock][XXX]
+REAL_BOOT Party Games (1989)(Modedeal)[m disk label][XXX]
+REAL_BOOT Party Games (1989)(Modedeal)[XXX]
+REAL_BOOT Patience v1.2 (19xx)(Smith, David)
+REAL_BOOT Patience v1.2 (19xx)(Smith, David)[h BTTR]
+REAL_BOOT Peebee v1.2 (1994)(Fez Productions)(PD)[h PD-Soft][SEUCK]
+REAL_BOOT Peebee v1.2 (1994)(Fez Productions)(PD)[SEUCK]
+REAL_BOOT Pengo (1994)(MartinSoft)(SW-R)
+REAL_BOOT Pengo (1994)(MartinSoft)(SW-R)[Amiga Forever edition]
+REAL_BOOT Pengo (1994)(MartinSoft)(SW-R)[h ASO]
+REAL_BOOT Pengo (1994)(MartinSoft)(SW-R)[Quartz PD]
+REAL_BOOT Pengo (demo-playable) (1994)(MartinSoft)
+REAL_BOOT Pengo (demo-playable) (1994)(MartinSoft)[h Pazza]
+REAL_BOOT Pengo (demo-playable) (1994)(MartinSoft)[h Pazza][a]
+REAL_BOOT Pengo 2 v1.0 (1994)(Reploid)(GW)[Cynostic PD - PD-Soft]
+REAL_BOOT Pengo 2 v1.0 (1994)(Reploid)(GW)[Cynostic PD]
+REAL_BOOT Pengo 2 v1.0 (1994)(Reploid)(GW)[h ALE]
+REAL_BOOT Pengo 2 v1.0 (1994)(Reploid)(GW)[h Pazza]
+REAL_BOOT Pengo 2 v1.0 (1994)(Reploid)(GW)[Quartz PD]
+REAL_BOOT Peter's Quest - For the Love of Daphne v1.2 (1991-11-22)(Meny, David)(PD)[FFS]
+REAL_BOOT Peter's Quest - For the Love of Daphne v1.2 (1991-11-22)(Meny, David)(PD)[h FLT]
+REAL_BOOT Peter's Quest - For the Love of Daphne v1.2 (1991-11-22)(Meny, David)(PD)[h Testament - KTS]
+REAL_BOOT Peter's Quest - For the Love of Daphne v1.2 (1991-11-22)(Meny, David)(PD)[h Testament]
+REAL_BOOT Peter's Quest - For the Love of Daphne v1.2 (1991-11-22)(Meny, David)(PD)[h Unique Computing]
+REAL_BOOT Petris v1.5 (1998)(Airio, P.)[h BTTR]
+REAL_BOOT Phantom v1.0 (1996-01-04)(Lunn, Andreas)(SW)
+REAL_BOOT Pharaohs Curse (1990)(Bignonia)(PD)[C64 conversion]
+REAL_BOOT Phuk the World (1994)(Urban Hardcore)[cr FLT][h LSD]
+REAL_BOOT Phuk the World (1994)(Urban Hardcore)[cr FLT][h LSD][m bamcopy]
+REAL_BOOT Phuk the World (1994)(Urban Hardcore)[h Nuke]
+REAL_BOOT Pic-It v2.0 (1996)(Massey, Raymond - CLR Licenceware)(SW)[a][AMOS]
+REAL_BOOT Pic-It v2.0 (1996)(Massey, Raymond - CLR Licenceware)(SW)[AMOS]
+REAL_BOOT Pick a Brick (1992-04)(Noxious)(PD)
+REAL_BOOT Pick a Brick (1992-04)(Noxious)(PD)[a highscore]
+REAL_BOOT Pick a Brick (1992-04)(Noxious)(PD)[h Floppy International]
+REAL_BOOT Picture Puzzle v1.0 (1992-03-16)(Wheatstone, Peter)[inc. source code, AMOS]
+REAL_BOOT Picture Puzzle v1.0 (1992-03-16)(Wheatstone, Peter)[m bamcopy][inc. source code, AMOS]
+REAL_BOOT Pigs, The II - Das Schwein Schlagt Zuruck v2.0 (1993-08-28)(The Game Creatores)(de)(SW)
+REAL_BOOT PillMania (1994)(Olsen, Martin)(SW)[h Metal Connextion]
+REAL_BOOT PillMania (1994)(Olsen, Martin)(SW)[h Metal Connextion][m doscopy - bamcopy]
