@@ -14598,3 +14598,35 @@ REAL_BOOT Picture Puzzle v1.0 (1992-03-16)(Wheatstone, Peter)[m bamcopy][inc. so
 REAL_BOOT Pigs, The II - Das Schwein Schlagt Zuruck v2.0 (1993-08-28)(The Game Creatores)(de)(SW)
 REAL_BOOT PillMania (1994)(Olsen, Martin)(SW)[h Metal Connextion]
 REAL_BOOT PillMania (1994)(Olsen, Martin)(SW)[h Metal Connextion][m doscopy - bamcopy]
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
+FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
+REAL_BOOT Flash for Fantasy (1991-04-27)(Sanity)[h Warlock]
+REAL_BOOT Flash for Fantasy (1991-04-27)(Sanity)[h Warlock][m bamcopy]
+REAL_BOOT Flavour (1995)(Limited Edition)(AGA)
+REAL_BOOT Flea (1998)(Appendix)(AGA)[h BTTR]
+REAL_BOOT Flexible Logo (1990)(Beyond Force)[h Warlock]
+REAL_BOOT Flexible Logo (1990)(Beyond Force)[h Warlock][m bamcopy]
+REAL_BOOT Flight Over Fight - 1 mega version (1990-08-22)(Hawk)
+REAL_BOOT Flight Over Fight - 1 mega version (1990-08-22)(Hawk)[b doscopy - dump]
+REAL_BOOT Flight Over Fight - 512k version (1990-08-22)(Hawk)
+REAL_BOOT Flora (1996)(Dream Row)(AGA)
+REAL_BOOT Flora (1996)(Dream Row)(AGA)[a]
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Pilotuv Pribeh (1991)(Straton)(cs)[AMOS]
+REAL_BOOT Ping Pong (199x)(Kallasoft)(AGA)[cr CPU - MGF - JOY][b virus damage]
+REAL_BOOT Ping Pong (199x)(Kallasoft)(AGA)[cr FLT]
+REAL_BOOT Pingwynne v1.0 (1994)(O'Donnell, Matthew)[WB]
+REAL_PASS Pioneers (1996)(Schroedter, Lars)(Disk 1 of 2)[cr Backlash][HD]
+REAL_BOOT Pioneers (1996)(Schroedter, Lars)(Disk 1 of 3)[cr Backlash]
+REAL_BOOT Pioneers (1996)(Schroedter, Lars)(Disk 1 of 3)[cr Backlash][m bamcopy]
+REAL_BOOT Pioneers (1996)(Schroedter, Lars)(Disk 1 of 3)[cr Backlash][tr pl Opus SP]
+REAL_PASS Pioneers (1996)(Schroedter, Lars)(Disk 2 of 2)[cr Backlash][HD]
+REAL_PASS Pioneers (1996)(Schroedter, Lars)(Disk 2 of 3)[cr Backlash]
+REAL_PASS Pioneers (1996)(Schroedter, Lars)(Disk 2 of 3)[cr Backlash][tr pl Opus SP]
+REAL_PASS Pioneers (1996)(Schroedter, Lars)(Disk 3 of 3)[cr Backlash]
+REAL_PASS Pioneers (1996)(Schroedter, Lars)(Disk 3 of 3)[cr Backlash][m doscopy]
+REAL_PASS Pioneers (1996)(Schroedter, Lars)(Disk 3 of 3)[cr Backlash][tr pl Opus SP]
+REAL_BOOT Pipeline (1989)(Brown, Richard)
