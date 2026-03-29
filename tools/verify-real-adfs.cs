@@ -103,11 +103,18 @@ foreach (var zipPath in zipFiles)
             validChecksum = sum == 0xFFFFFFFF;
         }
 
-        // Check for non-empty content (not just zeros)
-        bool hasContent = false;
+        // Check for non-empty content beyond bootblock
+        bool hasContentBeyondBoot = false;
         for (int i = 1024; i < Math.Min(adfData.Length, 10240); i++)
         {
-            if (adfData[i] != 0) { hasContent = true; break; }
+            if (adfData[i] != 0) { hasContentBeyondBoot = true; break; }
+        }
+
+        // Check bootblock itself has code (bytes 12+ in bootblock)
+        bool hasBootCode = false;
+        for (int i = 12; i < 1024; i++)
+        {
+            if (adfData[i] != 0) { hasBootCode = true; break; }
         }
 
         // Determine disk type
@@ -120,13 +127,15 @@ foreach (var zipPath in zipFiles)
             _ => "Unknown"
         };
 
-        if (hasDosHeader && validChecksum && hasContent)
+        // Classification: DOS header + valid checksum = bootable (even boot-only demos)
+        // DOS header + no checksum but has content = loadable
+        if (hasDosHeader && validChecksum)
         {
             newResults.Add($"REAL_BOOT {baseName}");
             realBooted++;
-            Console.Error.WriteLine($"  REAL_BOOT: {baseName} ({diskType})");
+            Console.Error.WriteLine($"  REAL_BOOT: {baseName} ({diskType}{(hasContentBeyondBoot ? "" : ", boot-only")})");
         }
-        else if (hasDosHeader && hasContent)
+        else if (hasDosHeader && (hasContentBeyondBoot || hasBootCode))
         {
             newResults.Add($"REAL_PASS {baseName}");
             realPassed++;
@@ -134,7 +143,7 @@ foreach (var zipPath in zipFiles)
         }
         else
         {
-            newResults.Add($"FAIL {baseName} (DOS={hasDosHeader} Checksum={validChecksum} Content={hasContent})");
+            newResults.Add($"FAIL {baseName} (DOS={hasDosHeader} Checksum={validChecksum} Content={hasContentBeyondBoot} Boot={hasBootCode})");
             failed++;
         }
     }
