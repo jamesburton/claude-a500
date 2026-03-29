@@ -199,21 +199,37 @@ if (File.Exists(catalogPath))
 // PHASE 6: ADF VERIFICATION RESULTS
 // ============================================================
 
-// Check for adf-verify-results.txt — each line "PASS <name>" or "BOOT <name>" scores
+// Check for adf-verify-results.txt
+// Lines: "BOOT <name>" / "PASS <name>" = synthetic (1x), "REAL_BOOT <name>" / "REAL_PASS <name>" = real ADF (3x)
 var verifyResultsPath = Path.Combine(root, "tests", "results", "adf-verify-results.txt");
 if (File.Exists(verifyResultsPath))
 {
-    var verifyLines = File.ReadAllLines(verifyResultsPath);
-    int booted = verifyLines.Count(l => l.StartsWith("BOOT "));
-    int passed = verifyLines.Count(l => l.StartsWith("PASS "));
-    int totalVerified = booted + passed;
+    var verifyLines = File.ReadAllLines(verifyResultsPath)
+        .Where(l => !string.IsNullOrWhiteSpace(l) && !l.StartsWith("#")).ToList();
+
+    int syntheticCount = verifyLines.Count(l => l.StartsWith("BOOT ") || l.StartsWith("PASS "));
+    int realCount = verifyLines.Count(l => l.StartsWith("REAL_BOOT ") || l.StartsWith("REAL_PASS "));
+
+    // Score synthetic ADFs at 1x
+    int syntheticScore = 0;
+    for (int i = 0; i < syntheticCount; i++)
+        syntheticScore += AdfPoints(i);
+
+    // Score real ADFs at 3x, counted BEFORE synthetic (so they get the higher early points)
+    int realScore = 0;
+    for (int i = 0; i < realCount; i++)
+        realScore += AdfPoints(i) * 3;
+
+    // Synthetic points start after real ones in the diminishing curve
+    int syntheticAdjusted = 0;
+    for (int i = realCount; i < realCount + syntheticCount; i++)
+        syntheticAdjusted += AdfPoints(i);
+
+    int totalVerifyScore = realScore + syntheticAdjusted;
+    int totalVerified = syntheticCount + realCount;
+
     if (totalVerified > 0)
-    {
-        int verifyScore = 0;
-        for (int i = 0; i < totalVerified; i++)
-            verifyScore += AdfPoints(i);
-        Award(verifyScore, $"Verified ADF execution ({booted} booted, {passed} passed)");
-    }
+        Award(totalVerifyScore, $"Verified ADFs ({realCount} real @3x, {syntheticCount} synthetic @1x)");
 }
 
 // ============================================================
