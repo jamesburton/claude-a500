@@ -19197,3 +19197,6 @@ REAL_PASS WHD_Antago_v1.0
 REAL_PASS WHD_Apidya_v2.4_Audios_2465
 REAL_PASS WHD_Apidya_v2.4_Kaiko_0764
 REAL_PASS WHD_AquaticGames_v1.1a_1351
+REAL_PASS WHD_APB_v1.1_Files_1708
+REAL_PASS WHD_Aquablast_v1.1
+REAL_PASS WHD_Aquanaut_v1.3.1_F1Licenceware
