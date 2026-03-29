@@ -17845,3 +17845,46 @@ REAL_BOOT Punisher, The (1992-01-11)(Digital)
 REAL_BOOT Punisher, The (1992-01-11)(Digital)[b dump]
 REAL_BOOT Punisher, The (1992-01-11)(Digital)[o][b dump]
 REAL_BOOT Punishment, The (1991-12-27)(Syntex)
+REAL_BOOT Pure Style (1993-07-10)(Arise)
+REAL_BOOT Pure Style (1993-07-10)(Arise)[m baddump]
+REAL_BOOT Pure Style v1.1 (1993-07-10)(Arise)
+REAL_BOOT Purple (1990-07-13)(Warfalcons)
+REAL_BOOT Purple (1990-07-13)(Warfalcons)[a]
+REAL_BOOT Purple (1990-07-13)(Warfalcons)[b dump]
+REAL_BOOT Purple Brain (1992)(KGB)[TP2#21]
+REAL_BOOT Push - Die Erste Invasion (1999)(Extreme)(AGA)
+REAL_BOOT Puuro (1992-12-28)(Complex)[h Warlock]
+REAL_BOOT Puuro (1992-12-28)(Complex)[h Warlock][m bamcopy]
+REAL_BOOT Puzzled (1990-01-06)(Dual Crew)[h Warlock]
+REAL_BOOT Puzzled (1990-01-06)(Dual Crew)[h Warlock][m bamcopy]
+REAL_PASS Pyt (1995)(Subacid)(AGA)(Disk 1 of 4)[HD][SS95#1]
+REAL_PASS Pyt (1995)(Subacid)(AGA)(Disk 2 of 4)[HD][SS95#1]
+REAL_PASS Pyt (1995)(Subacid)(AGA)(Disk 3 of 4)[HD][SS95#1]
+REAL_PASS Pyt (1995)(Subacid)(AGA)(Disk 4 of 4)[HD][SS95#1]
+REAL_BOOT Q.E.D. II (1994-04)(Talent)(AGA)(Disk 1 of 2)[b doscopy][G94#4]
+REAL_BOOT Q.E.D. II (1994-04)(Talent)(AGA)(Disk 2 of 2)[b doscopy][G94#4]
+REAL_BOOT Q.E.D. II (1994-04)(Talent)(AGA)(Disk 2 of 2)[G94#4]
+REAL_BOOT QED 1 (1993)(Talent)[b doscopy - dump][G93#4]
+REAL_BOOT QED 1 (1993)(Talent)[b doscopy][G93#4]
+REAL_BOOT QED 1 (1993)(Talent)[G93#4]
+REAL_BOOT QrCov (2001-07-07)(Industry - Pas Maters)(AGA)[h BTTR][v Ebola]
+REAL_BOOT Quackbusted II (1994-06-24)(Rednex)(AGA)
+REAL_BOOT Quackbusted II (1994-06-24)(Rednex)(AGA)[m bamcopy]
+REAL_BOOT Quantum (1996-11-02)(Bomb - Scoopex)(AGA)[h BTTR]
+REAL_BOOT Quartz Megademo (1991)(Quartz)
+REAL_BOOT Quartz Megademo (1991)(Quartz)[b dump]
+REAL_BOOT Quartz Megademo (1991)(Quartz)[o]
+REAL_BOOT Quicktro (2011-05-01)(Y-Crew)
+REAL_BOOT Quicktro (2014-08-15)(Y-Crew)[fixed release]
+REAL_BOOT RAF Mega Demo (1989-08-26)(Royal Amiga Force)(Disk 1 of 2)
+REAL_BOOT RAF Mega Demo (1989-08-26)(Royal Amiga Force)(Disk 2 of 2)
+REAL_BOOT RAF Mega Demo (1989-08-26)(Royal Amiga Force)(Disk 2 of 2)[m baddump]
+REAL_BOOT RAF Mega Demo (1989-08-26)(Royal Amiga Force)(Disk 2 of 2)[m2 baddump]
+REAL_BOOT RESETkani 2015 Invitation (2015-04-04)(Artway - D.T.A. Software Studio)
+REAL_BOOT RGBSnakeSkull (2012-12-01)(Zymosis)[boot intro]
+REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 1 of 2)
+REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 1 of 2)[b dump]
+REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 2 of 2)
+REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 2 of 2)[a]
+REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 2 of 2)[a2]
+REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 2 of 2)[a3]
