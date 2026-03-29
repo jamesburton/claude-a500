@@ -1,0 +1,22 @@
+AR_ROM_LOADED Action Replay 1200 (199x)(Datel Electronics)
+AR_MENU_ACTIVE Action Replay 1200 (199x)(Datel Electronics)
+AR_FREEZE_OK Action Replay 1200 (199x)(Datel Electronics)
+AR_ROM_LOADED Action Replay Mk I v1.0 (1989)(Datel Electronics)
+AR_MENU_ACTIVE Action Replay Mk I v1.0 (1989)(Datel Electronics)
+AR_ROM_LOADED Action Replay Mk I v1.5 (1989)(Datel Electronics)
+AR_MENU_ACTIVE Action Replay Mk I v1.5 (1989)(Datel Electronics)
+AR_ROM_LOADED Action Replay Mk II v2.05 (1990)(Datel Electronics)[m]
+AR_MENU_ACTIVE Action Replay Mk II v2.05 (1990)(Datel Electronics)[m]
+AR_ROM_LOADED Action Replay Mk II v2.12 (1990)(Datel Electronics)[m]
+AR_MENU_ACTIVE Action Replay Mk II v2.12 (1990)(Datel Electronics)[m]
+AR_ROM_LOADED Action Replay Mk II v2.14 (1991)(Datel Electronics)[m]
+AR_MENU_ACTIVE Action Replay Mk II v2.14 (1991)(Datel Electronics)[m]
+AR_ROM_LOADED Action Replay Mk III v3.09 (1991)(Datel Electronics)[m]
+AR_MENU_ACTIVE Action Replay Mk III v3.09 (1991)(Datel Electronics)[m]
+AR_FREEZE_OK Action Replay Mk III v3.09 (1991)(Datel Electronics)[m]
+AR_ROM_LOADED Action Replay Mk III v3.17 (1991)(Datel Electronics)[m]
+AR_MENU_ACTIVE Action Replay Mk III v3.17 (1991)(Datel Electronics)[m]
+AR_FREEZE_OK Action Replay Mk III v3.17 (1991)(Datel Electronics)[m]
+AR_ROM_LOADED Action Replay Mk III v3.17 (1991)(Datel Electronics)[m]
+AR_MENU_ACTIVE Action Replay Mk III v3.17 (1991)(Datel Electronics)[m]
+AR_FREEZE_OK Action Replay Mk III v3.17 (1991)(Datel Electronics)[m]
