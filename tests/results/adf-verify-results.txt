@@ -17888,3 +17888,55 @@ REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 2 of 2)
 REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 2 of 2)[a]
 REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 2 of 2)[a2]
 REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 2 of 2)[a3]
+REAL_BOOT Rabbit, Besser Wie Has! (1994-01-06)(Arise)(AGA)[Virus's release]
+REAL_BOOT Raccadab (1994-11-24)(Defiance)[h BTTR]
+REAL_BOOT Raccadab (1994-11-24)(Defiance)[h Warlock]
+REAL_BOOT Raccadab (1994-11-24)(Defiance)[h Warlock][m bamcopy]
+REAL_BOOT Radianze (2000)(Contraz)(AGA)[h BTTR]
+REAL_BOOT Radical (1991-07-08)(Vision)[h Warlock]
+REAL_BOOT Radical (1991-07-08)(Vision)[h Warlock][m bamcopy]
+REAL_BOOT Radical Insanity (1993-03-01)(Equinox)
+REAL_BOOT Radikal (1998)(Haujobb)[h BTTR]
+REAL_BOOT Radwar 2k Invitation (2000)(Haujobb)(AGA)[h BTTR]
+REAL_BOOT Raging Fire (1993-12-28)(Dreamdealers)(AGA)[h Warlock][m bamcopy][TP3#14]
+REAL_BOOT Raging Fire (1993-12-28)(Dreamdealers)(AGA)[h Warlock][TP3#14]
+REAL_BOOT Raging Fire (1993-12-28)(Dreamdealers)(AGA)[TP3#14]
+REAL_BOOT Raiders on the Storm (1991-11-09)(Deffpaccers)
+REAL_BOOT Raiders on the Storm (1991-11-09)(Deffpaccers)[b dump]
+REAL_BOOT Raiders on the Storm (1991-11-09)(Deffpaccers)[with secret part]
+REAL_BOOT Rainbow Party 2 Invitation - Radwar 9 (1995)(TRSI)
+REAL_BOOT Rainbow Party Invitation - Radwar 7 (1994-01)(TRSI)
+REAL_BOOT Rainbow Party Invitation - Radwar 7 (1994-01)(TRSI)[h PD-Soft]
+REAL_BOOT Rainbow Party Invitation (1994-01-12)(Spreadpoint)
+REAL_BOOT Rambo 3 - The Megademo (1988)(Maxima)[KS1.2]
+REAL_BOOT RamJam (1996)(Luca Elia - Randy - Scorpik)[68020]
+REAL_BOOT Rampage (1994-03-20)(The Electronic Knights)[b doscopy]
+REAL_BOOT Rampage (1994-03-20)(The Electronic Knights)[b2 doscopy]
+REAL_BOOT Rampage (1994-03-20)(The Electronic Knights)[f VrS!][b doscopy]
+REAL_BOOT Random Syntax Party Demo (2007-08)(Syntax Party Crew)
+REAL_BOOT Rap around the Clock (1991)(Extend)
+REAL_BOOT Rap Demo, The (1996)(Virus)[KS2.0][G96#11]
+REAL_BOOT Rape Em All (1991-07-25)(Equinox)
+REAL_BOOT Rapid House BBS Intro (1991-06-11)(Equinox)
+REAL_BOOT Rasters Magic (1988-05-23)(Megaforce)
+REAL_BOOT Rational Prodigy (1992)(Analogy)
+REAL_BOOT Rational Prodigy (1992)(Analogy)[a]
+REAL_BOOT Ratman Demo, The (1990-03-08)(Prong)[KS2.0]
+REAL_BOOT Rave Hour (1994)(Doom)(AGA)
+REAL_BOOT Raven (1998)(ERS 98)(AGA)
+REAL_BOOT Raw (1992)(Plague)[h BTTR]
+REAL_BOOT Raw Copy 1.3 Crack Intro (19xx)(Vertigo)[h Warlock]
+REAL_BOOT Raw Copy 1.3 Crack Intro (19xx)(Vertigo)[h Warlock][m bamcopy]
+REAL_BOOT Ray of Hope (1991)(Majic 12)
+REAL_BOOT Ray of Hope 2 (1991)(Majic 12)
+REAL_BOOT Ray of Hope 2 (1991)(Majic 12)[a]
+REAL_BOOT Ray of Hope 2 (1991)(Majic 12)[o]
+REAL_BOOT Rayworld (1993-10-23)(Deform - Investation)(AGA)(Disk 1 of 3)
+REAL_BOOT Rayworld (1993-10-23)(Deform - Investation)(AGA)(Disk 1 of 3)[a]
+REAL_PASS Rayworld (1993-10-23)(Deform - Investation)(AGA)(Disk 2 of 3)
+REAL_PASS Rayworld (1993-10-23)(Deform - Investation)(AGA)(Disk 3 of 3)
+REAL_BOOT Razor's Edge, The (1991-07-20)(Syntex)(fr)[FFS]
+REAL_BOOT Razorback (2000)(Reason)(AGA)
+REAL_BOOT Reach for the Skies Crack Intro (1992)(Melon Dezign)[h zebra3.org]
+REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 2 of 2)[b dump]
+REAL_BOOT RSI Megademo (1989-09-09)(Red Sector Inc - TCC Design)(Disk 2 of 2)[m baddump]
