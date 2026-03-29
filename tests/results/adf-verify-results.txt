@@ -12758,12 +12758,9 @@ REAL_BOOT RSI Demo-Maker Volume 2 (1992-01-14)(Red Sector - 17-Bit Software)(Dis
 REAL_PASS 3D Demo (1991-12-28)(Anarchy)(Disk 2 of 2)[a][TP1#4]
 REAL_PASS 3D Demo (1991-12-28)(Anarchy)(Disk 2 of 2)[TP1#4]
 REAL_PASS 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[TP3#4]
-FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
-FAIL Account Master v2.0 (1992)(Platt, Martin)[u] (bad size: 889856)
 REAL_PASS Air Fight v1.02 (1994-10)(Qualis)(FW)[h Tower][WB][AMOS]
 REAL_PASS Alien Bash II v0.1 (1995)(Cumming, Glen - Jeffery, Myles)(PD)(Disk 1 of 2)[Quarterback archive]
 REAL_BOOT Alpha and Omega (1991-06-30)(Pure Metal Coders)[m baddump][o]
-FAIL AMF II (1992-04-18)(Lynx Crew)[u] (bad size: 889856)
 REAL_PASS AMI-gotchi v1.23 (1997-09)(Brookes, Samuel)(FW)[WB][Blitz BASIC]
 REAL_PASS Amiga Asm Help v1.80 (1995-06-09)(Defjam)[WB]
 REAL_PASS Amiga Omega v1.3 (19xx)(Golembiewski, R.)(PD)
@@ -12780,7 +12777,6 @@ REAL_BOOT Bass Megademo II (1991)(Bass)[b duplicate track]
 REAL_PASS Batman Vuelve (1995-07-23)(Batman Group)(Disk 2 of 2)
 REAL_BOOT Battle Tec v1.0 (1998)(Logistic Dreams)(de)[h DCD][b fake track]
 REAL_BOOT Bazza 'n' Runt v1 (demo-playable) (1994)(Clarke, Paul)(PD)[o][AMOS]
-FAIL Big Time Sensuality (1994-03-18)(Axis)(AGA)(Disk 1 of 2)[u][b dump] (bad size: 833536)
 REAL_PASS Big Time Sensuality (1994-03-18)(Axis)(AGA)(Disk 2 of 2)
 REAL_PASS Big Time Sensuality (1994-03-18)(Axis)(AGA)(Disk 2 of 2)[a]
 REAL_PASS Big Time Sensuality (1994-03-18)(Axis)(AGA)(Disk 2 of 2)[b]
@@ -12856,11 +12852,9 @@ REAL_BOOT Denis (1994-10-04)(Amiga Personal EXpression - Virtual Design Inc)[FFS
 REAL_BOOT Dentisty (2001)(Nature)(AGA)[h BTTR]
 REAL_BOOT Dentro (1992-11-07)(Dynamic Technologies)
 REAL_PASS Die Filth (1990)(Activas Washing Corporation, The)(PD)(Disk 2 of 2)[f Captain Pazza]
-FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Dungeons of Avalon v1.0 (1991)(Zeret)(de)[m savegame][o][write enable disk]
 REAL_BOOT Dungeons of Avalon v1.0 (1991)(Zeret)(de)[o][write enable disk]
 REAL_PASS Fluffles (1996)(Akerberg, Bob)[WB]
-FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
 REAL_BOOT Gringos (1998)(Speranda, Mario)(PD)
 REAL_BOOT Groundwars - Waponez 2 (1997)(NC Gamez)(AGA)(PD)
 REAL_BOOT GroWorm (1997)(Wigsoft)
@@ -13021,3 +13015,114 @@ REAL_PASS ProTracker v3.15 (1996-01-24)(Cryptoburners - RD10)(FW)[WB]
 REAL_PASS ProTracker v3.55 (1996-06-13)(Cryptoburners - RD10)(FW)[hTEC Design][WB]
 REAL_PASS ROM-Tools (1994)(Essence)
 REAL_BOOT RSI Demo-Maker - Extra's Disk No.2 (1991)(Deadzone Troopers - Pendle Europa)[o]
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+REAL_BOOT Account Master v2.0 (1992)(Platt, Martin)[u]
+REAL_BOOT AMF II (1992-04-18)(Lynx Crew)[u]
+REAL_BOOT Big Time Sensuality (1994-03-18)(Axis)(AGA)(Disk 1 of 2)[u][b dump]
+REAL_BOOT Dentro - Los Huivos (1993-02-03)(Virtual Dreams - Fairlight)[h Warlock]
+REAL_BOOT Dentro - Los Huivos (1993-02-03)(Virtual Dreams - Fairlight)[h Warlock][m bamcopy]
+REAL_BOOT Dentro (1994)(Virtual Dreams - Fairlight)[h BTTR]
+REAL_BOOT Dentro (1995)(Bronx)(AGA)
+REAL_BOOT Derryn Hinch (1990-07-19)(Decay AU)
+REAL_BOOT Desert Dream (1993-04-07)(Kefrens)(Disk 1 of 2)[b doscopy][G93#1]
+REAL_BOOT Desert Dream (1993-04-07)(Kefrens)(Disk 1 of 2)[G93#1]
+REAL_BOOT Desert Dream (1993-04-07)(Kefrens)(Disk 2 of 2)[b dump][G93#1]
+REAL_BOOT Desert Dream (1993-04-07)(Kefrens)(Disk 2 of 2)[b2 dump][G93#1]
+REAL_BOOT Desert Dream (1993-04-07)(Kefrens)(Disk 2 of 2)[G93#1]
+REAL_BOOT Desert Island Dick (1994)(Dee)[h 17-Bit Software]
+REAL_BOOT Desert Island Dick (1994)(Dee)[h 17-Bit Software][a]
+REAL_BOOT Despair (1991-10-05)(LSD)
+REAL_BOOT Despair (1991-10-05)(LSD)[m bamcopy]
+REAL_BOOT Despair (1991-10-05)(LSD)[m bamcopy][o]
+REAL_BOOT Despair (1994-08-07)(Insane)(AGA)[A94#7]
+REAL_BOOT Despair (1994-08-07)(Insane)(AGA)[h BTTR][A94#7]
+REAL_BOOT Destiny Communion Party 40k Intro Compo (1993-08-28)(Virtual Dreams - Fairlight)[h BTTR]
+REAL_BOOT Destiny Communion Party 40k Intro Compo (1993-08-28)(Virtual Dreams - Fairlight)[h Warlock]
+REAL_BOOT Destiny Communion Party 40k Intro Compo (1993-08-28)(Virtual Dreams - Fairlight)[h Warlock][m bamcopy]
+REAL_BOOT Destroy Fascism (1993-09-03)(Angels)[h Warlock]
+REAL_BOOT Destroy Fascism (1993-09-03)(Angels)[h Warlock][m bamcopy]
+REAL_BOOT Determination (1996)(Mystic)(AGA)[P96]
+REAL_BOOT Detrax (1992)(Triflex)[h BTTR]
+REAL_BOOT Dexion Megademo (1989-02-12)(Dexion)
+REAL_BOOT Dexion Megademo (1989-02-12)(Dexion)[b dump]
+REAL_BOOT Dexion Megademo (1989-02-12)(Dexion)[b2 dump]
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Incredible Adventures of Moebius Goatlizard DX, The v1.1 (2013-07-30)(BlackJet)
+REAL_BOOT Incredible Adventures of Moebius Goatlizard, The (demo-playable) (2012)(BlackJet)
+REAL_BOOT Incredible Adventures of Moebius Goatlizard, The v1.0 (2013-04-13)(BlackJet)
+REAL_BOOT Incredible Adventures of Moebius Goatlizard, The v1.1 (2013-04-21)(BlackJet)
+REAL_BOOT Incredible Adventures of Moebius Goatlizard, The v1.1 (2013-04-21)(BlackJet)[t +4 Flashtro]
+REAL_BOOT Incydent (demo-playable) (1995)(PioSo)(pl)
+REAL_BOOT Indian Joe und der Schatz der Mayas (1994)(MLB)(de)(PD)
+REAL_BOOT Indycar Challenge (1994)(AHE)(SW)[AMOS]
+REAL_BOOT InerSex v2.0 (1995)(Sullivann-Online)
+REAL_BOOT Infrared (1994-03-11)(VSC)[SEUCK]
+REAL_BOOT Inirox (1995)(Vista)(SW)
+REAL_BOOT Inner Demons (1994)(ScareWare)(PD)(Disk 1 of 4)[a title screen][Visionary]
+REAL_BOOT Inner Demons (1994)(ScareWare)(PD)(Disk 1 of 4)[h][Visionary]
+REAL_BOOT Inner Demons (1994)(ScareWare)(PD)(Disk 1 of 4)[Visionary]
+REAL_PASS Inner Demons (1994)(ScareWare)(PD)(Disk 2 of 4)
+REAL_PASS Inner Demons (1994)(ScareWare)(PD)(Disk 2 of 4)[h]
+REAL_PASS Inner Demons (1994)(ScareWare)(PD)(Disk 3 of 4)
+REAL_PASS Inner Demons (1994)(ScareWare)(PD)(Disk 3 of 4)[h]
+REAL_PASS Inner Demons (1994)(ScareWare)(PD)(Disk 4 of 4)
+REAL_PASS Inner Demons (1994)(ScareWare)(PD)(Disk 4 of 4)[h]
+REAL_BOOT Insectoids 2 (1993)(Sibly, Mark - Quartz PD)(PD)
+REAL_BOOT Insectoids 2 (1993)(Sibly, Mark)(PD)
+REAL_BOOT Insectoids from Outer Space (1993)(Sibly, Mark)(PD)
+REAL_BOOT Insectoids from Outer Space (1993)(Sibly, Mark)(PD)[m doscopy]
+REAL_BOOT Insider's Club (19xx)(Edwards, Colin - 17-Bit Software)(PD)
+REAL_BOOT Intense - Reborn Again (19xx)(Fez Productions)(PD)[PD-Soft][SEUCK]
+REAL_BOOT Intense - Reborn Again (19xx)(Fez Productions)(PD)[v Liberator v5.01][PD-Soft][SEUCK]
+REAL_BOOT Intense - Sector One Reborn (1993)(Fez Productions)(PD)[h Assassins][SEUCK]
+REAL_BOOT Intense - Sector One Reborn (1993)(Fez Productions)(PD)[SEUCK]
+REAL_BOOT Interface Robot (1994)(Sixties Fish Company)(PD)
+REAL_BOOT Interlock (19xx)(Mainwood, M.)[h ALE][AMOS]
+REAL_BOOT Internal Combustion (199x)(Neurosis)
+REAL_BOOT Internal Combustion (199x)(Neurosis)[h ASO][a][WB]
+REAL_BOOT Internal Combustion (199x)(Neurosis)[h ASO][WB]
+REAL_BOOT Internal Combustion (199x)(Neurosis)[WB]
+REAL_BOOT International Cricket v2 (1992)(Dowers, Paul)(PD)[AMOS]
+REAL_BOOT International Golf (1996)(Apex Systems - 5D Licenceware)(LW)(Disk 1 of 3)
+REAL_PASS International Golf (1996)(Apex Systems - 5D Licenceware)(LW)(Disk 2 of 3)
+REAL_PASS International Golf (1996)(Apex Systems - 5D Licenceware)(LW)(Disk 3 of 3)
+REAL_BOOT International Golf (demo-playable) (1994)(Alternative - Saddle Tramps PD)(PD)
+REAL_BOOT Intrepid, The v1.5 (1991)(Cornerstone Software)(PD)[h ComputerEyes PD]
+REAL_BOOT Intrepid, The v1.5 (1991)(Cornerstone Software)(PD)[h D-Tect][a][The Director]
+REAL_BOOT Intrepid, The v1.5 (1991)(Cornerstone Software)(PD)[h D-Tect][The Director]
+REAL_PASS Intrepid, The v1.5 (1991)(Cornerstone Software)(PD)[WB][The Director]
+REAL_BOOT Introgash (1994)(Margetts, Asa)(SW)
+REAL_BOOT Intruder Alert (1991)(Phoenix Group)(SW)
+REAL_BOOT Intruder Alert (1991)(Phoenix Group)(SW)[a]
+REAL_BOOT Intruder Alert (1991)(Phoenix Group)(SW)[a2]
+REAL_BOOT Invataxi (1997)(Sheep Arts)(SW)(Disk 1 of 2)
+REAL_BOOT Invataxi (1997)(Sheep Arts)(SW)(Disk 1 of 2)[a]
+REAL_BOOT Invataxi (1997)(Sheep Arts)(SW)(Disk 1 of 2)[a2]
+REAL_PASS Invataxi (1997)(Sheep Arts)(SW)(Disk 2 of 2)
+REAL_BOOT Iron Clads - Surface Naval Combat Game v1.0 (1992-05-16)(Sear, Ashley)(PD)(Disk 1 of 2)[HiSoft BASIC]
+REAL_PASS Iron Clads - Surface Naval Combat Game v1.0 (1992-05-16)(Sear, Ashley)(PD)(Disk 2 of 2)
+REAL_BOOT Irregular Verbs Quiz, The (19xx)(Duarte, P.)(SW)[AMOS]
+REAL_BOOT Island v1.0 (1994)(Bausch, Gilles)(PD)
+REAL_BOOT J.A.R., The (1989)(Ehrentraut, Andreas)(SW)
+REAL_BOOT J.A.R., The (1989)(Ehrentraut, Andreas)(SW)[Fred fish #242]
+REAL_BOOT Jack the Nipper (1990)(Hot Software)[cr Aeon]
+REAL_BOOT Jack the Nipper (1990)(Hot Software)[cr Aeon][a]
+REAL_BOOT Jack the Nipper (1990)(Hot Software)[cr Aeon][v Blizzard v1.0]
+REAL_BOOT Jackman (1996)(NC Gamez)(SW-R)[h BTTR][AMOS]
+REAL_BOOT Jacks BlackJack (1992)(Pritchard, Jack)(SW)
+REAL_BOOT Jade (1997)(Sang, Eric)(fr)(SW-R)(Disk 1 of 2)[AMOS]
+REAL_PASS Jade (1997)(Sang, Eric)(fr)(SW-R)(Disk 2 of 2)
+REAL_BOOT Jazznic (1999)(Satanic Dreams)[h BTTR]
+REAL_BOOT Jelly Othelly v1.1 (1995)(Daisy Software)
+REAL_BOOT JellyQuest - Jelly Bean Part II (1993)(McGuire, David)(SW)[AMOS]
+REAL_BOOT Jeopard v1.2 (1988)(Casper, Robert)(PD)[h Revolutions - 17-Bit Software]
+REAL_BOOT Jeopard v1.2 (1988)(Casper, Robert)(PD)[h Revolutions - Senlac PD]
+REAL_BOOT Jeopard v1.2 (1988)(Casper, Robert)(PD)[h Revolutions]
+REAL_BOOT Jeopard v1.2 (1988)(Casper, Robert)(PD)[h Revolutions][WB]
+REAL_BOOT Jet Set Billy v1.00 (1994)(Paasivirta, Niilo)[h ALE - Clarke, Chris]
+REAL_BOOT Jet Set Billy v1.00 (1994)(Paasivirta, Niilo)[h ALE - Clarke, Chris][inc. joystick support]
+REAL_BOOT JU52-Flight Simulator (1994)(Bopf, Rainer)(FW)
+REAL_BOOT JU52-Flight Simulator v1.1 (1994)(Bopf, Rainer)(FW)
+REAL_BOOT JU52-Flight Simulator v1.1 (1994)(Bopf, Rainer)(FW)[docs]

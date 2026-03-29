@@ -95,7 +95,7 @@ foreach (var zipPath in zipFiles)
             {
                 adfData = adfData[..901120];
             }
-            else if (adfData.Length >= 880 * 1024) // At least 880KB
+            else if (adfData.Length >= 700 * 1024) // At least ~700KB (truncated ADFs)
             {
                 // Pad to standard size
                 var padded = new byte[901120];
