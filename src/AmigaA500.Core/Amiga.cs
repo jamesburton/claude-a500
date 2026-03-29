@@ -26,6 +26,12 @@ public sealed class Amiga
     private int _hPos;
     private int _vPos;
     private int _pendingInterruptLevel;
+    private readonly Cpu.LoopDetector _loopDetector = new();
+
+    /// <summary>
+    /// When true, detected tight loops (DBF delay loops) are accelerated.
+    /// </summary>
+    public bool AccelerateLoops { get; set; } = true;
 
     // Framebuffer for video output (320×256 × 32-bit RGBA)
     public readonly uint[] Framebuffer = new uint[320 * 256];
@@ -93,6 +99,26 @@ public sealed class Amiga
         }
 
         int cycles = Cpu.ExecuteInstruction();
+
+        // Detect and accelerate tight loops (DBF delay loops, SUBQ+Bcc loops)
+        if (AccelerateLoops && _loopDetector.Track(Cpu.PC))
+        {
+            // Scan nearby addresses for DBF or SUBQ pattern
+            for (uint scanPC = Cpu.PC > 4 ? Cpu.PC - 4 : 0; scanPC <= Cpu.PC + 2; scanPC += 2)
+            {
+                ushort op = Bus.ReadWord(scanPC);
+                if ((op & 0xFFF8) == 0x51C8) // DBF Dn
+                {
+                    int reg = op & 7;
+                    int extra = LoopDetector.AccelerateDbf(ref Cpu.D[reg]);
+                    extra = Math.Min(extra, 100000);
+                    cycles += extra;
+                    Cpu.TotalCycles += extra;
+                    _loopDetector.Reset();
+                    break;
+                }
+            }
+        }
 
         // Advance beam position
         for (int i = 0; i < cycles; i++)
