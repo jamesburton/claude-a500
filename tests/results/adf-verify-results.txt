@@ -13122,3 +13122,378 @@ BOOT bBase_II_v5_1991-11Bromley,_RobertFW
 BOOT bBase_II_v5_1991-11Bromley,_RobertFWh
 BOOT mCAD_v1.2.5_1987Mooney,_Tim_-_17-Bit_SoftwareSW
 BOOT miniBBS_v1.5_1989-04-13Riera,_G.IT
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Dexion Megademo (1989-02-12)(Dexion)[m baddump]
+REAL_BOOT Dexion Megademo (1989-02-12)(Dexion)[m2 baddump]
+REAL_BOOT Dexion Megademo (1989-02-12)(Dexion)[o][b dump]
+REAL_BOOT Dexion Megademo 2 (1990-02-19)(Dexion)
+REAL_BOOT Dexion Megademo 2 (1990-02-19)(Dexion)[a]
+REAL_BOOT Dexion Megademo 2 (1990-02-19)(Dexion)[b dump]
+REAL_BOOT Dexion Megademo 2 (1990-02-19)(Dexion)[o][b dump]
+REAL_BOOT Dialer v2.32 Crack Intro (1991)(Alpha Flight)[h Warlock]
+REAL_BOOT Dialer v2.32 Crack Intro (1991)(Alpha Flight)[h Warlock][m bamcopy]
+REAL_BOOT Die Hard 2 Crack Intro (1992-05-07)(Melon Dezign)[h zebra3.org]
+REAL_BOOT Digital Aggravation (1991-12-29)(Rednex)
+REAL_BOOT Digital Complexity (1992-09-27)(Crass)
+REAL_BOOT Digital Complexity (1992-09-27)(Crass)[b doscopy]
+REAL_BOOT Digital Dream (2000-11-25)(Genesis)(AGA)[h BTTR]
+REAL_BOOT Digital Dreams (1992-10-16)(Alpha Flight)
+REAL_BOOT Digital Excitation (1992-05-29)(Noice)
+REAL_BOOT Digital Innovation (1991-08-31)(Anarchy)
+REAL_BOOT Digital Innovation (1991-08-31)(Anarchy)[m baddump]
+REAL_BOOT Digital Intoxication (1992)(Tech)
+REAL_BOOT Digital Intoxication (1992)(Tech)[a]
+REAL_BOOT Digital Orgasm (199x)(Cubic)[AMOS]
+REAL_BOOT Digital Surgery (1992)(Encore)[a][G92#4]
+REAL_BOOT Digital Surgery (1992)(Encore)[a2][G92#4]
+REAL_BOOT Digital Surgery (1992)(Encore)[a3][G92#4]
+REAL_BOOT Digital Surgery (1992)(Encore)[G92#4]
+REAL_BOOT Digitech Megademo (1989)(Digital Technology - Italian Bad Boys)[KS1.2]
+REAL_BOOT Dirt (1994)(Mystic)(AGA)
+REAL_BOOT Dirt (1994)(Mystic)(AGA)[a]
+REAL_BOOT Disasters Megademo 1 (19xx)(Disasters)[KS2.0]
+REAL_BOOT Disco 2000 (1998)(Darkage)(AGA)[h BTTR]
+REAL_BOOT Disk Number One (1991)(Hysteria)
+REAL_BOOT Disney Presents the Animation Studio Crack Intro (1990-08-04)(Paradox)[h Warlock]
+REAL_BOOT Disney's (1993-01-02)(Faculty)
+REAL_BOOT Distance 99 Invitation (1999)(Spaceballs)(AGA)[h BTTR]
+REAL_BOOT Distorted (2000-04-21)(Haujobb)(AGA)[h BTTR]
+REAL_BOOT Distortion (1999-10-03)(Spaceballs)(AGA)[h BTTR]
+REAL_BOOT Dive (1994-08-07)(Complex)(AGA)[h BTTR]
+REAL_BOOT Dive (1998-08-24)(Nah Kolor)(AGA)[h BTTR]
+REAL_BOOT Diving in a Blue Ocean (1991-07-13)(Equinox)
+REAL_BOOT Diving in a Blue Ocean (1991-07-13)(Equinox)[m baddump]
+REAL_BOOT Do You Believe -What you See- (1994)(Infect)(AGA)(Disk 1 of 2)
+REAL_BOOT Do You Believe -What you See- (1994)(Infect)(AGA)(Disk 1 of 2)[a]
+REAL_PASS Do You Believe -What you See- (1994)(Infect)(AGA)(Disk 2 of 2)
+REAL_PASS Do You Believe -What you See- (1994)(Infect)(AGA)(Disk 2 of 2)[a]
+REAL_BOOT Do You Believe -What you See- v2.11 (1994)(Infect)(AGA)(Disk 1 of 2)
+REAL_PASS Do You Believe -What you See- v2.11 (1994)(Infect)(AGA)(Disk 2 of 2)
+REAL_BOOT Doc Demo (19xx)(Unknown)[h 17-Bit Software]
+REAL_BOOT Doctor Broiler's Gonna Make You Sweat (1992-03-28)(The Electronic Knights)
+REAL_BOOT Doctor Who - Thirty Years Old (1993-12-10)(Nebula)[h Warlock]
+REAL_BOOT Doctor Who - Thirty Years Old (1993-12-10)(Nebula)[h Warlock][m bamcopy]
+REAL_BOOT Doctor Who - Thirty Years Old (1993-12-10)(Nebula)[KS2.0]
+REAL_BOOT Does Vectors Float in Water (1992-12-30)(Razor 1911 - Noxious)
+REAL_BOOT Dogmatic (1994-06-05)(Motive)
+REAL_BOOT Doktor's Special (1993)(Fun Factory)
+REAL_BOOT Dolle Demo (1989)(It)
+REAL_BOOT Dolly Mixture Pack #01 - Intro (1991)(Anarchy)
+REAL_BOOT Dolly Mixture Pack #01 - Intro (1991)(Anarchy)[h demondownload.dk]
+REAL_BOOT Dolly Mixture Pack #01 - Intro (1991)(Anarchy)[h Warlock]
+REAL_BOOT Dome, The (1995-05-19)(Cyclone)(AGA)[m bamcopy]
+REAL_PASS Dome, The (1995-05-19)(Cyclone)(AGA)[WB]
+REAL_BOOT Domination (1996-11-17)(Contraz)(AGA)[b]
+REAL_BOOT Domination (1996-11-17)(Contraz)(AGA)[h BTTR]
+REAL_BOOT Domination Dentro II (1995)(Domination)[a][KS2.0]
+REAL_BOOT Domination Dentro II (1995)(Domination)[KS2.0]
+REAL_BOOT Don't Laugh - Pink (1993-10)(Digital)[h demondownload.dk]
+REAL_BOOT Don't Reset (1992)(2000 A.D.)[h BTTR]
+REAL_BOOT Doodledo (1995)(Virtual Dreams - Fairlight)(AGA)[h BTTR]
+REAL_BOOT Doomsday (1991-11-16)(Cyborx)
+REAL_BOOT Dotro (1993-12-27)(Lemon)[h BTTR - Warlock]
+REAL_BOOT Dotro (1993-12-27)(Lemon)[h BTTR]
+REAL_BOOT Dotsy (1994-12-29)(Amiga Personal EXpression)(AGA)[TP4#22]
+REAL_BOOT Double Action Cruncher Intro (1990-08-24)(TRSI)[h Warlock]
+REAL_BOOT Double Action Cruncher Intro (1990-08-24)(TRSI)[h Warlock][m bamcopy]
+REAL_BOOT Dove (1994-12-28)(Abyss)(AGA)(Disk 1 of 2)
+REAL_BOOT Dove (1994-12-28)(Abyss)(AGA)(Disk 1 of 2)[h ALE][TP4#16]
+REAL_BOOT Dove (1994-12-28)(Abyss)(AGA)(Disk 1 of 2)[m][TP4#16]
+REAL_PASS Dove (1994-12-28)(Abyss)(AGA)(Disk 2 of 2)
+REAL_PASS Dove (1994-12-28)(Abyss)(AGA)(Disk 2 of 2)[a filesystem]
+REAL_BOOT Draco Demo (1990)(Draco)[h BTTR]
+REAL_BOOT Dragon (1995)(Animators)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Dragon Lord (1995-09-27)(Alfaforce)
+REAL_BOOT Dragon Lord (1995-09-27)(Alfaforce)[m bamcopy]
+REAL_BOOT Dragons Megademo (19xx)(Dragons)
+REAL_BOOT Dragons Megademo (19xx)(Dragons)[a]
+REAL_BOOT Drama Motion Beauty (2001)(Three Little Elks)(AGA)[h BTTR]
+REAL_BOOT Dream in the Desert (1993)(The Real African Force)
+REAL_BOOT Dream Trippin' (1993-10-23)(Digital)
+REAL_BOOT Dream with Me (1995-12-28)(Scania)(AGA)
+REAL_BOOT Dreaming (1992)(Essence)[h BTTR]
+REAL_BOOT Dreamland Megademo, The (1992)(Underwurlde)
+REAL_BOOT Dreams (1992)(NCA)[aka Rambo is Dead]
+REAL_BOOT Droid's Mini Demo (1990)(2000 A.D.)[h Warlock]
+REAL_BOOT Drolt Demo, The (1988-04-18)(The Alien Crackers)[b startup-sequence]
+REAL_PASS Drool This (1994-08)(Parallax)(Disk 1 of 2)[HD]
+REAL_PASS Drool This (1994-08)(Parallax)(Disk 2 of 2)
+REAL_BOOT Drugstore (1995-04-23)(Abyss)(Disk 1 of 2)
+REAL_BOOT Drugstore (1995-04-23)(Abyss)(Disk 2 of 2)
+REAL_BOOT Drunk Desert Demo, The (1990-05-20)(Paradox)
+REAL_BOOT Drunk Desert Demo, The (1990-05-20)(Paradox)[h Warlock]
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Jet Set Billy v1.00 (1994)(Paasivirta, Niilo)[h ALE]
+REAL_BOOT Jet Set Willy '97 v1.2 (1997-06-27)(cELLBLOCK4)(SW)
+REAL_BOOT Jetmen (1989)(Digiteam)(it)[h Knight Industries]
+REAL_BOOT Jeu de la Gloire (19xx)(Pisteurs)(fr)(PD)[FFS][AMOS]
+REAL_BOOT Jigmania (1991)(Sparx)(PD)
+REAL_BOOT Jigsaw! (1993)(Arnot, Frank)(PD)(Disk 1 of 2)[inc. source code, AMOS]
+REAL_BOOT Jigsaw! (1993)(Arnot, Frank)(PD)(Disk 2 of 2)
+REAL_BOOT Jim Lost in Times (1995)(AubelVision)
+REAL_BOOT Jimmy Willburne - A la Recherche du Peigne Perdu (1994)(Chicken-Pox)(fr)(SW)(Disk 1 of 3)
+REAL_BOOT Jimmy Willburne - A la Recherche du Peigne Perdu (1994)(Chicken-Pox)(fr)(SW)(Disk 1 of 3)[h Dracs]
+REAL_BOOT Jimmy Willburne - A la Recherche du Peigne Perdu (1994)(Chicken-Pox)(fr)(SW)(Disk 2 of 3)
+REAL_BOOT Jimmy Willburne - A la Recherche du Peigne Perdu (1994)(Chicken-Pox)(fr)(SW)(Disk 3 of 3)[bootable]
+REAL_BOOT Jimmy's Fantastic Journey (demo-playable) (1995)(Lionheart - Quartz PD)(PD)
+REAL_BOOT Jims Video Poker (1994)(Goodmon, James)(FW)
+REAL_BOOT Jinx (1994)(Cynet - 17-Bit Software)(AGA)(PD)(Disk 1 of 2)
+REAL_BOOT Jinx (1994)(Cynet - 17-Bit Software)(AGA)(PD)(Disk 1 of 2)[a]
+REAL_PASS Jinx (1994)(Cynet - 17-Bit Software)(AGA)(PD)(Disk 2 of 2)
+REAL_PASS Jinx (1994)(Cynet - 17-Bit Software)(AGA)(PD)(Disk 2 of 2)[a]
+REAL_BOOT Jinx (1994)(Cynet - 17-Bit Software)(AGA)(PD)(Disk 2 of 2)[a2]
+REAL_BOOT Jmeno Ruze - The Name Rose (1990)(Blazek, Kamil)(cs)[AMOS]
+REAL_BOOT John Freedom - Escape from the Tower of Doom (1997)(Free Boys)(it)(Disk 1 of 2)
+REAL_BOOT John Freedom - Escape from the Tower of Doom (1997)(Free Boys)(it)(Disk 2 of 2)
+REAL_BOOT John Maddick in the Land of the Fallen Sabrina with the Silicon Boobies! (1990)(Activas Washing Corporation, The)(PD)(Disk 1 of 3)
+REAL_BOOT John Maddick in the Land of the Fallen Sabrina with the Silicon Boobies! (1990)(Activas Washing Corporation, The)(PD)(Disk 1 of 3)[h PDX - Trax - VSN]
+REAL_BOOT John Maddick in the Land of the Fallen Sabrina with the Silicon Boobies! (1990)(Activas Washing Corporation, The)(PD)(Disk 2 of 3)
+REAL_BOOT John Maddick in the Land of the Fallen Sabrina with the Silicon Boobies! (1990)(Activas Washing Corporation, The)(PD)(Disk 2 of 3)[h PDX - Trax - VSN]
+REAL_PASS John Maddick in the Land of the Fallen Sabrina with the Silicon Boobies! (1990)(Activas Washing Corporation, The)(PD)(Disk 3 of 3)
+REAL_BOOT John Maddick in the Land of the Fallen Sabrina with the Silicon Boobies! (1990)(Activas Washing Corporation, The)(PD)(Disk 3 of 3)[h PDX - Trax - VSN]
+REAL_BOOT John Maddick in the Land of the Fallen Sabrina with the Silicon Boobies! v1.2 (1990)(Activas Washing Corporation, The)(PD)(Disk 1 of 3)
+REAL_PASS John Maddick in the Land of the Fallen Sabrina with the Silicon Boobies! v1.2 (1990)(Activas Washing Corporation, The)(PD)(Disk 2 of 3)
+REAL_BOOT John Maddick in the Land of the Fallen Sabrina with the Silicon Boobies! v1.2 (1990)(Activas Washing Corporation, The)(PD)(Disk 3 of 3)
+REAL_BOOT Jonas Fulstrand (19xx)(Gunnarsson, Marcus)(PD)[h Assassins - ALE][KS2.04]
+REAL_BOOT Journey to Alpha Centauri r3 (1998)(Fleetwood, Julian)(PD)[KS2.0][Frotz interpreter]
+REAL_BOOT Jouster v3.0 (1995)(Pawprint Software)[h TDD]
+REAL_BOOT Jr. Boulderdash (1986)(Kramer, K.)
+REAL_BOOT Judgement Day v1.0 (1994)(Dominion)(AGA)(FW)
+REAL_BOOT Judgement Day v1.0 (1994)(Dominion)(AGA)(FW)[17-Bit Software]
+REAL_BOOT Jump 'Em (1995)(Scorpius - 5D Licenceware)(LW)
+REAL_BOOT Jump 'Em (1995)(Scorpius)(SW)
+REAL_BOOT Jump and Run Game, The (1991)(Wenngatz, Miky)[cr QTX]
+REAL_BOOT Jumper (19xx)(Rose, J.)(PD)
+REAL_BOOT Jumper (19xx)(Rose, J.)(PD)[a]
+REAL_BOOT Jumping Jim (1989)(Niggemann, Armin)[h Supreme]
+REAL_BOOT Jumpy (1989)(Putze, S. - 17-Bit Software)
+REAL_BOOT Jumpy (1989)(Putze, S. - 17-Bit Software)[a]
+REAL_BOOT Jumpy (1990)(Testament)
+REAL_BOOT Jungle Bungle (1990)(Sparx)(PD)
+REAL_BOOT Jungle Escape (19xx)(Boaz)(Disk 1 of 2)
+REAL_PASS Jungle Escape (19xx)(Boaz)(Disk 2 of 2)
+REAL_BOOT Junior Boulderdash (1986)(Kramer, K.)
+REAL_BOOT Jupiter Runner v3.0 (199x)(Infinity)(FW)[h Quartz PD][1,5Mb RAM]
+REAL_BOOT Juwelen des Lichts, Die v2.05 (19xx)(Lampe, M.)(de)(PD)[h Bad Karma]
+REAL_BOOT Juwelen des Lichts, Die v2.20 (19xx)(Lampe, M.)(de)(PD)(Disk 1 of 2)
+REAL_PASS Juwelen des Lichts, Die v2.20 (19xx)(Lampe, M.)(de)(PD)(Disk 2 of 2)
+REAL_BOOT Kaiser (1988)(Phoenix Group)(de)(PD)[cr NRG][b]
+REAL_BOOT Kaiser (1988)(Phoenix Group)(de)(PD)[f nofastmem][h Band]
+REAL_BOOT Kaiser II (1987)(Doerrschuck, Andreas)(de)(PD)
+REAL_BOOT Kaiser II (1987)(Doerrschuck, Andreas)(de)(PD)[h Spreadpoint]
+REAL_BOOT KAK (demo-playable) (1998)(Ironic Design)[h BTTR]
+REAL_BOOT Kalaha (1989)(Zuegge, J.)(de)
+REAL_BOOT Kamakazi Killers (1995)(Xenon Software)(beta)
+REAL_BOOT Kampf um Eriador (1988)(Fantastic Simulations)(de)(FW)
+REAL_BOOT Kampf um Eriador (1988)(Fantastic Simulations)(de)(FW)[v Butonic v3.00]
+REAL_BOOT Kangy v1.02 (1998-03-18)(Carminati, Luca)(GW-R)
+REAL_BOOT Kar Champ (19xx)(-)(PD)[h Assassins - ALE][b][KS2.04]
+REAL_BOOT Karambolage Billard (1988)(Goelzy)(de)(PD)[h Replica Copy Crew]
+REAL_BOOT Karambolage Billard (1988)(Goelzy)(de)(PD)[WB]
+REAL_BOOT Karate Master (1994)(Maddison, Rob - F1 Licenceware)(LW)[1998 edition][AMOS]
+REAL_BOOT Karate Master (1994)(Maddison, Rob - F1 Licenceware)(LW)[h Nemesis][AMOS]
+REAL_BOOT Karate Master (demo-playable) (1998-04-25)(Maddison, Rob - F1 Licenceware)(PD)[1998 edition][AMOS]
+REAL_BOOT Kastle Kumquat (1992)(Cybernetix)
+REAL_BOOT Keith's Quest (1996)(HandMade Games - F1 Licenceware)(LW)(Disk 1 of 4)[1998 edition][AMOS]
+REAL_BOOT Keith's Quest (1996)(HandMade Games - F1 Licenceware)(LW)(Disk 1 of 4)[AMOS]
+REAL_PASS Keith's Quest (1996)(HandMade Games - F1 Licenceware)(LW)(Disk 2 of 4)
+REAL_PASS Keith's Quest (1996)(HandMade Games - F1 Licenceware)(LW)(Disk 2 of 4)[1998 edition]
+REAL_PASS Keith's Quest (1996)(HandMade Games - F1 Licenceware)(LW)(Disk 3 of 4)
+REAL_PASS Keith's Quest (1996)(HandMade Games - F1 Licenceware)(LW)(Disk 3 of 4)[1998 edition]
+REAL_PASS Keith's Quest (1996)(HandMade Games - F1 Licenceware)(LW)(Disk 4 of 4)
+REAL_PASS Keith's Quest (1996)(HandMade Games - F1 Licenceware)(LW)(Disk 4 of 4)[1998 edition]
+REAL_BOOT Keith's Quest (demo-playable) (1996)(Handmade Games - F1 Software)(LW)[m][AMOS]
+REAL_BOOT Kick' up (19xx)(Silbernagl, M.)[t +1 Trilogy]
+REAL_BOOT Kickit - A Day for the Laiban (1997-02-16)(Three Little Elks)(PD)
+REAL_BOOT Kickit - A Day for the Laiban (1997-02-16)(Three Little Elks)(PD)[Quartz PD]
+REAL_BOOT Kill em All (1996)(Muzzasoft)[h BTTR][HD]
+REAL_BOOT Kill the Little Dudes (1994)(Burlock, Craig)(SW)[a]
+REAL_BOOT Kill the Little Dudes (1994)(Burlock, Craig)(SW)[h BTTR]
+REAL_BOOT Killers, The (1995)(NFA)(PD)
+REAL_BOOT Killjoy (1996)(Dancing Yak)
+REAL_BOOT Killvir (1997)(Crazy Soft)(cs)(FW)(Disk 1 of 2)[AMOS]
+REAL_PASS Killvir (1997)(Crazy Soft)(cs)(FW)(Disk 2 of 2)
+REAL_BOOT Kim (1995)(Cracknell, D.)
+REAL_BOOT King of the Barbarians (1988)(ECP)[cr Trilogy][t Trilogy]
+REAL_BOOT King's Valley (19xx)(M.A Software)(es)[Amiga BASIC]
+REAL_BOOT King's Valley (2021-03-29)(M.A Software)[p]
+REAL_BOOT King's Valley (2021-03-29)(M.A Software)[p][t +2 Flashtro]
+REAL_BOOT Kingdom at War (1987)(Absoft Corp)
+REAL_BOOT Kingdoms of Steam (demo-playable) (2015-06-29)(AmigaPD)[2 levels demo]
+REAL_BOOT Kingdoms of Steam (demo-playable) (2015-07-05)(AmigaPD)[3 levels demo]
+REAL_BOOT Kingdoms of Steam (demo-playable) (2015-07-29)(AmigaPD)[4 levels demo]
+REAL_BOOT Kingdoms of Steam (demo-playable) (2015-07-30)(AmigaPD)[4 levels demo]
+REAL_BOOT KingHigh v3 (1994)(Lund, Graham)(FW)[h 17-Bit Software][AMOS]
+REAL_BOOT Klacktris (19xx)(Hosier, Tony)(PD)
+REAL_BOOT KlakTris (1994)(Hatstand Productions)(SW)
+REAL_BOOT KlakTris (1994)(Hatstand Productions)(SW)[a doc disabled]
+REAL_BOOT KlakTris (1994)(Hatstand Productions)(SW)[h 17-Bit Software]
+REAL_BOOT KlakTris (1994)(Hatstand Productions)(SW)[h Software 2000]
+REAL_BOOT KlapperSnake (1990)(Mounty - Dahrn)
+REAL_BOOT Klawz the Kat (demo-playable) (1993)(Grand Master Design)[m]
+REAL_BOOT Klondike Deluxe 16 v1.0 (1993)(Reko)(Disk 1 of 3)[h LGD]
+REAL_PASS Klondike Deluxe 16 v1.0 (1993)(Reko)(Disk 2 of 3)[h LGD][default set]
+REAL_PASS Klondike Deluxe 16 v1.0 (1993)(Reko)(Disk 3 of 3)[h LGD]
+REAL_PASS Klondike Deluxe 2 (1994)(Reko)(AGA)(Disk 1 of 4)[f][HD]
+REAL_PASS Klondike Deluxe 2 (1994)(Reko)(AGA)(Disk 1 of 4)[HD]
+REAL_PASS Klondike Deluxe 2 (1994)(Reko)(AGA)(Disk 2 of 4)[HD]
+REAL_PASS Klondike Deluxe 2 (1994)(Reko)(AGA)(Disk 3 of 4)[HD]
+REAL_BOOT Klondike Deluxe 2 (1994)(Reko)(AGA)(Disk 4 of 4)[f][HD]
+REAL_PASS Klondike Deluxe 3 (1994)(Reko)(AGA)(Disk 1 of 4)[a][HD]
+REAL_BOOT Klondike Deluxe 3 (1994)(Reko)(AGA)(Disk 1 of 4)[h LGD][HD]
+REAL_PASS Klondike Deluxe 3 (1994)(Reko)(AGA)(Disk 1 of 4)[HD]
+REAL_PASS Klondike Deluxe 3 (1994)(Reko)(AGA)(Disk 2 of 4)[a][HD]
+REAL_PASS Klondike Deluxe 3 (1994)(Reko)(AGA)(Disk 2 of 4)[h LGD][HD]
+REAL_PASS Klondike Deluxe 3 (1994)(Reko)(AGA)(Disk 2 of 4)[HD]
+REAL_PASS Klondike Deluxe 3 (1994)(Reko)(AGA)(Disk 3 of 4)[a][HD]
+REAL_PASS Klondike Deluxe 3 (1994)(Reko)(AGA)(Disk 3 of 4)[h LGD][HD]
+REAL_PASS Klondike Deluxe 3 (1994)(Reko)(AGA)(Disk 3 of 4)[HD]
+REAL_PASS Klondike Deluxe 3 (1994)(Reko)(AGA)(Disk 4 of 4)[a][HD]
+REAL_PASS Klondike Deluxe 3 (1994)(Reko)(AGA)(Disk 4 of 4)[h LGD][HD]
+REAL_PASS Klondike Deluxe 3 (1994)(Reko)(AGA)(Disk 4 of 4)[HD]
+REAL_BOOT Klondike Deluxe v1.1 (1993)(Reko)(AGA)(Disk 1 of 3)[cr LGD]
+REAL_BOOT Klondike Deluxe v1.1 (1993)(Reko)(AGA)(Disk 1 of 3)[cr LGD][a]
+REAL_PASS Klondike Deluxe v1.1 (1993)(Reko)(AGA)(Disk 2 of 3)[cr LGD][default set]
+REAL_PASS Klondike Deluxe v1.1 (1993)(Reko)(AGA)(Disk 3 of 3)[cr LGD]
+REAL_BOOT Klondike Deluxe v1.1 (1993)(Reko)(AGA)(Disk 3 of 3)[cr LGD][a]
+REAL_PASS Klondike Deluxe v1.1 (1993)(Reko)(AGA)(Disk 3 of 3)[cr LGD][a2]
+REAL_BOOT Klondike Extension Disk 1 (1993)(Reko)(AGA)[h LGD][use as disk 3]
+REAL_BOOT Klondike Extension Disk 2 (1993)(Reko)(AGA)[h LGD][use as disk 3]
+REAL_BOOT Knaepp Joergen i Koeket (1991)(Death Defiers)(sv)
+REAL_BOOT Knight, The (1993)(Scum)(de)[inc. source code, AMOS]
+REAL_BOOT Knights v2.4 (1994-04-24)(Reaper)(FW)[a][AMOS]
+REAL_BOOT Knights v2.4 (1994-04-24)(Reaper)(FW)[AMOS]
+REAL_BOOT Knights v2.4 (1994-04-24)(Reaper)(FW)[h Porno King Industries][AMOS]
+REAL_BOOT Knights v2.42 (1994-09-28)(Reaper)(FW)[h BTTR][AMOS]
+REAL_BOOT Knightwoode (1993)(Kingsmill, T.)
+REAL_BOOT Knightwoode (1993)(Kingsmill, T.)[m bamcopy]
+REAL_BOOT Knobelix (1990)(Gameworld)(de)[cr Defjam]
+REAL_PASS Knock Out v1.02 (1996)(Wyatt, Ben)(FW)[AMOS]
+REAL_BOOT Knock Out v2.00 (1996)(Wyatt, Ben)(SW)[AMOS]
+REAL_BOOT Knotty (1994)(EMT Design)(AGA)(PD)
+REAL_BOOT Knotty (1994)(EMT Design)(AGA)(PD)[m bootblock]
+REAL_BOOT Knotty (1994)(EMT Design)(AGA)(PD)[m bootblock][a]
+REAL_BOOT Knotty (1994)(EMT Design)(AGA)(PD)[m bootblock][o]
+REAL_BOOT Knotty (1994)(EMT Design)(AGA)(PD)[m files deleted]
+REAL_BOOT Knotty (1994)(EMT Design)(AGA)(PD)[m icon deleted]
+REAL_BOOT Knuckle Head (1993)(Ciulla, Paul)(SW)
+REAL_BOOT Knuckle Head (1993)(Ciulla, Paul)(SW)[a]
+REAL_BOOT Knuckle Head (1993)(Ciulla, Paul)(SW)[a2]
+REAL_BOOT Krillian Incident, The v1.1 (1993)(Wilson, John)(FW)[a][AMOS]
+REAL_BOOT Krillian Incident, The v1.1 (1993)(Wilson, John)(FW)[a2][AMOS]
+REAL_BOOT Krillian Incident, The v1.1 (1993)(Wilson, John)(FW)[a3][AMOS]
+REAL_BOOT Krillian Incident, The v1.1 (1993)(Wilson, John)(FW)[AMOS]
+REAL_BOOT Krillian Incident, The v1.1 (1993)(Wilson, John)(FW)[PD-Soft][AMOS]
+REAL_BOOT Krusha (1992)(Brown, Stuart)(PD)[AMOS]
+REAL_BOOT Kungfu Charlies (demo-playable) (199x)(Walker, Andrew)(SW)
+REAL_BOOT Kungfu Charlies v1 (demo-playable) (199x)(Walker, Andrew)(SW)
+REAL_BOOT KungFu Master (2021-03-23)(Seko)(preview)[Blitz BASIC]
+REAL_BOOT Labyrinth 2 (1997)(o)[h BTTR][AMOS]
+REAL_BOOT Labyrinth II (19xx)(Wallace, Russell)(SW)[Five-Star PD][inc. source code, C]
+REAL_BOOT Lactose Intolerance (1994-10)(JPSoft)(Disk 1 of 2)[AMOS]
+REAL_BOOT Lactose Intolerance (1994-10)(JPSoft)(Disk 2 of 2)[AMOS]
+REAL_BOOT Lactose Intolerance (1994-10)(JPSoft)[h BTTR][AMOS]
+REAL_BOOT Ladder v1.0 (1991)(van der Meijden, T.)
+REAL_BOOT Lady Bug (1988-09-28)(Van Den Berg, Erwin)
+REAL_BOOT Lady Bug (1988-09-28)(Van Den Berg, Erwin)[h PBM]
+REAL_BOOT Lame ST-Ports v3.0 (1990)(Cheeseware)(PD)[InvaderCraft 2 hack][The Director]
+REAL_BOOT Lame ST-Ports v3.0 (1990)(Cheeseware)(PD)[m intro disable][InvaderCraft 2 hack][The Director]
+REAL_BOOT Lamer Exterminator (1991-07-14)(Plasticbrain - 17-Bit Software)(PD)
+REAL_BOOT Lamer Exterminator (1991)(Plasticbrain - Blitterchips PD)(PD)
+REAL_BOOT Lamer Exterminator (1991)(Plasticbrain)(PD)
+REAL_BOOT Laser Race (1992)(McKnight, Neil)
+REAL_BOOT Laser Race (1992)(McKnight, Neil)[h BTTR]
+REAL_BOOT Last Lap (1995)(Sublime Software)
+REAL_BOOT Last Lap (1995)(Sublime Software)[h TDD]
+REAL_PASS Last Lap (1995)(Sublime Software)[WB]
+REAL_BOOT Last Refuge, The (1992-09-02)(Tag, Casten - Fred Fish)
+REAL_BOOT Last Refuge, The (1992-09-02)(Tag, Casten - Fred Fish)[h Superiors]
+REAL_BOOT Last Refuge, The (1992-09-02)(Tag, Casten - Fred Fish)[h Superiors][t +10 INS]
+REAL_BOOT Last Refuge, The (1992-09-02)(Tag, Casten - Fred Fish)[t +10 INS]
+REAL_BOOT Last Refuge, The (1992-09-02)(Tag, Casten - Fred Fish)[t +10 PDY]
+REAL_BOOT Last Tetris, The v1.0 (1993)(Lidberg, Fredrik)(CW)[h Assassins - ALE]
+REAL_BOOT Last Vogone, The (1993)(Sculptor)(Disk 1 of 2)(FW)
+REAL_PASS Last Vogone, The (1993)(Sculptor)(Disk 2 of 2)(FW)
+REAL_BOOT LCD Dreams (1992)(Solstice)(PD)[AMOS]
+REAL_BOOT LCD Dreams (1992)(Solstice)(PD)[h ALE][a][AMOS]
+REAL_BOOT LCD Dreams (1992)(Solstice)(PD)[h ALE][AMOS]
+REAL_BOOT LCD Dreams (1992)(Solstice)(PD)[m bamcopy][AMOS]
+REAL_BOOT League Soccer Cards v1.0 (1994)(Frozen Ice)(SW)
+REAL_BOOT League Soccer Cards v1.0 (1994)(Frozen Ice)(SW)[m bamcopy]
+REAL_BOOT League Soccer Cards v1.0 (1994)(Frozen Ice)(SW)[m highscore]
+REAL_BOOT League Soccer Cards v1.1 (1994)(Frozen Ice)(SW)[h 17-Bit Software]
+REAL_BOOT Leap! v2.0 (19xx)(Round, Martin)(PAL)(PD)[h Assassins - ALE][KS2.04]
+REAL_BOOT Leaping Larry (demo-playable) (1991)(Perspective Public Domain)(PD)[AMOS]
+REAL_BOOT LED Clones (19xx)(Marksman)
+REAL_BOOT Legend of Gasoria, The (1995)(Penline)(cs)[h Mistic Joe][v Ebola]
+REAL_BOOT Legend of Lothian v1.01 (1991)(Meny, David)
+REAL_BOOT Legend of Lothian v1.02 (1992)(Meny, David)[h Shades]
+REAL_BOOT Legend of Lothian v1.02 (1992)(Meny, David)[h TT][a hacktro removed][faked version]
+REAL_BOOT Legend of Lothian v1.02 (1992)(Meny, David)[h TT][faked version]
+REAL_BOOT Legend of Lothian v1.02 (1992)(Meny, David)[h TT][m][faked version]
+REAL_BOOT Legend of Lothian v1.02 (1992)(Meny, David)[PD-Soft - Software 2000]
+REAL_BOOT Legend of Lothian v1.02 (1992)(Meny, David)[PD-Soft]
+REAL_BOOT Legend of Pounds Island, The (1995-03-20)(Margetts, Asa)(FW)[h TDD][KS2.0]
+REAL_BOOT Legend of Pounds Island, The (1995-03-20)(Margetts, Asa)(FW)[KS2.0]
+REAL_BOOT Legend of the Elves, The (1999)(Armann, Peter)(AGA)(PD)(Disk 1 of 3)
+REAL_PASS Legend of the Elves, The (1999)(Armann, Peter)(AGA)(PD)(Disk 2 of 3)
+REAL_PASS Legend of the Elves, The (1999)(Armann, Peter)(AGA)(PD)(Disk 3 of 3)
+REAL_BOOT Legend of the Exploding Fist (1998)(Andrews, I.)(AGA)(Disk 1 of 2)
+REAL_BOOT Legend of the Exploding Fist (1998)(Andrews, I.)(AGA)(Disk 1 of 2)[a]
+REAL_PASS Legend of the Exploding Fist (1998)(Andrews, I.)(AGA)(Disk 2 of 2)
+REAL_PASS Legend of the Exploding Fist (1998)(Andrews, I.)(AGA)(Disk 2 of 2)[a]
+REAL_BOOT Legions of Dawn (1995)(Black Dragon - F1 Licenceware)(LW)(Disk 1 of 2)[1998 edition][AMOS]
+REAL_BOOT Legions of Dawn (1995)(Black Dragon - F1 Licenceware)(LW)(Disk 1 of 2)[1998 edition][HD][inc. source code, AMOS]
+REAL_BOOT Legions of Dawn (1995)(Black Dragon - F1 Licenceware)(LW)(Disk 1 of 2)[AMOS]
+REAL_BOOT Legions of Dawn (1995)(Black Dragon - F1 Licenceware)(LW)(Disk 1 of 2)[h TDD][AMOS]
+REAL_BOOT Legions of Dawn (1995)(Black Dragon - F1 Licenceware)(LW)(Disk 1 of 2)[h TDD][m bamcopy][AMOS]
+REAL_BOOT Legions of Dawn (1995)(Black Dragon - F1 Licenceware)(LW)(Disk 1 of 2)[h TDD][m doscopy][AMOS]
+REAL_BOOT Legions of Dawn (1995)(Black Dragon - F1 Licenceware)(LW)(Disk 1 of 2)[HD][inc. source code, AMOS]
+REAL_BOOT Legions of Dawn (1995)(Black Dragon - F1 Licenceware)(LW)(Disk 1 of 2)[m doscopy][AMOS]
+REAL_PASS Legions of Dawn (1995)(Black Dragon - F1 Licenceware)(LW)(Disk 2 of 2)[1998 edition][HD]
+REAL_BOOT Legions of Dawn (1995)(Black Dragon - F1 Licenceware)(LW)(Disk 2 of 2)[1998 edition][inc. source code]
+REAL_BOOT Legions of Dawn (1995)(Black Dragon - F1 Licenceware)(LW)(Disk 2 of 2)[h TDD][inc. source code]
+REAL_PASS Legions of Dawn (1995)(Black Dragon - F1 Licenceware)(LW)(Disk 2 of 2)[HD]
+REAL_BOOT Legions of Dawn (1995)(Black Dragon - F1 Licenceware)(LW)(Disk 2 of 2)[inc. source code]
+REAL_BOOT Lemmingoids v2.0 (199x)(Caracho, El)(PD)
+REAL_BOOT Lemmingoids v2.0 (199x)(Caracho, El)(PD)[a highscore]
+REAL_BOOT Lemmingoids v2.0 (199x)(Caracho, El)(PD)[a]
+REAL_BOOT Lemmingoids v2.0 (199x)(Caracho, El)(PD)[a2]
+REAL_BOOT Lemmingoids v2.0 (199x)(Caracho, El)(PD)[a3]
+REAL_BOOT Lemmingoids v2.0 (199x)(Caracho, El)(PD)[m intro disable]
+REAL_BOOT Lemmingoids v2.0 (199x)(Caracho, El)(PD)[m intro disable][PD-Soft]
+REAL_BOOT Lemmings Level (1994)(Krypton Force)(PD)[AMOS]
+REAL_BOOT Lemmings Level (1994)(Krypton Force)(PD)[h El Dorado][a intro removed][AMOS]
+REAL_BOOT Les Dennis Hangman v7.0 (1993-03-26)(Tracysoft International)(FW)[a][AMOS]
+REAL_BOOT Les Dennis Hangman v7.0 (1993-03-26)(Tracysoft International)(FW)[AMOS]
+REAL_BOOT Les Dennis Hangman v7.0 (1993-03-26)(Tracysoft International)(FW)[m][AMOS]
+REAL_BOOT Les Dennis Hangman v7.0 (1993-03-26)(Tracysoft International)(FW)[m][censored][AMOS]
+REAL_BOOT Lethal Formula (1995-01-11)(DTO Software)(PD)[a][GRAC]
+REAL_BOOT Lethal Formula (1995-01-11)(DTO Software)(PD)[GRAC]
+REAL_BOOT Lethal Formula (1995-10-05)(DTO Software)(PD)[h Bad Karma][GRAC]
+REAL_BOOT Lethal Formula (2000-01-30)(DTO Software)(PD)[17-Bit Software][GRAC]
+REAL_BOOT Lethal Formula (2000-01-30)(DTO Software)(PD)[h BTTR][a][GRAC]
+REAL_BOOT Lethal Formula (2000-01-30)(DTO Software)(PD)[h BTTR][GRAC]
+REAL_BOOT Liberator (1992-03)(Scorpius)
+REAL_BOOT Liberator (1992-03)(Scorpius)[h BTTR]
+REAL_BOOT Life After Death v1.1 (1992-05-24)(Lean, James)(SW)[AMOS]
+REAL_BOOT Limonada v1.0.1 (2010)(Mistic JOE)(cs)[h Amiga CFP][AMOS]
+REAL_BOOT Line Game, The (1991)(Robsoft)[cr Zaracon]
+REAL_BOOT Lingo (1989)(Huissense Computer Club)(NL)
+REAL_BOOT Lionel (1996)(Fubar)(AGA)(Disk 1 of 2)
+REAL_PASS Lionel (1996)(Fubar)(AGA)(Disk 2 of 2)
+REAL_BOOT Little Boulder in Diamond's Land (1992)(GOS)(PD)[AMOS]
+REAL_BOOT Llamatron - 2112 v1.0 (1991-06-12)(Llamasoft)(SW)
+REAL_BOOT Llamatron - 2112 v1.0 (1991-06-12)(Llamasoft)(SW)[a]
+REAL_BOOT Llamatron - 2112 v1.0 (1991-06-12)(Llamasoft)(SW)[a2]
+REAL_BOOT Llamatron - 2112 v1.0 (1991-06-12)(Llamasoft)(SW)[h Warlock's ADF Archive]
+REAL_BOOT Logical Stones (1995)(Face 5)(AGA)(Disk 1 of 2)
+REAL_BOOT Logical Stones (1995)(Face 5)(AGA)(Disk 2 of 2)[h BTTR]
+REAL_BOOT Logical Stones (1995)(Face 5)(AGA)[WB]
+REAL_BOOT Looty (1994-04)(Hogben, Mark)[Blitz BASIC]
+REAL_BOOT Looty v2.0 (2020-11-17)(Hogben, Mark)[Blitz BASIC]
+REAL_BOOT Lord of Hosts v1.0 (1991)(Pietzcker, Tim)(PD)[h Crash - TFA]
+REAL_BOOT Lord of Hosts v1.0 (1991)(Pietzcker, Tim)(PD)[h Crash - TFA][m bamcopy]
+REAL_BOOT Lore of Conquest v1.3 (1991)(Bryant, Mike)(SW)
