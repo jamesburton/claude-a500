@@ -19391,3 +19391,4 @@ REAL_PASS WHD_BattleForTheAshes_v1.0_AmigaPower
 REAL_PASS WHD_BattleIsle_v1.7_1991
 REAL_PASS WHD_BeneathASteelSky_v2.0_0207
 REAL_PASS WHD_BeneathASteelSky_v2.0_CD32_NoVoice
+REAL_PASS WHD_BattleIsle_v1.7_DeIntro_0054
