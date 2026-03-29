@@ -14436,3 +14436,58 @@ REAL_BOOT Overlander (1994-04)(Scorpius)(SW)
 REAL_BOOT Overlander (1994-04)(Scorpius)(SW)[a]
 REAL_BOOT Overlander (1994-04)(Scorpius)(SW)[inc. source code, ASM68k]
 REAL_BOOT OverTaking (1994-05-08)(Jean-Pierre Software)
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
+FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
+REAL_BOOT Fear (1995)(Mystic)(AGA)(Disk 1 of 2)[IO95]
+REAL_BOOT Fear (1995)(Mystic)(AGA)(Disk 2 of 2)[IO95]
+REAL_BOOT February Clouds (1992)(Dual Crew - Shining)[h BTTR - MADny]
+REAL_BOOT Feeble Time, A (1993)(Anathema)
+REAL_BOOT Feedback (1993-12-23)(Cyberdreams)
+REAL_BOOT Feel the Fire (1992)(Overkill)
+REAL_BOOT Feel the Fire (1992)(Overkill)[h]
+REAL_BOOT Feel the Fire (1992)(Overkill)[h][b doscopy]
+REAL_BOOT Felix - Don't You Want Me (1992-11)(Project A)
+REAL_BOOT Felix - Don't You Want Me (1992-11)(Project A)[a]
+REAL_BOOT Felix - Don't You Want Me (1992-11)(Project A)[a2]
+REAL_BOOT Ferra Demo (1987-10)(Ferra Demo)
+REAL_BOOT Fill'Em All (1990-12-27)(Vertigo)[h Warlock]
+REAL_BOOT Fill'Em All (1990-12-27)(Vertigo)[h Warlock][m bamcopy]
+REAL_BOOT Filled Perspective (1990-05-04)(Zero Defects)
+REAL_BOOT Filled Perspective (1990-05-04)(Zero Defects)[h Warlock]
+REAL_BOOT Filled Vektors (1989-05-19)(It)[h Warlock]
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Overlander (1994-04)(Scorpius)(SW)[m bamcopy]
+REAL_BOOT P-GWIN v1.0 (1996-04-20)(Ladybird Design)(SW)[h Analog - Sagrael]
+REAL_BOOT P.L.E.B.S (1996)(Bright Spark Software - 5D Licenceware)(LW)
+REAL_BOOT P.L.E.B.S (demo-playable) (1998)(Bright Spark - 5D Licenceware)(LW)[AMOS]
+REAL_BOOT Paccer (1989)(Hoffman, D.)[cr TMA]
+REAL_BOOT Pacman '96 (1996)(Alcatraz)(GW)[h BTTR][68020, KS3.0]
+REAL_BOOT Pacman 87 (1987)(Jacobs, Steve)[17-Bit Software]
+REAL_BOOT Pacman 87 (1987)(Jacobs, Steve)[b errdms]
+REAL_BOOT Pair Crazy (1990)(Creative Software Applications)[Software 2000][inc. source code, AMOS]
+REAL_BOOT Pairs (1999)(Coagulus)
+REAL_BOOT Pairs (1999)(Coagulus)[m bamcopy]
+REAL_BOOT Pametha (19xx)(Handmade Game Productions)(de)
+REAL_BOOT Pan Vlku (1993)(Frogger)(cs)
+REAL_BOOT Pape's Manager (1995-03-25)(Jean-Pierre Software)
+REAL_BOOT Parachute Joust (199x)(-)
+REAL_BOOT Parachute Joust (199x)(-)[a]
+REAL_BOOT Parachute Joust (199x)(-)[h 17-Bit Software]
+REAL_BOOT Parachute Joust (199x)(-)[h 17-Bit Software][a]
+REAL_BOOT Parachute Joust (199x)(-)[h Dream17]
+REAL_BOOT Parachute Joust (199x)(-)[h Software 2000]
+REAL_BOOT Paradox (1995)(Black Dragon - 5D Licenceware)(LW)
+REAL_BOOT Paradroid II (1993)(Seter, Marc)(FW)[h TPB][WB]
+REAL_BOOT Paradroid II (1993)(Seter, Marc)(FW)[h Vark][b structure disk]
+REAL_BOOT Paradroid II (1993)(Seter, Marc)(FW)[h Vark][b structure disk][a]
+REAL_BOOT Paraflex (199x)(Bachert, Thomas)[h Zaracon]
+REAL_BOOT Parallel Worlds (demo-playable) (2013-09-16)(Amiten)[AMOS]
+REAL_BOOT Paranoid (1989)(Wente, Felix)(de)(PD)[ABC-Soft #19][inc. source code, C]
+REAL_BOOT Paranoid (1989)(Wente, Felix)(de)(PD)[h Fastteam - KNS Crew - QTX][SimCity savedisk][inc. source code, C]
+REAL_BOOT Paranoid (1989)(Wente, Felix)(de)(PD)[h Fastteam - KNS Crew][inc. source code, C]
+REAL_BOOT Paranoid (1989)(Wente, Felix)(de)(PD)[inc. source code, C]
+REAL_BOOT Paranoid Game Demo (1990)(Paranoid)
+REAL_BOOT PT-45 (1989)(Oscarsoft)[h TFS][SEUCK]
