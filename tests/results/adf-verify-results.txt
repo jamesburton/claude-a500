@@ -10358,3 +10358,579 @@ FAIL Amoeba v2.0 (1997)(Charm Design)(PD)(Disk 1 of 2)[h SB-Soft][Quarterback ar
 FAIL Amoeba v2.0 (1997)(Charm Design)(PD)(Disk 2 of 2)[h SB-Soft][Quarterback archive] (DOS=False Checksum=False Content=True)
 REAL_BOOT Amon 2.11 (1989)(Paradise)
 FAIL Among the Living (1994-05-20)(X-Trade)(AGA) (DOS=True Checksum=True Content=False)
+FAIL $623 (19xx)(Clique)[WB] (DOS=True Checksum=True Content=False)
+FAIL 0X0 (1998)(Shad-Art)(PD)[h SB-Soft] (DOS=True Checksum=True Content=False)
+FAIL 1 Week (2001)(Contraz)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL 1000% (1998-12-27)(Scoopex)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL 15 Years of Fame (2013-02-10)(Up Rough) (DOS=True Checksum=True Content=False)
+FAIL 1824 Overture (1992-06-05)(Alarm)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL 1k Boing (2013-12-07)(Piru)[boot intro] (DOS=True Checksum=True Content=False)
+FAIL 1Klang (2013-02-10)(Scoopex)[boot intro] (DOS=True Checksum=True Content=False)
+FAIL 1st Intro (1991-12)(Ability)[h BTTR - Warlock] (DOS=True Checksum=True Content=False)
+FAIL 1st Intro (1991-12)(Ability)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL 2 Bit or Not 2 Bit (2001-07-22)(Hack'n'Trade)[h BTTR][KS2.0] (DOS=True Checksum=True Content=False)
+FAIL 2998z (1999)(Darkage)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL 2D (1993-02-27)(Remedy) (DOS=True Checksum=True Content=False)
+FAIL 2D (1993-02-27)(Remedy)[b dump] (DOS=True Checksum=True Content=False)
+FAIL 3D Demo (1991-12-28)(Anarchy)(Disk 2 of 2)[a][TP1#4] (DOS=False Checksum=False Content=True)
+FAIL 3D Demo (1991-12-28)(Anarchy)(Disk 2 of 2)[TP1#4] (DOS=False Checksum=False Content=True)
+FAIL 3D-Boing (19xx)(B.H.L.)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL 3D-Demo Endversion (1990-03-31)(The Special Brothers) (DOS=True Checksum=True Content=False)
+FAIL 3D-Demo Endversion (1990-03-31)(The Special Brothers)[h demondownload.dk] (DOS=True Checksum=True Content=False)
+FAIL 3Dshit (1990-08-07)(Reflex)[h Warlock] (DOS=True Checksum=True Content=False)
+FAIL 3rd Day - The Ripper (19xx)(Action Force) (DOS=True Checksum=True Content=False)
+FAIL 4-bromo-2,5-dimethoxyphenethylamine (1998-06-11)(Dual Crew Shining)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL 40 and a Blunt (2012-12-29)(Y-Crew) (DOS=True Checksum=True Content=False)
+FAIL 40k Trackmo (1994-07)(Infect) (DOS=True Checksum=True Content=False)
+FAIL 40k Trackmo (1994-07)(Infect)[fixed version] (DOS=True Checksum=True Content=False)
+FAIL 420 Bobs (1989-11-02)(Phenomena)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL 4D Sports Driving Crack Intro (1992)(Melon Dezign)[h zebra3.org] (DOS=True Checksum=True Content=False)
+FAIL 5 Years Intro (1993-08-10)(Beyond Force)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL 6-Days (1994-09-22)(Krypton Force) (DOS=True Checksum=True Content=False)
+FAIL 666 the Intro - The Number of the Beast (1995-11-01)(Scoopex)(AGA)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL 6Tris ++ (1996)(Daniels, James)(FW)[h BTTR][AMOS] (DOS=True Checksum=True Content=False)
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[TP3#4] (DOS=False Checksum=False Content=True)
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (no valid ADF in ZIP, got 712704 bytes)
+FAIL 911 Rescue (1997-08-08)(Limbo)[h BTTR - Warlock][68020] (DOS=True Checksum=True Content=False)
+FAIL 911 Rescue (1997-08-08)(Limbo)[h BTTR][68020] (DOS=True Checksum=True Content=False)
+FAIL 938 Bytes Boot Intro (2006-12)(Bronx)[boot intro] (DOS=True Checksum=True Content=False)
+FAIL A-Type (1998-04)(Abyss)(AGA)(PD)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL A000 Intro, The (1994-06-24)(Focus Design) (DOS=True Checksum=True Content=False)
+FAIL A500 Homage (1994-12-27)(Complex)[h BTTR - Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL A600 Boot (2011)(Rapp, Thomas) (DOS=True Checksum=True Content=False)
+FAIL A90 (1990-09)(Crusaders)[h demondownload.dk] (DOS=True Checksum=True Content=False)
+FAIL Aars Party '92 Intro (1992-12-28)(Scoopex)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL Abandoned Places Crack Intro (1993-03-29)(Paradox)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL Ability Demo Disk (19xx)(Ability) (DOS=True Checksum=True Content=False)
+FAIL Abrels Nagima (2015-06-07)(Fit) (DOS=True Checksum=True Content=False)
+FAIL Achallamahalla (1993-12-28)(Insane)(AGA)[TP3#12] (DOS=True Checksum=True Content=False)
+FAIL Acid or Acid Nich 2 (1989)(Cascade 1733)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL Acid Trip (1994-04-22)(Melon Dezign)[h demondownload.dk] (DOS=True Checksum=True Content=False)
+FAIL Acid Trip (1994-04-22)(Melon Dezign)[h zebra3.org] (DOS=True Checksum=True Content=False)
+FAIL Ackernews Intro (1992-06-12)(Zenith)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL Adults Puzzle II (1990)(Mak)(PD)[h TWI][IFF2PCS] (DOS=True Checksum=True Content=False)
+FAIL Adults Puzzle II (1990)(Mak)(PD)[IFF2PCS] (DOS=True Checksum=True Content=False)
+FAIL Adults Puzzle III (199x)(Mak)(PD)[IFF2PCS] (DOS=True Checksum=True Content=False)
+FAIL Adventure v1.00 (1992-04-27)(Belding, Tony)(FW) (DOS=True Checksum=True Content=False)
+FAIL Adventure v1.00 (1992-04-27)(Belding, Tony)(FW)[h PD-Soft] (DOS=True Checksum=True Content=False)
+FAIL AfterBlitter (1989-01-04)(Kode and Muzak Ltd) (DOS=True Checksum=True Content=False)
+FAIL Age of Rock, The v1.2 (demo-playable) (1991)(Spreen, Andreas)(PD)[h CPY] (DOS=True Checksum=True Content=False)
+FAIL Age of Rock, The v1.2 (demo-playable) (1991)(Spreen, Andreas)(PD)[h CPY][a cracktxt removed] (DOS=True Checksum=True Content=False)
+FAIL Age of Rock, The v1.2 (demo-playable) (1991)(Spreen, Andreas)(PD)[h CPY][a highscores] (DOS=True Checksum=True Content=False)
+FAIL Age of Rock, The v1.2 (demo-playable) (1991)(Spreen, Andreas)(PD)[h CPY][a] (DOS=True Checksum=True Content=False)
+FAIL Age of Rock, The v1.2 (demo-playable) (1991)(Spreen, Andreas)(PD)[h CPY][a2 highscores] (DOS=True Checksum=True Content=False)
+FAIL Age of Rock, The v1.2 (demo-playable) (1991)(Spreen, Andreas)(PD)[h CPY][WB] (DOS=True Checksum=False Content=False)
+FAIL Age of Rock, The v1.3b (1997-11-22)(Spreen, Andreas)(PD)[h BTTR][KS2.0] (DOS=True Checksum=True Content=False)
+FAIL Aha (2000)(Apathy)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL Aimless (1999)(Weipz)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL Air Ace II (1990)(Pasture Pals)(PD)[f AGA][h Subsoftware][a][SEUCK] (DOS=True Checksum=True Content=False)
+FAIL Air Ace II (1990)(Pasture Pals)(PD)[f AGA][h Subsoftware][SEUCK] (DOS=True Checksum=True Content=False)
+FAIL Air Ace II (1990)(Pasture Pals)(PD)[Five-Star PD - Software 2000][SEUCK] (DOS=True Checksum=True Content=False)
+FAIL Air Fight v1.02 (1994-10)(Qualis)(FW)[AMOS] (DOS=True Checksum=True Content=False)
+FAIL Air Fight v1.02 (1994-10)(Qualis)(FW)[h Tower][WB][AMOS] (DOS=True Checksum=False Content=False)
+FAIL Alcatraz Megademo II (1988-12-19)(Alcatraz) (DOS=True Checksum=True Content=False)
+FAIL Alcatraz Megademo II (1988-12-19)(Alcatraz)[h Warlock] (DOS=True Checksum=True Content=False)
+FAIL ALFA Yamb (19xx)(ALFA)(PD) (DOS=True Checksum=True Content=False)
+FAIL Alien Bash II v0.1 (1995)(Cumming, Glen - Jeffery, Myles)(PD)(Disk 1 of 2)[Quarterback archive] (DOS=False Checksum=False Content=True)
+FAIL Alien Dream (1995-01-03)(Passion)(AGA)[WB] (DOS=True Checksum=False Content=False)
+FAIL Alien Inspiration (1995-05-16)(Passion)(AGA) (DOS=True Checksum=True Content=False)
+FAIL ALIEN Network Vs Olympus (199x)(G-Spot BBS)(PD) (DOS=True Checksum=True Content=False)
+FAIL ALIEN Network Vs Olympus (199x)(G-Spot BBS)(PD)[m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL ALIEN Network Vs Olympus rev1 (199x)(G-Spot BBS)(PD) (DOS=True Checksum=True Content=False)
+FAIL ALIEN Network Vs Olympus rev1 (199x)(G-Spot BBS)(PD)[h Software 2000] (DOS=True Checksum=True Content=False)
+FAIL Alien Pong Trilogy v2 (1997)(Joker Developments)(Disk 1 of 2)[AF Readers Games edition][inc. source code, AMOS] (DOS=True Checksum=True Content=False)
+FAIL Alien Pong Trilogy v2 (1997)(Joker Developments)(Disk 1 of 2)[h][AF Readers Games edition][inc. source code, AMOS] (DOS=True Checksum=True Content=False)
+FAIL Alien Pong Trilogy v2 (1997)(Joker Developments)(Disk 2 of 2)[AF Readers Games edition] (DOS=True Checksum=True Content=False)
+FAIL All Rounder v1.03 (1992-09-19)(Brown, Gary)(SW)[AMOS] (DOS=True Checksum=True Content=False)
+FAIL All Rounder v1.03 (1992-09-19)(Brown, Gary)(SW)[h 17-Bit Software][AMOS] (DOS=True Checksum=True Content=False)
+FAIL Almagica - Scions of a Forgotten World (demo-playable) (1997)(DSP)(AGA)(FW)[HD, KS3.0] (DOS=True Checksum=True Content=False)
+FAIL Alpha and Omega (1991-06-30)(Pure Metal Coders)[m baddump][o] (no valid ADF in ZIP, got 923648 bytes)
+FAIL Am-Tank v1.11 (1996)(Rubber Duck Software)(SW)[h ALE][AMOS] (DOS=True Checksum=True Content=False)
+FAIL Ambassador Pro Fruit Machine (1994-07-16)(Transvamp - F1 Licenceware)(LW)[1998 edition][inc. source code, AMOS] (DOS=True Checksum=True Content=False)
+FAIL Amega Race v0.61 (1990-11-10)(AD-Leopold)(PD)[h D-Tect] (DOS=True Checksum=True Content=False)
+FAIL Amega Race v0.81 (1991-02-21)(AD-Leopold)(PD)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL American Challenge Crack Intro (1994-03-01)(Paradox)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL AMF II (1992-04-18)(Lynx Crew)[u] (no valid ADF in ZIP, got 889856 bytes)
+FAIL AMI-gotchi v1.23 (1997-09)(Brookes, Samuel)(FW)[WB][Blitz BASIC] (DOS=True Checksum=False Content=False)
+REAL_BOOT Amiga Boulderdash v1.1909 (1993-04)(Bevis, Jeff)[h SB-Soft][KS2.0]
+FAIL Amiga Kniffel (19xx)(Kotlarski, Guido)(de)(PD)[inc. source code, AmigaBASIC] (DOS=True Checksum=True Content=False)
+FAIL Amiga Lazer Zone (1990-04-26)(Phenomena)(PD)[h Oasis][Software 2000] (DOS=True Checksum=True Content=False)
+FAIL Amiga Omega v1.3 (19xx)(Golembiewski, R.)(PD) (DOS=True Checksum=False Content=False)
+FAIL AMIGA-Pakratt v1.10 (1991)(van Stipriaan, Rene)(PD) (DOS=True Checksum=True Content=False)
+FAIL Amigaboy Tetris (1989)(Watson, Jonathan)(SW)[b][emulator] (DOS=True Checksum=True Content=False)
+FAIL Amiganitzu v1.2 (2012-12-17)(Haindegophren) (DOS=True Checksum=True Content=False)
+FAIL Amiganitzu v1.3 (2012-12-21)(Haindegophren) (DOS=True Checksum=True Content=False)
+FAIL Amiganoid v1.0 (demo-playable) (1993)(Digital Illusions)[h USI - Infernal Duo] (DOS=True Checksum=True Content=False)
+FAIL Amiganoid v1.0 (demo-playable) (1993)(Digital Illusions)[h USI - Pad] (DOS=True Checksum=True Content=False)
+FAIL Amiganoid v1.0 (demo-playable) (1993)(Digital Illusions)[h USI] (DOS=True Checksum=True Content=False)
+FAIL Amiganoid v2.9c (1993-08-25)(Digital Illusions)[h BTTR - ALE] (DOS=True Checksum=True Content=False)
+FAIL Amiganoid v2.9c (1993-08-25)(Digital Illusions)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL Amigo the Fox alpha v6 (2021-06-20)(Earok) (DOS=True Checksum=True Content=False)
+REAL_BOOT AmiGo v6.3 (19xx)(Hafner, Nikolaus - Johnson, Todd)[h TRSI][mailware]
+FAIL Amnesty International Information Demo (1993)(Vectra)[b fake track][A92] (no valid ADF in ZIP, got 912384 bytes)
+FAIL Amoeba Invaders (1987)(LateNight Developments)(FW)[a] (DOS=True Checksum=True Content=False)
+FAIL Amoeba v2.0 (1997)(Charm Design)(PD)(Disk 1 of 2)[h SB-Soft][Quarterback archive] (DOS=False Checksum=False Content=True)
+FAIL Amoeba v2.0 (1997)(Charm Design)(PD)(Disk 2 of 2)[h SB-Soft][Quarterback archive] (DOS=False Checksum=False Content=True)
+FAIL Among the Living (1994-05-20)(X-Trade)(AGA) (DOS=True Checksum=True Content=False)
+FAIL AMOS Demo v3 (1990)(Hickman, Peter)[AMOS] (DOS=True Checksum=True Content=False)
+FAIL Amos-Demo II (1993-03)(Dynamic Guys) (DOS=True Checksum=True Content=False)
+REAL_BOOT Amos-Mega-Demo (1991)(Dynamic Guys)(Disk 1 of 2)[KS2.0]
+REAL_PASS Amos-Mega-Demo (1991)(Dynamic Guys)(Disk 2 of 2)[KS2.0]
+REAL_BOOT Amused to Death (1994-11-12)(Flying Cows Inc)(AGA)[GE94#6]
+REAL_BOOT Analogia (1991-04)(Analog)
+REAL_BOOT Analogia (1991-04)(Analog)[a]
+REAL_BOOT Analogia (1991-04)(Analog)[b dump]
+REAL_BOOT Analogy's Hi-tech Party Invitation (1992)(Analogy)(en-fi)
+REAL_BOOT Anarchy Incorporated (1992-04)(Crass)
+REAL_BOOT Anathema (1992-07)(Bitbuster)
+FAIL And Love for All (1995-01-14)(Scoopex)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL Android Arena (demo-playable) (199x)(RKy)(SW)[AMOS] (DOS=True Checksum=True Content=False)
+FAIL Android Arena (demo-playable) (199x)(RKy)(SW)[h PD-Soft][AMOS] (DOS=True Checksum=True Content=False)
+REAL_BOOT Angels Megademo 1 (19xx)(Angels)
+REAL_BOOT Angels Megademo 1 (19xx)(Angels)[a]
+REAL_PASS Angst (1995)(RAVE Software)(SW)(Disk 4 of 4)
+REAL_PASS Angst (1995)(RAVE Software)(SW)(Disk 4 of 4)[Quartz PD]
+REAL_BOOT Anhalonium Lewini (1995-03-12)(TRSI)(AGA)[a removed files][P95#4]
+REAL_BOOT Anhalonium Lewini (1995-03-12)(TRSI)(AGA)[h 17-Bit Software][P95#4]
+REAL_BOOT Anhalonium Lewini (1995-03-12)(TRSI)(AGA)[h BTTR][P95#4]
+REAL_BOOT Anhalonium Lewini (1995-03-12)(TRSI)(AGA)[P95#4]
+REAL_BOOT Anillo de Sauron, El (1995)(Rodriguez, Manuel Antonio)[v Ebola][AMOS]
+REAL_BOOT Animation Marylin et Boingthrows (19xx)(Super Rafale)
+REAL_BOOT Animatunes, The (1994-10-12)(New Generation Crew)(fr)(Disk 1 of 2)[2Mb Chip]
+REAL_BOOT Animatunes, The (1994-10-12)(New Generation Crew)(fr)(Disk 2 of 2)[b dump][bootable][AGA only]
+REAL_BOOT Animatunes, The (1994-10-12)(New Generation Crew)(fr)(Disk 2 of 2)[bootable][AGA only]
+REAL_BOOT Aniso (1999)(McConnell, Barry)(FW)[h SB-Soft][KS2.0]
+REAL_BOOT Annaliza (1994-11-12)(Public Image Limited)(AGA)[h Gangsta - AVT][GE94#5][debugged version]
+REAL_BOOT Annie & BlitterBurner (1989)(Kode and Muzak Ltd)
+REAL_BOOT Anniverary (1988)(HCS)(de)
+REAL_BOOT Anniversary (1992-10-17)(Melon Dezign)[h Warlock]
+FAIL Anniversary (1992-10-17)(Melon Dezign)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+REAL_BOOT Announce (1993-03-19)(Lemon)
+FAIL Announce (1993-03-19)(Lemon)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL Announce (1993-03-19)(Lemon)[h Demondownload.dk] (DOS=True Checksum=True Content=False)
+REAL_BOOT Announce (1993-03-19)(Lemon)[h Warlock]
+REAL_BOOT Announce (1993-03-19)(Lemon)[h Warlock][m bamcopy]
+REAL_BOOT Announce, The (1994-02-12)(Bonzai)
+REAL_BOOT Annoyotron r1 (1999)(Parrish, Ben)(PD)[KS2.0][Frotz interpreter]
+REAL_BOOT Another Borin' Year (1992-12)(Syntex)
+FAIL Another Cracktro (1992)(Prestige)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+REAL_BOOT Another Intro (1993-12-16)(Infect)[h Warlock]
+FAIL Another New Release Intro (1994)(Melon Dezign)[h zebra3.org] (DOS=True Checksum=True Content=False)
+REAL_BOOT Another Revolution (1992-12-29)(Shining)[h Warlock]
+FAIL Another Revolution (1992-12-29)(Shining)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+REAL_BOOT Ant Wars II v2.35 (1994-12-08)(Paranoid)(SW-R)[AMOS]
+REAL_BOOT Ant Wars v1.1 (1994)(Paranoid)(PD)(Disk 1 of 2)[inc. source code, AMOS]
+REAL_PASS Ant Wars v1.1 (1994)(Paranoid)(PD)(Disk 2 of 2)
+REAL_PASS Ant Wars v1.1 (1994)(Paranoid)(PD)(Disk 2 of 2)[a]
+REAL_BOOT Ant Wars v1.9 (1994)(Paranoid)(PD)[1Mb chip][AMOS]
+REAL_BOOT Ant Wars v1.9 (1994)(Paranoid)(PD)[h PD-Soft][m][1Mb chip][AMOS]
+REAL_BOOT Ant Wars v1.9 (1994)(Paranoid)(PD)[m bamcopy][1Mb chip][AMOS]
+REAL_BOOT Anti Atari ST Demo (1991-09-29)(Digital Dreams)
+REAL_BOOT Anti B.A.M. Show (1990)(AEON)[b rebuilt]
+REAL_BOOT Antimators (1992-01-19)(The Face Inc)[FFS]
+FAIL Antispyrel (1989-02-18)(Oracle) (DOS=True Checksum=True Content=False)
+REAL_BOOT Antistatic (1993)(Men of Science)[h BTTR]
+REAL_BOOT Antyfaszystowskie (1995-09-06)(Turnips)
+REAL_BOOT Antyfaszystowskie (1995-09-06)(Turnips)[b doscopy]
+REAL_BOOT Antyfaszystowskie (1995-09-06)(Turnips)[m baddump]
+REAL_BOOT Antz - The Masses Against the Massive (1995-03)(Scorpius)(SW)
+REAL_BOOT Antz - The Masses Against the Massive (1995-03)(Scorpius)(SW)[h Hawkwind][a cracktro removed][KS2.0]
+REAL_BOOT Antz - The Masses Against the Massive (1995-03)(Scorpius)(SW)[h Hawkwind][a][KS2.0]
+REAL_BOOT Antz - The Masses Against the Massive (1995-03)(Scorpius)(SW)[h Hawkwind][a2 cracktro removed][KS2.0]
+REAL_BOOT Antz - The Masses Against the Massive (1995-03)(Scorpius)(SW)[h Hawkwind][KS2.0]
+REAL_BOOT Anvend Handkle (1993-04)(Dual Crew Shining)[h Warlock]
+FAIL Anvend Handkle (1993-04)(Dual Crew Shining)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL Apache Flight Crack Intro (1992)(Melon Dezign)[h zebra3.org] (DOS=True Checksum=True Content=False)
+REAL_BOOT Apocalypse (1992-08-07)(Gods)
+FAIL Apocalypse (1992-08-07)(Gods)[b bamcopy] (DOS=True Checksum=True Content=False)
+FAIL Apocalypse 2k Invitation (2000)(Reason)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL Appendix Megademo 1 (19xx)(Appendix)(AGA)[b] (DOS=True Checksum=True Content=False)
+REAL_BOOT Apple Catcher (1990)(Bootleg Software)(PD)[17-Bit Software][inc. source code, AMOS]
+REAL_BOOT Apple Catcher (1990)(Bootleg Software)(PD)[inc. source code, AMOS]
+FAIL Apple Hunt v1.0 (1994)(Ecthelion)(PD)[h ALE] (DOS=True Checksum=True Content=False)
+REAL_BOOT AppleJack (1994)(Omega Design)(AGA)(SW-R)(Disk 1 of 2)[Blitz BASIC]
+FAIL AppleJack (1994)(Omega Design)(AGA)(SW-R)(Disk 2 of 2)[inc. source code] (DOS=True Checksum=False Content=False)
+REAL_BOOT AppleJack (demo-playable) (1994)(Omega Design)(AGA)(SW)[Blitz BASIC]
+REAL_BOOT AprilFool (1993-04-10)(Dual Crew - Shining)
+REAL_BOOT Aquakon (1995)(Digital Ninja - F1 Licenceware)(AGA)(LW)(Disk 1 of 3)[1998 edition][AMOS]
+REAL_BOOT Aquakon (1995)(Digital Ninja - F1 Licenceware)(AGA)(LW)(Disk 1 of 3)[AMOS]
+REAL_PASS Aquakon (1995)(Digital Ninja - F1 Licenceware)(AGA)(LW)(Disk 2 of 3)
+REAL_PASS Aquakon (1995)(Digital Ninja - F1 Licenceware)(AGA)(LW)(Disk 2 of 3)[1998 edition]
+REAL_PASS Aquakon (1995)(Digital Ninja - F1 Licenceware)(AGA)(LW)(Disk 3 of 3)
+REAL_PASS Aquakon (1995)(Digital Ninja - F1 Licenceware)(AGA)(LW)(Disk 3 of 3)[1998 edition]
+REAL_BOOT Aquakon (demo-playable) (1995)(Digital Ninja - F1 Licenceware)(AGA)(PD)[AMOS]
+REAL_BOOT Aquanaut (1995-01-19)(Ruston, Phillip - F1 Licenceware)(LW)
+REAL_BOOT Aquanaut (1995-01-19)(Ruston, Phillip - F1 Licenceware)(LW)[b dump]
+REAL_BOOT Aquanaut (1995-01-19)(Ruston, Phillip - F1 Licenceware)(LW)[Docs]
+REAL_BOOT Aquarium (1993-08-05)(Carillon and Cyberiad)
+REAL_BOOT Aquarium (1993-08-05)(Carillon and Cyberiad)[a]
+FAIL Aragorn (1993-12-27)(Avalon)[h BTTR - Warlock] (DOS=True Checksum=True Content=False)
+FAIL Aragorn (1993-12-27)(Avalon)[h BTTR] (DOS=True Checksum=True Content=False)
+REAL_BOOT Arazmax (1992-08)(Scorpius)(SW)[inc. source code, ASM68k]
+REAL_BOOT Arazmax (1992-08)(Scorpius)(SW)[m bamcopy]
+REAL_BOOT Arcade Darts v1.0 (1996)(Massey, Rob - F1 Licenceware)(LW)[1998 edition][AMOS]
+REAL_BOOT Arcade Darts v1.0 (1996)(Massey, Rob - F1 Licenceware)(LW)[AMOS]
+FAIL Arcadia (1990)(Simpson, Ronnie)(PD)[a][AMOS] (DOS=True Checksum=True Content=False)
+REAL_BOOT Arcadia (1990)(Simpson, Ronnie)(PD)[AMOS PD #62 - Five-Star PD - Software 2000][inc. source code, AMOS]
+REAL_BOOT Arcadia (1990)(Simpson, Ronnie)(PD)[AMOS]
+REAL_BOOT Arcadia (1990)(Simpson, Ronnie)(PD)[m bamcopy][AMOS]
+FAIL Arcadia Team Mega Demo (1989)(Arcadia Team) (DOS=True Checksum=True Content=False)
+REAL_BOOT Arendal's Amiga Conference Invitation Demo (1990-08-20)(IMP-666 - No Limits)[h Warlock]
+FAIL Arendal's Amiga Conference Invitation Demo (1990-08-20)(IMP-666 - No Limits)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+REAL_BOOT Argus (1995)(Burlock, Craig)(SW)[AMOS]
+REAL_BOOT Argus v1.2 (1995)(Burlock, Craig)(SW)[a][AMOS]
+REAL_BOOT Argus v1.2 (1995)(Burlock, Craig)(SW)[AMOS]
+REAL_BOOT Ariel Ultra (1994-08-07)(Polka Brothers)(AGA)
+REAL_BOOT Ariel Ultra (1994-08-07)(Polka Brothers)(AGA)[m bamcopy]
+FAIL Arkham Asylum (1992)(Alliance Design - Dreamdealers)[h BTTR] (DOS=True Checksum=True Content=False)
+REAL_BOOT Arkham Asylum (1993-02-02)(Alliance Design - Dreamdealers)[h Warlock]
+FAIL Arkham Asylum (1993-02-02)(Alliance Design - Dreamdealers)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+REAL_BOOT Armageddon (1994-02-18)(Jetset)
+REAL_BOOT Armageddon (1994-02-18)(Jetset)[b doscopy]
+REAL_BOOT Armageddon (1994-02-18)(Jetset)[b dump]
+REAL_BOOT Armagueddon (1991-01)(Syntex)
+REAL_BOOT Armagueddon (1991-01)(Syntex)[h AMOS PD]
+REAL_BOOT Army of Lovers (19xx)(-)(Disk 1 of 2)[b]
+FAIL Army of Lovers (19xx)(-)(Disk 2 of 2)[b] (DOS=False Checksum=False Content=True)
+REAL_BOOT Arse Wipe (1988)(Hacktrick Cracking Crew)[a][XXX]
+REAL_BOOT Arse Wipe (1988)(Hacktrick Cracking Crew)[XXX]
+FAIL Art Nouveau (1998)(Darkage)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+REAL_BOOT Art of Boris (19xx)(Stephen King)[b][KS2.0]
+REAL_BOOT Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 1 of 3)(ABH)[h Dracs][AMOS]
+REAL_BOOT Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 1 of 6)(Boot)[a][AMOS]
+REAL_BOOT Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 1 of 6)(Boot)[AMOS]
+REAL_BOOT Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 1 of 6)(Boot)[h TDD][AMOS]
+REAL_BOOT Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 2 of 3)(ABH2)[h Dracs]
+REAL_PASS Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 2 of 6)(1)
+REAL_PASS Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 2 of 6)(1)[a]
+REAL_PASS Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 2 of 6)(1)[a2]
+REAL_BOOT Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 2 of 6)(1)[h TDD]
+REAL_BOOT Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 3 of 3)(ABH3)[h Dracs]
+REAL_PASS Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 3 of 6)(2)
+REAL_PASS Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 3 of 6)(2)[a]
+REAL_BOOT Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 3 of 6)(2)[h TDD]
+REAL_PASS Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 4 of 6)(3)
+REAL_PASS Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 4 of 6)(3)[a]
+REAL_BOOT Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 4 of 6)(3)[h TDD]
+REAL_PASS Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 5 of 6)(4)
+REAL_PASS Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 5 of 6)(4)[a]
+REAL_PASS Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 5 of 6)(4)[a2]
+REAL_BOOT Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 5 of 6)(4)[h TDD]
+FAIL Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 6 of 6)(5) (DOS=True Checksum=False Content=False)
+FAIL Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 6 of 6)(5)[a] (DOS=True Checksum=False Content=False)
+FAIL Art of Breaking Heads, The (1995)(Peers, T.)(AGA)(PD)(Disk 6 of 6)(5)[h TDD] (DOS=True Checksum=True Content=False)
+REAL_BOOT Art of Noise - Trailerintro (1994-08-25)(Lego - Sanity)
+REAL_BOOT Art of Noise - Trailerintro (1994-08-25)(Lego - Sanity)[FFS]
+FAIL Artcore (1994-08-07)(Abyss)(AGA) (DOS=True Checksum=True Content=False)
+REAL_BOOT Arte! (1993-12-28)(Sanity)[m][TP3#3]
+REAL_BOOT Arte! (1993-12-28)(Sanity)[TP3#3]
+REAL_BOOT Artifice - Fixed DMS Version (1994-11-10)(TRSI)(AGA)(Disk 1 of 2)
+REAL_BOOT Artifice - Fixed DMS Version (1994-11-10)(TRSI)(AGA)(Disk 1 of 2)[b doscopy]
+REAL_BOOT Artifice - Fixed DMS Version (1994-11-10)(TRSI)(AGA)(Disk 2 of 2)
+REAL_BOOT Artifice - Fixed DMS Version (1994-11-10)(TRSI)(AGA)(Disk 2 of 2)[b doscopy]
+REAL_BOOT Artifice (1994-10-03)(TRSI)(AGA)(Disk 1 of 2)
+REAL_BOOT Artifice (1994-10-03)(TRSI)(AGA)(Disk 2 of 2)
+REAL_BOOT Artificial Paradise (1994-04-24)(New Generation Crew)(AGA)(Disk 1 of 2)[b doscopy][S94#2]
+REAL_BOOT Artificial Paradise (1994-04-24)(New Generation Crew)(AGA)(Disk 1 of 2)[S94#2]
+REAL_BOOT Artificial Paradise (1994-04-24)(New Generation Crew)(AGA)(Disk 2 of 2)[b doscopy][S94#2]
+REAL_BOOT Artificial Paradise (1994-04-24)(New Generation Crew)(AGA)(Disk 2 of 2)[S94#2]
+REAL_BOOT Artillerus 2 v2.01u (1993)(Boeh, Michael)(SW)[cr TLC][Blitz BASIC]
+REAL_BOOT Artillerus 2 v2.05 (1993)(Boeh, Michael)(SW-R)[h SACC][WB][inc. TurboHockey][Blitz BASIC]
+REAL_BOOT ArtPazz (2021-03-16)(Retream)(AGA)
+REAL_BOOT ArtPazz (2021-03-30)(Retream)(AGA)
+REAL_BOOT ArtPazz (2021-07-11)(Retream)(AGA)
+REAL_BOOT As in a Dream (1992-09-06)(Eclipse)[v Butonic v3.00]
+REAL_BOOT ASCII Demo (1994)(Impact)[KS2.0]
+REAL_BOOT Ascii Gallery (19xx)(Effect)[KS2.0]
+REAL_BOOT Ascii Mania (1995)(Waveriders)(AGA)
+REAL_BOOT Ascii Mania (1995)(Waveriders)(AGA)[a]
+REAL_BOOT Ascii Sector (1996-06-22)(Sector 5)(AGA)
+REAL_BOOT Ascii Sector (1996-06-22)(Sector 5)(AGA)[b errdms]
+REAL_BOOT Asgard Met Vikings v1.0 (2013-08-17)(Paradise - a1k.org)
+REAL_BOOT Asgard Met Vikings v1.1 (2013-08-24)(Paradise - a1k.org)
+REAL_BOOT Asgard Met Vikings v1.2 (2014-10-13)(Paradise - a1k.org)
+FAIL Ashido (1990-12-10)(Cluster)(FW)[b errdms] (DOS=True Checksum=True Content=False)
+FAIL ASM-One v1.08b (1992-08-04)(The Flame Arrows) (DOS=True Checksum=True Content=False)
+FAIL Assassin Crack Intro (1992-10-20)(Melon Dezign)[h zebra3.org] (DOS=True Checksum=True Content=False)
+FAIL Assault (1993)(De Bond - Digital Disasters)(PD) (DOS=True Checksum=True Content=False)
+REAL_BOOT Assault (1993)(De Bond - Digital Disasters)(PD)[h ALE][KS2.0]
+FAIL Assault (1993)(De Bond - Digital Disasters)(PD)[m doscopy] (DOS=True Checksum=True Content=False)
+REAL_BOOT Assault (1996-10-22)(Capsule)(AGA)[h BTTR]
+REAL_BOOT Assault (1996-10-22)(Capsule)(AGA)[WB]
+REAL_BOOT Assembly 1993 40k Intro (1993-08-01)(Chrome)[h Warlock]
+FAIL Assembly 1993 40k Intro (1993-08-01)(Chrome)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+REAL_BOOT Assimilation - Caffeine 2 (1997)(Fullspeed Creative Development)(PD)[h BTTR][Blitz BASIC]
+REAL_BOOT Asterix & Obelix (2010)(DuelSoft)(cs)(Disk 1 of 2)[h Textovky][cp manual code][AMOS]
+REAL_PASS Asterix & Obelix (2010)(DuelSoft)(cs)(Disk 2 of 2)
+FAIL Asteroids - Caberet (19xx)(Vertical Developments)(SW)[f Outlanders][t Outlanders][KS2.0] (DOS=True Checksum=True Content=False)
+FAIL Asteroids - Caberet (19xx)(Vertical Developments)(SW)[KS2.0] (DOS=True Checksum=True Content=False)
+REAL_BOOT Asteroids II v0.85 (1992-09)(Seifert, Mike)(SW)[PD-Soft]
+REAL_BOOT Asteroids II v0.92 (1993-03)(Seifert, Mike)(SW)[b startup-sequence][KS2.0]
+REAL_BOOT Asteroids II v0.92 (1993-03)(Seifert, Mike)(SW)[h Pazza][KS2.0]
+FAIL Astro Chase (1991)(Roncolato, Gabriele)(PD) (DOS=True Checksum=True Content=False)
+REAL_BOOT Astro Chase (1991)(Roncolato, Gabriele)(PD)[h DCD]
+REAL_BOOT Astro Chase (1991)(Roncolato, Gabriele)(PD)[h DCD][a]
+REAL_BOOT Astro Chase (1991)(Roncolato, Gabriele)(PD)[h DCD][t +1 AYS]
+REAL_BOOT Astrokid in the Battle of Planet Funk v1.1 (1996-06-22)(Living and Electronic Dreams - Comic Classics)(PD)[h BTTR][AMOS]
+REAL_BOOT Astrokid in the Battle of Planet Funk v1.1 (1996-06-22)(Living and Electronic Dreams - Comic Classics)(PD)[Quartz PD][AMOS]
+REAL_PASS Astrokid in the Battle of Planet Funk v1.1 (1996-06-22)(Living and Electronic Dreams - Comic Classics)(PD)[WB][AMOS]
+REAL_BOOT Astrotrek (19xx)(Notre Dame)(de)(PD)[h POWER][KS2.0]
+REAL_BOOT Atari Busters (19xx)(Activas Washing Corporation, The)(PD)(Disk 1 of 2)
+REAL_BOOT Atari Busters (19xx)(Activas Washing Corporation, The)(PD)(Disk 1 of 2)[h Amnesia]
+REAL_PASS Atari Busters (19xx)(Activas Washing Corporation, The)(PD)(Disk 2 of 2)
+REAL_BOOT Atari Busters (19xx)(Activas Washing Corporation, The)(PD)(Disk 2 of 2)[h Amnesia]
+REAL_BOOT Atari Demo (1990-10-15)(Abandon)
+REAL_BOOT Atic Atac v1.0 (1991)(Chinnery, Neil)(PD)[m bamcopy][AMOS]
+REAL_BOOT Atlantis (1989)(CAT, The)(de)(PD)[Bavarian PD - ComputerEyes PD][docs en][AmigaBASIC]
+REAL_BOOT Atlantis (1989)(CAT, The)(de)(PD)[h Supreme][Kickstart PD][AmigaBASIC]
+REAL_BOOT Atlantis (1989)(CAT, The)(de)(PD)[Kickstart PD][AmigaBASIC]
+REAL_BOOT Atlantis (1992-08-07)(Hardcore Design)
+REAL_BOOT Atlantis (1992-08-07)(Hardcore Design)[b dump]
+REAL_BOOT Atlantis (1993)(Pisteurs)(fr)(PD)(Disk 1 of 6)(Boot)[AMOS]
+REAL_BOOT Atlantis (1993)(Pisteurs)(fr)(PD)(Disk 1 of 6)(Boot)[m][AMOS]
+REAL_PASS Atlantis (1993)(Pisteurs)(fr)(PD)(Disk 2 of 6)(1)
+REAL_BOOT Atlantis (1993)(Pisteurs)(fr)(PD)(Disk 2 of 6)(1)[m]
+REAL_PASS Atlantis (1993)(Pisteurs)(fr)(PD)(Disk 3 of 6)(2)
+REAL_BOOT Atlantis (1993)(Pisteurs)(fr)(PD)(Disk 3 of 6)(2)[b corrupt file]
+REAL_BOOT Atlantis (1993)(Pisteurs)(fr)(PD)(Disk 4 of 6)(3)
+REAL_BOOT Atlantis (1993)(Pisteurs)(fr)(PD)(Disk 5 of 6)(4)
+REAL_BOOT Atlantis (1993)(Pisteurs)(fr)(PD)(Disk 5 of 6)(4)[b corrupt file]
+REAL_BOOT Atlantis (1993)(Pisteurs)(fr)(PD)(Disk 6 of 6)(5)
+REAL_BOOT Atlantis (1993)(Pisteurs)(fr)(PD)(Disk 6 of 6)(5)[a music]
+REAL_BOOT Atmos Fear (1995)(Delon)(AGA)
+REAL_BOOT Atmos Fear (1995)(Delon)(AGA)[a]
+REAL_BOOT Atmosphere (1993-04-09)(Stones Arts)
+FAIL Atom (1993)(Mystic)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL Atom Smasher (1992)(Papworth, David)(LW)[h TWI][Amiga Power #22] (DOS=True Checksum=True Content=False)
+FAIL Atom Smasher (1992)(Papworth, David)(LW)[h][Amiga Power #22] (DOS=True Checksum=True Content=False)
+REAL_BOOT Atom Smasher v1.2 (1993)(Papworth, David)[h ALE][KS2.0]
+REAL_BOOT Atom Smasher v1.2 (1993)(Papworth, David)[h ALE][m][KS2.0]
+REAL_BOOT Atome (1996-04-28)(Skarla)(AGA)[h BTTR]
+FAIL Atomic (1994)(AHE)(SW)[PD-Soft][AMOS] (DOS=True Checksum=True Content=False)
+REAL_BOOT Atomic Bombers v3.51 (1996-08)(Mary Poppins - Calgary's Legions)(fr)(PD)
+REAL_BOOT Atomic Bombers v3.51 (1996-08)(Mary Poppins - Calgary's Legions)(fr)(PD)[a]
+REAL_BOOT Atomic Food Chess (1994-11-15)(Loony Juice Software)(PD)[h Quartz PD]
+REAL_PASS Atomic Food Chess (1994-11-15)(Loony Juice Software)(PD)[WB]
+REAL_BOOT Atomic II (1995)(AHE - F1 Licenceware)(LW)[AMOS]
+REAL_BOOT Atomix Crack Intro (1990-04-28)(Vision Factory)[h Warlock]
+FAIL Atomix Crack Intro (1990-04-28)(Vision Factory)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL Atoms - The story of Atoms v1.0 (1992)(Halibut Software)(PD)[a][GFA-BASIC] (DOS=True Checksum=True Content=False)
+FAIL Atoms - The story of Atoms v1.0 (1992)(Halibut Software)(PD)[GFA-BASIC] (DOS=True Checksum=True Content=False)
+FAIL Atoms v1.1 (1992)(Berionne, Michele)(PD)[h Digital Harem][AMOS] (DOS=True Checksum=True Content=False)
+REAL_BOOT Atoms! (1992)(Kuhn, Tom)(PD)[h Ashling Video Mansfield]
+FAIL Atoms! (1992)(Kuhn, Tom)(PD)[h BTTR][inc. source code, ASM68k] (DOS=True Checksum=True Content=False)
+FAIL Atouts Retrogaming - Preview (2016-11-19)(Marskilla)(fr)[AMOS] (DOS=True Checksum=True Content=False)
+FAIL Atouts Retrogaming v0.5 (2016-12-18)(Marskilla)(fr)[AMOS] (DOS=True Checksum=True Content=False)
+FAIL Atouts Retrogaming v0.6 (2016-12-24)(Marskilla)(fr)[AMOS] (DOS=True Checksum=True Content=False)
+FAIL Atouts Retrogaming v0.7 (2016-12-30)(Marskilla)(fr)[AMOS] (DOS=True Checksum=True Content=False)
+FAIL Atouts Retrogaming v1.0 (2017-01-05)(Marskilla)(fr)[AMOS] (DOS=True Checksum=True Content=False)
+FAIL Atron Demo (1989)(Atron)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL Attacks (1993)(Biggs, Scott)[h][faked release] (DOS=True Checksum=True Content=False)
+REAL_BOOT Auf dem Weg nach Europa v3.4 (1991)(Auswartiges Amt)(de)(PD)
+REAL_BOOT Autodoc 37.1 (1991-11-11)(Alpha Flight)[h Warlock]
+FAIL Autodoc 37.1 (1991-11-11)(Alpha Flight)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+REAL_BOOT Automa (1992-10-04)(Vega)
+REAL_BOOT Automa (1992-10-04)(Vega)[b dump]
+REAL_BOOT Automobiles v1.0 (1994-04-09)(Overflow)(PD)[f AGA-ECS LGD]
+REAL_BOOT Automobiles v1.50 (1995-09-04)(Overflow)(PD)(Disk 1 of 2)
+REAL_PASS Automobiles v1.50 (1995-09-04)(Overflow)(PD)(Disk 2 of 2)(Trackdisk)
+REAL_BOOT Automobiles v1.50 (1995-09-04)(Overflow)(PD)[h Dracs]
+REAL_PASS Automobiles v1.50 (1995-09-04)(Overflow)(PD)[WB]
+REAL_BOOT Avalance (1990)(London Town)(PD)[h Science Inc][v Smily Cancer]
+REAL_BOOT Avenger Megademo (1989-12)(Avenger)
+REAL_BOOT Avenger Megademo (1989-12)(Avenger)[b dump]
+REAL_BOOT Aventura r1 (1997)(Diaz, Jose Luis)(es)[KS2.0][Frotz interpreter]
+FAIL Avina Blue (1991)(PollySoft)(LW)[PD-Soft - Software 2000] (DOS=True Checksum=True Content=False)
+FAIL Awakening (1997)(Haujobb)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+REAL_BOOT Awakening, The (1994)(Cybornetics)
+REAL_BOOT Awakening, The (1994)(Cybornetics)[b corrupt files]
+REAL_BOOT Awakening, The (1994)(Cybornetics)[m doscopy]
+REAL_BOOT Awakening, The r1 (1998)(Matheson, Dennis)(PD)[KS2.0][Frotz interpreter]
+FAIL Aztec Challenge (1993-05)(Bignonia)(PD)[h BTTR][C64 conversion] (DOS=True Checksum=True Content=False)
+FAIL Aztec Challenge (1993-05)(Bignonia)(PD)[KS2.0, C64 conversion] (DOS=True Checksum=True Content=False)
+FAIL Azuli (1997)(Mystic)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+REAL_BOOT B2 (1994)(Lazy Bones)
+FAIL Baahl (2001)(Traktor)[h BTTR][KS2.0] (DOS=True Checksum=True Content=False)
+REAL_BOOT Back in Bizness (1990)(2000 A.D.)[h Warlock]
+FAIL Back in Bizness (1990)(2000 A.D.)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+REAL_BOOT Back on Track (1994)(The Wanted)
+FAIL Back to Planet Earth (2002)(Kangooroo)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL Back to the Jungle (1993-11-05)(Big Design) (DOS=True Checksum=True Content=False)
+REAL_BOOT Back to the Roots (2000-04-23)(Haujobb)(AGA)
+REAL_BOOT BackStage v1.03 (1993-11-27)(Art Department)(de)(FW)
+REAL_BOOT BackStage v1.03 (1993-11-27)(Art Department)(de)(FW)[h PDY]
+REAL_BOOT BackStage v1.03 (1993-11-27)(Art Department)(de)(FW)[m]
+REAL_BOOT BackStage v1.03 (1993-11-27)(Art Department)(de)(FW)[m2]
+REAL_BOOT Bacman (1992)(Krysztofiak, Freddy)(AGA)(SW)[3Mb RAM]
+REAL_BOOT Bacman (1992)(Krysztofiak, Freddy)(AGA)(SW)[h Pazza - ALE][3Mb RAM]
+REAL_BOOT Bacman (1992)(Krysztofiak, Freddy)(AGA)(SW)[h Pazza - World Champions][3Mb RAM]
+FAIL Bacman (1992)(Krysztofiak, Freddy)(AGA)(SW)[h Pazza - World Champions][o][3Mb RAM] (no valid ADF in ZIP, got 912384 bytes)
+REAL_BOOT Bacman (1992)(Krysztofiak, Freddy)(AGA)(SW)[h World Champions][3Mb RAM]
+REAL_BOOT Bad Apple (2021-04-11)(Earok)
+REAL_BOOT Badzoom (1993)(R.C. - Beginner - Spawn)
+FAIL Baffle v1.6 (1989)(KasTech)[AMIGA Plus! version] (DOS=True Checksum=True Content=False)
+FAIL Bagitman (1992)(Bignonia)(PD)[h BTTR][C64 conversion, UGA version] (DOS=True Checksum=True Content=False)
+REAL_BOOT Bahrain in the Past (1992)(Skyboard)[m][a]
+REAL_BOOT Balder's Grove v1.11 (1993-02-06)(Antonsson, Morgan)(FW)[h ALE][KS 2.0]
+FAIL Balder's Grove v1.20 (1994-09-09)(Antonsson, Morgan)(FW)[KS2.0] (DOS=True Checksum=True Content=False)
+FAIL Baldy - The Search for Missing Disks (1992)(Cabi-Soft)(PD) (DOS=True Checksum=True Content=False)
+FAIL Baldy - The Search for Missing Disks (1992)(Cabi-Soft)(PD)[h Five-Star PD - Software 2000] (DOS=True Checksum=True Content=False)
+REAL_BOOT Ball Lightning (1988)(Yzyzyz)[h Zaracon - 17-Bit Software]
+FAIL Ball Lightning (1988)(Yzyzyz)[h Zaracon] (DOS=True Checksum=True Content=False)
+REAL_BOOT Ballistic Diplomacy v2.3 (1993)(Handmade Games)(de)(PD)(Disk 1 of 2)
+REAL_BOOT Ballistic Diplomacy v2.3 (1993)(Handmade Games)(de)(PD)(Disk 1 of 2)[a]
+REAL_BOOT Ballistic Diplomacy v2.3 (1993)(Handmade Games)(de)(PD)(Disk 1 of 2)[h FTH]
+REAL_PASS Ballistic Diplomacy v2.3 (1993)(Handmade Games)(de)(PD)(Disk 2 of 2)
+REAL_PASS Ballistic Diplomacy v2.3 (1993)(Handmade Games)(de)(PD)(Disk 2 of 2)[a]
+REAL_BOOT Balloonacy (1990)(Dodson, Delboy - AMOS PD Library)(PD)[AMOS]
+REAL_BOOT Ballunacy (1996)(Mark Seymour - F1 Licenceware)(LW)[1998 edition][AMOS]
+FAIL Bally II (1989)(Ultimate Computer Arts)(PD) (DOS=True Checksum=True Content=False)
+FAIL Bally II (1989)(Ultimate Computer Arts)(PD)[a] (DOS=True Checksum=True Content=False)
+REAL_BOOT Bally II (1989)(Ultimate Computer Arts)(PD)[h Assassins - ALE]
+FAIL Bally V (1989)(Ultimate Computer Arts)(PD) (DOS=True Checksum=True Content=False)
+REAL_BOOT BamBooze (1994-12-07)(Neoplasia)[h ALE]
+FAIL Bamse (1998-12-24)(Depth)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+FAIL Bamse (1998-12-24)(Depth)(AGA)[h Warlock] (DOS=True Checksum=True Content=False)
+REAL_BOOT Banana (1995-11-07)(Reality)(AGA)[aka Joris]
+REAL_BOOT Banana Islands (1997)(Muzzasoft)(PD)[AMOS]
+REAL_BOOT Banana Islands (1997)(Muzzasoft)(PD)[h BTTR][AMOS]
+REAL_BOOT Banana Islands (1997)(Muzzasoft)(PD)[WB, AMOS]
+REAL_BOOT Bandit Mania (demo-playable) (1994)(Mental Image)(SW)
+REAL_BOOT Bandit's Radio (1993)(Mad Elks)[b doscopy]
+REAL_BOOT Bang! (1993)(Sport Development Bern)(PD)[h TCF]
+REAL_BOOT Bang! (1993)(Sport Development Bern)(PD)[h TCF][t +1 CMX]
+FAIL Banger Racers (19xx)(Smith, Gavin)(SW) (DOS=True Checksum=True Content=False)
+REAL_BOOT Banshee Crack Intro (1994-07-19)(Paradox)(AGA)[h Warlock]
+FAIL Banshee Crack Intro (1994-07-19)(Paradox)(AGA)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+REAL_BOOT Bass Megademo (1990)(Bass)
+REAL_BOOT Bass Megademo II (1991)(Bass)
+FAIL Bass Megademo II (1991)(Bass)[b duplicate track] (no valid ADF in ZIP, got 912384 bytes)
+REAL_BOOT Bat-Sinus Demo (1989-09)(Amiga Industries - Freedom Force)[h Warlock]
+FAIL Bat-Sinus Demo (1989-09)(Amiga Industries - Freedom Force)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+REAL_BOOT Bataille Navale v1.10 (1992-08-27)(Bonney, A.)(fr)(PD)[WB]
+FAIL BatDog (1993)(Carter, Alan - Amiga Computing)(PD) (DOS=True Checksum=True Content=False)
+REAL_BOOT BatDog (1993)(Carter, Alan - Amiga Computing)(PD)[h ALE][KS2.0]
+REAL_BOOT Batman is a Motherfucker (1992-10-24)(Arise)
+REAL_BOOT Batman is a Motherfucker (1992-10-24)(Arise)[m bamcopy]
+REAL_BOOT Batman Vuelve (1995-07-23)(Batman Group)(Disk 1 of 2)
+FAIL Batman Vuelve (1995-07-23)(Batman Group)(Disk 2 of 2) (DOS=False Checksum=False Content=True)
+REAL_BOOT BatmanPower (1989)(Goonies 2041)
+FAIL Battle Cars (1991)(Jameson, David)(PD) (DOS=True Checksum=True Content=False)
+REAL_BOOT Battle Cars (1991)(Jameson, David)(PD)[h Assassins - ALE][KS2.0]
+FAIL Battle Cars (1991)(Jameson, David)(PD)[updated docs] (DOS=True Checksum=True Content=False)
+REAL_BOOT Battle Cars II (1992)(Jameson, David)(PAL)(LW)[h SpreadEagles][optional NTSC]
+REAL_BOOT Battle Cars II (1992)(Jameson, David)(PAL)(LW)[optional NTSC]
+REAL_BOOT Battle Cars II (1992)(Jameson, David)(PAL)(PD)[17-Bit Software][optional NTSC]
+REAL_BOOT Battle Cars II (1992)(Jameson, David)(PAL)(PD)[Five-Star PD - Software 2000]
+REAL_BOOT Battle Cars II (1992)(Jameson, David)(PAL)(PD)[h ALE][17-Bit Software][optional NTSC]
+REAL_BOOT Battle Eggs (19xx)(MK-Soft)(PD)
+REAL_BOOT Battle Pong !!! (19xx)(Mandarin Software)(PD)[a][AMOS]
+REAL_BOOT Battle Pong !!! (19xx)(Mandarin Software)(PD)[AMOS]
+REAL_BOOT Battle Pong (1992)(Assassins)(PD)[h ALE]
+REAL_BOOT Battle Ship (1996)(Akerberg, Bob)
+REAL_BOOT Battle Space v2.0 (1995)(Akson)(pl)(SW)[AMOS]
+REAL_BOOT Battle Tec v1.0 (1998)(Logistic Dreams)(de)[h DCD]
+FAIL Battle Tec v1.0 (1998)(Logistic Dreams)(de)[h DCD][b fake track] (no valid ADF in ZIP, got 912384 bytes)
+REAL_PASS BattleDuel - Striving for Glory v1.00 (1995-04-05)(Tersteige, Jochen)(PD)[a][HD, KS2.0]
+REAL_PASS BattleDuel - Striving for Glory v1.00 (1995-04-05)(Tersteige, Jochen)(PD)[HD, KS2.0]
+REAL_BOOT BattleForce - The Adventure Game (1993)(Reynolds, Mark)(PD)
+REAL_BOOT BattleForce Registered Owners Disk (1989)(Reed, Ralph)(SW-R)[b corrupt files][registration disk]
+REAL_BOOT BattleForce v3.01 (1989-03)(Reed, Ralph)(SW)[h VF - Bencor Bros - Bandidos]
+REAL_BOOT BattleForce v3.01 (1989-03)(Reed, Ralph)(SW)[h VF - Bencor Bros]
+REAL_BOOT BattleForce v3.01 (1989-03)(Reed, Ralph)(SW)[h VF - Bencor Bros][a]
+REAL_BOOT BattleForce v3.05 (1989-03)(Reed, Ralph)(SW)
+REAL_BOOT BattleForce v3.61 (1989)(Reed, Ralph)(SW)
+REAL_BOOT BattleMech (1987-11)(Reed, Ralph)(SW)
+REAL_BOOT BattleMech (1987-11)(Reed, Ralph)(SW)[h BST]
+REAL_BOOT Battlements - True Confessions of a Hunchback (19xx)(Scallywag)(PD)[a][inc. source code, AMOS]
+REAL_BOOT Battlements - True Confessions of a Hunchback (19xx)(Scallywag)(PD)[inc. source code, AMOS]
+REAL_BOOT Battlements - True Confessions of a Hunchback (19xx)(Scallywag)(PD)[PD-Soft][inc. source code, AMOS]
+REAL_BOOT Battlescape (1997)(Usher, Christopher - F1 Software)(LW)(Disk 1 of 2)
+REAL_PASS Battlescape (1997)(Usher, Christopher - F1 Software)(LW)(Disk 2 of 2)
+REAL_BOOT Battleships (19xx)(The Assassins)(PD)[h LGD][Amiga Action version]
+REAL_BOOT Battleships (19xx)(The Assassins)(PD)[h LGD][m doscopy][Amiga Action version]
+REAL_BOOT BattleStar, The v6.1.4 (1990-06-23)(Ingebretsen, David)(PD)[inc. source code, C]
+REAL_PASS BattleStar, The v6.1.4 (1990-06-23)(Ingebretsen, David)(PD)[WB][inc. source code, C]
+REAL_BOOT Bauer v1.1 (2000)(Karsten, Schenk)(de)(FW)[h TRSI]
+REAL_BOOT Baum - The Game (1991)(Noxious)(PD)
+REAL_BOOT Baygon - Back to School (1995-07-11)(Melon Dezign)(AGA)[SIH95#2]
+REAL_BOOT Bazza 'n' Runt (1994)(Clarke, Paul)(Disk 1 of 2)[cr PDY]
+REAL_BOOT Bazza 'n' Runt (1994)(Clarke, Paul)(Disk 1 of 2)[cr PDY][m bamcopy]
+REAL_PASS Bazza 'n' Runt (1994)(Clarke, Paul)(Disk 2 of 2)[cr PDY]
+REAL_PASS Bazza 'n' Runt (1994)(Clarke, Paul)(Disk 2 of 2)[cr PDY][m bamcopy]
+REAL_BOOT Bazza 'n' Runt (1994)(Clarke, Paul)[cr PDY][h Bad Karma]
+REAL_BOOT Bazza 'n' Runt v1 (demo-playable) (1994)(Clarke, Paul)(PD)[AMOS]
+REAL_BOOT Bazza 'n' Runt v1 (demo-playable) (1994)(Clarke, Paul)(PD)[h ALE][AMOS]
+FAIL Bazza 'n' Runt v1 (demo-playable) (1994)(Clarke, Paul)(PD)[o][AMOS] (no valid ADF in ZIP, got 912384 bytes)
+REAL_BOOT Bazza 'n' Runt v1 (demo-playable) (1994)(Clarke, Paul)(PD)[PD-Soft][AMOS]
+REAL_BOOT Bazza 'n' Runt v2 (demo-playable) (1994)(Clarke, Paul)(PD)[AMOS]
+REAL_BOOT BBS Demo of DEA Squad (1992)(Steins, The)
+FAIL BBS Dentro (1992-12-27)(Animators) (DOS=True Checksum=True Content=False)
+FAIL BBS Intro (1992-05-01)(Equinox) (DOS=True Checksum=True Content=False)
+FAIL BBS Intro Without Any BBS (1993-06-16)(Melon Dezign)[h zebra3.org] (DOS=True Checksum=True Content=False)
+REAL_BOOT BBS Opening Demo, The (1990-08)(Cascade 1733)[h Warlock]
+FAIL BBS Opening Demo, The (1990-08)(Cascade 1733)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+REAL_BOOT BBS-Fax Trackmo (1993-02-10)(Elysion)
+REAL_BOOT BBS-Fax Trackmo (1993-02-10)(Elysion)[b]
+REAL_BOOT BBS-Intro (1992-08-18)(Devils)
+REAL_BOOT BBS-Intro (1992-08-18)(Devils)[m baddump]
+REAL_BOOT BBS-Intro (1992-10)(Trash)
+REAL_BOOT BBS-Intro (1992-10)(Trash)[m doscopy]
+REAL_BOOT BBX-Sym '95 Invitation (19xx)(Phantasm - Polka Brothers)(AGA)
+REAL_BOOT BeachTro 3 - Night Trips (1992-08-01)(Devils - End of Century 1999)[m corrupt file]
+FAIL Beast of Prey, The (1993-05-29)(Equinox)[h Warlock][m bamcopy][TCC#10] (DOS=True Checksum=True Content=False)
+REAL_BOOT Beast of Prey, The (1993-05-29)(Equinox)[h Warlock][TCC#10]
+FAIL Beast of Prey, The (1993-05-29)(Equinox)[TCC#10] (DOS=True Checksum=True Content=False)
+REAL_BOOT Beastie Boys Megademo (1988)(Beastie Boys)
+REAL_BOOT Beasties II - The Ultimate Conflict (1994)(Firstrate Effex - 5D Licenceware)(LW)
+REAL_BOOT Beasties II - The Ultimate Conflict (demo-playable) (1994)(Firstrate Effex - 5D Licenceware)(LW)
+FAIL Beat It (1988)(Softgang)[h GSC] (DOS=True Checksum=True Content=False)
+REAL_BOOT Beavis & Butt-head in - Breaking the Lawn (1994-09-04)(Evo Soft)(PD)[AMOS]
+REAL_BOOT Beavis & Butt-head in - Breaking the Lawn (1994-09-04)(Evo Soft)(PD)[h Pazza][AMOS]
+REAL_BOOT Beavis & Butt-head in - Breaking the Lawn (1994-09-04)(Evo Soft)(PD)[h TBC - Amiga Soft][AMOS]
+REAL_BOOT Beavis and Butthead Domino (19xx)(Feedback)(PD)
+REAL_BOOT Bedroom Olympiad (1988)(Shockwave - Alpha Flight)(PD)[a][XXX]
+REAL_BOOT Bedroom Olympiad (1988)(Shockwave - Alpha Flight)(PD)[XXX]
+REAL_BOOT Bee Bop 'N Drop (1993)(Phillips, Wayne)(SW)[h ALE][KS2.0]
+REAL_BOOT BeerLand v0.15b (2008)(Holyna - Mistic JOE - Raven)(cs)[h Amiga CFP][AMOS]
+REAL_BOOT Beetle (demo-playable) (1993)(Unique Styles)(SW)
+REAL_BOOT Beetle (demo-playable) (1993)(Unique Styles)(SW)[a]
+REAL_BOOT Beetle (demo-playable) (1993)(Unique Styles)(SW)[h ALE]
+FAIL Beetle (demo-playable) (1993)(Unique Styles)(SW)[m bamcopy] (DOS=True Checksum=True Content=False)
+FAIL Beetle (demo-playable) (1993)(Unique Styles)(SW)[PD-Soft] (DOS=True Checksum=True Content=False)
+FAIL Beg'n'Bribe (2015-05-16)(Amiga Birthday Committee)[party release] (DOS=True Checksum=True Content=False)
+FAIL Beg'n'Bribe (2015-05-20)(Amiga Birthday Committee) (DOS=True Checksum=True Content=False)
+FAIL Begin (1996-03-05)(Fresh)(AGA) (DOS=True Checksum=True Content=False)
+FAIL Beginning, The (1993-07-11)(Logic) (DOS=True Checksum=True Content=False)
+FAIL Beginning, The (1993-07-11)(Logic)[m doscopy] (DOS=True Checksum=True Content=False)
+FAIL Beginning, The (1993-07-11)(Logic)[m] (DOS=True Checksum=True Content=False)
+REAL_BOOT Beginning, The (1994)(Digital Chaos)(AGA)
+REAL_BOOT Behind the Window (1994-12-23)(Adrenaline - Suspect)
+REAL_BOOT Behinderten Olympics 92 (1992)(Animators)(PD)(Disk 1 of 2)[cr Enemy]
+REAL_BOOT Behinderten Olympics 92 (1992)(Animators)(PD)(Disk 2 of 2)[cr Enemy]
+REAL_BOOT Benny Beetle in Colorworld (1992)(MAC Soft)(Disk 1 of 2)
+REAL_BOOT Benny Beetle in Colorworld (1992)(MAC Soft)(Disk 1 of 2)[h D&R]
+REAL_BOOT Benny Beetle in Colorworld (1992)(MAC Soft)(Disk 1 of 2)[h D&R][t 2KAD]
+REAL_BOOT Benny Beetle in Colorworld (1992)(MAC Soft)(Disk 1 of 2)[h D&R][t 2KAD][a]
+REAL_PASS Benny Beetle in Colorworld (1992)(MAC Soft)(Disk 2 of 2)
+REAL_BOOT Berra (1994)(Ingen)(da)(PD)[h Retroman]
+REAL_BOOT Berra v1.0 (1994)(Ingen)(da)
+FAIL Berserkers (demo-playable) (19xx)(Antoniades, T.)(PD) (DOS=True Checksum=True Content=False)
+REAL_BOOT Betmen Mandrak Fantom (1995-05-18)(Extens)
+REAL_BOOT Beton (1992-11)(Defensywa)(Disk 1 of 2)
+REAL_PASS Beton (1992-11)(Defensywa)(Disk 2 of 2)
+REAL_BOOT Betrayal, The (1991)(Wenngatz, Miky)(PD)[h QTX]
+REAL_BOOT Betrayal, The (1991)(Wenngatz, Miky)(PD)[h QTX][m bamcopy]
+REAL_BOOT Better Than (1994-03-14)(Mentasm)
+REAL_BOOT Beyond Belief (1993-12-27)(Noxious)(AGA)
+REAL_BOOT Beyond Justice (1991-03)(Dexion)[h Warlock]
+FAIL Beyond Justice (1991-03)(Dexion)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+REAL_PASS Beyond the Future (1994-12-29)(Union)(AGA)[WB]
+FAIL Bier (2000)(Ephidrena)(AGA)[h BTTR] (DOS=True Checksum=True Content=False)
+REAL_BOOT Big (1989-06)(Scoopex)[h Warlock]
+FAIL Big (1989-06)(Scoopex)[h Warlock][m bamcopy] (DOS=True Checksum=True Content=False)
+REAL_BOOT Big Bang (1992-04-18)(Wildfire)
+REAL_BOOT Big Bang (1992-04-18)(Wildfire)[m doscopy][b corrupt file]
+REAL_BOOT Big Biceps (1995)(Jean-Pierre Software)
+REAL_BOOT Big Demo, The (1997-08-31)(Mr Styrc)
+REAL_BOOT Big Jump, The (1992-10-10)(Prestige)[h Warlock]
