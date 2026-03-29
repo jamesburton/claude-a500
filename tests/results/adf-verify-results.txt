@@ -14769,3 +14769,428 @@ REAL_BOOT Project Buzzbar (19xx)(Armstrong, S.)[h Graph FX - STR][a]
 REAL_BOOT Project Horizon (demo-playable) (2021-02-24)(Electric Black Sheep)[AMOS]
 REAL_BOOT Prototype (1997)(Caleb, Christopher - F1 Licenceware)(LW)(Disk 1 of 5)[2Mb RAM, KS2.0][AMOS]
 REAL_BOOT ProTris v1.0 (1993-11-03)(Mirage)(SW)[h Pazza]
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
+FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
+REAL_BOOT Friday at Eight - The Aftertouche (1994-04-05)(Polka Brothers)(AGA)[a no packed][G94#3]
+REAL_BOOT Friday at Eight - The Aftertouche (1994-04-05)(Polka Brothers)(AGA)[h BTTR][G94#3]
+REAL_BOOT Fruit Drop (1991-03-11)(Control)
+REAL_PASS Fruit Kitchen (1995-08-13)(The Silents)(AGA)[HD, lha archive][A95#4]
+REAL_BOOT Fubar (1993-12-28)(Pacman Productions)(AGA)[h Express PD]
+REAL_PASS Fubar (1993-12-28)(Pacman Productions)(AGA)[WB]
+REAL_BOOT Fuck Shop BBS Announcement Intro (1991)(Fairlight)[h Warlock]
+REAL_BOOT Fuck the PC! (1995)(Anorganic - Promise!)(AGA)
+REAL_BOOT Fucking Elite Cool (1995-10-15)(Poro)(AGA)
+REAL_BOOT Fucking Hardcore (19xx)(Mental)[KS2.0]
+REAL_BOOT Fugazi (1992)(Old Bulls)(Disk 1 of 2)
+REAL_BOOT Fugazi (1992)(Old Bulls)(Disk 2 of 2)
+REAL_BOOT Full Moon (1993-12-29)(Virtual Dreams - Fairlight)(AGA)[h ALE][updated][TP3#2]
+REAL_BOOT Full Moon (1993-12-29)(Virtual Dreams - Fairlight)(AGA)[h PD-Soft][updated][TP3#2]
+REAL_BOOT Full Moon (1993-12-29)(Virtual Dreams - Fairlight)(AGA)[TP3#2]
+REAL_BOOT Full Moon (1993-12-29)(Virtual Dreams - Fairlight)(AGA)[updated][TP3#2]
+REAL_PASS Full Moon (1993-12-29)(Virtual Dreams - Fairlight)(AGA)[updated][WB][TP3#2]
+REAL_BOOT Full Power (1991)(Paranoid)
+REAL_BOOT Funky Cartoons - Crossroads Hit Single (1994-08-12)(Jewels)(AGA)
+REAL_BOOT Funky Cartoons - Crossroads Hit Single (1994-08-12)(Jewels)(AGA)[h PD-Soft]
+REAL_BOOT Funky Pixels (1993)(Spaceballs)(AGA)[h BTTR]
+REAL_BOOT Funky Room (2013-09-07)(Y-Crew)
+REAL_BOOT Fury, The (1991-08-31)(Anarchy)[h Warlock]
+REAL_BOOT Fury, The (1991-08-31)(Anarchy)[h Warlock][m bamcopy]
+REAL_BOOT Fusion Is My Energy (1998)(Ephidrena)(AGA)[h BTTR]
+REAL_BOOT Future (1995-08-25)(Gods)(AGA)
+REAL_BOOT Future (1995-08-25)(Gods)(AGA)[b doscopy]
+REAL_BOOT Futuristic Mind (1993-12-29)(Impact DK)(AGA)[a][TP3#17]
+REAL_BOOT Futuristic Mind (1993-12-29)(Impact DK)(AGA)[TP3#17]
+REAL_BOOT G-Force (1994)(Pygmy Projects)(AGA)[h BTTR]
+REAL_BOOT G-Spot (1998)(Loveboat)(AGA)[h BTTR]
+REAL_BOOT G. (1993-08-05)(Noice)
+REAL_BOOT Galaxy (1997)(Darkage)(AGA)[h BTTR]
+REAL_BOOT Galaxy Love (1991-03-29)(Enigma)
+REAL_BOOT Galemands-Intro, The (1993-07-31)(Kefrens)(AGA)
+REAL_BOOT Galerie (1995)(Stellar)(AGA)[TP5#10]
+REAL_BOOT Gallows Megademo I (19xx)(Gallows)
+REAL_BOOT Gambling House (1991)(Shadows)[h BTTR]
+REAL_BOOT Gap (1995-10-05)(Puzzle)(AGA)[h BTTR][R95]
+REAL_BOOT Garam Masala (2014-09-07)(Y-Crew)
+REAL_BOOT Garloween (1992)(Patrick Nas)(Disk 1 of 2)
+REAL_BOOT Garloween (1992)(Patrick Nas)(Disk 2 of 2)
+REAL_BOOT Gasp-Party Invitation (1995-07-07)(Dreamdealers - Eremation)(AGA)
+REAL_BOOT Gate Megademo (1989)(Gate)
+REAL_BOOT Gate Megademo (1989)(Gate)[b corrupt file]
+REAL_BOOT Gate Megademo (1989)(Gate)[h Warlock][b corrupt file]
+REAL_BOOT Gate Megademo (1989)(Gate)[m bamcopy][b corrupt file]
+REAL_BOOT Gate Megademo II (1990-03)(Gate)
+REAL_BOOT Gate Megademo II (1990-03)(Gate)[h Alfa Crew]
+REAL_BOOT Gate Megademo II (1990-03)(Gate)[m]
+REAL_BOOT Gathering 1993 Invitation (1993-03-05)(Crusaders)[h Warlock]
+REAL_BOOT Gathering 1993 Invitation (1993-03-05)(Crusaders)[h Warlock][m bamcopy]
+REAL_BOOT Geloween (1994-11-12)(Ozone Free)[h BTTR]
+REAL_BOOT Generation-X (1995)(Haujobb)(AGA)(Disk 1 of 2)
+REAL_BOOT Generation-X (1995)(Haujobb)(AGA)(Disk 1 of 2)[FFS]
+REAL_PASS Generation-X (1995)(Haujobb)(AGA)(Disk 2 of 2)
+REAL_PASS Generation-X (1995)(Haujobb)(AGA)(Disk 2 of 2)[FFS]
+REAL_BOOT Generations (1999)(HCS)
+REAL_BOOT Genesis (1991)(Paradise)
+REAL_BOOT Genesis (1991)(Paradise)[a quizz tester]
+REAL_BOOT Genesis (1991)(Paradise)[b doscopy][a quizz tester]
+REAL_BOOT Genesis (1992)(Toxic Track)
+REAL_BOOT Genesis 1 (1990)(Austex)
+REAL_BOOT Genocide (1994-06-24)(Prologik Dezign)(Disk 1 of 2)
+REAL_BOOT Genocide (1994-06-24)(Prologik Dezign)(Disk 1 of 2)[m]
+REAL_BOOT Genocide (1994-06-24)(Prologik Dezign)(Disk 1 of 2)[m2]
+REAL_PASS Genocide (1994-06-24)(Prologik Dezign)(Disk 2 of 2)
+REAL_PASS Genocide (1994-06-24)(Prologik Dezign)(Disk 2 of 2)[m]
+REAL_PASS Genocide (1994-06-24)(Prologik Dezign)(Disk 2 of 2)[m2]
+REAL_BOOT Genocide Softmovie (1993)(Genocide)
+REAL_BOOT Geometrical Dreams (1991-06-14)(The Silents)[h Warlock]
+REAL_BOOT Geometrical Dreams (1991-06-14)(The Silents)[h Warlock][m bamcopy]
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Gerp 2016 (2016-09-03)(Insane)[final release]
+REAL_BOOT Get Frogged (1992)(Decay)
+REAL_BOOT Get Frogged (1992)(Decay)[a]
+REAL_BOOT Get it Going (1990)(Fairlight)[AMOS]
+REAL_BOOT Gettin' Tired of... (19xx)(Barking Mad Hedgehogs)[KS2.0]
+REAL_BOOT Gevalia (1994)(Polka Brothers)(AGA)[h BTTR][SS94#2]
+REAL_PASS Gevalia (1994)(Polka Brothers)(AGA)[WB][SS94#2]
+REAL_BOOT GFB Megademo $A - Workbench 96 (1996)(Gunnars Farvebio)[FFS][SS96#5]
+REAL_BOOT GFB Megademo $A - Workbench 96 (1996)(Gunnars Farvebio)[m][FFS][SS96#5]
+REAL_BOOT GFB Megademo 1 - Storstromsbroen (1991)(Gunnars Farvebio)[m doscopy]
+REAL_BOOT GFB Megademo 2 - Farobroen (1992)(Gunnars Farvebio)[m doscopy]
+REAL_BOOT GFB Megademo 3 (1992)(Gunnars Farvebio)(sk)
+REAL_BOOT GFB Megademo 4 - Bogofaergen (1992-12-28)(Gunnars Farvebio)[b doscopy][TP2#12]
+REAL_BOOT GFB Megademo 4 - Bogofaergen (1992-12-28)(Gunnars Farvebio)[TP2#12]
+REAL_BOOT GFB Megademo 5 - Knaehoj Karse (1993)(Gunnars Farvebio)
+REAL_BOOT GFB Megademo 6 - Gunslev Brugs (1993)(Gunnars Farvebio)(da)
+REAL_BOOT GFB Megademo 7 - De Andedes Hus (1994-06-24)(Gunnars Farvebio)
+REAL_BOOT GFB Megademo 7 - De Andedes Hus (1994-06-24)(Gunnars Farvebio)[m bamcopy]
+REAL_BOOT GFB Megademo 8 - Fangerne i Ford'en (1994-12-28)(Gunnars Farvebio)[FFS]
+REAL_BOOT GFB Megademo 9 - Der Grune Punkt (1995-07-07)(Gunnars Farvebio)(AGA)[FFS][SS95#2]
+REAL_BOOT GFB Megademo 9 - Der Grune Punkt (1995-07-07)(Gunnars Farvebio)(AGA)[m bamcopy][SS95#2]
+REAL_BOOT GFB Megademo 9 - Der Grune Punkt (1995-07-07)(Gunnars Farvebio)(AGA)[SS95#2]
+REAL_BOOT Ghetto, The - Semper in Primis (1991-12-19)(Alpha Flight)[h Warlock]
+REAL_BOOT Ghetto, The - Semper in Primis (1991-12-19)(Alpha Flight)[h Warlock][m bamcopy]
+REAL_BOOT Ghouls'n'Ghost Crack Intro (1989-12-06)(Computerbrains Cracking Service - Defjam)[h Warlock]
+REAL_BOOT Ghouls'n'Ghost Crack Intro (1989-12-06)(Computerbrains Cracking Service - Defjam)[h Warlock][m bamcopy]
+REAL_BOOT Giants and Alphaflight MedaDemo 1, The (1989)(Alphaflight - Giants)
+REAL_BOOT Giants Megademo 1, The (1990-06-26)(Giants)(Disk 1 of 2)
+REAL_BOOT Giants Megademo 1, The (1990-06-26)(Giants)(Disk 1 of 2)[a bootblock][updated]
+REAL_BOOT Giants Megademo 1, The (1990-06-26)(Giants)(Disk 1 of 2)[updated]
+REAL_BOOT Giants Megademo 1, The (1990-06-26)(Giants)(Disk 2 of 2)
+REAL_BOOT Gigademo (1988-11)(Triangle)
+REAL_BOOT Gigademo (1988-11)(Triangle)[b dump]
+REAL_BOOT Gigademo (1988-11)(Triangle)[b2 dump]
+REAL_BOOT Gigademo II (1989)(Triangle)
+REAL_BOOT Gigademo II (1989)(Triangle)[b dump]
+REAL_BOOT Gigademo III (1989-03-02)(Triangle)
+REAL_BOOT Gigademo III (1989-03-02)(Triangle)[b dump]
+REAL_BOOT Gimme Alcohol (1994-10-08)(Bonzai)(AGA)
+REAL_BOOT Girls Need Love (1988)(Destiny 7)
+REAL_BOOT Girls Need Love (1988)(Destiny 7)[m baddump]
+REAL_BOOT Girls Need Love (1988)(Destiny 7)[m2 baddump]
+REAL_BOOT Girls Need Love (1988)(Destiny 7)[u]
+REAL_BOOT Glamour (1995-05-18)(Casyopea)
+REAL_BOOT Glitch (1991-04-01)(Mystix)(Disk 1 of 2)
+REAL_PASS Glitch (1991-04-01)(Mystix)(Disk 2 of 2)
+REAL_BOOT Global Hazard v1.0 (1995-07-09)(Giga Productions)
+REAL_BOOT Global Trash (1991-04-26)(The Silents)
+REAL_BOOT Glory Stars (1989-07-07)(Scoopex)[h Warlock]
+REAL_BOOT Glory Stars (1989-07-07)(Scoopex)[h Warlock][m bamcopy]
+REAL_BOOT Glory Stars II - Paramounts Revenge (1990-10-18)(Scoopex)(de-en)[h Warlock]
+REAL_BOOT Glory Stars II - Paramounts Revenge (1990-10-18)(Scoopex)(de-en)[h Warlock][m bamcopy]
+REAL_BOOT Go with the Flow (1994)(Drog)[68020]
+REAL_BOOT Go with the Flow (1994)(Drog)[h][68020]
+REAL_BOOT Go with the Flow (1994)(Drog)[m][68020]
+REAL_BOOT Goagab (1993-08-24)(Abyss)
+REAL_BOOT Gode Gamle Melkedemo (1996-01-26)(Melon)
+REAL_BOOT Godfodder 1, The (19xx)(Lunatics)[b]
+REAL_BOOT Godfodder 2, The (19xx)(Lunatics)[b]
+REAL_BOOT Going Slightly Mad (1991)(Rednex)[h Pazza]
+REAL_BOOT Going Slightly Mad (1991)(Rednex)[h Pazza][m bamcopy]
+REAL_BOOT Goingtro (1993)(Nebula)[h Warlock]
+REAL_BOOT Goingtro (1993)(Nebula)[h Warlock][m bamcopy]
+REAL_BOOT Gol Doh Demo (1994)(Nolem)[S94#8]
+REAL_BOOT Golden Oracle (1993)(Purple Vortex Cooperation, The)
+REAL_BOOT Golden Oracle (1993)(Purple Vortex Cooperation, The)[a errdms]
+REAL_BOOT Goldfinger (1995)(Beton Dezign)(AGA)[b][IO95#8]
+REAL_BOOT Goldfire Mega-Demo, The (1990)(Goldfire)
+REAL_BOOT Goldfire Mega-Demo, The (1990)(Goldfire)[b dump]
+REAL_BOOT Goldfire Mega-Demo, The (1990)(Goldfire)[m baddump]
+REAL_BOOT Golf War (1992-12-27)(Dominators)[b corrupt files]
+REAL_BOOT Golf War (1992-12-27)(Dominators)[h Warlock][b corrupt files]
+REAL_BOOT Good Intentions (1992)(Mega Industries)
+REAL_BOOT Goonie Meditation (1991-03-29)(Goonies 2041)[h Warlock]
+REAL_BOOT Goonie Meditation (1991-03-29)(Goonies 2041)[h Warlock][m bamcopy]
+REAL_BOOT Goretro (1994)(Nova)[KS2.0]
+REAL_BOOT Gospel Karaoke (1992-07-02)(Complex)
+REAL_BOOT Gospel Karaoke (1992-07-02)(Complex)[a]
+REAL_BOOT Gospel Karaoke (1992-07-02)(Complex)[h Amiga Unlimited Munchen][FFS]
+REAL_BOOT Gospel Karaoke (1992-07-02)(Complex)[h BTTR]
+REAL_PASS Prototype (1997)(Caleb, Christopher - F1 Licenceware)(LW)(Disk 2 of 5)
+REAL_PASS Prototype (1997)(Caleb, Christopher - F1 Licenceware)(LW)(Disk 3 of 5)
+REAL_PASS Prototype (1997)(Caleb, Christopher - F1 Licenceware)(LW)(Disk 4 of 5)
+REAL_PASS Prototype (1997)(Caleb, Christopher - F1 Licenceware)(LW)(Disk 5 of 5)
+REAL_BOOT Prudent Dactyl (1999)(Hologram)(cs)[AMOS]
+REAL_BOOT Pseudo-Cop (demo-playable) (1989)(Pseudo-Ops)
+REAL_BOOT Pseudo-Cop (demo-playable) (1989)(Pseudo-Ops)[m highscore - baddump]
+REAL_BOOT Pseudo-Cop (demo-playable) (1989)(Pseudo-Ops)[m highscore][b dump]
+REAL_BOOT Pssst! v1.1 (1995)(Gould, Gary)(AGA)(SW)
+REAL_BOOT Pssst! v1.3 (1995)(Gould, Gary)(AGA)(SW)
+REAL_BOOT Psycheual (demo-playable) (19xx)(James, B.)
+REAL_BOOT Psycheual (demo-playable) (19xx)(James, B.)[a]
+REAL_BOOT Psycho Squares Deluxe - Expansion Disk 0004 - Breast Essentials (1994)(Dark Unicorn)(SW)[data disk]
+REAL_PASS Psycho Squares Deluxe - Expansion Disk 0006 - Calvin & Hobbs (1994)(Dark Unicorn)(SW)[data disk]
+REAL_BOOT Psycho Squares Deluxe v1.0 (1994)(Dark Unicorn)(SW-R)[h Innocents][a hacktxt disable][KS2.0][AMOS]
+REAL_BOOT Psycho Squares Deluxe v1.0 (1994)(Dark Unicorn)(SW-R)[h Innocents][KS2.0][AMOS]
+REAL_BOOT Psycho Squares Deluxe v1.0 (1994)(Dark Unicorn)(SW-R)[KS2.0][AMOS]
+REAL_BOOT Psycho Squares Deluxe v1.0 (1994)(Dark Unicorn)(SW)[AMOS]
+REAL_BOOT Psycho Squares v1.0 (1994)(Dark Unicorn)(SW)[AMOS]
+REAL_BOOT Psycho Toad (1990)(Cult)[t +1 Rastan and Felix]
+REAL_BOOT PsychoBlast (1993)(Ordyh Software)(SW)[h ATX]
+REAL_PASS PsychoBlast (19xx)(Williams, G.)(Disk 1 of 3)[HD]
+REAL_PASS PsychoBlast (19xx)(Williams, G.)(Disk 2 of 3)[HD]
+REAL_PASS PsychoBlast (19xx)(Williams, G.)(Disk 3 of 3)[HD]
+REAL_BOOT Pub Trivia v1.9 (1996)(Poziomas)(pl)(PD)
+REAL_BOOT Pucman - Worlds (1994)(Mystic)(FW)[AMOS]
+REAL_BOOT Pucman - Worlds (1994)(Mystic)(FW)[h Pazza][AMOS]
+REAL_BOOT Pucman - Worlds (1994)(Mystic)(FW)[h TheTower][a][AMOS]
+REAL_BOOT Pucman - Worlds (1994)(Mystic)(FW)[h TheTower][AMOS]
+REAL_BOOT Pucman - Worlds (1994)(Mystic)(FW)[h Warphins][AMOS]
+REAL_BOOT Punter v1.0 (1994)(Bye, Steve)(PD)[h Assassins - ALE][1Mb Chip][AMOS]
+REAL_BOOT Punter v1.0 (1994)(Bye, Steve)(PD)[h Assassins - ALE][v Revenge][1Mb Chip][AMOS]
+REAL_BOOT Punter v2.0 (1994)(Bye, Steve - Bye, Belinda - F1 Licenceware)(LW)[1MB chip][AMOS]
+REAL_BOOT Punter v3.0 (1995)(Bye, Steve - Bye, Belinda - F1 Licenceware)(LW)[1Mb Chip][inc. source code, AMOS]
+REAL_BOOT Punter v3.2R (1996)(Bye, Steve - Bye, Belinda - F1 Licenceware)(LW)[1Mb Chip][AMOS]
+REAL_BOOT Push 'N' Shove (1995)(Pacific)(SW-R)[AMOS]
+REAL_BOOT Push 'N' Shove (demo-playable) (1995)(Pacific)(SW)[AMOS]
+REAL_BOOT Push 'N' Shove (demo-playable) (1995)(Pacific)(SW)[one file version][AMOS]
+REAL_BOOT Push 'N' Shove (demo-playable) (1995)(Pacific)(SW)[updated][AMOS]
+REAL_BOOT Push (1989)(Courbois Software)(PD)[h Assassins - ALE][KS2.04]
+REAL_BOOT Push and Pull (1994)(Phillip, A. - F1 Licenceware)(LW)
+REAL_BOOT Push and Pull (1994)(Phillip, A. - F1 Licenceware)(LW)[1998 edition]
+REAL_PASS Push and Pull (1994)(Phillip, A. - F1 Licenceware)(LW)[h LSD][WB]
+REAL_BOOT PushPush (1997)(A-Heart Software)(SW)[WB][Blitz BASIC]
+REAL_BOOT Pussy Quest - A Weekend in the Bush (1992-01-16)(Sick Minds)(PD)
+REAL_BOOT Pussy Quest - A Weekend in the Bush (1992-01-16)(Sick Minds)(PD)[a]
+REAL_BOOT Pussy Quest - A Weekend in the Bush (1992-01-16)(Sick Minds)(PD)[updated]
+REAL_BOOT Puzlex (1995)(AIM Designs)
+REAL_BOOT Puzzi in a Dirty Smelly Birthday, I (2004)(Four Season)(it)[inc. source code, AMOS]
+REAL_BOOT Puzzle Me (1993)(Schlueter, D.)(PD)
+REAL_BOOT Puzzle Pits, The v1.2 (1994)(Prelle, A.)
+REAL_BOOT Puzzle Slide (2011)(Hurley, Lee)
+REAL_BOOT Puzzle v3.0 (1994)(MAGE)[AMOS]
+REAL_BOOT Puzzle Wizard (1987)(Ozer, A.)
+REAL_BOOT Puzzling! - Spectra & All-Square (1993)(AmiVision - F1 Licenceware)(LW)[1998 edition][AMOS]
+REAL_BOOT Puzzling! - Spectra & All-Square (1993)(AmiVision - F1 Licenceware)(LW)[AMOS]
+REAL_BOOT Pyramid Game, The (1994)(Pacific)(SW-R)[AMOS]
+REAL_BOOT Pyramid Game, The (1994)(Pacific)(SW)[AMOS]
+REAL_BOOT Pyramid Game, The (1994)(Pacific)(SW)[one file version][AMOS]
+REAL_BOOT Pyramid, The (1993)(Langford, Richard)(Disk 1 of 2)[a][AMOS]
+REAL_BOOT Pyramid, The (1993)(Langford, Richard)(Disk 1 of 2)[AMOS]
+REAL_BOOT Pyramid, The (1993)(Langford, Richard)(Disk 1 of 2)[m bamcopy][AMOS]
+REAL_BOOT Pyramid, The (1993)(Langford, Richard)(Disk 2 of 2)
+REAL_BOOT Pyramid, The (1993)(Langford, Richard)(Disk 2 of 2)[m bamcopy]
+REAL_BOOT Pyramid, The (1993)(Langford, Richard)[h Dracs][AMOS]
+REAL_BOOT Pythagoras v2.0 (19xx)(Fischlin, M.)(de)
+REAL_BOOT Qboid (1990)(Polly Soft - PD-Soft Licenceware)(LW)[Software 2000][inc. source code, AMOS]
+REAL_BOOT Quackers (19xx)(Pratt, M.)
+REAL_BOOT Quadrix (1992)(Sparks, Geoffrey)(SW)[a][AMOS]
+REAL_BOOT Quadrix (1992)(Sparks, Geoffrey)(SW)[a2][AMOS]
+REAL_BOOT Quadrix (1992)(Sparks, Geoffrey)(SW)[AMOS]
+REAL_BOOT Quasar Wars (1996)(Light Designs)(AGA)(SW-R)(Disk 1 of 2)[h LFC]
+REAL_PASS Quasar Wars (1996)(Light Designs)(AGA)(SW-R)(Disk 2 of 2)[h LFC]
+REAL_BOOT Quasar Wars (1996)(Light Designs)(AGA)(SW)
+REAL_BOOT Quatro Processing Soccer (1991)(G-Soft)[cr Wormfater]
+REAL_BOOT Quelle von Naroth, Die (1993)(Foerster, H.)(de)(Disk 1 of 2)
+REAL_PASS Quelle von Naroth, Die (1993)(Foerster, H.)(de)(Disk 2 of 2)
+REAL_PASS Quelle von Naroth, Die (1993)(Foerster, H.)(de)[save disk]
+REAL_BOOT Quest - Chapter I (2021-07-03)(Electric Black Sheep)(Disk 1 of 2)(Menu)[2Mb Chip, HD][AMOS]
+REAL_BOOT Quest - Chapter I (2021-07-03)(Electric Black Sheep)(Disk 2 of 2)(Level)
+REAL_BOOT Quest for the Grail (1992)(Ad Camp)(Disk 1 of 2)
+REAL_BOOT Quest for the Grail (1992)(Ad Camp)(Disk 1 of 2)[cr QTX]
+REAL_BOOT Quest for the Grail (1992)(Ad Camp)(Disk 2 of 2)
+REAL_BOOT Quest for the Grail (1992)(Ad Camp)(Disk 2 of 2)[cr QTX]
+REAL_BOOT Questionary v1.3 (demo-playable) (19xx)(Alphatron)
+REAL_BOOT Quetzalcoatl (demo-playable) (19xx)(Denice Software)(PD)[h Piranhas - IBB][v Blizzard v1.0]
+REAL_BOOT Quick Money (19xx)(Campbell, B.)
+REAL_BOOT Quicksilva (1996)(Entactogenic Design)(Disk 1 of 2)[cr HF]
+REAL_PASS Quicksilva (1996)(Entactogenic Design)(Disk 2 of 2)[cr HF]
+REAL_BOOT Quingo (1990)(Offical AMOS PD Library)(LW)[AMOS]
+REAL_BOOT Quingo v4.00 (1994)(Europress - Deja Vu)(LW)[cr SR][a][AMOS]
+REAL_BOOT Quingo v4.00 (1994)(Europress - Deja Vu)(LW)[cr SR][AMOS]
+REAL_BOOT Quiz Challenge (1993)(Benham, Graham)[AMOS]
+REAL_BOOT Quiz Challenge (1994)(Benham, Graham)[AMOS]
+REAL_BOOT Quiz Challenge (1994)(Benham, Graham)[h PD-Soft][AMOS]
+REAL_BOOT Quizmaster + (1988)(Critters)(de)
+REAL_BOOT Quizmaster v2.0 (1989)(Zoellner, F.)(de)
+REAL_BOOT R3 - The Art of Rocketry (1995)(Webster, Bruce)(Disk 1 of 2)(SW-R)[cr Dracs][Blitz BASIC]
+REAL_BOOT R3 - The Art of Rocketry (1995)(Webster, Bruce)(Disk 1 of 2)(SW-R)[cr Dracs][m doscopy][Blitz BASIC]
+REAL_BOOT R3 - The Art of Rocketry (1995)(Webster, Bruce)(Disk 2 of 2)(SW-R)[cr Dracs]
+REAL_BOOT R3 - The Art of Rocketry (1995)(Webster, Bruce)(Disk 2 of 2)(SW-R)[cr Dracs][m doscopy]
+REAL_BOOT R3 - The Art of Rocketry (demo-playable) (1995)(Webster, Bruce)(SW)[cr Dracs][Blitz BASIC]
+REAL_BOOT Race Rater v1.6 (19xx)(Thomson, M. - 17 Bit-Software)
+REAL_PASS Racing Maniacs (1993-08)(Gaze, Paul)(PD)[WB]
+REAL_PASS Racing Maniacs (1993)(Gaze, Paul)(PD)[h Neon][WB]
+REAL_BOOT Radar Rat Run (2000)(Willams, S.)[a]
+REAL_BOOT Radar Rat Run (2000)(Williams, S.)
+REAL_BOOT Rage (1994-10)(Scorpius)(SW)
+REAL_BOOT RagMan - The Game! (1994-10-08)(Bonzai)
+REAL_BOOT Rags to Riches (1992)(Genetic EFX)(PD)
+REAL_BOOT Raid 2 - Mission X (1991)(Fez Productions)(PD)[h ASO][m logo removed][SEUCK]
+REAL_BOOT Raid 2 - Mission X (1991)(Fez Productions)(PD)[h TPB - Iceman][SEUCK]
+REAL_BOOT Raid 2 - Mission X (1991)(Fez Productions)(PD)[m logo][SEUCK]
+REAL_BOOT Raid 2 - Mission X (1991)(Fez Productions)(PD)[SEUCK]
+REAL_BOOT Raid 3 - Total Fire (1992)(Fez Productions)(PD)[Mallander #206][SEUCK]
+REAL_BOOT Raid 3 - Total Fire (1992)(Fez Productions)(PD)[SEUCK]
+REAL_BOOT Raid IV - Super Raid (1993)(Fez Productions)(PD)[h Dark Lord][o][SEUCK]
+REAL_BOOT Raid IV - Super Raid (1993)(Fez Productions)(PD)[SEUCK]
+REAL_BOOT Raid IV - Super Raid (1993)(Fez Productions)(PD)[t +1 GOD][SEUCK]
+REAL_BOOT Raid IV - Super Raid (1993)(Fez Productions)(PD)[v Liberator v5.01][SEUCK]
+REAL_BOOT Raiden (demo-playable) (1994)(Fabtec)(AGA)
+REAL_BOOT Raise the Titanic (199x)(Millin, C.)(PD)[b corrupt file][3DCK]
+REAL_BOOT Raise the Titanic v1.1 (199x)(Millin, C.)(PD)[3DCK]
+REAL_BOOT Ram Run (1989)(CIS)[cr BS1][h OCL]
+REAL_BOOT Ramify v1.0 (1990)(Expert Services)
+REAL_BOOT Ramify v1.0 (1990)(Expert Services)[a]
+REAL_BOOT Rape Games (19xx)(Smegma Soft)[h Round Circle][KS1.2]
+REAL_BOOT Rape Games II (demo-playable) (19xx)(Smegma Soft - Dombrosky Soft)
+REAL_BOOT Raptor - Call of the Shadows (demo-slideshow) (1995)(Apogee)(SW)
+REAL_BOOT Rasenmaeher, Das v1.1 (2002)(Scum)[AMOS]
+REAL_BOOT RattleSnake (2000)(Park Production)(Disk 1 of 2)[h ASO]
+REAL_BOOT RattleSnake (2000)(Park Production)(Disk 2 of 2)[h ASO]
+REAL_BOOT Real Pinball (19xx)(17-Bit Software)(PD)
+REAL_BOOT Real Popeye, The (1993)(Bignonia)(PD)[a][C64 conversion]
+REAL_BOOT Real Popeye, The (1993)(Bignonia)(PD)[aminet][C64 conversion]
+REAL_BOOT Real Popeye, The (1993)(Bignonia)(PD)[C64 conversion]
+REAL_BOOT Real Popeye, The (1993)(Bignonia)(PD)[h D-Age][C64 conversion]
+REAL_BOOT Real Popeye, The (1993)(Bignonia)(PD)[h D-Age][t +5 DLT][C64 conversion]
+REAL_BOOT Real Popeye, The (1993)(Bignonia)(PD)[PD-Soft][C64 conversion]
+REAL_BOOT Real Popeye, The (1993)(Bignonia)(PD)[u][C64 conversion]
+REAL_BOOT Real Sports Boxing (1992)(Nu-Tek)
+REAL_BOOT Realm of Death - The Temple of Elemental Evil v2.0b (1989)(Genasoft)
+REAL_PASS Realm of Death - The Temple of Elemental Evil v2.0b (1989)(Genasoft)[a rebuilt][WB]
+REAL_BOOT Realm of Death - The Temple of Elemental Evil v2.0b (1989)(Genasoft)[f bootblock][a rebuilt]
+REAL_BOOT Realm of Death - The Temple of Elemental Evil v2.0b (1989)(Genasoft)[h Black Monks]
+REAL_BOOT Realm of Death - The Temple of Elemental Evil v2.0b (1989)(Genasoft)[h QTX]
+REAL_BOOT Realm of Maiyessae (1989)(Accursed Toys)(PD)[a][SEUCK]
+REAL_BOOT Realm of Maiyessae (1989)(Accursed Toys)(PD)[a2][SEUCK]
+REAL_BOOT Realm of Maiyessae (1989)(Accursed Toys)(PD)[SEUCK]
+REAL_BOOT Reaxxion (1996)(Archer, Mike - Amiga User International)(PD)[h SB-Soft][AMOS]
+REAL_BOOT Rebellion (19xx)(Lunn, Andreas)(SW)[h TDD]
+REAL_BOOT Rectum (1992)(Massive)
+REAL_BOOT Rectum (1992)(Massive)[h Warlock's ADF Archive]
+REAL_BOOT Red Dwarf Quiztanaire v1.3 (1995)(Fubar)[WB]
+REAL_BOOT Red Dwarf Trivia Quiz - Champion Edition (19xx)(Astro Software)
+REAL_BOOT Red Dwarf Trivia Quiz v6 (1995)(Astro Software)
+REAL_BOOT Reel Skill (1993)(Mr. E Software)[h BTTR][inc. source code, AMOS]
+REAL_BOOT Reel Skill (1993)(Mr. E Software)[inc. source code, AMOS]
+REAL_BOOT Reels (19xx)(Tom - Kev)
+REAL_BOOT Reflection (1994)(Penguin)(SW)[h Pazza][AMOS]
+REAL_BOOT Reflection (1994)(Penguin)(SW)[h Pazza][m bamcopy][AMOS]
+REAL_BOOT Regnum v1.1 (1989)(Peters, R.)(de)
+REAL_BOOT Relayer (1993)(Argentieri, A.)
+REAL_BOOT Relics of Deldroneye (1992)(Digital Ninja - F1 Licenceware)(LW)(Disk 1 of 4)[1998 edition][2Mb Chip][AMOS]
+REAL_BOOT Relics of Deldroneye (1992)(Digital Ninja - F1 Licenceware)(LW)(Disk 1 of 4)[2Mb Chip][AMOS]
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja - F1 Licenceware)(LW)(Disk 2 of 4)
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja - F1 Licenceware)(LW)(Disk 2 of 4)[1998 edition]
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja - F1 Licenceware)(LW)(Disk 3 of 4)
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja - F1 Licenceware)(LW)(Disk 3 of 4)[1998 edition]
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja - F1 Licenceware)(LW)(Disk 4 of 4)
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja - F1 Licenceware)(LW)(Disk 4 of 4)[1998 edition]
+REAL_BOOT Relics of Deldroneye (1992)(Digital Ninja)(Disk 1 of 4)[2Mb Chip][AMOS]
+REAL_BOOT Relics of Deldroneye (1992)(Digital Ninja)(Disk 1 of 4)[a savegame][2Mb Chip][AMOS]
+REAL_BOOT Relics of Deldroneye (1992)(Digital Ninja)(Disk 1 of 4)[a][2Mb Chip][AMOS]
+REAL_BOOT Relics of Deldroneye (1992)(Digital Ninja)(Disk 1 of 4)[b][2Mb Chip][AMOS]
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja)(Disk 2 of 4)
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja)(Disk 2 of 4)[a]
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja)(Disk 2 of 4)[b missing files]
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja)(Disk 3 of 4)
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja)(Disk 3 of 4)[a]
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja)(Disk 3 of 4)[b missing files]
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja)(Disk 4 of 4)
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja)(Disk 4 of 4)[a]
+REAL_PASS Relics of Deldroneye (1992)(Digital Ninja)(Disk 4 of 4)[b missing files]
+REAL_BOOT Relics of Deldroneye (demo-playable) (1992)(Digital Ninja - F1 Licenceware)(PD)[2Mb Chip][AMOS]
+REAL_BOOT Relics of Deldroneye 1.5 - Return to Zantis (1995)(Digital Ninja - F1 Licenceware)(LW)[1998 edition][2Mb Chip][AMOS]
+REAL_BOOT Relics of Deldroneye 1.5 - Return to Zantis (1995)(Digital Ninja - F1 Licenceware)(LW)[2Mb Chip][AMOS]
+REAL_BOOT Relics of Deldroneye 2 (1996)(Digital Ninja - F1 Software)(Disk 1 of 5)[1998 edition][2Mb Chip, HD][AMOS]
+REAL_BOOT Relics of Deldroneye 2 (1996)(Digital Ninja - F1 Software)(Disk 1 of 5)[2Mb Chip, HD][AMOS]
+REAL_BOOT Relics of Deldroneye 2 (1996)(Digital Ninja - F1 Software)(Disk 2 of 5)
+REAL_PASS Relics of Deldroneye 2 (1996)(Digital Ninja - F1 Software)(Disk 2 of 5)[1998 edition]
+REAL_BOOT Relics of Deldroneye 2 (1996)(Digital Ninja - F1 Software)(Disk 2 of 5)[b missing files]
+REAL_PASS Relics of Deldroneye 2 (1996)(Digital Ninja - F1 Software)(Disk 3 of 5)
+REAL_PASS Relics of Deldroneye 2 (1996)(Digital Ninja - F1 Software)(Disk 3 of 5)[1998 edition]
+REAL_PASS Relics of Deldroneye 2 (1996)(Digital Ninja - F1 Software)(Disk 4 of 5)
+REAL_PASS Relics of Deldroneye 2 (1996)(Digital Ninja - F1 Software)(Disk 4 of 5)[1998 edition]
+REAL_PASS Relics of Deldroneye 2 (1996)(Digital Ninja - F1 Software)(Disk 5 of 5)
+REAL_PASS Relics of Deldroneye 2 (1996)(Digital Ninja - F1 Software)(Disk 5 of 5)[1998 edition]
+REAL_BOOT Renegade III (1990)(Xcess)
+REAL_BOOT Renegade III (1990)(Xcess)[t Xcess]
+REAL_BOOT Renegades (1995)(Darbyshire, Kevin - Ashworth, Wayne)[inc. source code, AMOS]
+REAL_BOOT Renegades Deluxe (2014-10-29)(Ashworth, Wayne)(PD)[AMOS]
+REAL_BOOT Retro (1999)(Strickland, Stephen)(AGA)[Blitz BASIC]
+REAL_BOOT Retro Wars - Episodio IV 1-4 v1.0 (2016-05-31)(Amiga Wave)(es)[AMOS]
+REAL_BOOT Return of Valkyr, The (199x)(M.A Software)(es)[v Blizzard v1.0][AMOS]
+REAL_BOOT Revenge of the Mutant Camels (1991)(Llamasoft)(PD)[512k version]
+REAL_BOOT Revenge of the Mutant Camels (1991)(Llamasoft)(PD)[a][512k version]
+REAL_BOOT Revenge of the Mutant Camels (1991)(Llamasoft)(PD)[a2][512k version]
+REAL_BOOT Ricochet v2.0 (1995)(Longstaff, Martin)(PD)[a highscores][Quartz PD][inc. source code, AMOS]
+REAL_BOOT Ricochet v2.0 (1995)(Longstaff, Martin)(PD)[inc. source code, AMOS]
+REAL_BOOT Ricochet v2.0 (1995)(Longstaff, Martin)(PD)[Quartz PD][inc. source code, AMOS]
+REAL_BOOT Right Way - Easter Edition (1992)(Taupitz, Michael)(de)(SW)
+REAL_BOOT Right Way (1992)(Taupitz, Michael)(de)(SW)[h Mike & Mike PD]
+REAL_BOOT Right Way (1992)(Taupitz, Michael)(de)(SW)[h Mike & Mike PD][m doscopy]
+REAL_BOOT Ring War (1991)(ASDG)
+REAL_BOOT Ring War (1991)(ASDG)[a]
+REAL_BOOT Rings of Zon - Trilogy One of the Zon Saga (1990)(Micro Fix)(SW-R)[h Watchers]
+REAL_BOOT Rings of Zon Volume 1 - Joe Agima to the Rescue! v1.0 (1990)(Micro Fix)(SW)
+REAL_BOOT Rings of Zon Volume 1 - Joe Agima to the Rescue! v1.0 (1990)(Micro Fix)(SW)[m highscore]
+REAL_BOOT Ringworm (1996)(Herbert, S.)(AGA)(PD)[WB]
+REAL_BOOT Rise of the Rabbits (1997)(Pink Pig Software)(AGA)[h BTTR]
+REAL_BOOT Rise of the Rabbits 2 (1998)(Pink Pig Software)(AGA)[h BTTR]
+REAL_BOOT Risk! v3.00 (1988-07-15)(Bernstein-Zirkel Softworks)(de-en)(PD)[CLI 'risk -english' for En]
+REAL_BOOT Risk! v3.00 (1988-07-15)(Bernstein-Zirkel Softworks)(de-en)(PD)[h BS1][a][CLI 'risk -english' for En]
+REAL_BOOT Risk! v3.00 (1988-07-15)(Bernstein-Zirkel Softworks)(de-en)(PD)[h BS1][CLI 'risk -english' for En]
+REAL_BOOT Risk! v3.00 (1988-07-15)(Bernstein-Zirkel Softworks)(de-en)(PD)[h Extreme]
+REAL_BOOT Risk! v3.00 (1988-07-15)(Bernstein-Zirkel Softworks)(de-en)(PD)[h Extreme][tr da]
+REAL_BOOT Risk! v3.00 (1988-07-15)(Bernstein-Zirkel Softworks)(de-en)(PD)[h Extreme][tr es TOAD]
+REAL_BOOT Risk! v3.00 (1988-07-15)(Bernstein-Zirkel Softworks)(de-en)(PD)[o][CLI 'risk -english' for En]
+REAL_BOOT Roach Motel (1993)(Scott, Ryan)(PD)[AMOS]
+REAL_BOOT Roach Motel (1993)(Scott, Ryan)(PD)[inc. source code, AMOS]
+REAL_BOOT Roach Motel (1993)(Scott, Ryan)(PD)[m highscore][inc. source code, AMOS]
+REAL_BOOT Roach Motel (1993)(Scott, Ryan)(PD)[v Liberator v5.01][AMOS]
+REAL_BOOT Road to Hell (1993)(Electrosoft)
+REAL_BOOT Road to Hell (1993)(Electrosoft)[a highscore]
+REAL_BOOT RoboCop (1995)(Park productions)(PD)[h Titan][AMOS]
+REAL_BOOT Robot Rebellion v2.2 (19xx)(Marty, Ben)
+REAL_BOOT Robotics Life (1990)(Amiga Live)[h TKT]
+REAL_PASS Robots of the Arena v1.0 (1997)(Kent, D.)
+REAL_BOOT Robouldix (19xx)(Terminus Team)[h van Loen, J.]
+REAL_PASS Rocko! (1996)(Clinton, Rocko)(PD)[WB]
+REAL_BOOT RockSlide v1.3 (1994)(Miller, Marc)(SW)[h CGI Amiga DP][v Disaster Master 2]
+REAL_BOOT Roketz - PD Version v1.0 (demo-playable) (1994-09-16)(Farm)(AGA)(SW)[Blitz BASIC]
+REAL_BOOT Roketz - PD Version v1.0 (demo-playable) (1994-09-16)(Farm)(AGA)(SW)[o][Blitz BASIC]
+REAL_PASS Roketz - PD Version v2.0 (demo-playable) (1995-01-02)(Farm)(AGA)(SW)[Blitz BASIC]
+REAL_BOOT Roketz - PD Version v2.01 (demo-playable) (1995-01-02)(Farm)(AGA)(SW)[Blitz BASIC]
+REAL_BOOT Roketz - PD Version v2.25 (demo-playable) (1995-01-27)(Farm)(AGA)(SW)[Blitz BASIC]
+REAL_BOOT Roketz v1.0 (1994-12-08)(Farm)(AGA)(PAL)(SW-R)(Disk 1 of 2)[Blitz BASIC]
+REAL_PASS Roketz v1.0 (1994-12-08)(Farm)(AGA)(PAL)(SW-R)(Disk 2 of 2)
+REAL_BOOT Roketz v1.31 (1995-12-04)(Farm)(AGA)(PAL)(SW-R)(Disk 1 of 2)[h][Blitz BASIC]
+REAL_BOOT Roketz v1.31 (1995-12-04)(Farm)(AGA)(PAL)(SW-R)(Disk 1 of 2)[h][m bamcopy][Blitz BASIC]
+REAL_PASS Roketz v1.31 (1995-12-04)(Farm)(AGA)(PAL)(SW-R)(Disk 2 of 2)[h]
+REAL_BOOT Roketz v1.38 (1996-07-15)(Farm)(AGA)(PAL)(SW-R)(Disk 1 of 2)[cr Crest][a][Blitz BASIC]
+REAL_BOOT Roketz v1.38 (1996-07-15)(Farm)(AGA)(PAL)(SW-R)(Disk 1 of 2)[cr Crest][Blitz BASIC]
+REAL_PASS Roketz v1.38 (1996-07-15)(Farm)(AGA)(PAL)(SW-R)(Disk 2 of 2)[cr Crest]
+REAL_BOOT Roll or Die (1992)(Animators)(PD)(Disk 1 of 2)
+REAL_BOOT Roll or Die (1992)(Animators)(PD)(Disk 1 of 2)[m empty sector]
+REAL_BOOT Roll or Die (1992)(Animators)(PD)(Disk 1 of 2)[m2 empty sector]
+REAL_BOOT Roll or Die (1992)(Animators)(PD)(Disk 2 of 2)
+REAL_BOOT Roll or Die (1992)(Animators)(PD)(Disk 2 of 2)[a]
+REAL_BOOT Roll or Die (1992)(Animators)(PD)(Disk 2 of 2)[a2]
+REAL_BOOT Roll or Die (1992)(Animators)(PD)(Disk 2 of 2)[b dump]
+REAL_BOOT Roll or Die (1992)(Animators)(PD)(Disk 2 of 2)[b2 dump]
+REAL_BOOT Rollerpede (19xx)(-)(PD)
+REAL_BOOT Roopert - The World of Logic (demo-playable) (1998)(Gleaming Design)
+REAL_BOOT Roper (1995)(Saul, M.)
+REAL_BOOT ROT (1987)(HK Soft)
