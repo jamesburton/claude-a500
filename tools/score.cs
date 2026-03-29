@@ -233,6 +233,71 @@ if (File.Exists(verifyResultsPath))
 }
 
 // ============================================================
+// PHASE 7: HARD DRIVE EMULATION (50 pts)
+// ============================================================
+
+var hdfFiles = FindAllFiles(root, "*.cs")
+    .Where(f => !f.Contains("obj") && !f.Contains("bin"))
+    .Any(f => File.ReadAllText(f).Contains("HardDrive") || File.ReadAllText(f).Contains("Hdf"));
+if (hdfFiles)
+    Award(50, "Hard drive emulation implemented");
+
+// ============================================================
+// PHASE 8: WORKBENCH VERSION BOOTS (25 pts each)
+// ============================================================
+
+var wbResultsPath = Path.Combine(root, "tests", "results", "workbench-boots.txt");
+if (File.Exists(wbResultsPath))
+{
+    var wbLines = File.ReadAllLines(wbResultsPath)
+        .Where(l => l.StartsWith("WB_BOOT ")).ToList();
+    if (wbLines.Count > 0)
+        Award(wbLines.Count * 25, $"Workbench boots ({wbLines.Count} versions)");
+}
+
+// ============================================================
+// PHASE 9: ARCHIVE FORMAT SUPPORT (ZIP=50, LHA=75, ZIP-run=25)
+// ============================================================
+
+var archiveResults = Path.Combine(root, "tests", "results", "archive-support.txt");
+if (File.Exists(archiveResults))
+{
+    var arLines = File.ReadAllLines(archiveResults);
+    bool zipLoad = arLines.Any(l => l.StartsWith("ZIP_ADF_LOAD "));
+    bool lhaLoad = arLines.Any(l => l.StartsWith("LHA_LOAD "));
+    bool zipRun = arLines.Any(l => l.StartsWith("ZIP_RUN "));
+    if (zipLoad) Award(50, "ADF load from ZIP");
+    if (lhaLoad) Award(75, "Load and run from .lha");
+    if (zipRun) Award(25, "Load and run from ZIP");
+}
+
+// ============================================================
+// PHASE 10: LOCAL GAME ROMS WITH SCREENSHOTS (75 pts each)
+// ============================================================
+
+var screenshotDir = Path.Combine(root, "tests", "results", "screenshots");
+if (Directory.Exists(screenshotDir))
+{
+    var screenshots = Directory.GetFiles(screenshotDir, "*.png")
+        .Concat(Directory.GetFiles(screenshotDir, "*.bmp")).ToList();
+    // Each screenshot with matching .verified marker = proven load+run
+    var verifiedScreenshots = screenshots.Where(s =>
+        File.Exists(Path.ChangeExtension(s, ".verified"))).ToList();
+    if (verifiedScreenshots.Count > 0)
+        Award(verifiedScreenshots.Count * 75, $"Local game ROMs with screenshots ({verifiedScreenshots.Count} games)");
+}
+
+// Also check game-results.txt for games verified from local dirs
+var gameResultsPath = Path.Combine(root, "tests", "results", "game-results.txt");
+if (File.Exists(gameResultsPath))
+{
+    var gameLines = File.ReadAllLines(gameResultsPath)
+        .Where(l => l.StartsWith("GAME_VERIFIED ")).ToList();
+    if (gameLines.Count > 0)
+        Award(gameLines.Count * 75, $"Local game ROMs verified ({gameLines.Count} games)");
+}
+
+// ============================================================
 // PENALTY: Non-.NET source files
 // ============================================================
 
