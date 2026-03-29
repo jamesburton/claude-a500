@@ -53,13 +53,30 @@ Console.WriteLine($"Running {maxFrames} frames...");
 
 var sw = System.Diagnostics.Stopwatch.StartNew();
 
+var pcVisited = new HashSet<uint>();
+var pcRange = new SortedSet<uint>();
+
 for (int frame = 0; frame < maxFrames; frame++)
 {
     long frameStart = amiga.Cpu.TotalCycles;
 
     try
     {
-        amiga.RunFrame();
+        if (trace)
+        {
+            // Step-by-step with PC tracking
+            long target = amiga.Cpu.TotalCycles + (455 * 312);
+            while (amiga.Cpu.TotalCycles < target)
+            {
+                pcVisited.Add(amiga.Cpu.PC);
+                pcRange.Add(amiga.Cpu.PC);
+                amiga.Step();
+            }
+        }
+        else
+        {
+            amiga.RunFrame();
+        }
     }
     catch (Exception ex)
     {
@@ -73,6 +90,12 @@ for (int frame = 0; frame < maxFrames; frame++)
     {
         Console.WriteLine($"Frame {frame}: PC=${amiga.Cpu.PC:X6} D0=${amiga.Cpu.D[0]:X8} cycles={frameCycles}");
     }
+}
+
+if (trace && pcRange.Count > 0)
+{
+    Console.WriteLine($"\nUnique PCs visited: {pcVisited.Count}");
+    Console.WriteLine($"PC range: ${pcRange.Min:X6} - ${pcRange.Max:X6}");
 }
 
 sw.Stop();
