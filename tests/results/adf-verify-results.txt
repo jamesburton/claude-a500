@@ -19319,3 +19319,11 @@ REAL_PASS WHD_BalanceOfPower1990Edition_v1.0_1818
 REAL_PASS WHD_BallGame_v1.0_2051
 REAL_PASS WHD_Ballistix_v1.1b_0433
 REAL_PASS WHD_Ballistix_v1.3_0433
+REAL_PASS WHD_BallRaider_v1.0
+REAL_PASS WHD_BanditKingsOfAncientChina_v1.0_2794
+REAL_PASS WHD_Banshee_v3.2_AGA_0633
+REAL_PASS WHD_Banshee_v3.2_CD32
+REAL_PASS WHD_Banzai_v1.0
+REAL_PASS WHD_Barbarian_v1.0_Palace_1784
+REAL_PASS WHD_Barbarian2_v1.1_Psygnosis_0611
+REAL_PASS WHD_BardsTale_v1.0_0010
