@@ -15194,3 +15194,215 @@ REAL_BOOT Rollerpede (19xx)(-)(PD)
 REAL_BOOT Roopert - The World of Logic (demo-playable) (1998)(Gleaming Design)
 REAL_BOOT Roper (1995)(Saul, M.)
 REAL_BOOT ROT (1987)(HK Soft)
+FAIL 9 Fingers (1993-12-29)(Spaceballs)(Disk 2 of 2)[u][TP3#4] (bad size: 712704)
+FAIL Dexion Megademo (1989-02-12)(Dexion)[b3 dump] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Dragon Ball - Jumps (1993)(Balance)(es)(Disk 2 of 2)[b corrupt files] (DOS=False Checksum=False Content=False Boot=False)
+FAIL Enigma (1991-03-29)(Phenomena)[u] (bad size: 491520)
+FAIL Eradication (1993-12-29)(Insane)[u] (bad size: 664576)
+FAIL German Trucking v2.1 (1993)(DGM Software)(de)(SW)(Disk 3 of 3)(Save) (DOS=False Checksum=False Content=False Boot=False)
+REAL_BOOT Gospel Karaoke (1992-07-02)(Complex)[h Warlock]
+REAL_BOOT Govinda (1997)(Depth)(AGA)[h BTTR]
+REAL_BOOT Graisse Antique (1993-12-28)(Nolem)(fr)[m doscopy][TP3#23]
+REAL_BOOT Graisse Antique (1993-12-28)(Nolem)(fr)[TP3#23]
+REAL_BOOT Grand Mix 86 (19xx)(Future Force)[h King of the Ding][KS1.x]
+REAL_BOOT Graphics Demo Show (19xx)(Hardcrack)
+REAL_BOOT Gratis Intro (1993-10-08)(Lemon)[h Warlock][aka En Gratis Bovendien]
+REAL_BOOT Graveyard Party Blues (1991-03-30)(Accession)[h Warlock]
+REAL_BOOT Graveyard Party Blues (1991-03-30)(Accession)[h Warlock][m bamcopy]
+REAL_BOOT Gravitation (1990)(Extensors)
+REAL_BOOT Gravitation (1990)(Extensors)[h Warlock]
+REAL_BOOT Gravity (1996-11)(Anadune)(AGA)(en-pl)(Disk 1 of 2)
+REAL_BOOT Gravity (1996-11)(Anadune)(AGA)(en-pl)(Disk 1 of 2)[rebuilt]
+REAL_BOOT Gravity (1996-11)(Anadune)(AGA)(en-pl)(Disk 2 of 2)
+REAL_BOOT Gravity (1996-11)(Anadune)(AGA)(en-pl)(Disk 2 of 2)[rebuilt]
+REAL_BOOT Great Bytes in Fire (1992-04-15)(Cyberiad)[a][G92#5]
+REAL_BOOT Great Bytes in Fire (1992-04-15)(Cyberiad)[b dump][G92#5]
+REAL_BOOT Great Bytes in Fire (1992-04-15)(Cyberiad)[G92#5]
+REAL_BOOT Green & Gold (2008-11-08)(Syntax Party Crew)
+REAL_BOOT Green Surprise (1990-06-08)(Scoopex)[h Warlock]
+REAL_BOOT Green Surprise (1990-06-08)(Scoopex)[h Warlock][m bamcopy]
+REAL_PASS Greenday (1995-04-23)(Artwork)(AGA)(Disk 1 of 3)[HD]
+REAL_PASS Greenday (1995-04-23)(Artwork)(AGA)(Disk 2 of 3)
+REAL_PASS Greenday (1995-04-23)(Artwork)(AGA)(Disk 3 of 3)
+REAL_BOOT Greenpeace (1991)(Pepperd, A.)[h 17-Bit Software]
+REAL_BOOT Grid! (1999)(Nature)(AGA)[h BTTR]
+REAL_BOOT Gridlock (1992)(Plague)[h BTTR]
+REAL_BOOT Grodan Boll (1989-10)(Fairlight)[h BTTR]
+REAL_BOOT Grodan Boll (1989-10)(Fairlight)[h Warlock]
+REAL_BOOT Grodan Boll (1989-10)(Fairlight)[h Warlock][m bamcopy]
+REAL_BOOT Groove, The (1991)(Italian Bad Boys - Ram Jam)
+REAL_BOOT Groovy (1993-10-10)(Lemon)
+REAL_BOOT Groovy (1993-10-10)(Lemon)[m baddump]
+REAL_BOOT Groovy (1993-10-10)(Lemon)[m2 baddump]
+REAL_BOOT Groovy (1993-10-10)(Lemon)[m3 baddump]
+REAL_BOOT Gruen (1995)(Cosmic Pirates)(AGA)
+REAL_BOOT Guardian Dragon (1991-09-29)(Kefrens)
+REAL_BOOT Guardian Dragon (1991-09-29)(Kefrens)[o]
+REAL_BOOT Guardian Dragon 2 (1992-06-29)(Kefrens)(Disk 1 of 2)[H92#1]
+REAL_BOOT Guardian Dragon 2 (1992-06-29)(Kefrens)(Disk 2 of 2)
+REAL_BOOT Gush (1999)(Potion)(AGA)[h BTTR]
+REAL_BOOT Haemorroid Target (1992)(Bidon Dezign)
+REAL_BOOT Haemorroid Target (1992)(Bidon Dezign)[m doscopy]
+REAL_BOOT Half Megabyte Demo (1989-07-05)(Poison)
+REAL_BOOT Hallonsaft (1989-05)(Mahoney & Kaktus)[h Warlock]
+REAL_BOOT Hallonsaft (1989-05)(Mahoney & Kaktus)[h Warlock][m bamcopy]
+REAL_BOOT Hallucinations and Dreams - Preview (1992-06-27)(Katharsis)
+REAL_BOOT Hallucinations and Dreams (1993)(Union)(Disk 1 of 2)
+REAL_BOOT Hallucinations and Dreams (1993)(Union)(Disk 1 of 2)[b doscopy]
+REAL_BOOT Hallucinations and Dreams (1993)(Union)(Disk 1 of 2)[b2 doscopy]
+REAL_PASS Hallucinations and Dreams (1993)(Union)(Disk 2 of 2)
+REAL_PASS Hallucinations and Dreams (1993)(Union)(Disk 2 of 2)[a]
+REAL_PASS Hallucinations and Dreams (1993)(Union)(Disk 2 of 2)[a2]
+REAL_PASS Hallucinations and Dreams (1993)(Union)(Disk 2 of 2)[a3]
+REAL_BOOT Halo 40k Intro 1 (1994)(Halo)(AGA)[h BTTR]
+REAL_BOOT Halo 40k Intro 2 (1994)(Halo)(AGA)[h BTTR]
+REAL_BOOT HAM is Used (1993-07-30)(Profecy)
+REAL_BOOT Hangover-Bobs (19xx)(Imageworks)
+REAL_BOOT Hansa Experience (1994-11-13)(MDMA)(AGA)(Disk 1 of 2)
+REAL_PASS Hansa Experience (1994-11-13)(MDMA)(AGA)(Disk 2 of 2)
+REAL_BOOT Happy Birthday (1995-10-29)(Hoodlum)(AGA)
+REAL_BOOT Happy Birthday (1995-10-29)(Hoodlum)(AGA)[a][final release]
+REAL_BOOT Happy Birthday (1995-10-29)(Hoodlum)(AGA)[final release]
+REAL_BOOT Happy Birthday (1995-10-29)(Hoodlum)(AGA)[h BTTR]
+REAL_BOOT Happy Birthday Felix (1992-10-31)(Pleasure)[v BGS9]
+REAL_BOOT Happy Birthday Lester (1994-09-04)(Oxygene)(AGA)
+REAL_BOOT Happy Birthday, Executor! (1994-02-07)(Dual Crew-Shining)
+REAL_BOOT Happy New Year 1990 (1990-01-01)(Pu-239)[FFS]
+REAL_BOOT Happy Shopping Center (1992-02-20)(Power Break)
+REAL_BOOT Hard Day (1994-08-07)(EMT Design)(AGA)[a][A94#12]
+REAL_BOOT Hard Day (1994-08-07)(EMT Design)(AGA)[A94#12]
+REAL_BOOT Hard Day (1994-08-07)(EMT Design)(AGA)[h Warlock][A94#12]
+REAL_BOOT Hard Drivin' Crack Intro (1989-12-01)(Vision Factory)[h Warlock]
+REAL_BOOT Hard Drivin' Crack Intro (1989-12-01)(Vision Factory)[h Warlock][m bamcopy]
+REAL_BOOT Hard Vajero (1993-12-28)(Lamon)
+REAL_BOOT Hardcore (1992-04-21)(Anarchy)
+REAL_BOOT Hardcore (1992-04-21)(Anarchy)[h Warlock]
+REAL_BOOT Hardcore (1992-04-21)(Anarchy)[h Warlock][m bamcopy]
+REAL_BOOT Hardcore (1998)(Nah Kolor)(AGA)[h BTTR]
+REAL_BOOT HardWeird - Hi-Version (1993-10-26)(Equinox)
+REAL_BOOT HardWeird - Hi-Version (1993-10-26)(Equinox)[a]
+REAL_BOOT Hardwired (1991-12-28)(Crionics - The Silents)(Disk 1 of 2)[TP1#2]
+REAL_BOOT Hardwired (1991-12-28)(Crionics - The Silents)(Disk 2 of 2)[b dump][TP1#2][5E343FA8]
+REAL_BOOT Hardwired (1991-12-28)(Crionics - The Silents)(Disk 2 of 2)[h Warlock][b dump][TP1#2][D0061D65]
+REAL_BOOT Hardwired (1991-12-28)(Crionics - The Silents)(Disk 2 of 2)[TP1#2][BF608522]
+REAL_BOOT Harlequin's Wine Bar (19xx)(Macclesfield Computer Club)[m]
+REAL_BOOT Harmagedon (1993-12-27)(Infect)(AGA)[TP3#5]
+REAL_BOOT Rot3D (1994-11-04)(Freund, Jason - Dalbec, Gabe)[FPU, 1.5Mb RAM]
+REAL_BOOT Rotator (19xx)(Midnight Banana - 5D Licenceware)(LW)(Disk 1 of 2)
+REAL_PASS Rotator (19xx)(Midnight Banana - 5D Licenceware)(LW)(Disk 2 of 2)
+REAL_BOOT Rotator (19xx)(Midnight Banana - 5D Licenceware)(LW)[h Outlaws][WB]
+REAL_BOOT Rotator (demo-playable) (19xx)(Midnight Banana - 5D Licenceware)(LW)[h BTTR]
+REAL_BOOT Roton (1992-09)(Scorpius)(SW)
+REAL_BOOT Roton (1992-09)(Scorpius)(SW)[inc. source code, ASM68k]
+REAL_BOOT Rough Waters - Course 01 (1994-02-15)(VSC)[v Saddam 1][SEUCK]
+REAL_BOOT Roulette (1992)(Calibra)(PD)
+REAL_BOOT Roulette (1992)(Calibra)(PD)[t +2 GODS]
+REAL_BOOT Rubber v1.0 (1994)(Smart Software)(SW)
+REAL_BOOT Rubber v1.0 (1994)(Smart Software)(SW)[h ALE][KS2.04]
+REAL_BOOT Rueda v1.3 (1993-05)(Beaty, Nathan)[AMOS]
+REAL_BOOT Ruhm und Ehre v2.0 (19xx)(Rossmoeller Handshake)(de)
+REAL_BOOT Ruhm und Ehre v2.0 (19xx)(Rossmoeller Handshake)(de)[cr Aeon]
+REAL_BOOT Ruhm und Ehre v2.0 (19xx)(Rossmoeller Handshake)(de)[cr Aeon][a]
+REAL_BOOT Rummy v1.00 (1990-09)(Amiga Computing)[inc. source code, C]
+REAL_BOOT Run Puff v1.0 (2013-02-06)(Amiten)[KS2.0][AMOS]
+REAL_BOOT Run Puff v1.0 (2013-02-07)(Amiten)[AMOS]
+REAL_BOOT Run Puff v1.0c (2013-02-07)(Amiten)[AMOS]
+REAL_BOOT Run Puff v1.0d (2013-02-08)(Amiten)[AMOS]
+REAL_BOOT Running (1990)(Tyberghein, Jorritt)(SW)
+REAL_BOOT Running Bob (1991)(Scholl, T.)[cr TLF]
+REAL_BOOT Running Boy (19xx)(Wolf, R.)[cr EP]
+REAL_BOOT Rush Hour (1990)(Spreen, Andreas)(FW)[h BTTR][KS2.04]
+REAL_BOOT SameGame v2.6 (2000-09)(Crew-92)(FW)
+REAL_BOOT SameGame v2.7 (2001-05)(Crew-92)(FW)
+REAL_BOOT Samurai Showdown Classiek (1994)(Avante Software)(AGA)(SW)
+REAL_BOOT Santa and Rudolph Do Christmas (1993)(West, Ian - Eggelton, Jonathan)(PD)[AMOS]
+REAL_BOOT Santa and Rudolph Do Christmas (1993)(West, Ian - Eggelton, Jonathan)(PD)[h BTTR][a][AMOS]
+REAL_BOOT Santa and Rudolph Do Christmas (1993)(West, Ian - Eggelton, Jonathan)(PD)[h BTTR][AMOS]
+REAL_BOOT Sasiedzi (demo-playable) (19xx)(Sun Productions)(pl)
+REAL_BOOT Satu (1992)(Mental Image)[h ALE]
+REAL_BOOT Saturday Night Snooker v1.0 (1995)(Harris, Jonathan)(SW-R)[h Dracs]
+REAL_BOOT Saturday Night Snooker v1.0 (1995)(Harris, Jonathan)(SW-R)[h Dracs][m]
+REAL_BOOT Savoiardo - The Videogames (1994)(Four Season)(Disk 1 of 2)[AMOS]
+REAL_BOOT Savoiardo - The Videogames (1994)(Four Season)(Disk 2 of 2)[b corrupt file]
+REAL_BOOT Scavenger (1995)(Wright, Ben)(SW)[AMOS]
+REAL_BOOT Scavenger 2 (1997)(Wright, Ben - F1 Licenceware)(LW)[1998 edition][AMOS]
+REAL_BOOT Scavenger 2 (demo-playable) (1998)(Wright, Ben - F1 Software)(PD)[AMOS]
+REAL_BOOT Schelober's Quest for a Babe (1993)(3DK)(SW-R)(Disk 1 of 4)(Boot)[h SR]
+REAL_PASS Schelober's Quest for a Babe (1993)(3DK)(SW-R)(Disk 1 of 4)(Boot)[h SR][WB]
+REAL_PASS Schelober's Quest for a Babe (1993)(3DK)(SW-R)(Disk 2 of 4)(1)
+REAL_PASS Schelober's Quest for a Babe (1993)(3DK)(SW-R)(Disk 3 of 4)(2)
+REAL_PASS Schelober's Quest for a Babe (1993)(3DK)(SW-R)(Disk 4 of 4)(3)
+REAL_PASS Schelober's Quest for a Babe (demo-playable) (1993)(3DK)(SW)[WB]
+REAL_BOOT Schiaccia Muri (1990)(System-A)(it)[aka Crazy Wall]
+REAL_BOOT Schmutzige Erbe, Das (1993)(Umweltbundesamt)(de)[a][promo]
+REAL_BOOT Schmutzige Erbe, Das (1993)(Umweltbundesamt)(de)[h DCD][promo]
+REAL_BOOT Schmutzige Erbe, Das (1993)(Umweltbundesamt)(de)[promo]
+REAL_BOOT Schnebitz Inc. (19xx)(Crew AV)(PD)[AMOS]
+REAL_BOOT Schoolboy Sixes v3.1 (1998)(McCloud - F1 Licenceware)(LW)[AMOS]
+REAL_BOOT Schoolyard Slaughter (1992)(Rupert & John)(PD)
+REAL_BOOT Scorched Tanks v0.95 (1993-09-15)(Welch, Michael)(SW)[AMOS]
+REAL_BOOT Scorched Tanks v1.75 (1994-02-21)(Welch, Michael)(SW)[cr Aliengroup][h HCC][KS2.0][AMOS]
+REAL_BOOT Scorched Tanks v1.77 (1994-03-03)(Welch, Michael)(SW)[AMOS]
+REAL_BOOT Scorched Tanks v1.77 (1994-03-03)(Welch, Michael)(SW)[h ALE][WB][AMOS]
+REAL_BOOT Scorched Tanks v1.80 (1994-03-03)(Welch, Michael)(SW-R)[a][WB][AMOS]
+REAL_PASS Scorched Tanks v1.80 (1994-03-03)(Welch, Michael)(SW-R)[WB][AMOS]
+REAL_BOOT Scorched Tanks v1.85 (1994-01-10)(Dark Unicorn)(SW)[a][WB][AMOS]
+REAL_BOOT Scorched Tanks v1.85 (1994-01-10)(Dark Unicorn)(SW)[a2][WB][AMOS]
+REAL_BOOT Scorched Tanks v1.85 (1994-01-10)(Dark Unicorn)(SW)[a3][WB][AMOS]
+REAL_BOOT Scorched Tanks v1.85 (1994-01-10)(Dark Unicorn)(SW)[WB][AMOS]
+REAL_BOOT Scorched Tanks v1.90 (1994-12-12)(Dark Unicorn)(SW-R)[a][KS2.0][AMOS]
+REAL_BOOT Scorched Tanks v1.90 (1994-12-12)(Dark Unicorn)(SW-R)[h BTTR][KS2.0][AMOS]
+REAL_BOOT Scorched Tanks v1.90 (1994-12-12)(Dark Unicorn)(SW-R)[h Nexus][AMOS]
+REAL_BOOT Scorched Tanks v1.90 (1994-12-12)(Dark Unicorn)(SW-R)[KS2.0][AMOS]
+REAL_BOOT Scottish Football Manager (1993)(Davidson, Calum)(SW)
+REAL_BOOT Screech v2.35 (demo-playable) (1996)(Insane)(SW)[h 17-Bit Software][FFS]
+REAL_BOOT Scuba Diver (1994)(Surreal)(AGA)(Disk 1 of 3)
+REAL_PASS Scuba Diver (1994)(Surreal)(AGA)(Disk 2 of 3)
+REAL_PASS Scuba Diver (1994)(Surreal)(AGA)(Disk 3 of 3)
+REAL_BOOT Scud Buster v0.8 (demo-playable) (1992)(Dortch, H.)
+REAL_BOOT Scum Haters (19xx)(Atkins, Brazzle - 17-Bit Software)(PD)
+REAL_BOOT Scum Haters (19xx)(Atkins, Brazzle)(PD)
+REAL_BOOT Scum Haters (19xx)(Atkins, Brazzle)(PD)[a2]
+REAL_BOOT Seahaven 2000 v0.28 (2000)(Dawnbringer)(PD)[h BTTR]
+REAL_BOOT SeaLance (1990)(NLS Soft)(SW)[h 17-Bit Software]
+REAL_BOOT SeaLance (1990)(NLS Soft)(SW)[h 17-Bit Software][b disk label]
+REAL_BOOT SeaLance (1990)(NLS Soft)(SW)[h Euro Power Pack]
+REAL_BOOT SeaLance (1990)(NLS Soft)(SW)[h Exterminators][faked version]
+REAL_BOOT SeaLance (1990)(NLS Soft)(SW)[h Iron Eagle - SR][v BlueBox]
+REAL_BOOT SEAT Fahrsimulator (1990)(Sunlight)(de)[cr EP]
+REAL_BOOT Seawolf (19xx)(Meister, G.)(de)
+REAL_BOOT Secret Elf Squad (demo-playable) (1995)(Entactogenic Design)
+REAL_BOOT Secret Tombs (1992)(Lariviere, Y. - Lariviere, R.)
+REAL_BOOT Sector One (1992)(Fez Productions)(PD)[SEUCK]
+REAL_BOOT Seed of Darkness (1994)(Margetts, Asa)(PD)
+REAL_BOOT Seed of Darkness (1994)(Margetts, Asa)(PD)[h PD-Soft]
+REAL_BOOT Seed of Darkness (1994)(Margetts, Asa)(PD)[m bamcopy]
+REAL_BOOT Self-Defense (1994-09)(JIPsoft)[cr RRR][AMOS]
+REAL_BOOT Self-Defense (1994-09)(JIPsoft)[cr RRR][f RRR][a][AMOS]
+REAL_BOOT Self-Defense (1994-09)(JIPsoft)[cr RRR][f RRR][AMOS]
+REAL_BOOT Senor de los Anillos, El (1991)(DimasSoft)(es)(SW)(Disk 1 of 2)[AMOS]
+REAL_PASS Senor de los Anillos, El (1991)(DimasSoft)(es)(SW)(Disk 2 of 2)
+REAL_BOOT Senseless Violence (demo-playable) (1993)(Prince, C.)[h LGD]
+REAL_BOOT Sensible Massacre - England v Holland (1994)(Hall, James)(PD)[Amiga Action #60][AMOS]
+REAL_BOOT Sensible Massacre - England v Holland (1994)(Hall, James)(PD)[AMOS]
+REAL_BOOT Sensible Massacre - England v Holland (1994)(Hall, James)(PD)[h Poelstra, Mark][AMOS]
+REAL_BOOT Sensible Massacre 2 - Bulldozer Butcher (1995)(Hall, James)(SW)[a highscore][AMOS]
+REAL_BOOT Sensible Massacre 2 - Bulldozer Butcher (1995)(Hall, James)(SW)[AMOS]
+REAL_BOOT Sensible Massacre 2 - Bulldozer Butcher (1995)(Hall, James)(SW)[m startup-sequence][AMOS]
+REAL_BOOT Sensible Train-spotting (1995)(Future Publishing)[Amiga Power]
+REAL_BOOT Sensitive (19xx)(Benton, C.)(SW)
+REAL_BOOT Serene (19xx)(Fereday, Andrew)(PD)[SEUCK]
+REAL_BOOT Serene II (19xx)(Fez Productions)(PD)[h Assassins - ASO][SEUCK]
+REAL_BOOT Serene II (19xx)(Fez Productions)(PD)[SEUCK]
+REAL_BOOT Serene III (1992)(Fez Productions)(PD)[SEUCK]
+REAL_BOOT Seven Tiles (1991-02-21)(Alpha Flight)(FW)
+REAL_BOOT Seven Tiles (1991-02-21)(Alpha Flight)(FW)[b dump]
+REAL_BOOT Seven Tiles (1991-02-21)(Alpha Flight)(FW)[b2 dump]
+REAL_BOOT Sex Game v1.0 (1990)(Cult)[h Adept]
+REAL_BOOT Sex Game v1.0 (1990)(Cult)[h Adept][m]
+REAL_BOOT Sex Puzzle (1994)(Bruner)[cr MST]
+REAL_BOOT Sex Puzzle (1994)(Bruner)[cr MST][m doscopy]
+REAL_BOOT SexMachine, The (19xx)(Veenstra, Jochem - Campen, Peter)[b dump][XXX]
+REAL_BOOT SexMachine, The (19xx)(Veenstra, Jochem - Campen, Peter)[h Softrunner][b dump][XXX]
+REAL_BOOT SexMachine, The (19xx)(Veenstra, Jochem - Campen, Peter)[h Softrunner][XXX]
+REAL_BOOT SexMachine, The (19xx)(Veenstra, Jochem - Campen, Peter)[XXX]
