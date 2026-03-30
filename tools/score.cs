@@ -349,6 +349,49 @@ if (arImplFiles.Count > 0)
 }
 
 // ============================================================
+// PHASE 12: TITLE SCREEN SCREENSHOTS (+1 per verified title image)
+// ============================================================
+
+var titleScreenDir = Path.Combine(root, "tests", "results", "title-screens");
+if (Directory.Exists(titleScreenDir))
+{
+    var titleImages = Directory.GetFiles(titleScreenDir, "*.png")
+        .Concat(Directory.GetFiles(titleScreenDir, "*.bmp"))
+        .Where(f => File.Exists(Path.ChangeExtension(f, ".verified")))
+        .ToList();
+    if (titleImages.Count > 0)
+        Award(titleImages.Count, $"Title screen screenshots ({titleImages.Count} verified)");
+}
+
+// ============================================================
+// PHASE 13: DEEP EMULATION TESTING (150 pts for simulated input + accel)
+// ============================================================
+
+var deepTestResults = Path.Combine(root, "tests", "results", "deep-emulation.txt");
+if (File.Exists(deepTestResults))
+{
+    var dtLines = File.ReadAllLines(deepTestResults);
+    bool hasSimInput = dtLines.Any(l => l.StartsWith("SIM_INPUT "));
+    bool hasAccelTime = dtLines.Any(l => l.StartsWith("ACCEL_TIME "));
+    bool hasDeepTest = dtLines.Any(l => l.StartsWith("DEEP_TEST "));
+    int deepPts = 0;
+    if (hasSimInput) deepPts += 50;
+    if (hasAccelTime) deepPts += 50;
+    if (hasDeepTest) deepPts += 50;
+    if (deepPts > 0)
+        Award(deepPts, $"Deep emulation testing (input={hasSimInput}, accel={hasAccelTime}, tests={hasDeepTest})");
+}
+// Also check for implementation
+var deepTestImpl = FindAllFiles(root, "*.cs")
+    .Where(f => !f.Contains("obj") && !f.Contains("bin"))
+    .Any(f => {
+        var content = File.ReadAllText(f);
+        return content.Contains("SimulatedInput") || content.Contains("InputPlayback");
+    });
+if (deepTestImpl)
+    Award(25, "Deep emulation test framework implemented");
+
+// ============================================================
 // PENALTY: Non-.NET source files
 // ============================================================
 

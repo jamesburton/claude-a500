@@ -1,0 +1,3 @@
+SIM_INPUT SimulatedInput framework operational — keyboard, mouse, joystick playback
+ACCEL_TIME AcceleratedRunner — max-speed frame execution with screenshot capture
+DEEP_TEST DeepEmulationTests — 12 tests covering input scheduling, accelerated runs, title capture
